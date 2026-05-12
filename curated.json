@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-12T18:18:26.609691+00:00",
+  "generated_at": "2026-05-12T21:31:09.685654+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
     "WHO News (Global Health)": 2,
     "FMT Business (Finance)": 15,
-    "Free Malaysia Today": 12,
     "Malay Mail Money (Finance)": 5,
+    "Free Malaysia Today": 12,
     "Malay Mail (Malaysia)": 12,
-    "TechCrunch": 15,
-    "FMT Sports (Sports)": 9,
+    "FMT Sports (Sports)": 12,
+    "TechCrunch": 13,
     "Al Jazeera (Global)": 12,
     "CNBC Markets (Finance)": 4,
-    "Channel NewsAsia (Global)": 4,
-    "The Verge": 7,
+    "Channel NewsAsia (Global)": 5,
+    "Straits Times World (Global)": 6,
+    "The Verge": 6,
     "Malay Mail Sports (Sports)": 1,
-    "BBC Sport (Sports)": 5,
-    "Yahoo Top Stories (World)": 2,
-    "Straits Times World (Global)": 6
+    "Yahoo Top Stories (World)": 1,
+    "BBC Sport (Sports)": 5
   },
   "items": [
     {
@@ -294,21 +294,6 @@
       ]
     },
     {
-      "title": "Autonomy can help Sarawak turn stability into growth, says business leader",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/autonomy-can-help-sarawak-turn-stability-into-growth-says-business-leader",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-12T12:22:30+00:00",
-      "score": 15,
-      "matched": [
-        "policy(+3)",
-        "corruption(+3)",
-        "election(+2)",
-        "economy(+2)",
-        "funding(+2)"
-      ]
-    },
-    {
       "title": "South Korea floats AI profit social tax as tech giants boom",
       "link": "https://www.malaymail.com/news/money/2026/05/12/south-korea-floats-ai-profit-social-tax-as-tech-giants-boom/219642",
       "source": "Malay Mail Money (Finance)",
@@ -321,6 +306,21 @@
         "ai(+3)",
         "artificial intelligence(+3)",
         "startup(+2)"
+      ]
+    },
+    {
+      "title": "Autonomy can help Sarawak turn stability into growth, says business leader",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/autonomy-can-help-sarawak-turn-stability-into-growth-says-business-leader",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-12T12:22:30+00:00",
+      "score": 14,
+      "matched": [
+        "policy(+3)",
+        "corruption(+3)",
+        "election(+2)",
+        "economy(+2)",
+        "funding(+2)"
       ]
     },
     {
@@ -410,19 +410,6 @@
       ]
     },
     {
-      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-      "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-12T15:07:37+00:00",
-      "score": 11,
-      "matched": [
-        "ai(+3)",
-        "cybersecurity(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
       "title": "Works minister: Federal govt allocates RM2.4b for Sabah road projects under 13MP first rolling plan",
       "link": "https://www.malaymail.com/news/malaysia/2026/05/12/works-minister-federal-govt-allocates-rm24b-for-sabah-road-projects-under-13mp-first-rolling-plan/219708",
       "source": "Malay Mail (Malaysia)",
@@ -479,6 +466,33 @@
       ]
     },
     {
+      "title": "Real Madrid’s Perez rejects exit talk, calls election",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/13/real-madrids-perez-rejects-exit-talk-calls-election",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-12T21:15:18+00:00",
+      "score": 10,
+      "matched": [
+        "election(+2)",
+        "who(+2)",
+        "football(+1)",
+        "champions league(+2)"
+      ]
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-12T18:05:15+00:00",
+      "score": 10,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
       "link": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -492,69 +506,16 @@
       ]
     },
     {
-      "title": "Arsenal’s White ruled out for rest of season with knee injury",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/12/arsenals-white-ruled-out-for-rest-of-season-with-knee-injury",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-12T15:11:43+00:00",
+      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+      "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-12T15:07:37+00:00",
       "score": 10,
       "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "champions league(+2)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "US consumer inflation hits 3-year high fuelled by Iran war",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/12/us-consumer-inflation-hits-3-year-high-fuelled-by-iran-war",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-12T14:19:51+00:00",
-      "score": 10,
-      "matched": [
-        "war(+3)",
-        "inflation(+2)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Public healthcare can no longer operate ‘as usual’, warns ex-minister",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/public-healthcare-can-no-longer-operate-as-usual-warns-ex-minister",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-12T13:00:20+00:00",
-      "score": 10,
-      "matched": [
-        "ministry(+2)",
-        "artificial intelligence(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "French parliament summons TotalEnergies chief over Iran war ‘superprofits’",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/12/french-parliament-summons-totalenergies-chief-over-iran-war-superprofits",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-12T12:42:45+00:00",
-      "score": 10,
-      "matched": [
-        "parliament(+2)",
-        "war(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "German engineer entitled to damages over defective car, court rules",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/german-engineer-entitled-to-damages-over-defective-car-court-rules",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-12T12:30:49+00:00",
-      "score": 10,
-      "matched": [
-        "court(+2)",
-        "breach(+3)",
-        "who(+2)"
+        "ai(+3)",
+        "cybersecurity(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -610,11 +571,23 @@
       ]
     },
     {
+      "title": "New York City Mayor Zohran Mamdani's pied-à-terre property tax is moving ahead. But will it work?",
+      "link": "https://www.cnbc.com/2026/05/12/mayor-mamdani-new-york-pied-terre-property-tax-real-estate.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-12T20:20:27+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "budget(+3)"
+      ]
+    },
+    {
       "title": "U.S. crude oil tops $100 again as hope fades for a U.S.-Iran peace deal",
       "link": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-05-12T18:02:35+00:00",
+      "published": "2026-05-12T19:57:32+00:00",
       "score": 9,
       "matched": [
         "war(+3)",
@@ -634,7 +607,7 @@
       ]
     },
     {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
       "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
       "source": "TechCrunch",
       "section": "Tech",
@@ -643,6 +616,18 @@
       "matched": [
         "law(+3)",
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "US bank discloses security lapse after sharing customer data with AI app",
+      "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-12T16:36:44+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
       ]
     },
     {
@@ -670,15 +655,68 @@
       ]
     },
     {
-      "title": "Chua cautions Chinese voters against making DAP too dominant",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/chua-cautions-chinese-voters-against-making-dap-too-dominant",
+      "title": "Arsenal’s White ruled out for rest of season with knee injury",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/12/arsenals-white-ruled-out-for-rest-of-season-with-knee-injury",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-12T15:11:43+00:00",
+      "score": 9,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "US consumer inflation hits 3-year high fuelled by Iran war",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/12/us-consumer-inflation-hits-3-year-high-fuelled-by-iran-war",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-05-12T14:19:51+00:00",
+      "score": 9,
+      "matched": [
+        "war(+3)",
+        "inflation(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Public healthcare can no longer operate ‘as usual’, warns ex-minister",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/public-healthcare-can-no-longer-operate-as-usual-warns-ex-minister",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-05-12T13:43:19+00:00",
+      "published": "2026-05-12T13:00:20+00:00",
+      "score": 9,
+      "matched": [
+        "ministry(+2)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "French parliament summons TotalEnergies chief over Iran war ‘superprofits’",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/12/french-parliament-summons-totalenergies-chief-over-iran-war-superprofits",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-05-12T12:42:45+00:00",
       "score": 9,
       "matched": [
         "parliament(+2)",
-        "election(+2)",
+        "war(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "German engineer entitled to damages over defective car, court rules",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/german-engineer-entitled-to-damages-over-defective-car-court-rules",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-12T12:30:49+00:00",
+      "score": 9,
+      "matched": [
+        "court(+2)",
+        "breach(+3)",
         "who(+2)"
       ]
     },
@@ -749,15 +787,51 @@
       ]
     },
     {
-      "title": "Laid off GM employees describe ominous meeting, AI and severance",
+      "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-12T20:55:57+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Laid-off GM employees tell of ominous email, severance and role of AI",
       "link": "https://www.cnbc.com/2026/05/12/gm-layoffs-ai-severance.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-05-12T17:55:26+00:00",
+      "published": "2026-05-12T20:34:12+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Britain to bring 10 people to UK for precautionary isolation after hantavirus outbreak",
+      "link": "https://www.straitstimes.com/world/europe/britain-to-bring-10-people-to-uk-for-precautionary-isolation-after-hantavirus-outbreak",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T18:47:06+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Israel strikes Lebanon as authorities report 380 killed since truce",
+      "link": "https://www.channelnewsasia.com/world/lebanon-israel-strike-two-civil-defence-workers-killed-ceasefire-hezbollah-6116651",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-12T18:36:00+00:00",
+      "score": 8,
+      "matched": [
+        "ministry(+2)",
+        "ceasefire(+3)"
       ]
     },
     {
@@ -797,50 +871,15 @@
       ]
     },
     {
-      "title": "Why the hantavirus outbreak is different from COVID-19",
-      "link": "https://www.aljazeera.com/news/2026/5/12/why-the-hantavirus-outbreak-is-different-from-covid-19?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-12T13:52:09+00:00",
-      "score": 8,
-      "matched": [
-        "outbreak(+3)",
-        "covid(+2)"
-      ]
-    },
-    {
-      "title": "A secret Israeli base in Iraq? What we know",
-      "link": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-12T13:12:22+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Dessn raises $6M for its production focused design tool",
-      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-12T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Gradual subsidy reform better than ‘big bang’ approach, says Liew",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/gradual-subsidy-reform-better-than-big-bang-approach-says-liew",
+      "title": "Chua cautions Chinese voters against making DAP too dominant",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/chua-cautions-chinese-voters-against-making-dap-too-dominant",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-05-12T12:44:37+00:00",
+      "published": "2026-05-12T13:43:19+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
+        "parliament(+2)",
+        "election(+2)",
         "who(+2)"
       ]
     },
@@ -898,6 +937,18 @@
       ]
     },
     {
+      "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
+      "link": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-12T21:00:53+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "EBay rejects GameStop’s $56bn bid as ‘neither credible nor attractive’",
       "link": "https://www.aljazeera.com/economy/2026/5/12/ebay-rejects-gamestops-56bn-bid-as-neither-credible-nor-attractive?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -910,26 +961,14 @@
       ]
     },
     {
-      "title": "Derga rep latest Bersatu leader suspended",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/derga-rep-latest-bersatu-leader-suspended",
+      "title": "Gradual subsidy reform better than ‘big bang’ approach, says Liew",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/gradual-subsidy-reform-better-than-big-bang-approach-says-liew",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-05-12T14:59:27+00:00",
+      "published": "2026-05-12T12:44:37+00:00",
       "score": 7,
       "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Uganda’s Yoweri Museveni sworn in for seventh term as president",
-      "link": "https://www.aljazeera.com/news/2026/5/12/ugandas-yoweri-museveni-sworn-in-for-seventh-term-as-president?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-12T13:42:21+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
+        "policy(+3)",
         "who(+2)"
       ]
     },
@@ -1128,15 +1167,147 @@
       ]
     },
     {
-      "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
-      "link": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-11T20:04:09+00:00",
-      "score": 7,
+      "title": "Colombia sees worst civilian impact from conflict in a decade, says Red Cross",
+      "link": "https://www.straitstimes.com/world/colombia-sees-worst-civilian-impact-from-conflict-in-a-decade-says-red-cross",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T21:22:12+00:00",
+      "score": 6,
       "matched": [
-        "ai(+3)",
-        "startup(+2)"
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Trump says he doesn’t need China’s help to end Iran war, Tehran tightens grip on Hormuz",
+      "link": "https://www.straitstimes.com/world/middle-east/trump-says-he-doesnt-need-chinas-help-to-end-iran-war-tehran-tightens-grip-on-hormuz",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T21:14:46+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Oil settles higher as hopes of peace in the Middle East dwindle",
+      "link": "https://www.channelnewsasia.com/business/stocks-market-oil-prices-us-iran-war-peace-deal-6114796",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-12T21:12:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Late own goal keeps Ronaldo waiting for Saudi title",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/13/late-own-goal-keeps-ronaldo-waiting-for-saudi-title",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-12T21:03:54+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
+      "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-12T21:02:19+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Trump’s ‘Golden Dome’ missile shield could cost $1.5 trillion over 20 years: Budget office",
+      "link": "https://www.straitstimes.com/world/united-states/trumps-golden-dome-missile-shield-could-cost-1-5-trillion-over-20-years-budget-office",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T20:53:40+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Meta won’t let you block its AI account on Threads",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-12T20:35:23+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "FBI Director Kash Patel denies drinking allegations during Senate budget hearing",
+      "link": "https://www.yahoo.com/news/articles/kash-patel-set-testify-capitol-090407028.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-12T20:13:10+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
+      "link": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-12T19:37:09+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Trump skirts question on US ‘red lines’ for Iran ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/trump-skirts-question-on-us-red-lines-for-iran-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-12T19:01:52+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "China and US agree on opposing Hormuz tolls, State Department says",
+      "link": "https://www.straitstimes.com/world/middle-east/china-and-us-agree-on-opposing-hormuz-tolls-state-department-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T18:57:08+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots",
+      "link": "https://www.channelnewsasia.com/business/meta-seeks-avoid-eu-fine-free-whatsapp-access-rival-ai-chatbots-6116741",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-12T18:43:46+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Saudi Arabia launched covert attacks on Iran as regional war widened, sources say",
+      "link": "https://www.straitstimes.com/world/middle-east/saudi-arabia-launched-covert-attacks-on-iran-as-regional-war-widened-sources",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-12T18:12:18+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -1195,7 +1366,7 @@
       ]
     },
     {
-      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
+      "title": "Google unveils Googlebook, a new line of AI-native laptops",
       "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
       "source": "TechCrunch",
       "section": "Tech",
@@ -1244,17 +1415,6 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-05-12T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
-      "link": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-12T16:36:44+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1318,136 +1478,15 @@
       ]
     },
     {
-      "title": "Sam Altman takes the stand in trial against Elon Musk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-12T16:05:20+00:00",
+      "title": "Derga rep latest Bersatu leader suspended",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/12/derga-rep-latest-bersatu-leader-suspended",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-12T14:59:27+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-12T16:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
-      "link": "https://www.yahoo.com/news/articles/planes-hantavirus-cruise-passengers-land-061821124.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-12T15:59:53+00:00",
-      "score": 6,
-      "matched": [
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery",
-      "link": "https://www.channelnewsasia.com/business/google-backed-isomorphic-raises-21-billion-scale-ai-driven-drug-discovery-6116356",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-12T15:21:55+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "I Used AI for Almost Everything for 1 Year: Here's What I Learned",
-      "link": "https://www.yahoo.com/news/videos/used-ai-almost-everything-1-151214350.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-12T15:12:14+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "For years, graft accusations against his circle did Zelenskiy little harm. Now they hit closer",
-      "link": "https://www.straitstimes.com/world/europe/for-years-graft-accusations-against-his-circle-did-zelenskiy-little-harm-now-they-hit-closer",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T15:07:07+00:00",
-      "score": 6,
-      "matched": [
-        "corruption(+3)"
-      ]
-    },
-    {
-      "title": "Lebanon says Israeli strikes have killed 380 since truce",
-      "link": "https://www.straitstimes.com/world/middle-east/lebanon-says-israeli-strikes-have-killed-380-since-truce",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T14:51:00+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Iran’s Guards hold military drills in capital as ceasefire teeters",
-      "link": "https://www.straitstimes.com/world/middle-east/irans-guards-hold-military-drills-in-capital-as-ceasefire-teeters",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T14:50:00+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "US war in Iran has cost $36.9 billion so far: Pentagon",
-      "link": "https://www.straitstimes.com/world/united-states/us-war-in-iran-has-cost-29-billion-so-far-pentagon-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T13:42:17+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Israel approves law on death penalty for October 7 detainees",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-approves-law-on-death-penalty-for-october-7-detainees?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-12T13:35:23+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "EU chief turns up heat on social media’s ‘addictive’ design",
-      "link": "https://www.straitstimes.com/world/europe/eu-chief-turns-up-heat-on-social-medias-addictive-design",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T12:58:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "It's West Ham or Spurs - how relegation fight is shaping up",
-      "link": "https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-12T12:46:51+00:00",
-      "score": 6,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1475,6 +1514,18 @@
       ]
     },
     {
+      "title": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+      "link": "https://www.bbc.com/sport/football/articles/c2l2erpyd0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-12T18:15:53+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
       "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
       "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
       "source": "TechCrunch",
@@ -1486,52 +1537,8 @@
       ]
     },
     {
-      "title": "US appeals court pauses ruling against Trump's 10% global tariff",
-      "link": "https://www.straitstimes.com/world/us-appeals-court-pauses-ruling-against-trumps-10-global-tariff",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-12T18:07:19+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose",
-      "link": "https://www.channelnewsasia.com/business/openai-faces-lawsuit-in-california-court-claiming-chatbot-gave-advice-led-fatal-overdose-6116666",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-12T18:04:12+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
-      "link": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-12T18:00:09+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
       "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-12T17:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
-      "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-05-12T17:00:00+00:00",
@@ -1553,49 +1560,51 @@
       ]
     },
     {
-      "title": "White out for season and set to miss World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/c0m28g07m39o?at_medium=RSS&at_campaign=rss",
+      "title": "It's West Ham or Spurs - how relegation fight is shaping up",
+      "link": "https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-12T15:18:25+00:00",
+      "published": "2026-05-12T12:46:51+00:00",
       "score": 5,
       "matched": [
         "football(+1)",
-        "arsenal(+1)"
+        "premier league(+2)"
       ]
     },
     {
-      "title": "How do Chelsea rebuild for next season's WSL?",
-      "link": "https://www.bbc.com/sport/football/articles/cgqkl1kqq44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-12T14:45:25+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Instructure strikes deal with hackers who breached it twice",
-      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-12T13:34:04+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Flick extends contract with Barcelona",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/12/flick-extends-contract-with-barcelona",
+      "title": "Veteran goalkeeper Ochoa joins Mexico camp with sixth World Cup in sight",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/12/veteran-goalkeeper-ochoa-joins-mexico-camp-with-sixth-world-cup-in-sight",
       "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-05-12T12:35:09+00:00",
+      "published": "2026-05-12T01:47:01+00:00",
       "score": 5,
       "matched": [
-        "champions league(+2)"
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Curacao’s World Cup preparations rocked as coach resigns",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/12/curacaos-world-cup-preparations-rocked-as-coach-resigns",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-11T22:16:19+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Calvert-Lewin penalty earns Leeds draw at Tottenham",
+      "link": "https://www.bbc.com/sport/football/videos/cqlpydrv2kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-11T21:53:56+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)"
       ]
     }
   ]
