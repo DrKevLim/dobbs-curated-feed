@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-16T09:30:50.528239+00:00",
+  "generated_at": "2026-05-16T09:51:59.949469+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
     "WHO News (Global Health)": 5,
-    "FMT Business (Finance)": 9,
     "Malay Mail (Malaysia)": 10,
+    "FMT Business (Finance)": 10,
     "Malay Mail Money (Finance)": 5,
     "Free Malaysia Today": 14,
-    "Malay Mail Sports (Sports)": 7,
-    "Al Jazeera (Global)": 5,
+    "Malay Mail Sports (Sports)": 8,
     "FMT Sports (Sports)": 10,
-    "Yahoo Top Stories (World)": 6,
+    "Yahoo Top Stories (World)": 4,
     "Channel NewsAsia (Global)": 5,
-    "BBC Sport (Sports)": 7,
+    "Al Jazeera (Global)": 4,
+    "BBC Sport (Sports)": 6,
     "The Verge": 5,
-    "Straits Times World (Global)": 8,
+    "Straits Times World (Global)": 10,
     "TechCrunch": 6,
     "CNBC Markets (Finance)": 8,
     "Yahoo Finance (Finance)": 1
@@ -27,7 +27,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-05-15T09:39:38+00:00",
-      "score": 44,
+      "score": 43,
       "matched": [
         "budget(+3)",
         "ministry(+2)",
@@ -261,6 +261,21 @@
       ]
     },
     {
+      "title": "Govt to review education ministry allocation, considers increase in upcoming budget, says PM",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/16/govt-to-review-education-ministry-allocation-considers-increase-in-upcoming-budget-says-pm/220187",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-05-16T09:34:56+00:00",
+      "score": 17,
+      "matched": [
+        "policy(+3)",
+        "budget(+3)",
+        "ministry(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
       "title": "Arm Holdings to face US antitrust probe over chip tech",
       "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/16/arm-holdings-to-face-us-antitrust-probe-over-chip-tech",
       "source": "FMT Business (Finance)",
@@ -475,19 +490,6 @@
       ]
     },
     {
-      "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-16T00:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
       "title": "Aston Villa humble Liverpool to secure Champions League qualification",
       "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/16/aston-villa-humble-liverpool-to-secure-champions-league-qualification",
       "source": "FMT Sports (Sports)",
@@ -513,6 +515,19 @@
         "war(+3)",
         "inflation(+2)",
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "US CEOs follow Trump’s footsteps with diplomacy in Beijing",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/16/us-ceos-follow-trumps-footsteps-with-diplomacy-in-beijing",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-05-16T09:35:44+00:00",
+      "score": 9,
+      "matched": [
+        "ministry(+2)",
+        "economy(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -692,6 +707,18 @@
         "war(+3)",
         "who(+2)",
         "football(+1)"
+      ]
+    },
+    {
+      "title": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-16T00:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "ceasefire(+3)"
       ]
     },
     {
@@ -924,18 +951,6 @@
       ]
     },
     {
-      "title": "Kelantan police remand married couple as probe continues into Bachok murder of disabled man",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/16/kelantan-police-remand-married-couple-as-probe-continues-into-bachok-murder-of-disabled-man/220132",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-16T04:00:24+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Boeing confirms China commitment to buy 200 aircraft, Trump says deal could reach 950 planes",
       "link": "https://www.malaymail.com/news/money/2026/05/16/boeing-confirms-china-commitment-to-buy-200-aircraft-trump-says-deal-could-reach-950-planes/220127",
       "source": "Malay Mail Money (Finance)",
@@ -969,18 +984,6 @@
       "matched": [
         "policy(+3)",
         "economy(+2)"
-      ]
-    },
-    {
-      "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
-      "link": "https://www.channelnewsasia.com/world/trump-losing-patience-xi-jinping-iran-war-strait-hormuz-6125136",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-15T23:50:00+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)"
       ]
     },
     {
@@ -1132,18 +1135,6 @@
       "score": 6,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "Maeda reveals ambition to play in England - gossip",
-      "link": "https://www.bbc.com/sport/football/articles/c5yxkllj785o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-16T07:22:09+00:00",
-      "score": 6,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
       ]
     },
     {
@@ -1318,17 +1309,6 @@
       ]
     },
     {
-      "title": "Israel, Lebanon extend ceasefire as Iran says it \"cannot trust\" U.S. in negotiations",
-      "link": "https://www.yahoo.com/news/articles/iran-says-cannot-trust-u-122858019.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-16T02:31:00+00:00",
-      "score": 5,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
       "title": "US aircraft carrier USS Gerald R. Ford to complete longest deployment since Vietnam War",
       "link": "https://www.straitstimes.com/world/united-states/us-aircraft-carrier-uss-gerald-r-ford-to-complete-longest-deployment-since-vietnam-war",
       "source": "Straits Times World (Global)",
@@ -1373,17 +1353,6 @@
       ]
     },
     {
-      "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-15T20:01:44+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
       "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
       "source": "The Verge",
@@ -1414,17 +1383,6 @@
       "score": 5,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "New Virginia law banning `assault firearms' prompts quick lawsuits from gun-rights groups",
-      "link": "https://www.yahoo.com/news/articles/virginia-law-banning-assault-firearms-170256497.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-15T17:02:56+00:00",
-      "score": 5,
-      "matched": [
-        "law(+3)"
       ]
     },
     {
@@ -1529,6 +1487,18 @@
       ]
     },
     {
+      "title": "Age is only a number: Ronaldo judged on form as Portugal weigh World Cup role, says Martinez",
+      "link": "https://www.malaymail.com/news/sports/2026/05/15/age-is-only-a-number-ronaldo-judged-on-form-as-portugal-weigh-world-cup-role-says-martinez/220087",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-15T11:55:09+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
       "title": "Stomach bugs, not hantavirus, are a bigger threat on cruises",
       "link": "https://www.straitstimes.com/world/stomach-bugs-not-hantavirus-are-a-bigger-threat-on-cruises",
       "source": "Straits Times World (Global)",
@@ -1537,6 +1507,17 @@
       "score": 4,
       "matched": [
         "covid(+2)"
+      ]
+    },
+    {
+      "title": "Who is Raul Castro, the Cuban leader facing a US indictment",
+      "link": "https://www.straitstimes.com/world/who-is-raul-castro-the-cuban-leader-facing-a-us-indictment",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-15T20:42:46+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1582,6 +1563,24 @@
       "matched": [
         "ministry(+2)"
       ]
+    },
+    {
+      "title": "Hamas official says military chief has died after Israel says it targeted him",
+      "link": "https://www.straitstimes.com/world/middle-east/hamas-official-says-military-chief-has-died-after-israel-says-it-targeted-him",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-16T09:47:56+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "More than 18,000 HDB flats selected for upgrading works under Home Improvement Programme",
+      "link": "https://www.channelnewsasia.com/singapore/home-improvement-programme-hdb-blocks-indranee-6123176",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-16T09:38:00+00:00",
+      "score": 3,
+      "matched": []
     }
   ]
 }
