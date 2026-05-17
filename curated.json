@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-05-17T09:31:05.629452+00:00",
+  "generated_at": "2026-05-17T09:59:56.288437+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
-    "WHO News (Global Health)": 5,
+    "WHO News (Global Health)": 4,
     "Malay Mail Sports (Sports)": 8,
     "FMT Sports (Sports)": 12,
-    "Malay Mail (Malaysia)": 11,
-    "FMT Business (Finance)": 5,
+    "Malay Mail (Malaysia)": 10,
+    "FMT Business (Finance)": 4,
     "Malay Mail Money (Finance)": 3,
-    "Free Malaysia Today": 13,
-    "Straits Times World (Global)": 7,
-    "The Verge": 7,
+    "Free Malaysia Today": 14,
+    "Straits Times World (Global)": 8,
+    "The Verge": 8,
     "Yahoo Top Stories (World)": 4,
-    "Al Jazeera (Global)": 7,
+    "Al Jazeera (Global)": 6,
     "Channel NewsAsia (Global)": 6,
     "BBC Sport (Sports)": 4,
+    "Yahoo Finance (Finance)": 1,
     "TechCrunch": 7,
     "CNBC Markets (Finance)": 12
   },
@@ -26,7 +27,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-05-15T09:39:38+00:00",
-      "score": 43,
+      "score": 42,
       "matched": [
         "budget(+3)",
         "ministry(+2)",
@@ -68,29 +69,6 @@
         "ministry of health(+3)",
         "moh(+3)",
         "covid(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-      "link": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
-      "source": "WHO News (Global Health)",
-      "section": "Health",
-      "published": "2026-05-16T23:21:17+00:00",
-      "score": 39,
-      "matched": [
-        "who(+2)",
-        "outbreak(+3)",
-        "vaccine(+3)",
-        "health(+2)",
-        "healthcare(+3)",
-        "public health(+3)",
-        "medical(+3)",
-        "patient(+3)",
-        "patients(+3)",
-        "disease(+3)",
-        "outbreak(+3)",
-        "vaccine(+3)",
         "who(+2)"
       ]
     },
@@ -492,6 +470,19 @@
       ]
     },
     {
+      "title": "PH ready to contest all seats, says Anwar",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/ph-ready-to-contest-all-seats-says-anwar",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-17T08:30:06+00:00",
+      "score": 11,
+      "matched": [
+        "corruption(+3)",
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Almost 60% of workers overweight, obese, says Perkeso",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/almost-60-of-workers-overweight-obese-says-perkeso",
       "source": "Free Malaysia Today",
@@ -503,21 +494,6 @@
         "who(+2)",
         "cancer(+2)",
         "diabetes(+2)"
-      ]
-    },
-    {
-      "title": "Man City aim to turn FA Cup glory into final title push",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/17/man-city-aim-to-turn-fa-cup-glory-into-final-title-push",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-17T03:41:42+00:00",
-      "score": 11,
-      "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "champions league(+2)",
-        "arsenal(+1)",
-        "chelsea(+1)"
       ]
     },
     {
@@ -535,16 +511,31 @@
       ]
     },
     {
-      "title": "PKR Youth urges probe into alleged foreign funding linked to political activities",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/pkr-youth-urges-probe-into-alleged-foreign-funding-linked-to-political-activities",
-      "source": "Free Malaysia Today",
+      "title": "Rafizi Ramli and Nik Nazmi quit PKR, will vacate Pandan and Setiawangsa seats",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/17/rafizi-ramli-and-nik-nazmi-quit-pkr-will-vacate-pandan-and-setiawangsa-seats/220312",
+      "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-05-17T03:53:56+00:00",
+      "published": "2026-05-17T08:20:50+00:00",
       "score": 10,
       "matched": [
-        "corruption(+3)",
-        "economy(+2)",
-        "funding(+2)"
+        "law(+3)",
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Man City aim to turn FA Cup glory into final title push",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/17/man-city-aim-to-turn-fa-cup-glory-into-final-title-push",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-17T03:41:42+00:00",
+      "score": 10,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "arsenal(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -598,6 +589,19 @@
         "parliament(+2)",
         "economy(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "PKR Youth urges probe into alleged foreign funding linked to political activities",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/pkr-youth-urges-probe-into-alleged-foreign-funding-linked-to-political-activities",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-17T03:53:56+00:00",
+      "score": 9,
+      "matched": [
+        "corruption(+3)",
+        "economy(+2)",
+        "funding(+2)"
       ]
     },
     {
@@ -769,15 +773,26 @@
       ]
     },
     {
-      "title": "US CEOs follow Trump’s footsteps with diplomacy in Beijing",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/05/16/us-ceos-follow-trumps-footsteps-with-diplomacy-in-beijing",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-16T09:35:44+00:00",
-      "score": 8,
+      "title": "Hajiji’s Gagasan Rakyat agrees on constitution amendment to trim divisions",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/hajijis-gagasan-rakyat-agrees-on-constitution-amendment-to-trim-divisions",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-17T09:37:15+00:00",
+      "score": 7,
       "matched": [
-        "ministry(+2)",
-        "economy(+2)",
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Anwar signals early polls if unity government pressures persist",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/17/anwar-signals-early-polls-if-unity-government-pressures-persist/220328",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-05-17T09:36:11+00:00",
+      "score": 7,
+      "matched": [
+        "election(+2)",
         "who(+2)"
       ]
     },
@@ -988,19 +1003,6 @@
       ]
     },
     {
-      "title": "What Man City's FA Cup win means for Premier League places in Europe",
-      "link": "https://www.bbc.com/sport/football/articles/c98rd8d3881o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-16T17:56:50+00:00",
-      "score": 7,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "champions league(+2)"
-      ]
-    },
-    {
       "title": "Arsenal clinch second spot in WSL with win at Liverpool",
       "link": "https://www.bbc.com/sport/football/videos/cwy23jmx1wvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1015,25 +1017,15 @@
       ]
     },
     {
-      "title": "Zambry: Higher education access must align with national policy, unity goals, stresses BM and History requirements for UEC holders",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/17/zambry-higher-education-access-must-align-with-national-policy-unity-goals-stresses-bm-and-history-requirements-for-uec-holders/220325",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-17T09:27:44+00:00",
-      "score": 6,
+      "title": "We need to talk about Kevin Warsh's economy: Morning Brief",
+      "link": "https://finance.yahoo.com/economy/policy/article/we-need-to-talk-about-kevin-warshs-economy-morning-brief-100000004.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-16T10:00:00+00:00",
+      "score": 7,
       "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
-      "title": "PKR weighing anti-hopping law against Rafizi, Nik Nazmi",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/17/pkr-weighing-anti-hopping-law-against-rafizi-nik-nazmi",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-17T09:08:34+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
+        "policy(+3)",
+        "economy(+2)"
       ]
     },
     {
@@ -1084,29 +1076,6 @@
       ]
     },
     {
-      "title": "Nine MA63 issues resolved in three years under Madani govt, strongest record yet, says Mustapha Sakmud",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/17/nine-ma63-issues-resolved-in-three-years-under-madani-govt-strongest-record-yet-says-mustapha-sakmud/220277",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-17T05:10:26+00:00",
-      "score": 6,
-      "matched": [
-        "budget(+3)"
-      ]
-    },
-    {
-      "title": "Johor Pakatan chief says BN has ‘closed the door’ on political cooperation for state polls",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/17/johor-pakatan-chief-says-bn-has-closed-the-door-on-political-cooperation-for-state-polls/220258",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-17T03:21:51+00:00",
-      "score": 6,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Ronaldo suffers more agony as Al Nassr lose 1-0 in AFC final",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/17/ronaldo-suffers-more-agony-as-al-nassr-lose-1-0-in-afc-final",
       "source": "FMT Sports (Sports)",
@@ -1140,6 +1109,18 @@
       "matched": [
         "who(+2)",
         "motogp(+2)"
+      ]
+    },
+    {
+      "title": "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
+      "link": "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-17T08:40:34+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -1239,17 +1220,6 @@
       "score": 5,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Thousands protest at Eurovision final as five countries boycott over Israel",
-      "link": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-16T20:31:57+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1374,17 +1344,6 @@
       ]
     },
     {
-      "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
-      "link": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-16T09:54:15+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Woman gives birth to a ‘bouncing baby boy’ in US courtroom",
       "link": "https://www.straitstimes.com/world/united-states/woman-gives-birth-to-a-bouncing-baby-boy-in-us-courtroom",
       "source": "Straits Times World (Global)",
@@ -1404,6 +1363,17 @@
       "score": 4,
       "matched": [
         "election(+2)"
+      ]
+    },
+    {
+      "title": "One Canadian tests positive for hantavirus, officials say",
+      "link": "https://www.straitstimes.com/world/update-1-one-canadian-tests-positive-for-hantavirus-bc-officials-say",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-17T00:05:00+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1562,6 +1532,24 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-05-16T12:00:01+00:00",
+      "score": 2,
+      "matched": []
+    },
+    {
+      "title": "Mixtape is a musical portrait of teenage life",
+      "link": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-16T12:00:00+00:00",
+      "score": 2,
+      "matched": []
+    },
+    {
+      "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
+      "link": "https://www.cnbc.com/2026/05/16/a-state-banquet-selfies-and-a-noodle-run-trumps-beijing-visit.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-16T11:36:25+00:00",
       "score": 2,
       "matched": []
     }
