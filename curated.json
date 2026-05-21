@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-21T18:14:10.364680+00:00",
+  "generated_at": "2026-05-21T21:31:06.678350+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 5,
+    "The Verge": 7,
     "Malay Mail Money (Finance)": 8,
     "FMT Sports (Sports)": 11,
-    "FMT Business (Finance)": 14,
-    "The Verge": 7,
+    "FMT Business (Finance)": 13,
     "Free Malaysia Today": 12,
     "Malay Mail (Malaysia)": 12,
     "Malay Mail Sports (Sports)": 10,
-    "CNBC Markets (Finance)": 2,
-    "TechCrunch": 9,
-    "Straits Times World (Global)": 9,
-    "BBC Sport (Sports)": 3,
-    "Yahoo Top Stories (World)": 1,
-    "Channel NewsAsia (Global)": 3,
-    "Al Jazeera (Global)": 4
+    "CNBC Markets (Finance)": 3,
+    "Straits Times World (Global)": 8,
+    "TechCrunch": 7,
+    "Yahoo Top Stories (World)": 2,
+    "Channel NewsAsia (Global)": 1,
+    "Al Jazeera (Global)": 8,
+    "BBC Sport (Sports)": 3
   },
   "items": [
     {
@@ -319,6 +319,23 @@
       ]
     },
     {
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-21T20:15:18+00:00",
+      "score": 20,
+      "matched": [
+        "law(+3)",
+        "court(+2)",
+        "war(+3)",
+        "ai(+3)",
+        "startup(+2)",
+        "funding(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
       "link": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
       "source": "WHO News (Global Health)",
@@ -440,44 +457,18 @@
       ]
     },
     {
-      "title": "Bound for Mars, Elon Musk’s SpaceX unveils filing for blockbuster IPO",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/21/bound-for-mars-elon-musks-spacex-unveils-filing-for-blockbuster-ipo",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-20T21:00:56+00:00",
-      "score": 12,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "startup(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Meta and Google get data from the app your boss uses to track you",
-      "link": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-21T16:03:05+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "law(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Sinner, Djokovic kept apart in French Open draw",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/sinner-djokovic-kept-apart-in-french-open-draw",
+      "title": "Maguire left out of England World Cup squad, Foden and Palmer also omitted",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/22/maguire-left-out-of-england-world-cup-squad-foden-and-palmer-also-omitted",
       "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-05-21T14:37:52+00:00",
+      "published": "2026-05-21T21:09:31+00:00",
       "score": 11,
       "matched": [
-        "breaking(+3)",
-        "court(+2)",
         "who(+2)",
-        "indonesia(+1)"
+        "premier league(+2)",
+        "champions league(+2)",
+        "manchester united(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -562,6 +553,20 @@
         "who(+2)",
         "malaysia(+3)",
         "thailand(+1)",
+        "indonesia(+1)"
+      ]
+    },
+    {
+      "title": "Sinner, Djokovic kept apart in French Open draw",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/sinner-djokovic-kept-apart-in-french-open-draw",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-21T14:37:52+00:00",
+      "score": 10,
+      "matched": [
+        "breaking(+3)",
+        "court(+2)",
+        "who(+2)",
         "indonesia(+1)"
       ]
     },
@@ -658,23 +663,11 @@
       ]
     },
     {
-      "title": "Oil prices pull back as investors hope for U.S.-Iran deal",
-      "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "title": "Workday jumps 14% as it bumps up margin forecast on AI strength",
+      "link": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-05-21T17:37:35+00:00",
-      "score": 9,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei",
-      "link": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-21T15:29:51+00:00",
+      "published": "2026-05-21T21:12:05+00:00",
       "score": 9,
       "matched": [
         "ai(+3)",
@@ -682,17 +675,29 @@
       ]
     },
     {
-      "title": "Neuer recalled to aid Germany’s World Cup bid",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/neuer-recalled-to-aid-germanys-world-cup-bid",
+      "title": "Ineos-owned Nice in disarray before French Cup final against Lens",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/22/ineos-owned-nice-in-disarray-before-french-cup-final-against-lens",
       "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-05-21T12:25:10+00:00",
+      "published": "2026-05-21T20:54:17+00:00",
       "score": 9,
       "matched": [
         "who(+2)",
-        "premier league(+2)",
-        "liverpool(+1)",
-        "arsenal(+1)"
+        "football(+1)",
+        "champions league(+2)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "Oil prices fall as investors hope for U.S.-Iran deal",
+      "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-21T19:06:31+00:00",
+      "score": 9,
+      "matched": [
+        "war(+3)",
+        "ceasefire(+3)"
       ]
     },
     {
@@ -869,21 +874,6 @@
       ]
     },
     {
-      "title": "Silva says it’s time for new Man City generation to shine",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/silva-says-its-time-for-new-man-city-generation-to-shine",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-20T20:53:46+00:00",
-      "score": 9,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "champions league(+2)",
-        "liverpool(+1)",
-        "arsenal(+1)"
-      ]
-    },
-    {
       "title": "World Health Assembly opens in Geneva, Switzerland",
       "link": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
       "source": "WHO News (Global Health)",
@@ -898,11 +888,11 @@
       ]
     },
     {
-      "title": "Spotify is launching AI-generated remixes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-05-21T15:54:03+00:00",
+      "published": "2026-05-21T20:00:06+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
@@ -910,27 +900,41 @@
       ]
     },
     {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T13:52:23+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Lebanese bury victims of deadliest Israeli strike since ceasefire",
-      "link": "https://www.straitstimes.com/world/middle-east/lebanese-bury-victims-of-deadliest-israeli-strike-since-ceasefire",
+      "title": "US says removal of UN expert Albanese from sanctions list is not a policy change",
+      "link": "https://www.straitstimes.com/world/united-states/us-says-removal-of-un-expert-albanese-from-sanctions-list-is-not-a-policy-change",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-05-21T12:59:36+00:00",
+      "published": "2026-05-21T19:49:43+00:00",
       "score": 8,
       "matched": [
-        "ceasefire(+3)",
-        "who(+2)"
+        "policy(+3)",
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei",
+      "link": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-21T15:29:51+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Neuer recalled to aid Germany’s World Cup bid",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/neuer-recalled-to-aid-germanys-world-cup-bid",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-21T12:25:10+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "liverpool(+1)",
+        "arsenal(+1)"
       ]
     },
     {
@@ -1033,39 +1037,26 @@
       ]
     },
     {
-      "title": "Arteta told of title win by crying son - while having barbecue",
-      "link": "https://www.bbc.com/sport/football/articles/cn4p255l5xeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-21T14:57:49+00:00",
-      "score": 7,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
-      "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
-      "source": "TechCrunch",
+      "title": "Who gets to own the Luigi Mangione story?",
+      "link": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
+      "source": "The Verge",
       "section": "Tech",
-      "published": "2026-05-21T14:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "startup(+2)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "Georgia jails opposition figure who urged 'peaceful revolution' for 2-1/2 years",
-      "link": "https://www.straitstimes.com/world/europe/georgia-jails-opposition-figure-who-urged-peaceful-revolution-for-2-1/2-years",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-21T12:19:29+00:00",
+      "published": "2026-05-21T19:51:22+00:00",
       "score": 7,
       "matched": [
         "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-21T13:52:23+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
         "who(+2)"
       ]
     },
@@ -1094,15 +1085,15 @@
       ]
     },
     {
-      "title": "Singapore monitoring rise in COVID-19 infections; current vaccine still effective for protection",
-      "link": "https://www.channelnewsasia.com/singapore/covid-19-cases-cda-vaccine-infections-hospital-mask-6133821",
-      "source": "Channel NewsAsia (Global)",
+      "title": "High mortgage rates aren’t going away. How buyers are making it work",
+      "link": "https://finance.yahoo.com/economy/policy/articles/high-mortgage-rates-aren-t-110205149.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-05-21T08:41:00+00:00",
+      "published": "2026-05-21T11:02:05+00:00",
       "score": 7,
       "matched": [
-        "vaccine(+3)",
-        "covid(+2)"
+        "policy(+3)",
+        "economy(+2)"
       ]
     },
     {
@@ -1206,29 +1197,147 @@
       ]
     },
     {
-      "title": "Clinical Villa outclass Freiburg to lift Europa League trophy",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/21/clinical-villa-outclass-freiburg-to-lift-europa-league-trophy",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-20T21:12:48+00:00",
-      "score": 7,
+      "title": "Ebola case confirmed in rebel-held Congo area far from outbreak's epicentre",
+      "link": "https://www.channelnewsasia.com/world/ebola-outbreak-case-far-congo-6134196",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-21T21:10:00+00:00",
+      "score": 6,
       "matched": [
-        "premier league(+2)",
-        "champions league(+2)",
-        "arsenal(+1)"
+        "outbreak(+3)"
       ]
     },
     {
-      "title": "Southampton appeal against Championship play-off removal for spying",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/21/southampton-appeal-against-championship-play-off-removal-for-spying",
-      "source": "FMT Sports (Sports)",
+      "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T20:48:02+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Lukashenko says Belarus will not be dragged into Ukraine war, but will defend itself with Russia",
+      "link": "https://www.straitstimes.com/world/europe/lukashenko-says-belarus-will-not-be-dragged-into-ukraine-war-but-will-defend-itself-with-russia",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-21T20:24:44+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
+      "link": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-21T20:05:09+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Fans create AI-generated team songs ahead of World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T20:00:47+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
+      "link": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T19:46:37+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-21T19:45:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+      "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-21T19:33:39+00:00",
+      "score": 6,
+      "matched": [
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-21T19:19:05+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Spygate: Who is Tonda Eckert and can he keep his job?",
+      "link": "https://www.bbc.com/sport/football/articles/cvgz5x9xxxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-20T21:03:24+00:00",
-      "score": 7,
+      "published": "2026-05-21T18:55:27+00:00",
+      "score": 6,
       "matched": [
         "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "One of Meta’s big legal reckonings just ended in a settlement",
+      "link": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-21T18:54:22+00:00",
+      "score": 6,
+      "matched": [
+        "policy(+3)"
+      ]
+    },
+    {
+      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+      "link": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T18:05:12+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T18:04:14+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -1254,7 +1363,7 @@
       ]
     },
     {
-      "title": "The Endless AI guitar pedal has potential",
+      "title": "This AI guitar pedal let me roll my own effects",
       "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
       "source": "The Verge",
       "section": "Tech",
@@ -1262,18 +1371,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Spygate: Who is Tonda Eckert and can he keep his job?",
-      "link": "https://www.bbc.com/sport/football/articles/cvgz5x9xxxyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-21T16:57:51+00:00",
-      "score": 6,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
       ]
     },
     {
@@ -1299,17 +1396,6 @@
       ]
     },
     {
-      "title": "The cost of the smart home is going up",
-      "link": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-21T16:15:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Spotify strikes deal with Universal Music to let premium users create AI covers, remixes",
       "link": "https://www.straitstimes.com/world/spotify-strikes-deal-with-universal-music-to-let-premium-users-create-ai-covers-remixes",
       "source": "Straits Times World (Global)",
@@ -1321,125 +1407,28 @@
       ]
     },
     {
-      "title": "Ecuador’s Disappeared",
-      "link": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-21T15:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T15:27:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Iran propaganda push seeks to project unity despite internal divisions",
-      "link": "https://www.straitstimes.com/world/middle-east/iran-propaganda-push-seeks-to-project-unity-despite-internal-divisions",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-21T15:09:40+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Oil market risks 'red zone' by summer, IEA chief warns",
-      "link": "https://www.channelnewsasia.com/world/oil-market-red-zone-iea-middle-east-war-iran-us-faith-birol-6134101",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-21T14:31:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Three police officers to accompany 10,000 England fans at World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/c70v1lvz9qko?at_medium=RSS&at_campaign=rss",
+      "title": "Arteta told of title win by crying son - while having barbecue",
+      "link": "https://www.bbc.com/sport/football/articles/cn4p255l5xeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-21T14:06:21+00:00",
+      "published": "2026-05-21T14:57:49+00:00",
       "score": 6,
       "matched": [
-        "funding(+2)",
-        "football(+1)"
+        "football(+1)",
+        "premier league(+2)",
+        "arsenal(+1)"
       ]
     },
     {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+      "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-05-21T14:00:00+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T14:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T13:38:42+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
-      "link": "https://www.aljazeera.com/news/2026/5/21/india-africa-summit-postponed-as-ebola-spreads-to-m23-held-dr-congo-area?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-21T13:18:12+00:00",
-      "score": 6,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Many NATO members 'not spending enough' to support Ukraine: NATO chief",
-      "link": "https://www.channelnewsasia.com/world/nato-ukraine-russia-war-not-spending-enough-support-mark-rutte-6134001",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-21T12:33:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Bukit Aman opens probe into fake TikTok account insulting king",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/21/bukit-aman-opens-probe-into-fake-tiktok-account-insulting-king",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-21T12:14:48+00:00",
-      "score": 6,
-      "matched": [
-        "breach(+3)"
+        "startup(+2)",
+        "funding(+2)"
       ]
     },
     {
@@ -1539,6 +1528,18 @@
       ]
     },
     {
+      "title": "How Warnock became play-offs' record-breaking boss",
+      "link": "https://www.bbc.com/sport/football/articles/c0m29wj3p3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-21T08:18:49+00:00",
+      "score": 6,
+      "matched": [
+        "breaking(+3)",
+        "football(+1)"
+      ]
+    },
+    {
       "title": "EC gazettes April voter roll, with 39,111 Malaysians automatically registered under Undi18",
       "link": "https://www.malaymail.com/news/malaysia/2026/05/21/ec-gazettes-april-voter-roll-with-39111-malaysians-automatically-registered-under-undi18/220851",
       "source": "Malay Mail (Malaysia)",
@@ -1563,102 +1564,105 @@
       ]
     },
     {
-      "title": "Congo police fire warning shots in burial dispute after suspected Ebola death",
-      "link": "https://www.straitstimes.com/world/congo-police-fire-warning-shots-in-burial-dispute-after-suspected-ebola-death",
+      "title": "High Court grants stay of enforcement on drug price order",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/21/high-court-grants-stay-of-enforcement-on-drug-price-order",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-21T05:52:56+00:00",
+      "score": 6,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Pearly-Thinaah’s Singapore Open participation may be decided this Saturday",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/21/pearly-thinaahs-singapore-open-participation-may-be-decided-this-saturday",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-21T03:20:12+00:00",
+      "score": 6,
+      "matched": [
+        "court(+2)",
+        "indonesia(+1)",
+        "singapore(+1)"
+      ]
+    },
+    {
+      "title": "Republican revolt over Trump 'weaponization' fund stalls ICE funding vote",
+      "link": "https://www.straitstimes.com/world/republicans-flee-washington-after-flap-on-trumps-weaponization-fund-and-ballroom-spending",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-05-21T17:54:43+00:00",
+      "published": "2026-05-21T20:19:55+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "funding(+2)"
       ]
     },
     {
-      "title": "Bungie gives up on Destiny",
-      "link": "https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-21T17:48:34+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
-      "link": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss",
+      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "link": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-05-21T17:05:50+00:00",
+      "published": "2026-05-21T20:09:10+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "sanctions(+2)"
       ]
     },
     {
-      "title": "Is the West de-risking from China or containing its economy?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/21/is-the-west-de-risking-from-china-or-containing-its-economy?traffic_source=rss",
+      "title": "Philips’ new display has a screen on both sides",
+      "link": "https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-21T19:36:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+      "link": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-21T19:35:21+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
+      "link": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-05-21T16:30:00+00:00",
+      "published": "2026-05-21T19:14:34+00:00",
       "score": 5,
       "matched": [
-        "economy(+2)"
+        "election(+2)"
       ]
     },
     {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-      "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T16:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "GitHub faces a fight for its survival at Microsoft",
-      "link": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-21T16:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Spotify is going to reserve concert tickets for ‘real fans’",
-      "link": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-21T15:47:43+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
-      "link": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-21T15:26:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Turkey court rules to oust opposition leader in latest blow to Erdogan's challengers",
-      "link": "https://www.straitstimes.com/world/europe/turkey-court-ousts-opposition-leader-in-latest-blow-to-erdogans-challengers",
+      "title": "Explainer-What is GAESA, which has taken center stage in US-Cuba tensions?",
+      "link": "https://www.straitstimes.com/world/explainer-what-is-gaesa-which-has-taken-center-stage-in-us-cuba-tensions",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-05-21T15:19:50+00:00",
+      "published": "2026-05-21T19:04:42+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Who are the 10 best FIFA World Cup players of all time?",
+      "link": "https://www.aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-21T18:06:27+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
       ]
     }
   ]
