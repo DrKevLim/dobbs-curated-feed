@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T03:30:59.825688+00:00",
+  "generated_at": "2026-05-23T04:08:11.747511+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -8,16 +8,16 @@
     "Malay Mail (Malaysia)": 11,
     "Malay Mail Money (Finance)": 3,
     "Malay Mail Sports (Sports)": 10,
-    "FMT Sports (Sports)": 7,
-    "Straits Times World (Global)": 11,
+    "FMT Sports (Sports)": 8,
+    "Straits Times World (Global)": 10,
     "Free Malaysia Today": 13,
-    "Channel NewsAsia (Global)": 2,
-    "Al Jazeera (Global)": 4,
+    "Al Jazeera (Global)": 5,
+    "Channel NewsAsia (Global)": 1,
     "The Verge": 6,
     "CNBC Markets (Finance)": 9,
-    "Yahoo Top Stories (World)": 4,
     "Yahoo Finance (Finance)": 1,
-    "TechCrunch": 7,
+    "Yahoo Top Stories (World)": 5,
+    "TechCrunch": 6,
     "BBC Sport (Sports)": 5
   },
   "items": [
@@ -467,20 +467,6 @@
       ]
     },
     {
-      "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/23/wall-street-rises-dow-hits-record-high-as-middle-east-hopes-lift-sentiment",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-22T21:38:59+00:00",
-      "score": 12,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)",
-        "inflation(+2)",
-        "economy(+2)"
-      ]
-    },
-    {
       "title": "Carrick appointed as Man United permanent coach",
       "link": "https://www.malaymail.com/news/sports/2026/05/23/carrick-appointed-as-man-united-permanent-coach/221056",
       "source": "Malay Mail Sports (Sports)",
@@ -520,6 +506,20 @@
         "court(+2)",
         "election(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/23/wall-street-rises-dow-hits-record-high-as-middle-east-hopes-lift-sentiment",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-05-22T21:38:59+00:00",
+      "score": 11,
+      "matched": [
+        "ministry(+2)",
+        "war(+3)",
+        "inflation(+2)",
+        "economy(+2)"
       ]
     },
     {
@@ -670,18 +670,6 @@
       ]
     },
     {
-      "title": "Commentary: From Iran to Ukraine, lasting ceasefires remain elusive",
-      "link": "https://www.channelnewsasia.com/commentary/ceasefire-ukraine-russia-iran-us-wars-trump-6136116",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-22T22:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
       "title": "Ex-senior GM, friend to pay firm RM865,000 over ‘secret profits’",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/22/ex-senior-gm-friend-to-pay-firm-rm865k-over-secret-profits",
       "source": "Free Malaysia Today",
@@ -719,6 +707,19 @@
         "who(+2)",
         "health(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Enhanced Games founder embraces doping row",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/23/enhanced-games-founder-embraces-doping-row",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-23T03:49:58+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "olympic(+2)"
       ]
     },
     {
@@ -768,6 +769,18 @@
         "who(+2)",
         "football(+1)",
         "champions league(+2)"
+      ]
+    },
+    {
+      "title": "Commentary: From Iran to Ukraine, lasting ceasefires remain elusive",
+      "link": "https://www.channelnewsasia.com/commentary/ceasefire-ukraine-russia-iran-us-wars-trump-6136116",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-22T22:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "ceasefire(+3)"
       ]
     },
     {
@@ -866,42 +879,6 @@
       "matched": [
         "who(+2)",
         "formula 1(+2)"
-      ]
-    },
-    {
-      "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
-      "link": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-22T22:05:04+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "cancer(+2)"
-      ]
-    },
-    {
-      "title": "Antonelli romps opening practice ahead of Russell",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/23/antonelli-romps-opening-practice-ahead-of-russell",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-22T21:54:28+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "formula 1(+2)"
-      ]
-    },
-    {
-      "title": "Bank boss sorry after describing workers as 'lower value human capital'",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bank-boss-sorry-describing-workers-134602555.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-22T18:55:15+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)"
       ]
     },
     {
@@ -1038,6 +1015,18 @@
       ]
     },
     {
+      "title": "How much money does the UK government borrow, and why does it matter?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/much-money-does-uk-government-141843601.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-22T10:09:39+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Farm Fresh net profit rises to RM129mil, revenue surpasses RM1bil mark",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/05/22/farm-fresh-net-profit-rises-to-rm129mil-revenue-surpasses-rm1bil-mark",
       "source": "FMT Business (Finance)",
@@ -1087,6 +1076,17 @@
       ]
     },
     {
+      "title": "Some fear US-Philippines war games are drawing conflict closer to home",
+      "link": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-23T03:19:47+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
       "title": "Tuchel has ‘no fear’ after omitting star names from England’s World Cup squad",
       "link": "https://www.malaymail.com/news/sports/2026/05/23/tuchel-has-no-fear-after-omitting-star-names-from-englands-world-cup-squad/221060",
       "source": "Malay Mail Sports (Sports)",
@@ -1129,6 +1129,30 @@
       "score": 6,
       "matched": [
         "policy(+3)"
+      ]
+    },
+    {
+      "title": "Tulsi Gabbard resigning as Trump's intelligence chief",
+      "link": "https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-22T22:05:04+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "Antonelli romps opening practice ahead of Russell",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/23/antonelli-romps-opening-practice-ahead-of-russell",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-22T21:54:28+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "formula 1(+2)"
       ]
     },
     {
@@ -1320,28 +1344,6 @@
       ]
     },
     {
-      "title": "Trump's intelligence chief Tulsi Gabbard resigns",
-      "link": "https://www.channelnewsasia.com/world/tulsi-gabbard-resigns-us-intelligence-6136546",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-22T21:41:00+00:00",
-      "score": 5,
-      "matched": [
-        "cancer(+2)"
-      ]
-    },
-    {
-      "title": "Pro-Palestinian activist Mahmoud Khalil to appeal to US Supreme Court to avoid re-arrest",
-      "link": "https://www.straitstimes.com/world/middle-east/pro-palestinian-activist-mahmoud-khalil-to-appeal-to-us-supreme-court-to-avoid-re-arrest",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-22T21:40:16+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "Kane on Barcelona shortlist - Saturday's gossip",
       "link": "https://www.bbc.com/sport/football/articles/ckgply4m3m0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1451,6 +1453,17 @@
       "score": 5,
       "matched": [
         "war(+3)"
+      ]
+    },
+    {
+      "title": "Microsoft reports are exposing AI’s real cost problem: Using the tech is more expensive than paying human employees",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-reports-exposing-ai-real-165636598.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-22T16:56:36+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1628,17 +1641,6 @@
       "source": "Yahoo Top Stories (World)",
       "section": "World",
       "published": "2026-05-22T09:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-22T06:41:28+00:00",
       "score": 5,
       "matched": [
         "ai(+3)"
