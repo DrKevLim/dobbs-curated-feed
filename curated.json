@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T18:35:03.893518+00:00",
+  "generated_at": "2026-05-27T21:30:54.468109+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,17 +7,17 @@
     "Malay Mail Sports (Sports)": 6,
     "Malay Mail Money (Finance)": 10,
     "FMT Business (Finance)": 12,
+    "Channel NewsAsia (Global)": 7,
     "CNBC Markets (Finance)": 2,
-    "The Verge": 4,
-    "Free Malaysia Today": 12,
-    "Straits Times World (Global)": 12,
-    "TechCrunch": 11,
-    "FMT Sports (Sports)": 8,
+    "Free Malaysia Today": 11,
+    "FMT Sports (Sports)": 9,
+    "Straits Times World (Global)": 10,
     "Malay Mail (Malaysia)": 10,
-    "Al Jazeera (Global)": 5,
+    "TechCrunch": 12,
+    "Al Jazeera (Global)": 6,
     "BBC Sport (Sports)": 8,
-    "Yahoo Top Stories (World)": 3,
-    "Channel NewsAsia (Global)": 3
+    "The Verge": 2,
+    "Yahoo Top Stories (World)": 1
   },
   "items": [
     {
@@ -455,6 +455,19 @@
       ]
     },
     {
+      "title": "WHO warns of 'catastrophic collision' of Ebola and war in DR Congo",
+      "link": "https://www.channelnewsasia.com/world/ebola-virus-congo-war-world-health-org-6145596",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:23:00+00:00",
+      "score": 11,
+      "matched": [
+        "war(+3)",
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
       "title": "Republicans stare down inflation abyss with midterms fast approaching",
       "link": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
       "source": "CNBC Markets (Finance)",
@@ -466,45 +479,6 @@
         "inflation(+2)",
         "economy(+2)",
         "funding(+2)"
-      ]
-    },
-    {
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-27T15:40:00+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Southeast Asia not capitalising on AI boom, says entrepreneur",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/27/southeast-asia-not-capitalising-on-ai-boom-says-entrepreneur",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-27T15:07:34+00:00",
-      "score": 11,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "WHO urges ceasefire in Congo to contain Ebola as cases surge",
-      "link": "https://www.straitstimes.com/world/who-urges-ceasefire-in-congo-to-contain-ebola-as-cases-surge",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:29:33+00:00",
-      "score": 11,
-      "matched": [
-        "ceasefire(+3)",
-        "who(+2)",
-        "outbreak(+3)"
       ]
     },
     {
@@ -563,16 +537,43 @@
       ]
     },
     {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T14:00:00+00:00",
+      "title": "Barcelona reach agreement with Newcastle’s Gordon",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/28/barcelona-reach-agreement-with-newcastles-gordon",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-27T21:18:58+00:00",
+      "score": 10,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Southeast Asia not capitalising on AI boom, says entrepreneur",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/27/southeast-asia-not-capitalising-on-ai-boom-says-entrepreneur",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-27T15:07:34+00:00",
       "score": 10,
       "matched": [
         "ai(+3)",
-        "startup(+2)",
+        "artificial intelligence(+3)",
         "funding(+2)"
+      ]
+    },
+    {
+      "title": "WHO urges ceasefire in Congo to contain Ebola as cases surge",
+      "link": "https://www.straitstimes.com/world/who-urges-ceasefire-in-congo-to-contain-ebola-as-cases-surge",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-27T13:29:33+00:00",
+      "score": 10,
+      "matched": [
+        "ceasefire(+3)",
+        "who(+2)",
+        "outbreak(+3)"
       ]
     },
     {
@@ -696,31 +697,6 @@
       ]
     },
     {
-      "title": "Youtube says will flag AI-generated content",
-      "link": "https://www.straitstimes.com/world/youtube-says-will-flag-ai-generated-content",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T14:40:00+00:00",
-      "score": 9,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T14:15:00+00:00",
-      "score": 9,
-      "matched": [
-        "startup(+2)",
-        "funding(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
       "title": "‘I got the boot’: Subang MP Wong Chen claims abrupt removal from MDV after turnaround",
       "link": "https://www.malaymail.com/news/malaysia/2026/05/27/i-got-the-boot-subang-mp-wong-chen-claims-abrupt-removal-from-mdv-after-turnaround/221539",
       "source": "Malay Mail (Malaysia)",
@@ -799,6 +775,30 @@
       ]
     },
     {
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T21:11:15+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T19:39:45+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
+      ]
+    },
+    {
       "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
       "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
       "source": "TechCrunch",
@@ -823,63 +823,28 @@
       ]
     },
     {
-      "title": "Here’s how Google is responding to Fitbit users who don’t like the new Health app",
-      "link": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-27T15:28:43+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Google just broke SEO. Here’s what replaces it.",
-      "link": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T14:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
-      "link": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:53:13+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Netherlands deploys minesweeper amid Hormuz contingency planning",
-      "link": "https://www.straitstimes.com/world/europe/netherlands-deploys-minesweeper-amid-hormuz-contingency-planning",
+      "title": "Youtube says will flag AI-generated content",
+      "link": "https://www.straitstimes.com/world/youtube-says-will-flag-ai-generated-content",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-05-27T13:14:20+00:00",
+      "published": "2026-05-27T14:40:00+00:00",
       "score": 8,
       "matched": [
-        "parliament(+2)",
-        "war(+3)"
+        "policy(+3)",
+        "ai(+3)"
       ]
     },
     {
-      "title": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
-      "link": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:05:21+00:00",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T14:15:00+00:00",
       "score": 8,
       "matched": [
-        "war(+3)",
-        "who(+2)"
+        "startup(+2)",
+        "funding(+2)",
+        "launch(+2)"
       ]
     },
     {
@@ -1027,6 +992,18 @@
       ]
     },
     {
+      "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+      "link": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-27T19:04:05+00:00",
+      "score": 7,
+      "matched": [
+        "sanctions(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Liverpool's Frimpong left out of Dutch World Cup squad",
       "link": "https://www.bbc.com/sport/football/articles/cgqpj3xk9e0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1040,14 +1017,14 @@
       ]
     },
     {
-      "title": "Syrian on trial for Austrian knife attack says he would kill again",
-      "link": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T15:04:12+00:00",
+      "title": "Google just broke SEO. Here’s what replaces it.",
+      "link": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T14:00:00+00:00",
       "score": 7,
       "matched": [
-        "court(+2)",
+        "ai(+3)",
         "who(+2)"
       ]
     },
@@ -1088,6 +1065,151 @@
       ]
     },
     {
+      "title": "AI can recommend wine. But can it replace a sommelier?",
+      "link": "https://www.channelnewsasia.com/experiences/can-ai-replace-sommeliers-wine-experts-6140046",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T21:27:19+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:56:30+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Synopsys raises annual forecast on demand for AI chip design software",
+      "link": "https://www.channelnewsasia.com/business/synopsys-raises-annual-forecast-demand-ai-chip-design-software-6145676",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:37:16+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Palestinians mourn slain Hamas militant chief as Israel escalates Gaza attacks",
+      "link": "https://www.straitstimes.com/world/middle-east/palestinians-mourn-slain-hamas-militant-chief-as-israel-escalates-gaza-attacks",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:34:34+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Arsenal demand £20m for Jesus - Thursday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/clypezpen95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-27T20:27:34+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Salesforce sees quarterly revenue below estimates amid AI disruption fears",
+      "link": "https://www.channelnewsasia.com/business/salesforce-sees-quarterly-revenue-below-estimates-amid-ai-disruption-fears-6145626",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:12:31+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Marvell forecasts quarterly revenue above estimates on AI chip demand; shares rise",
+      "link": "https://www.channelnewsasia.com/business/marvell-forecasts-quarterly-revenue-above-estimates-ai-chip-demand-shares-rise-6145631",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:11:59+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T20:10:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure",
+      "link": "https://www.channelnewsasia.com/business/snowflake-signs-6-billion-deal-aws-tied-ai-infrastructure-6145616",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:06:05+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",
+      "link": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-27T20:03:42+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Iran says return to war unlikely, but Trump 'not satisfied' with deal",
+      "link": "https://www.channelnewsasia.com/world/iran-us-war-peace-deal-trump-not-satisfied-6145541",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-27T19:44:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "EU states summon Russian envoys over Kyiv threat",
+      "link": "https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-27T19:23:17+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Israel declares new swathe of Lebanon ‘a combat zone’, urges residents to leave",
+      "link": "https://www.straitstimes.com/world/middle-east/israel-declares-new-swathe-of-lebanon-a-combat-zone-warns-residents-to-leave",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-27T19:04:28+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
       "source": "TechCrunch",
@@ -1096,17 +1218,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Talarico: Paxton \"clipping my cringey comments to distract from his career of corruption\"",
-      "link": "https://www.yahoo.com/news/politics/articles/talarico-paxton-clipping-cringey-comments-165701677.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-27T17:35:14+00:00",
-      "score": 6,
-      "matched": [
-        "corruption(+3)"
       ]
     },
     {
@@ -1129,17 +1240,6 @@
       "score": 6,
       "matched": [
         "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Capgemini says AI widens client spending pool",
-      "link": "https://www.channelnewsasia.com/business/capgemini-says-ai-widens-client-spending-pool-6145376",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-27T16:46:19+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1177,94 +1277,6 @@
       ]
     },
     {
-      "title": "EU ministers to discuss Russia strategy as Kyiv pushes for European role",
-      "link": "https://www.straitstimes.com/world/europe/eu-ministers-to-discuss-russia-strategy-as-kyiv-pushes-for-european-role",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T15:29:20+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Los Angeles to host record-breaking Paralympics in 2028 with 560 medal events",
-      "link": "https://www.channelnewsasia.com/sport/los-angeles-host-record-breaking-paralympics-in-2028-560-medal-events-6145196",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-27T15:07:39+00:00",
-      "score": 6,
-      "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption",
-      "link": "https://www.channelnewsasia.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-disruption-6145161",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-27T15:02:21+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-27T14:36:10+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T13:48:41+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
-      "link": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:24:04+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Countries tighten travel rules as Ebola risk rises",
-      "link": "https://www.straitstimes.com/world/countries-tighten-travel-rules-as-ebola-risk-rises",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:19:20+00:00",
-      "score": 6,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "YouTube will now automatically label AI videos",
-      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Juventus to retain Yildiz but plan additional sale, says CEO Comolli",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/27/juventus-to-retain-yildiz-but-plan-additional-sale-says-ceo-comolli",
       "source": "FMT Sports (Sports)",
@@ -1286,18 +1298,6 @@
       "matched": [
         "ai(+3)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-27T08:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "startup(+2)",
-        "funding(+2)"
       ]
     },
     {
@@ -1458,6 +1458,62 @@
       ]
     },
     {
+      "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
+      "link": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-27T20:40:05+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Robertson close to Spurs move after Liverpool exit",
+      "link": "https://www.bbc.com/sport/football/articles/ce9p5d4j4p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-27T20:29:43+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "All the news about Ferrari’s polarizing Luce EV",
+      "link": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-27T20:22:57+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Canada chooses Swedish early warning planes rather than US model",
+      "link": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-27T18:44:33+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "CBS News declined to renew contract for ‘60 Minutes’ correspondent who clashed with Bari Weiss",
+      "link": "https://www.straitstimes.com/world/cbs-news-declined-to-renew-contract-for-60-minutes-correspondent-who-clashed-with-bari-weiss",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-27T18:39:21+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Price and Clayton's quest for all-Welsh showdown",
       "link": "https://www.bbc.com/sport/darts/articles/cj0pgy70d4zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1535,82 +1591,25 @@
       ]
     },
     {
-      "title": "Fernandez wants Chelsea exit but club would demand £120m",
-      "link": "https://www.bbc.com/sport/football/articles/cpdp3e75v17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-27T15:30:16+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Close call for Sze Fei-Izzuddin in first round of Singapore Open",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/27/close-call-for-sze-fei-izzuddin-in-first-round-of-singapore-open",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-27T15:12:14+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Former Attorney General Pam Bondi diagnosed with thyroid cancer and recovering from treatment",
-      "link": "https://www.yahoo.com/news/politics/articles/former-attorney-general-pam-bondi-142035927.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-27T14:52:15+00:00",
-      "score": 5,
-      "matched": [
-        "cancer(+2)"
-      ]
-    },
-    {
-      "title": "Sony’s DualSense controllers are almost 30 percent off",
-      "link": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
-      "source": "The Verge",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-05-27T14:38:05+00:00",
+      "published": "2026-05-27T13:48:41+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Man Utd closing in on £38m Ederson deal",
-      "link": "https://www.bbc.com/sport/football/articles/czd2ev0ggj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-27T14:20:10+00:00",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-27T13:00:00+00:00",
       "score": 5,
       "matched": [
-        "football(+1)",
-        "manchester united(+1)"
-      ]
-    },
-    {
-      "title": "Who is Moise Kouame, the youngest French Open match winner since 1991?",
-      "link": "https://www.aljazeera.com/sports/2026/5/27/who-is-moise-kouame-the-youngest-french-open-match-winner-since-1991?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-27T13:29:23+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Accused German Red Army Faction militant sentenced to 13 years",
-      "link": "https://www.straitstimes.com/world/europe/accused-german-red-army-faction-militant-sentenced-to-13-years",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-27T12:39:22+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
+        "ai(+3)"
       ]
     },
     {
