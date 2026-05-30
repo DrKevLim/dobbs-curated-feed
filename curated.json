@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-30T17:30:34.917858+00:00",
+  "generated_at": "2026-05-30T21:30:58.228474+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
     "WHO News (Global Health)": 3,
     "FMT Business (Finance)": 4,
-    "FMT Sports (Sports)": 7,
+    "FMT Sports (Sports)": 8,
     "Malay Mail (Malaysia)": 13,
-    "Straits Times World (Global)": 11,
-    "CNBC Markets (Finance)": 12,
+    "CNBC Markets (Finance)": 8,
     "Free Malaysia Today": 11,
-    "Yahoo Finance (Finance)": 8,
     "The Verge": 5,
+    "Straits Times World (Global)": 10,
+    "Channel NewsAsia (Global)": 2,
+    "BBC Sport (Sports)": 13,
     "Malay Mail Sports (Sports)": 3,
-    "Al Jazeera (Global)": 10,
-    "BBC Sport (Sports)": 12,
-    "Yahoo Top Stories (World)": 2,
-    "TechCrunch": 9,
-    "Channel NewsAsia (Global)": 1
+    "Al Jazeera (Global)": 9,
+    "Yahoo Top Stories (World)": 3,
+    "Yahoo Finance (Finance)": 11,
+    "TechCrunch": 8
   },
   "items": [
     {
@@ -231,7 +231,7 @@
       "source": "WHO News (Global Health)",
       "section": "Health",
       "published": "2026-05-28T19:10:18+00:00",
-      "score": 32,
+      "score": 31,
       "matched": [
         "who(+2)",
         "outbreak(+3)",
@@ -318,12 +318,27 @@
       ]
     },
     {
+      "title": "‘This is even bigger’, says Luis Enrique as PSG retain Champions League",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/31/this-is-even-bigger-says-luis-enrique-as-psg-retain-champions-league",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T20:51:02+00:00",
+      "score": 11,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
       "title": "‘Decided on moments’: PSG, Arsenal in knife-edge Champions League final",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/30/decided-on-moments-psg-arsenal-in-knife-edge-champions-league-final",
       "source": "FMT Sports (Sports)",
       "section": "Sports",
       "published": "2026-05-30T12:27:49+00:00",
-      "score": 12,
+      "score": 11,
       "matched": [
         "who(+2)",
         "football(+1)",
@@ -348,30 +363,17 @@
       ]
     },
     {
-      "title": "WHO chief rallies community in Congo's Ebola response, calls for more funding",
-      "link": "https://www.straitstimes.com/world/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-30T11:54:56+00:00",
-      "score": 10,
-      "matched": [
-        "funding(+2)",
-        "who(+2)",
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Liverpool sack Slot after underwhelming season",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/30/liverpool-sack-slot-after-underwhelming-season",
+      "title": "PSG best team in the world, admits Arsenal’s Arteta after ‘pain’ of defeat",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/31/psg-best-team-in-the-world-admits-arsenals-arteta-after-pain-of-defeat",
       "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-05-30T11:42:10+00:00",
+      "published": "2026-05-30T21:20:17+00:00",
       "score": 10,
       "matched": [
         "who(+2)",
         "premier league(+2)",
         "champions league(+2)",
-        "liverpool(+1)"
+        "arsenal(+1)"
       ]
     },
     {
@@ -443,18 +445,6 @@
       ]
     },
     {
-      "title": "This Is the Artificial Intelligence (AI) Stock I'd Buy if the Market Crashed Tomorrow",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-id-170500855.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T17:05:00+00:00",
-      "score": 9,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
       "title": "Backrooms is a certified blockbuster with a $38 million opening day",
       "link": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
       "source": "The Verge",
@@ -467,15 +457,30 @@
       ]
     },
     {
-      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
-      "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T12:00:01+00:00",
+      "title": "WHO chief urges safe burials in visit to heart of Ebola outbreak",
+      "link": "https://www.straitstimes.com/world/who-chief-rallies-community-in-congos-ebola-response-calls-for-more-funding",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-30T11:54:56+00:00",
       "score": 9,
       "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
+        "funding(+2)",
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Liverpool sack Slot after underwhelming season",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/05/30/liverpool-sack-slot-after-underwhelming-season",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T11:42:10+00:00",
+      "score": 9,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "liverpool(+1)"
       ]
     },
     {
@@ -531,6 +536,18 @@
       ]
     },
     {
+      "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
+      "link": "https://www.channelnewsasia.com/world/who-chief-visits-epicentre-ebola-outbreak-in-dr-congo-6151746",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-30T19:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
       "title": "Sarawakian filmmaker an Emmy winner for Vietnam War documentary",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/30/sarawakian-filmmaker-an-emmy-winner-for-netflix-documentary",
       "source": "Free Malaysia Today",
@@ -543,89 +560,15 @@
       ]
     },
     {
-      "title": "Technology transfer is key in arms deals, says Khaled",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/30/technology-transfer-is-key-in-arms-deals-says-khaled",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-30T13:38:43+00:00",
+      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
+      "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T12:00:01+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-30T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Harry Kane heads to third World Cup as Tuchel’s irreplaceable specialist and England’s goalscoring talisman",
-      "link": "https://www.malaymail.com/news/sports/2026/05/30/harry-kane-heads-to-third-world-cup-as-tuchels-irreplaceable-specialist-and-englands-goalscoring-talisman/221926",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "champions league(+2)"
-      ]
-    },
-    {
-      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T12:53:35+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Malaysia labels Israeli move to take over 70pc of Gaza as evil and unacceptable",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/30/malaysia-labels-israeli-move-to-take-over-70pc-of-gaza-as-evil-and-unacceptable/221984",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-30T12:37:00+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Arne Slot shown red card at Anfield as Liverpool slump to fifth, fans demand fresh direction",
-      "link": "https://www.malaymail.com/news/sports/2026/05/30/arne-slot-shown-red-card-at-anfield-as-liverpool-slump-to-fifth-fans-demand-fresh-direction/221978",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T12:30:29+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "liverpool(+1)"
-      ]
-    },
-    {
-      "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
-      "link": "https://www.straitstimes.com/world/who-chief-arrives-at-epicentre-of-drcs-ebola-outbreak",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-30T11:40:00+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "outbreak(+3)"
+        "war(+3)",
+        "ceasefire(+3)"
       ]
     },
     {
@@ -679,52 +622,142 @@
       ]
     },
     {
-      "title": "Brent oil price posts biggest monthly loss in six years as market counts on a U.S.-Iran deal",
-      "link": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-29T20:13:49+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "A team in need of change - why Liverpool parted with Slot",
-      "link": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
+      "title": "Havertz fires Arsenal into early lead against PSG",
+      "link": "https://www.bbc.com/sport/football/videos/c332kdx1x73o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-30T14:38:45+00:00",
+      "published": "2026-05-30T19:35:10+00:00",
       "score": 7,
       "matched": [
         "football(+1)",
-        "premier league(+2)",
-        "liverpool(+1)"
+        "champions league(+2)",
+        "arsenal(+1)"
       ]
     },
     {
-      "title": "Fernandez usurps favourites in Italian MotoGP sprint race",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/30/fernandez-usurps-favourites-in-italian-motogp-sprint-race",
-      "source": "FMT Sports (Sports)",
+      "title": "Dembele equalises from penalty spot for PSG",
+      "link": "https://www.bbc.com/sport/football/videos/c4g4731ww4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-30T14:33:58+00:00",
+      "published": "2026-05-30T19:34:28+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Gabriel blazes penalty over as PSG win Champions League",
+      "link": "https://www.bbc.com/sport/football/videos/cj9px0kkznmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T19:34:25+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "PSG retain Champions League with penalty shootout win over Arsenal",
+      "link": "https://www.bbc.com/sport/football/videos/c302yz3p799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T19:33:58+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "PSG go back-to-back and join 'greatest of all time'",
+      "link": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T19:31:56+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Technology transfer is key in arms deals, says Khaled",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/30/technology-transfer-is-key-in-arms-deals-says-khaled",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-30T13:38:43+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-30T13:00:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Harry Kane heads to third World Cup as Tuchel’s irreplaceable specialist and England’s goalscoring talisman",
+      "link": "https://www.malaymail.com/news/sports/2026/05/30/harry-kane-heads-to-third-world-cup-as-tuchels-irreplaceable-specialist-and-englands-goalscoring-talisman/221926",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T13:00:00+00:00",
       "score": 7,
       "matched": [
         "who(+2)",
-        "motogp(+2)"
+        "football(+1)",
+        "champions league(+2)"
       ]
     },
     {
-      "title": "Varsity plans mountaineering school to boost safer hiking",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/30/varsity-plans-mountaineering-school-to-boost-safer-hiking",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-30T11:49:27+00:00",
+      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T12:53:35+00:00",
       "score": 7,
       "matched": [
-        "ministry(+2)",
-        "who(+2)"
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Malaysia labels Israeli move to take over 70pc of Gaza as evil and unacceptable",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/30/malaysia-labels-israeli-move-to-take-over-70pc-of-gaza-as-evil-and-unacceptable/221984",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-05-30T12:37:00+00:00",
+      "score": 7,
+      "matched": [
+        "law(+3)",
+        "ministry(+2)"
+      ]
+    },
+    {
+      "title": "Arne Slot shown red card at Anfield as Liverpool slump to fifth, fans demand fresh direction",
+      "link": "https://www.malaymail.com/news/sports/2026/05/30/arne-slot-shown-red-card-at-anfield-as-liverpool-slump-to-fifth-fans-demand-fresh-direction/221978",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T12:30:29+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "liverpool(+1)"
       ]
     },
     {
@@ -813,27 +846,81 @@
       ]
     },
     {
-      "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-      "link": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-29T19:58:45+00:00",
-      "score": 7,
+      "title": "Watch: Champions League Match of the Day",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T22:11:04+00:00",
+      "score": 6,
       "matched": [
-        "war(+3)",
-        "inflation(+2)"
+        "champions league(+2)",
+        "arsenal(+1)"
       ]
     },
     {
-      "title": "What happens when companies become too AI-pilled?",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-29T17:57:05+00:00",
-      "score": 7,
+      "title": "Wall Street Analysts Think This AI Stock Could Soar Nearly 57% in a Year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-ai-210500980.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T21:05:00+00:00",
+      "score": 6,
       "matched": [
-        "ai(+3)",
-        "who(+2)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Women bear the brunt of DRC’s Ebola outbreak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T20:30:12+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Is the war in Ukraine entering a new phase?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T20:12:44+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+      "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T19:48:13+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "SoftBank to build up AI data centres in France with major investment",
+      "link": "https://www.channelnewsasia.com/business/softbank-build-up-ai-data-centres-in-france-major-investment-6151756",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-05-30T19:01:50+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Dutch health officials clear hantavirus ship to sail again",
+      "link": "https://www.straitstimes.com/world/europe/dutch-health-officials-clear-hantavirus-ship-to-sail-again",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-30T18:25:19+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
       ]
     },
     {
@@ -848,125 +935,40 @@
       ]
     },
     {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-30T15:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-30T14:49:27+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Europe governments get Hegseth’s defence spending call – but not voters, says Italian minister",
-      "link": "https://www.straitstimes.com/world/europe/hegseths-defence-call-western-europes-governments-get-it-but-not-voters-says-italy",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-30T13:45:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "In the age of 'finfluencers' and AI, do financial advisers still matter?",
-      "link": "https://www.channelnewsasia.com/today/voices/finfluencer-ai-financial-adviser-needed-6144096",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-05-30T13:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-30T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-      "link": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "The Iran war is dividing Muslims in the Philippines",
-      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T12:49:20+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T12:04:35+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Trump Loves Accusing Critics of Treason. U.S. Law Makes That Charge Hard To Prove—for Good Reason.",
-      "link": "https://www.yahoo.com/news/politics/articles/trump-loves-accusing-critics-treason-120050880.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-30T12:00:50+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
-      "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T12:00:01+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Slot sacking completes a remarkable fall from grace",
-      "link": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "title": "A team in need of change - why Liverpool parted with Slot",
+      "link": "https://www.bbc.com/sport/football/articles/ckgp7zzvgy3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-30T11:55:53+00:00",
+      "published": "2026-05-30T14:38:45+00:00",
       "score": 6,
       "matched": [
         "football(+1)",
-        "premier league(+2)"
+        "premier league(+2)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Fernandez usurps favourites in Italian MotoGP sprint race",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/30/fernandez-usurps-favourites-in-italian-motogp-sprint-race",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T14:33:58+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "motogp(+2)"
+      ]
+    },
+    {
+      "title": "Varsity plans mountaineering school to boost safer hiking",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/30/varsity-plans-mountaineering-school-to-boost-safer-hiking",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-05-30T11:49:27+00:00",
+      "score": 6,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1059,7 +1061,7 @@
       "link": "https://www.cnbc.com/2026/05/30/doj-seeks-recusal-of-judge-eleanor-ross-in-georgia-election-case.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T17:29:16+00:00",
+      "published": "2026-05-30T17:38:57+00:00",
       "score": 5,
       "matched": [
         "election(+2)"
@@ -1085,6 +1087,17 @@
       "score": 5,
       "matched": [
         "launch(+2)"
+      ]
+    },
+    {
+      "title": "Trump criticizes the judge who ordered his name removed from the Kennedy Center",
+      "link": "https://www.yahoo.com/news/politics/article/trump-criticizes-the-judge-who-ordered-his-name-removed-from-the-kennedy-center-165512971.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-30T16:55:12+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1121,114 +1134,114 @@
       ]
     },
     {
-      "title": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest",
-      "link": "https://www.straitstimes.com/world/europe/ousted-turkish-opposition-leader-ozel-draws-thousands-in-ankara-protest",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-05-30T15:05:04+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Rescuers free four more men from flooded Laos cave, two still missing",
-      "link": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T14:53:35+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Potter finishes second in Sardinia as Yee retires",
-      "link": "https://www.bbc.com/sport/triathlon/articles/cp9p3zg4ek8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T14:40:21+00:00",
-      "score": 5,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
-      "title": "Rabonas & fake births - Chelsea win World Sevens",
-      "link": "https://www.bbc.com/sport/football/articles/c809n89jk7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T14:30:54+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
-      "link": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-30T14:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Travelers to Europe may be leaving money on the table. Here's why",
-      "link": "https://www.cnbc.com/2026/05/30/europe-vat-refunds-travelers.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T13:30:01+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
-      "link": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-05-30T13:00:00+00:00",
+      "published": "2026-05-30T15:30:00+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
-      "link": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-30T14:49:27+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Europe governments get Hegseth’s defence spending call – but not voters, says Italian minister",
+      "link": "https://www.straitstimes.com/world/europe/hegseths-defence-call-western-europes-governments-get-it-but-not-voters-says-italy",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-05-30T11:30:00+00:00",
+      "published": "2026-05-30T13:45:00+00:00",
       "score": 5,
       "matched": [
         "war(+3)"
       ]
     },
     {
-      "title": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
-      "link": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T11:07:52+00:00",
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-30T13:00:00+00:00",
       "score": 5,
       "matched": [
-        "policy(+3)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
-      "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-30T10:34:54+00:00",
+      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "link": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T13:00:00+00:00",
       "score": 5,
       "matched": [
-        "policy(+3)"
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T12:49:20+00:00",
+      "score": 5,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-30T12:04:35+00:00",
+      "score": 5,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Trump Loves Accusing Critics of Treason. U.S. Law Makes That Charge Hard To Prove—for Good Reason.",
+      "link": "https://www.yahoo.com/news/politics/articles/trump-loves-accusing-critics-treason-120050880.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-30T12:00:50+00:00",
+      "score": 5,
+      "matched": [
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
+      "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T12:00:01+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Slot sacking completes a remarkable fall from grace",
+      "link": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T11:55:53+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
@@ -1353,36 +1366,14 @@
       ]
     },
     {
-      "title": "Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides",
-      "link": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-29T21:14:04+00:00",
-      "score": 5,
+      "title": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
+      "link": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-30T21:18:24+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
-      "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-29T20:10:26+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-29T18:49:19+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
+        "football(+1)"
       ]
     },
     {
@@ -1408,60 +1399,47 @@
       ]
     },
     {
-      "title": "Shankland and Curtis make World Cup move - but will Clarke respond?",
-      "link": "https://www.bbc.com/sport/football/articles/c142d08m5neo?at_medium=RSS&at_campaign=rss",
+      "title": "Potter finishes second in Sardinia as Yee retires",
+      "link": "https://www.bbc.com/sport/triathlon/articles/cp9p3zg4ek8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-05-30T15:13:54+00:00",
+      "published": "2026-05-30T14:40:21+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
+        "olympic(+2)"
       ]
     },
     {
-      "title": "Clarke '100% worried' about Gilmour - could Man Utd's Fletcher replace him?",
-      "link": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T14:53:04+00:00",
+      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+      "link": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-30T14:00:00+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
+        "who(+2)"
       ]
     },
     {
-      "title": "What is Scotland's most iconic goal? The final - Gemmill v McTominay",
-      "link": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T11:53:07+00:00",
+      "title": "Travelers to Europe may be leaving money on the table. Here's why",
+      "link": "https://www.cnbc.com/2026/05/30/europe-vat-refunds-travelers.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T13:30:01+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
+        "who(+2)"
       ]
     },
     {
-      "title": "Liverpool sack head coach Slot and approach Iraola",
-      "link": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T11:30:16+00:00",
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "link": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-30T13:00:00+00:00",
       "score": 4,
       "matched": [
-        "football(+1)",
-        "liverpool(+1)"
-      ]
-    },
-    {
-      "title": "Arteta inspiration as Ramsey eyes management future",
-      "link": "https://www.bbc.com/sport/football/articles/cg5pp9zggnmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T08:11:11+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
+        "who(+2)"
       ]
     },
     {
@@ -1476,17 +1454,6 @@
       ]
     },
     {
-      "title": "Alphonso Davies in Canada’s World Cup squad despite injury",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/05/30/alphonso-davies-in-canadas-world-cup-squad-despite-injury",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-30T00:22:50+00:00",
-      "score": 4,
-      "matched": [
-        "champions league(+2)"
-      ]
-    },
-    {
       "title": "Trump's name must be removed from Kennedy Center, judge rules",
       "link": "https://www.cnbc.com/2026/05/29/trump-kennedy-center-judge-beatty.html",
       "source": "CNBC Markets (Finance)",
@@ -1498,65 +1465,101 @@
       ]
     },
     {
-      "title": "Mall retail giant closes stores, then admits business mistakes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mall-retail-giant-closes-stores-170700023.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-05-30T17:07:00+00:00",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-05-30T21:12:37+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "XPLR Infrastructure Is Up 42%. Here's Why One Investor Added $4.5 Million More",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xplr-infrastructure-42-heres-why-170543483.html",
+      "title": "Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nios-battery-swap-network-just-210500362.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T17:05:43+00:00",
+      "published": "2026-05-30T21:05:00+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "NextDecade Stock Has Lagged the Market, so Why Did One Investor Buy Up More?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nextdecade-stock-lagged-market-why-165808871.html",
+      "title": "Pitney Bowes CEO Sells Company Shares Worth $3.8 Million. What Does That Mean for Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pitney-bowes-ceo-sells-company-210228944.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T16:58:08+00:00",
+      "published": "2026-05-30T21:02:28+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Dyne Stock Is Up 56%. Here's What a $14 Million Stake Reduction Could Mean",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dyne-stock-56-heres-14-164824401.html",
+      "title": "RXO Stock Has Surged 75% Since This Fund Made a $10 Million Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rxo-stock-surged-75-since-210038641.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T16:48:24+00:00",
+      "published": "2026-05-30T21:00:38+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Is It Too Late to Buy Polkadot?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/too-buy-polkadot-164753378.html",
+      "title": "Brookfield Is Combining Its Insurance Arm With the Parent Company. Here's What It Means for Investors.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-combining-insurance-arm-parent-205000882.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T16:47:53+00:00",
+      "published": "2026-05-30T20:50:00+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "JPMorgan resets Dell stock price target after earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resets-dell-stock-price-164700956.html",
+      "title": "SpaceX IPO Nears and Retail Makes a Comeback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-nears-retail-makes-204231704.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T16:47:00+00:00",
+      "published": "2026-05-30T20:42:31+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Coeur Mining Inc. (CDE) A Stock that Could 10x by 2030 While Returning Shareholder Value",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-inc-cde-stock-164436281.html",
+      "title": "Stop Trying to Beat the Market: This Vanguard ETF Outperforms 90% of Professional Fund Managers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stop-trying-beat-market-vanguard-203500349.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-05-30T16:44:36+00:00",
+      "published": "2026-05-30T20:35:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T19:57:27+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T19:55:48+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Hut 8 Corp. (HUT): Leopold Aschenbrenner Sells Holding",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hut-8-corp-hut-leopold-195346935.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T19:53:46+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Kilroy Realty Corporation (KRC): Leopold Aschenbrenner Has Bearish Stance on This Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kilroy-realty-corporation-krc-leopold-195138449.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-05-30T19:51:38+00:00",
       "score": 3,
       "matched": []
     }
