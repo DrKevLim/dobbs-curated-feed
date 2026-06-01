@@ -1,22 +1,24 @@
 {
-  "generated_at": "2026-06-01T03:30:52.490359+00:00",
+  "generated_at": "2026-06-01T05:16:39.235001+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
     "WHO News (Global Health)": 4,
-    "FMT Sports (Sports)": 10,
-    "FMT Business (Finance)": 6,
-    "Free Malaysia Today": 12,
-    "Malay Mail (Malaysia)": 12,
-    "Malay Mail Money (Finance)": 5,
-    "CNBC Markets (Finance)": 13,
-    "Al Jazeera (Global)": 11,
+    "FMT Sports (Sports)": 11,
+    "Malay Mail (Malaysia)": 9,
+    "FMT Business (Finance)": 5,
+    "Free Malaysia Today": 14,
+    "Malay Mail Money (Finance)": 4,
+    "CNBC Markets (Finance)": 15,
+    "Al Jazeera (Global)": 10,
     "Malay Mail Sports (Sports)": 5,
-    "TechCrunch": 5,
-    "Yahoo Top Stories (World)": 7,
+    "TechCrunch": 4,
     "Channel NewsAsia (Global)": 6,
-    "The Verge": 6,
-    "BBC Sport (Sports)": 9
+    "The Verge": 7,
+    "Straits Times World (Global)": 5,
+    "BBC Sport (Sports)": 8,
+    "Malaysiakini (EN News)": 1,
+    "Yahoo Top Stories (World)": 3
   },
   "items": [
     {
@@ -163,7 +165,7 @@
       "source": "WHO News (Global Health)",
       "section": "Health",
       "published": "2026-05-31T21:49:21+00:00",
-      "score": 39,
+      "score": 38,
       "matched": [
         "ministry(+2)",
         "who(+2)",
@@ -326,6 +328,21 @@
       ]
     },
     {
+      "title": "Anwar praises King as symbol of unity, vows Madani govt will continue serving with dedication",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/anwar-praises-king-as-symbol-of-unity-vows-madani-govt-will-continue-serving-with-dedication/222136",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-01T04:52:52+00:00",
+      "score": 16,
+      "matched": [
+        "law(+3)",
+        "economy(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Dollar set for weekly loss amid US-Iran ceasefire deal",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/01/dollar-set-for-weekly-loss-amid-us-iran-ceasefire-deal",
       "source": "FMT Business (Finance)",
@@ -386,20 +403,6 @@
       ]
     },
     {
-      "title": "Malaysia’s new online safety rules kick in today: What changes for social media users?",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/malaysias-new-online-safety-rules-kick-in-today-what-changes-for-social-media-users/221673",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-31T23:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "law(+3)",
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Powell says Fed’s credibility lost if president can fire officials",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/01/powell-says-feds-credibility-lost-if-president-can-fire-officials",
       "source": "FMT Business (Finance)",
@@ -414,17 +417,72 @@
       ]
     },
     {
+      "title": "Malaysia’s new online safety rules kick in today: What changes for social media users?",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/malaysias-new-online-safety-rules-kick-in-today-what-changes-for-social-media-users/221673",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-05-31T23:00:00+00:00",
+      "score": 13,
+      "matched": [
+        "law(+3)",
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Chief Justice Wan Ahmad Farid heads King’s 2026 birthday honours list with ‘Tun’ award",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/chief-justice-wan-ahmad-farid-heads-kings-2026-birthday-honours-list-with-tun-award/222125",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-01T04:06:53+00:00",
+      "score": 12,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Fuel price surge drives carpooling boom in India, says BlaBlaCar",
       "link": "https://www.malaymail.com/news/money/2026/06/01/fuel-price-surge-drives-carpooling-boom-in-india-says-blablacar/222041",
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-05-31T23:00:00+00:00",
-      "score": 13,
+      "score": 12,
       "matched": [
         "breaking(+3)",
         "war(+3)",
         "economy(+2)",
         "covid(+2)"
+      ]
+    },
+    {
+      "title": "King: Politicians must watch their words, avoid misuse of free speech",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/king-politicians-must-watch-their-words-avoid-misuse-of-free-speech/222134",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-01T04:36:45+00:00",
+      "score": 11,
+      "matched": [
+        "election(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Konate to leave Liverpool after contract not renewed",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/01/konate-to-leave-liverpool-after-contract-not-renewed",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-01T03:50:05+00:00",
+      "score": 10,
+      "matched": [
+        "who(+2)",
+        "premier league(+2)",
+        "champions league(+2)",
+        "liverpool(+1)"
       ]
     },
     {
@@ -467,19 +525,6 @@
       ]
     },
     {
-      "title": "Can strategic partnerships still be trusted? Khaled Nordin questions international agreements after Norway missile cancellation",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/31/can-strategic-partnerships-still-be-trusted-khaled-nordin-questions-international-agreements-after-norway-missile-cancellation/222064",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-31T09:08:02+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "war(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "This Trump-linked startup plans to put humanoid robots in the military",
       "link": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
       "source": "CNBC Markets (Finance)",
@@ -493,6 +538,19 @@
       ]
     },
     {
+      "title": "CJ tops king’s birthday honours list, receives ‘Tun’ title",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/01/cj-tops-kings-birthday-honours-list-receives-tun-title",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-01T03:53:46+00:00",
+      "score": 9,
+      "matched": [
+        "ministry(+2)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Johor DAP accepts Marina Ibrahim’s decision not to defend Skudai seat, says Teo Nie Ching",
       "link": "https://www.malaymail.com/news/malaysia/2026/06/01/johor-dap-accepts-marina-ibrahims-decision-not-to-defend-skudai-seat-says-teo-nie-ching/222113",
       "source": "Malay Mail (Malaysia)",
@@ -503,21 +561,6 @@
         "parliament(+2)",
         "election(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Kvaratskhelia named Champions League player of the season",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/01/kvaratskhelia-named-champions-league-player-of-the-season",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-31T22:12:33+00:00",
-      "score": 9,
-      "matched": [
-        "football(+1)",
-        "champions league(+2)",
-        "liverpool(+1)",
-        "arsenal(+1)",
-        "chelsea(+1)"
       ]
     },
     {
@@ -545,6 +588,18 @@
         "ai(+3)",
         "who(+2)",
         "motogp(+2)"
+      ]
+    },
+    {
+      "title": "Rejecting Rukun Negara makes one unfit as citizen, says king",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/01/rejecting-rukun-negara-makes-one-unfit-as-citizen-says-king",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-01T04:12:42+00:00",
+      "score": 8,
+      "matched": [
+        "artificial intelligence(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -585,15 +640,18 @@
       ]
     },
     {
-      "title": "Malaysia’s under-16 social media rule starts today: What parents need to know",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/malaysias-under-16-social-media-rule-starts-today-what-parents-need-to-know/221674",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-31T23:00:00+00:00",
+      "title": "Kvaratskhelia named Champions League player of the season",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/01/kvaratskhelia-named-champions-league-player-of-the-season",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-05-31T22:12:33+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
-        "who(+2)"
+        "football(+1)",
+        "champions league(+2)",
+        "liverpool(+1)",
+        "arsenal(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -671,15 +729,15 @@
       ]
     },
     {
-      "title": "Hamburg withdraws Olympics bid after referendum defeat",
-      "link": "https://www.freemalaysiatoday.com/category/world/2026/06/01/hamburg-withdraws-olympics-bid-after-referendum-defeat",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-05-31T22:46:11+00:00",
+      "title": "Malaysia’s under-16 social media rule starts today: What parents need to know",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/malaysias-under-16-social-media-rule-starts-today-what-parents-need-to-know/221674",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-05-31T23:00:00+00:00",
       "score": 7,
       "matched": [
-        "who(+2)",
-        "olympic(+2)"
+        "policy(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -695,39 +753,80 @@
       ]
     },
     {
-      "title": "Kevin Hassett urges Americans to look at whole picture on prices",
-      "link": "https://finance.yahoo.com/economy/policy/articles/kevin-hassett-urges-americans-look-142009045.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T14:20:09+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Khaled slams ‘deafening silence’ over scrapped Norway missile deal",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/05/31/khaled-slams-deafening-silence-over-scrapped-norway-missile-deal",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-05-31T04:26:15+00:00",
-      "score": 7,
-      "matched": [
-        "law(+3)",
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Currency outlook: Ringgit likely subdued in holiday‑shortened week, traders await US jobs report",
-      "link": "https://www.malaymail.com/news/money/2026/05/31/currency-outlook-ringgit-likely-subdued-in-holidayshortened-week-traders-await-us-jobs-report/222020",
-      "source": "Malay Mail Money (Finance)",
+      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
+      "link": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-05-31T03:55:13+00:00",
-      "score": 7,
+      "published": "2026-06-01T05:04:49+00:00",
+      "score": 6,
       "matched": [
-        "policy(+3)",
-        "inflation(+2)"
+        "breaking(+3)"
+      ]
+    },
+    {
+      "title": "Analysis:AI debt sales reshape global corporate bond markets",
+      "link": "https://www.channelnewsasia.com/business/analysisai-debt-sales-reshape-global-corporate-bond-markets-6153471",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-01T05:02:14+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nvidia-backed $5 billion AI company tells CNBC it's launching major expansion in London",
+      "link": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-01T05:00:02+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+      "link": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-01T04:28:53+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "US says it struck Iranian military sites, Tehran responds with air base attack",
+      "link": "https://www.straitstimes.com/world/middle-east/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-01T04:20:15+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes",
+      "link": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-01T04:13:43+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Japan's Nikkei tops 67,000 for first time on AI boost; SoftBank becomes Japan's most valuable firm",
+      "link": "https://www.channelnewsasia.com/business/japans-nikkei-tops-67000-first-time-ai-boost-softbank-becomes-japans-most-valuable-firm-6153341",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-01T03:32:26+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -750,17 +849,6 @@
       "score": 6,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes",
-      "link": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-01T00:58:02+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
       ]
     },
     {
@@ -831,7 +919,7 @@
       ]
     },
     {
-      "title": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
@@ -839,6 +927,17 @@
       "score": 6,
       "matched": [
         "war(+3)"
+      ]
+    },
+    {
+      "title": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon",
+      "link": "https://www.straitstimes.com/world/middle-east/oil-prices-rise-more-than-2-as-israel-steps-up-incursion-into-lebanon",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-01T00:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
       ]
     },
     {
@@ -853,38 +952,15 @@
       ]
     },
     {
-      "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
-      "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-31T23:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "budget(+3)"
-      ]
-    },
-    {
-      "title": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
-      "link": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
+      "title": "Hamburg withdraws Olympics bid after referendum defeat",
+      "link": "https://www.freemalaysiatoday.com/category/world/2026/06/01/hamburg-withdraws-olympics-bid-after-referendum-defeat",
+      "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-05-31T21:57:32+00:00",
+      "published": "2026-05-31T22:46:11+00:00",
       "score": 6,
       "matched": [
-        "football(+1)",
-        "liverpool(+1)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience",
-      "link": "https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T21:35:55+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
+        "who(+2)",
+        "olympic(+2)"
       ]
     },
     {
@@ -935,18 +1011,6 @@
       "matched": [
         "election(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "FBI hunts most wanted neighbor next door who allegedly faked cancer, scammed loved ones for luxury getaways",
-      "link": "https://www.yahoo.com/news/us/articles/fbi-hunts-most-wanted-neighbor-120018592.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T12:00:18+00:00",
-      "score": 6,
-      "matched": [
-        "who(+2)",
-        "cancer(+2)"
       ]
     },
     {
@@ -1010,68 +1074,55 @@
       ]
     },
     {
-      "title": "Sarawak’s future depends on STEM, TVET and cultural resilience, says Wan Junaidi in Gawai message",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/31/sarawaks-future-depends-on-stem-tvet-and-cultural-resilience-says-wan-junaidi-in-gawai-message/222072",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-31T09:34:19+00:00",
-      "score": 6,
+      "title": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+      "link": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-01T05:04:24+00:00",
+      "score": 5,
       "matched": [
-        "economy(+2)",
-        "who(+2)"
+        "startup(+2)"
       ]
     },
     {
-      "title": "Who’s joining Bersama? Nik Nazmi reveals breakdown of party’s first 20,000 members",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/31/whos-joining-bersama-nik-nazmi-reveals-breakdown-of-partys-first-20000-members/222062",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-05-31T08:39:04+00:00",
-      "score": 6,
+      "title": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
+      "link": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-01T04:51:06+00:00",
+      "score": 5,
       "matched": [
-        "parliament(+2)",
-        "who(+2)"
+        "economy(+2)"
       ]
     },
     {
-      "title": "Umno opens general assembly today, runs until July 12",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/umno-opens-general-assembly-today-runs-until-july-12/222121",
-      "source": "Malay Mail (Malaysia)",
+      "title": "Boy, 9, dies after fall from 13th floor apartment",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/01/boy-9-dies-after-fall-from-13th-floor-apartment",
+      "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-06-01T03:12:10+00:00",
+      "published": "2026-06-01T04:32:40+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "King, Queen convey wishes to RMAF personnel and veterans on 68th anniversary",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/king-queen-convey-wishes-to-rmaf-personnel-and-veterans-on-68th-anniversary/222107",
+      "title": "Those who reject Rukun Negara principles unfit to be called Malaysians, says King",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/those-who-reject-rukun-negara-principles-unfit-to-be-called-malaysians-says-king/222131",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-06-01T01:47:19+00:00",
+      "published": "2026-06-01T04:29:18+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "Lim Guan Eng presses Penang govt to explain lack of open tender for Karpal Singh Drive reclamation",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/lim-guan-eng-presses-penang-govt-to-explain-lack-of-open-tender-for-karpal-singh-drive-reclamation/222108",
-      "source": "Malay Mail (Malaysia)",
+      "title": "Agong: Those who reject Rukun Negara unfit to be Malaysian",
+      "link": "https://www.malaysiakini.com/news/776436",
+      "source": "Malaysiakini (EN News)",
       "section": "Malaysia",
-      "published": "2026-06-01T01:46:17+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Wildlife signs, including panther droppings, complicate search for missing hiker Jaslinda at Gunung Batu Putih",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/01/wildlife-signs-including-panther-droppings-complicate-search-for-missing-hiker-jaslinda-at-gunung-batu-putih/222105",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-06-01T01:39:21+00:00",
+      "published": "2026-06-01T03:48:25+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
@@ -1089,25 +1140,49 @@
       ]
     },
     {
-      "title": "She lost her womb to cancer at 32 – now she helps younger people with cancer navigate recovery and work",
-      "link": "https://www.channelnewsasia.com/women/cancer-support-group-singapore-young-patients-6129861",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Ethiopian election expected to hand leader Abiy's party a landslide win",
+      "link": "https://www.straitstimes.com/world/ethiopian-election-expected-to-hand-leader-abiys-party-a-landslide-win",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-01T00:11:00+00:00",
-      "score": 5,
-      "matched": [
-        "cancer(+2)"
-      ]
-    },
-    {
-      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "link": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-31T23:02:53+00:00",
+      "published": "2026-06-01T01:05:21+00:00",
       "score": 5,
       "matched": [
         "election(+2)"
+      ]
+    },
+    {
+      "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
+      "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-05-31T23:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Arsenal battle PSG for Villa's Rogers - Monday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/c5y0502nx53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-05-31T21:57:32+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience",
+      "link": "https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-31T21:35:55+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1141,17 +1216,6 @@
       "score": 5,
       "matched": [
         "policy(+3)"
-      ]
-    },
-    {
-      "title": "Trump posts AI-generated images of a 'DronePort' he wants on top of new White House ballroom",
-      "link": "https://www.yahoo.com/news/politics/article/trump-posts-ai-generated-images-of-a-droneport-he-wants-on-top-of-new-white-house-ballroom-181732022.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T18:17:32+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1210,6 +1274,17 @@
       "score": 5,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "One of two patients with Ebola-like symptoms tests negative in Brazil",
+      "link": "https://www.straitstimes.com/world/brazil-investigates-two-possible-ebola-cases",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-31T15:11:29+00:00",
+      "score": 5,
+      "matched": [
+        "outbreak(+3)"
       ]
     },
     {
@@ -1282,6 +1357,17 @@
       ]
     },
     {
+      "title": "'Unacceptable' gap costing Wales young talent claim",
+      "link": "https://www.bbc.com/sport/football/articles/cj3ppd5r5xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-01T04:55:46+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
       "title": "Senegal win can help fans ‘trust’ US World Cup bid, says Pochettino",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/01/senegal-win-can-help-fans-trust-us-world-cup-bid-says-pochettino",
       "source": "FMT Sports (Sports)",
@@ -1304,14 +1390,25 @@
       ]
     },
     {
-      "title": "Uncapped Yengi and Volpato in Australia World Cup squad",
-      "link": "https://www.bbc.com/sport/football/articles/cdxp53k7qv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-31T22:06:46+00:00",
+      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+      "link": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-05-31T23:02:53+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Man who warned coworkers 'no one's going home today' gets prison term in fatal shooting",
+      "link": "https://www.yahoo.com/news/us/articles/man-warned-coworkers-no-ones-221644122.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-05-31T22:16:44+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1360,6 +1457,17 @@
       ]
     },
     {
+      "title": "Syria's Sharaa holds phone call with Trump, Syrian presidency says",
+      "link": "https://www.straitstimes.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-05-31T20:15:12+00:00",
+      "score": 4,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex",
       "link": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
       "source": "The Verge",
@@ -1382,39 +1490,6 @@
       ]
     },
     {
-      "title": "Polls open in Colombia’s pivotal presidential election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-31T18:23:39+00:00",
-      "score": 4,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Hundreds arrested in France after Champions League riots",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-05-31T18:13:39+00:00",
-      "score": 4,
-      "matched": [
-        "champions league(+2)"
-      ]
-    },
-    {
-      "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
-      "link": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-05-31T16:40:22+00:00",
-      "score": 4,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
       "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
       "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
       "source": "TechCrunch",
@@ -1423,39 +1498,6 @@
       "score": 4,
       "matched": [
         "funding(+2)"
-      ]
-    },
-    {
-      "title": "007 First Light is already discounted for the PS5 and Steam",
-      "link": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-05-31T14:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "I climbed the vertical height of Mount Everest in 36 hours—it turned me into 'a new version of myself'",
-      "link": "https://www.cnbc.com/2026/05/31/i-climbed-the-vertical-height-of-mount-everest-in-36-hourswhat-i-learned.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-05-31T13:30:01+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "J&J prostate cancer drug reduces risk of cancer spread and death in late-stage study",
-      "link": "https://www.yahoo.com/news/articles/j-j-prostate-cancer-drug-120148425.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T12:01:48+00:00",
-      "score": 4,
-      "matched": [
-        "cancer(+2)"
       ]
     },
     {
@@ -1470,17 +1512,6 @@
       ]
     },
     {
-      "title": "WHO chief reports 5 Ebola recoveries as a new treatment center opens in eastern Congo",
-      "link": "https://www.yahoo.com/news/world/articles/chief-hails-5-ebola-recoveries-110930594.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-05-31T11:09:30+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Sri Lanka raises fuel prices 48pc since February amid global energy crisis and IMF terms",
       "link": "https://www.malaymail.com/news/money/2026/05/31/sri-lanka-raises-fuel-prices-48pc-since-february-amid-global-energy-crisis-and-imf-terms/222047",
       "source": "Malay Mail Money (Finance)",
@@ -1492,11 +1523,11 @@
       ]
     },
     {
-      "title": "President Tharman to make first state visit to Tanzania",
-      "link": "https://www.channelnewsasia.com/singapore/tharman-shanmugaratnam-tanzania-south-africa-singapore-president-africa-visit-6153311",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-01T03:15:00+00:00",
+      "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+      "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-01T04:36:41+00:00",
       "score": 3,
       "matched": []
     },
@@ -1537,21 +1568,12 @@
       "matched": []
     },
     {
-      "title": "Most EU countries lack strong tax incentives for company electric cars, says TE",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/01/most-eu-countries-lack-strong-tax-incentives-for-company-electric-cars-says-te",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-05-31T23:24:31+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
       "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
       "link": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-05-31T23:00:00+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     },
     {
@@ -1560,15 +1582,6 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-05-31T21:33:11+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-05-31T21:05:14+00:00",
       "score": 2,
       "matched": []
     }
