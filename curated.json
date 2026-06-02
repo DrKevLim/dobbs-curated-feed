@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:52:49.263611+00:00",
+  "generated_at": "2026-06-02T21:30:59.243534+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
@@ -11,13 +11,13 @@
     "FMT Sports (Sports)": 13,
     "Free Malaysia Today": 9,
     "Malay Mail Money (Finance)": 2,
-    "TechCrunch": 11,
-    "Straits Times World (Global)": 13,
     "CNBC Markets (Finance)": 7,
     "Channel NewsAsia (Global)": 3,
-    "BBC Sport (Sports)": 2,
-    "Al Jazeera (Global)": 5,
-    "Yahoo Top Stories (World)": 1
+    "TechCrunch": 10,
+    "Straits Times World (Global)": 13,
+    "BBC Sport (Sports)": 3,
+    "Yahoo Top Stories (World)": 2,
+    "Al Jazeera (Global)": 4
   },
   "items": [
     {
@@ -664,7 +664,43 @@
       ]
     },
     {
-      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency",
+      "link": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-02T21:29:56+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge",
+      "link": "https://www.channelnewsasia.com/business/palo-alto-raises-annual-forecasts-strong-ai-cybersecurity-demand-shares-surge-6157511",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-02T20:52:21+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "HPE surges 19% after Monday's blowout earnings, closing its best day ever",
+      "link": "https://www.cnbc.com/2026/06/02/hpe-stock-earnings-ai-cloud-servers.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-02T20:13:02+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
       "source": "TechCrunch",
       "section": "Tech",
@@ -700,18 +736,6 @@
       ]
     },
     {
-      "title": "HPE surges 15% after blowout earnings, pacing for one of its best days ever",
-      "link": "https://www.cnbc.com/2026/06/02/hpe-stock-earnings-ai-cloud-servers.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-02T16:31:54+00:00",
-      "score": 9,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
       "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries",
       "link": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html",
       "source": "CNBC Markets (Finance)",
@@ -733,31 +757,6 @@
       "matched": [
         "ai(+3)",
         "cybersecurity(+3)"
-      ]
-    },
-    {
-      "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
-      "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-02T15:05:00+00:00",
-      "score": 9,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "Law changes that will come into effect at the 2026 World Cup",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/02/law-changes-that-will-come-into-effect-at-the-2026-world-cup",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-02T14:46:35+00:00",
-      "score": 9,
-      "matched": [
-        "law(+3)",
-        "who(+2)",
-        "football(+1)"
       ]
     },
     {
@@ -827,7 +826,19 @@
       ]
     },
     {
-      "title": "Microsoft Build 2026: the 7 biggest announcements",
+      "title": "Alphabet's plan to sell $80 billion in stock to fund its AI buildout isn't all bad",
+      "link": "https://www.cnbc.com/2026/06/02/alphabets-plan-to-sell-80-billion-in-stock-to-fund-its-ai-buildout-isnt-all-bad.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-02T20:26:04+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
       "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
       "source": "The Verge",
       "section": "Tech",
@@ -839,27 +850,28 @@
       ]
     },
     {
-      "title": "Zimbabwe presses ahead with bill that would extend president's term to 2030",
-      "link": "https://www.straitstimes.com/world/zimbabwe-presses-ahead-with-bill-that-would-extend-presidents-term-to-2030",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:35:49+00:00",
+      "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+      "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-02T15:05:00+00:00",
       "score": 8,
       "matched": [
-        "parliament(+2)",
-        "war(+3)"
+        "ai(+3)",
+        "artificial intelligence(+3)"
       ]
     },
     {
-      "title": "Danish PM unveils plans for welfare push, defiance of Trump",
-      "link": "https://www.straitstimes.com/world/europe/danish-pm-unveils-plans-for-welfare-push-defiance-of-trump",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:35:36+00:00",
+      "title": "Law changes that will come into effect at the 2026 World Cup",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/02/law-changes-that-will-come-into-effect-at-the-2026-world-cup",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-02T14:46:35+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
-        "inflation(+2)"
+        "law(+3)",
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -992,15 +1004,27 @@
       ]
     },
     {
-      "title": "Woman who allegedly threw newborn out of JB flat to be charged tomorrow",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/02/woman-who-allegedly-threw-newborn-out-of-jb-flat-to-be-charged-tomorrow",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-02T15:30:42+00:00",
+      "title": "Zimbabwe presses ahead with bill that would extend president's term to 2030",
+      "link": "https://www.straitstimes.com/world/zimbabwe-presses-ahead-with-bill-that-would-extend-presidents-term-to-2030",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-02T14:35:49+00:00",
       "score": 7,
       "matched": [
-        "court(+2)",
-        "who(+2)"
+        "parliament(+2)",
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Danish PM unveils plans for welfare push, defiance of Trump",
+      "link": "https://www.straitstimes.com/world/europe/danish-pm-unveils-plans-for-welfare-push-defiance-of-trump",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-02T14:35:36+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "inflation(+2)"
       ]
     },
     {
@@ -1080,22 +1104,22 @@
       ]
     },
     {
-      "title": "Marvell stock soars 30% as Nvidia's Huang says it could be the next trillion-dollar company",
-      "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-02T19:39:36+00:00",
+      "title": "Rise of AI slop and ‘pink slime’ journalism poses risk to Australian politics: Experts",
+      "link": "https://www.straitstimes.com/world/rise-of-ai-slop-and-pink-slime-journalism-in-australia-poses-risk-to-democracy-experts",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-02T21:00:00+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
       ]
     },
     {
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "title": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company",
+      "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-02T19:14:23+00:00",
+      "published": "2026-06-02T20:59:27+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1106,21 +1130,43 @@
       "link": "https://www.cnbc.com/2026/06/02/ai-tech-stocks-bull-market-blackrock.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-02T19:12:46+00:00",
+      "published": "2026-06-02T20:51:21+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
       ]
     },
     {
-      "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
-      "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-02T19:06:48+00:00",
+      "published": "2026-06-02T20:42:45+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "I held the next-gen handheld",
+      "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-02T19:56:02+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Oil prices rise to one-week high as Iran reviews US proposal to halt war",
+      "link": "https://finance.yahoo.com/news/oil-steadies-uncertainty-over-us-004249480.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-02T19:04:49+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -1132,17 +1178,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Trump, Rubio say talks with Tehran ongoing despite Iranian media claims otherwise",
-      "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-02T18:45:55+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1234,17 +1269,6 @@
       ]
     },
     {
-      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-      "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-02T17:31:02+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Mathematicians say ‘don't believe hype’ on AI capabilities",
       "link": "https://www.straitstimes.com/world/europe/mathematicians-say-dont-believe-hype-on-ai-capabilities",
       "source": "Straits Times World (Global)",
@@ -1278,17 +1302,6 @@
       ]
     },
     {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
-      "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-02T16:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Trump signs narrower executive order on AI oversight after industry objections",
       "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
       "source": "TechCrunch",
@@ -1311,47 +1324,15 @@
       ]
     },
     {
-      "title": "AI demand, earnings optimism lift tech giants' market value in May",
-      "link": "https://www.channelnewsasia.com/business/ai-demand-earnings-optimism-lift-tech-giants-market-value-in-may-6157051",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:58:50+00:00",
+      "title": "Woman who allegedly threw newborn out of JB flat to be charged tomorrow",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/02/woman-who-allegedly-threw-newborn-out-of-jb-flat-to-be-charged-tomorrow",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-02T15:30:42+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Hong Kong securities regulator warns licensed firms of AI-driven cyber threats",
-      "link": "https://www.channelnewsasia.com/business/hong-kong-securities-regulator-warns-licensed-firms-ai-driven-cyber-threats-6157026",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:44:09+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Putin's 'Davos' haunted by war and stagnation despite the swank of influencers",
-      "link": "https://www.straitstimes.com/world/europe/putins-davos-haunted-by-war-and-stagnation-despite-the-swank-of-influencers",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:40:56+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Romania's top general under investigation for suspected corruption",
-      "link": "https://www.straitstimes.com/world/europe/romanias-top-general-under-investigation-for-suspected-corruption",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-02T14:26:07+00:00",
-      "score": 6,
-      "matched": [
-        "corruption(+3)"
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1500,6 +1481,74 @@
       ]
     },
     {
+      "title": "Liverpool agree deal with Iraola to succeed Slot",
+      "link": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-02T20:56:47+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "US sanctions Iran’s largest cryptocurrency exchange Nobitex",
+      "link": "https://www.straitstimes.com/world/middle-east/us-sanctions-irans-largest-cryptocurrency-exchange-nobitex",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-02T20:49:18+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "PlayStation State of Play June 2026: All the news and trailers",
+      "link": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-02T20:40:00+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Aston Villa intent on keeping Rogers - Wednesday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/c9d3zw81ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-02T20:34:12+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "US imposes sanctions on commanders over fighting in eastern Congo",
+      "link": "https://www.straitstimes.com/world/us-imposes-sanctions-on-commanders-over-fighting-in-eastern-congo",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-02T20:15:41+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "US sanctions Iran's largest crypto exchange over IRGC links",
+      "link": "https://www.channelnewsasia.com/business/us-sanctions-irans-largest-crypto-exchange-over-irgc-links-6157431",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-02T19:41:49+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
       "title": "Who are the best young players to watch at FIFA World Cup 2026?",
       "link": "https://www.aljazeera.com/sports/2026/6/2/best-young-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1596,51 +1645,6 @@
       "score": 5,
       "matched": [
         "economy(+2)"
-      ]
-    },
-    {
-      "title": "China opens its markets to African exports. Who benefits?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-02T16:30:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Konate close to joining Real Madrid after Liverpool exit",
-      "link": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-02T16:15:09+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "liverpool(+1)"
-      ]
-    },
-    {
-      "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
-      "link": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-02T15:56:08+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "UN warns of ‘unprecedented’ gaps in global food aid amid funding cuts",
-      "link": "https://www.straitstimes.com/world/un-warns-of-unprecedented-gaps-in-global-food-aid-amid-funding-cuts",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-02T15:24:12+00:00",
-      "score": 5,
-      "matched": [
-        "funding(+2)"
       ]
     }
   ]
