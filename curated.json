@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-12T18:20:10.430848+00:00",
+  "generated_at": "2026-06-12T21:30:53.531304+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 1,
     "Malay Mail Money (Finance)": 6,
-    "FMT Business (Finance)": 12,
+    "FMT Business (Finance)": 13,
     "Free Malaysia Today": 15,
-    "FMT Sports (Sports)": 11,
+    "FMT Sports (Sports)": 10,
     "Malay Mail Sports (Sports)": 8,
-    "The Verge": 7,
+    "The Verge": 6,
     "CNBC Markets (Finance)": 5,
-    "Al Jazeera (Global)": 7,
     "Malay Mail (Malaysia)": 9,
+    "Straits Times World (Global)": 9,
     "BBC Sport (Sports)": 5,
     "TechCrunch": 9,
-    "Straits Times World (Global)": 12,
-    "Channel NewsAsia (Global)": 1,
-    "Yahoo Top Stories (World)": 2
+    "Channel NewsAsia (Global)": 2,
+    "Al Jazeera (Global)": 9,
+    "Yahoo Top Stories (World)": 3
   },
   "items": [
     {
@@ -264,7 +264,7 @@
       "source": "WHO News (Global Health)",
       "section": "Health",
       "published": "2026-06-12T12:35:26+00:00",
-      "score": 19,
+      "score": 18,
       "matched": [
         "budget(+3)",
         "who(+2)",
@@ -291,11 +291,11 @@
       ]
     },
     {
-      "title": "SpaceX lifts off in record Wall Street debut",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/12/spacex-lifts-off-in-record-wall-street-debut",
+      "title": "Musk becomes world’s first trillionaire as SpaceX shares soar",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/06/13/musk-becomes-worlds-first-trillionaire-as-spacex-shares-soar",
       "source": "FMT Business (Finance)",
       "section": "Finance",
-      "published": "2026-06-12T14:36:28+00:00",
+      "published": "2026-06-12T21:20:06+00:00",
       "score": 15,
       "matched": [
         "ai(+3)",
@@ -318,6 +318,21 @@
         "inflation(+2)",
         "economy(+2)",
         "funding(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "SpaceX lifts off in record Wall Street debut",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/12/spacex-lifts-off-in-record-wall-street-debut",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-12T14:36:28+00:00",
+      "score": 14,
+      "matched": [
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "startup(+2)",
+        "launch(+2)",
         "who(+2)"
       ]
     },
@@ -382,20 +397,6 @@
       ]
     },
     {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-12T14:03:39+00:00",
-      "score": 12,
-      "matched": [
-        "ai(+3)",
-        "startup(+2)",
-        "funding(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Brace for impact: Malaysian retailers warn worst price increases still coming as US-Iran war festers",
       "link": "https://www.malaymail.com/news/money/2026/06/12/brace-for-impact-malaysian-retailers-warn-worse-price-increases-still-coming-as-us-iran-war-festers/223431",
       "source": "Malay Mail Money (Finance)",
@@ -410,17 +411,17 @@
       ]
     },
     {
-      "title": "World Cup fails to deliver expected travel boom in US as costs, visa hurdles deter fans",
-      "link": "https://www.malaymail.com/news/sports/2026/06/12/world-cup-fails-to-deliver-expected-travel-boom-in-us-as-costs-visa-hurdles-deter-fans/223475",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-12T13:00:00+00:00",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-12T14:03:39+00:00",
       "score": 11,
       "matched": [
-        "budget(+3)",
-        "economy(+2)",
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)",
+        "startup(+2)",
+        "funding(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -448,6 +449,20 @@
         "ai(+3)",
         "artificial intelligence(+3)",
         "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "World Cup fails to deliver expected travel boom in US as costs, visa hurdles deter fans",
+      "link": "https://www.malaymail.com/news/sports/2026/06/12/world-cup-fails-to-deliver-expected-travel-boom-in-us-as-costs-visa-hurdles-deter-fans/223475",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-12T13:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "budget(+3)",
+        "economy(+2)",
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -500,43 +515,6 @@
         "policy(+3)",
         "ceasefire(+3)",
         "inflation(+2)"
-      ]
-    },
-    {
-      "title": "US, Iran say deal closer than ever, as Pakistan signals final terms are set",
-      "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T16:38:40+00:00",
-      "score": 9,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Voters must punish Umno for betraying state govt, says Aminuddin",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/voters-must-punish-umno-for-betraying-state-govt-says-aminuddin",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-12T14:52:48+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "launch(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Religious leaders must fight AI-driven disinformation, says Sultan Nazrin",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/religious-leaders-must-fight-ai-driven-disinformation-says-sultan-nazrin",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-12T12:32:09+00:00",
-      "score": 9,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
       ]
     },
     {
@@ -671,15 +649,40 @@
       ]
     },
     {
-      "title": "AI replaces Paul the Octopus for 2026 World Cup tips",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/06/12/ai-replaces-paul-the-octopus-for-2026-world-cup-tips",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-12T13:02:31+00:00",
+      "title": "South African president seeks to stop impeachment probe over 'Farmgate' scandal",
+      "link": "https://www.straitstimes.com/world/south-african-president-seeks-to-stop-impeachment-probe-over-farmgate-scandal",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-12T19:03:22+00:00",
+      "score": 8,
+      "matched": [
+        "urgent(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Voters must punish Umno for betraying state govt, says Aminuddin",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/voters-must-punish-umno-for-betraying-state-govt-says-aminuddin",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-12T14:52:48+00:00",
+      "score": 8,
+      "matched": [
+        "election(+2)",
+        "launch(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Religious leaders must fight AI-driven disinformation, says Sultan Nazrin",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/religious-leaders-must-fight-ai-driven-disinformation-says-sultan-nazrin",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-12T12:32:09+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
-        "who(+2)"
+        "artificial intelligence(+3)"
       ]
     },
     {
@@ -719,19 +722,6 @@
         "parliament(+2)",
         "ministry(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Dzeko's last dance could be Bosnia's new beginning",
-      "link": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-12T07:09:48+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "who(+2)",
-        "football(+1)"
       ]
     },
     {
@@ -775,19 +765,6 @@
       ]
     },
     {
-      "title": "World Cup kicks off with co-hosts Mexico taking early advantage",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/12/world-cup-kicks-off-with-co-hosts-mexico-taking-early-advantage",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-11T21:05:58+00:00",
-      "score": 8,
-      "matched": [
-        "breaking(+3)",
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
       "title": "Costs rise as Man Utd agree new $550m funding deal",
       "link": "https://www.bbc.com/sport/football/articles/c77yj502z12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -809,6 +786,18 @@
       "score": 7,
       "matched": [
         "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "AI replaces Paul the Octopus for 2026 World Cup tips",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/06/12/ai-replaces-paul-the-octopus-for-2026-world-cup-tips",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-12T13:02:31+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
         "who(+2)"
       ]
     },
@@ -935,22 +924,88 @@
       ]
     },
     {
-      "title": "UAE to unlock billions of dollars for Iran, sources say",
-      "link": "https://www.straitstimes.com/world/middle-east/uae-to-unlock-billions-of-dollars-for-iran-sources-say",
-      "source": "Straits Times World (Global)",
+      "title": "Meta's Zuckerberg admits 'mistakes' made on AI transformation",
+      "link": "https://www.channelnewsasia.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-6180351",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-06-12T18:13:25+00:00",
+      "published": "2026-06-12T21:23:24+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+      "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T20:58:41+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Will there be a deal to end the Iran war this time?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T20:44:04+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
       ]
     },
     {
-      "title": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-12T20:38:09+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
       "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-12T18:06:35+00:00",
+      "published": "2026-06-12T20:21:14+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Main provisions of the 2015 Iran nuclear deal abandoned by Trump",
+      "link": "https://www.straitstimes.com/world/middle-east/main-provisions-of-the-2015-iran-nuclear-deal-abandoned-by-trump",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-12T19:18:22+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "How the Gulf will manage collective security after the Iran war ends",
+      "link": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T18:48:41+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "UAE to unlock billions of dollars for Iran, sources say",
+      "link": "https://www.straitstimes.com/world/middle-east/uae-to-unlock-billions-of-dollars-for-iran-sources-say",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-12T18:13:25+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
@@ -965,17 +1020,6 @@
       "score": 6,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-12T17:26:08+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1024,17 +1068,6 @@
       ]
     },
     {
-      "title": "Google to challenge German ruling saying it is liable for AI-generated false claims",
-      "link": "https://www.channelnewsasia.com/business/google-challenge-german-ruling-saying-it-liable-ai-generated-false-claims-6179931",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-12T16:46:58+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
       "link": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
       "source": "CNBC Markets (Finance)",
@@ -1066,83 +1099,6 @@
       "matched": [
         "football(+1)",
         "premier league(+2)"
-      ]
-    },
-    {
-      "title": "Govee’s rechargeable smart table lamp is down to $60",
-      "link": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-12T15:07:45+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-12T14:35:48+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
-      "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T14:24:03+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Ukraine hikes military pay and seeks more foreign fighters, Zelensky says",
-      "link": "https://www.straitstimes.com/world/europe/ukraine-hikes-military-pay-and-seeks-more-foreign-fighters-zelenskiy-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-12T13:58:19+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Video: AI models predict World Cup results",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-ai-models-predict-world-cup-results?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T13:29:12+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Perlis govt to build motor racing circuit in Chuping Valley",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/perlis-govt-to-build-motor-racing-circuit-in-chuping-valley",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-12T13:11:51+00:00",
-      "score": 6,
-      "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "Spain opens new probe into ex-PM Zapatero over jewellery found in office",
-      "link": "https://www.straitstimes.com/world/europe/spain-opens-new-probe-into-ex-pm-zapatero-over-jewellery-found-in-office",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-12T13:03:19+00:00",
-      "score": 6,
-      "matched": [
-        "corruption(+3)"
       ]
     },
     {
@@ -1219,25 +1175,125 @@
       ]
     },
     {
+      "title": "Wall Street climbs as SpaceX shares launch, oil slides on Mideast deal hopes",
+      "link": "https://www.channelnewsasia.com/world/stocks-wall-street-oil-prices-spacex-peace-deal-6180306",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-12T21:21:00+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
+      "link": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-12T21:18:06+00:00",
+      "score": 5,
+      "matched": [
+        "inflation(+2)"
+      ]
+    },
+    {
+      "title": "EU agrees launch of accession process for Ukraine and Moldova",
+      "link": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T20:58:19+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Real Madrid close in on Silva signing- Saturday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-12T20:47:10+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
       "title": "Trump name still must come down from Kennedy Center, judge says",
       "link": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-12T18:13:21+00:00",
+      "published": "2026-06-12T20:11:42+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
       ]
     },
     {
-      "title": "SpaceX IPO: Everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-06-12T17:41:21+00:00",
+      "published": "2026-06-12T20:04:38+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "US Congressman says Trump won’t send loads of money to Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T19:53:19+00:00",
+      "score": 5,
+      "matched": [
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Putin admits Ukraine attacks hitting Russian economy, society",
+      "link": "https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T19:30:36+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "UK court jails Palestinian Action activists on ‘terrorism’ charges",
+      "link": "https://www.aljazeera.com/news/2026/6/12/uk-court-jails-palestinian-action-activists-on-terrorism-charges?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T19:27:17+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Sam Bankman-Fried loses appeal to overturn fraud convictions and prison",
+      "link": "https://www.aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T18:43:30+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "UN adopts treaty setting standards for gig economy workers",
+      "link": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-12T18:12:14+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
       ]
     },
     {
@@ -1274,17 +1330,6 @@
       ]
     },
     {
-      "title": "Pro-Russian opposition party calls for Armenian election result annulment",
-      "link": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T16:25:54+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
       "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
       "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
       "source": "TechCrunch",
@@ -1304,17 +1349,6 @@
       "score": 5,
       "matched": [
         "election(+2)"
-      ]
-    },
-    {
-      "title": "SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire",
-      "link": "https://www.aljazeera.com/economy/2026/6/12/spacex-ipo-debuts-in-us-markets-musk-becomes-worlds-first-trillionaire?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T15:54:17+00:00",
-      "score": 5,
-      "matched": [
-        "economy(+2)"
       ]
     },
     {
@@ -1340,69 +1374,58 @@
       ]
     },
     {
-      "title": "Alarm as Ebola spreads into new areas of DR Congo",
-      "link": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T15:37:25+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "EU asylum database malfunctions on migration pact launch day",
-      "link": "https://www.straitstimes.com/world/europe/eu-asylum-database-malfunctions-on-migration-pact-launch-day",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-12T15:08:22+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "‘Trusted people’ now behind 80% of sex crimes, says cop",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/trusted-people-now-behind-80-of-sex-crimes-says-cop",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-12T14:00:32+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "SpaceX is now public",
-      "link": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
+      "title": "Govee’s rechargeable smart table lamp is down to $60",
+      "link": "https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-06-12T13:54:49+00:00",
+      "published": "2026-06-12T15:07:45+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Explainer-What is the Swiss population cap proposal and what would it mean for Europe?",
-      "link": "https://www.straitstimes.com/world/europe/explainer-what-is-the-swiss-population-cap-proposal-and-what-would-it-mean-for-europe",
-      "source": "Straits Times World (Global)",
+      "title": "Measles outbreak in Virginia county grows to nearly 90 cases",
+      "link": "https://www.yahoo.com/news/science/articles/measles-outbreak-virginia-county-grows-144808119.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-06-12T13:18:12+00:00",
+      "published": "2026-06-12T14:48:08+00:00",
       "score": 5,
       "matched": [
-        "economy(+2)"
+        "outbreak(+3)"
       ]
     },
     {
-      "title": "World’s first gig economy treaty adopted at UN labour organisation",
-      "link": "https://www.straitstimes.com/world/europe/un-labour-organization-sets-first-binding-employment-standards-for-gig-workers",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-12T12:28:21+00:00",
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-12T14:35:48+00:00",
       "score": 5,
       "matched": [
-        "economy(+2)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ukraine hikes military pay and seeks more foreign fighters, Zelensky says",
+      "link": "https://www.straitstimes.com/world/europe/ukraine-hikes-military-pay-and-seeks-more-foreign-fighters-zelenskiy-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-12T13:58:19+00:00",
+      "score": 5,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Perlis govt to build motor racing circuit in Chuping Valley",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/perlis-govt-to-build-motor-racing-circuit-in-chuping-valley",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-12T13:11:51+00:00",
+      "score": 5,
+      "matched": [
+        "breaking(+3)"
       ]
     },
     {
@@ -1417,28 +1440,6 @@
       ]
     },
     {
-      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
-      "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-12T12:02:56+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Ebola outbreak spreads to crowded displacement camp in Congo",
-      "link": "https://www.straitstimes.com/world/ebola-outbreak-spreads-to-crowded-displacement-camp-in-congo",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-12T11:53:40+00:00",
-      "score": 5,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
       "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
       "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
       "source": "TechCrunch",
@@ -1447,6 +1448,17 @@
       "score": 5,
       "matched": [
         "law(+3)"
+      ]
+    },
+    {
+      "title": "MAG chief Nasaruddin appointed to IATA board of governors",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/12/mag-chief-nasaruddin-appointed-to-iata-board-of-governors",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-12T10:35:10+00:00",
+      "score": 5,
+      "matched": [
+        "policy(+3)"
       ]
     },
     {
@@ -1484,6 +1496,17 @@
       ]
     },
     {
+      "title": "Mark Zuckerberg says you only need at least a dozen 'strong' AI researchers to make breakthroughs",
+      "link": "https://tech.yahoo.com/ai/meta-ai/articles/mark-zuckerberg-says-only-least-083002374.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-12T08:30:02+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Australia’s coach Popovic extends contract ahead of World Cup opener",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/12/australias-coach-popovic-extends-contract-ahead-of-world-cup-opener",
       "source": "FMT Sports (Sports)",
@@ -1505,17 +1528,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "ChatGPT hits a billion monthly app users despite souring public AI sentiment",
-      "link": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-12T06:07:18+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1574,17 +1586,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Trump is raising expectations that this time he really will close deal with Iran to wind down war",
-      "link": "https://www.yahoo.com/news/politics/articles/us--iran-us-trump-040515953.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-12T04:05:15+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
