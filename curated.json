@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:35:01.771881+00:00",
+  "generated_at": "2026-06-17T21:30:48.703859+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 9,
@@ -7,16 +7,16 @@
     "FMT Business (Finance)": 12,
     "Malay Mail Money (Finance)": 9,
     "Free Malaysia Today": 11,
-    "Al Jazeera (Global)": 9,
+    "Al Jazeera (Global)": 8,
+    "Straits Times World (Global)": 13,
     "FMT Sports (Sports)": 8,
-    "BBC Sport (Sports)": 7,
     "Malay Mail (Malaysia)": 13,
-    "Malay Mail Sports (Sports)": 9,
-    "Yahoo Top Stories (World)": 6,
-    "TechCrunch": 11,
-    "The Verge": 6,
-    "Channel NewsAsia (Global)": 5,
-    "CNBC Markets (Finance)": 3
+    "Malay Mail Sports (Sports)": 8,
+    "TechCrunch": 10,
+    "CNBC Markets (Finance)": 3,
+    "The Verge": 7,
+    "BBC Sport (Sports)": 5,
+    "Yahoo Top Stories (World)": 2
   },
   "items": [
     {
@@ -266,7 +266,7 @@
       "source": "FMT Business (Finance)",
       "section": "Finance",
       "published": "2026-06-17T13:44:47+00:00",
-      "score": 19,
+      "score": 18,
       "matched": [
         "policy(+3)",
         "war(+3)",
@@ -384,20 +384,6 @@
       ]
     },
     {
-      "title": "Hackers seeks private buyers for Novo Nordisk data after US$25m ransom fails",
-      "link": "https://www.malaymail.com/news/money/2026/06/17/hackers-seeks-private-buyers-for-novo-nordisk-data-after-us25m-ransom-fails/224128",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T13:00:00+00:00",
-      "score": 13,
-      "matched": [
-        "ai(+3)",
-        "cybersecurity(+3)",
-        "who(+2)",
-        "diabetes(+2)"
-      ]
-    },
-    {
       "title": "Oil drops below US$80 on US-Iran deal",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/17/oil-drops-below-us80-on-us-iran-deal",
       "source": "FMT Business (Finance)",
@@ -410,6 +396,20 @@
         "inflation(+2)",
         "economy(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Hackers seeks private buyers for Novo Nordisk data after US$25m ransom fails",
+      "link": "https://www.malaymail.com/news/money/2026/06/17/hackers-seeks-private-buyers-for-novo-nordisk-data-after-us25m-ransom-fails/224128",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T13:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)",
+        "who(+2)",
+        "diabetes(+2)"
       ]
     },
     {
@@ -452,19 +452,6 @@
         "war(+3)",
         "sanctions(+2)",
         "inflation(+2)"
-      ]
-    },
-    {
-      "title": "MOL gets US licence extension to negotiate purchase of sanctioned NIS oil firm",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/17/mol-gets-us-licence-extension-to-negotiate-purchase-of-sanctioned-nis-oil-firm",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T13:28:52+00:00",
-      "score": 11,
-      "matched": [
-        "war(+3)",
-        "sanctions(+2)",
-        "acquisition(+3)"
       ]
     },
     {
@@ -550,6 +537,32 @@
       ]
     },
     {
+      "title": "EU parliament backs law allowing offshore detention centres",
+      "link": "https://www.straitstimes.com/world/europe/eu-parliament-backs-law-allowing-offshore-detention-centres",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T16:14:21+00:00",
+      "score": 10,
+      "matched": [
+        "law(+3)",
+        "parliament(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "MOL gets US licence extension to negotiate purchase of sanctioned NIS oil firm",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/17/mol-gets-us-licence-extension-to-negotiate-purchase-of-sanctioned-nis-oil-firm",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T13:28:52+00:00",
+      "score": 10,
+      "matched": [
+        "war(+3)",
+        "sanctions(+2)",
+        "acquisition(+3)"
+      ]
+    },
+    {
       "title": "Bernardo Silva signs 2-year deal with Real Madrid",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/17/bernardo-silva-signs-2-year-deal-with-real-madrid",
       "source": "FMT Sports (Sports)",
@@ -562,20 +575,6 @@
         "champions league(+2)",
         "liverpool(+1)",
         "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "How Modric and Croatia continue to defy the odds",
-      "link": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-17T11:04:17+00:00",
-      "score": 10,
-      "matched": [
-        "war(+3)",
-        "who(+2)",
-        "football(+1)",
-        "champions league(+2)"
       ]
     },
     {
@@ -622,6 +621,18 @@
       ]
     },
     {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-17T20:17:38+00:00",
+      "score": 9,
+      "matched": [
+        "budget(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Young Palestinian women learn AI to tell stories of war on Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -630,42 +641,6 @@
       "score": 9,
       "matched": [
         "war(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Israel launches fresh airstrikes in Lebanon; Trump says he could still restart war",
-      "link": "https://www.yahoo.com/news/articles/g7-leaders-demand-ceasefire-lebanon-083140750.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-17T16:30:02+00:00",
-      "score": 9,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T14:15:22+00:00",
-      "score": 9,
-      "matched": [
-        "law(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "The best early Amazon Prime Day deals so far",
-      "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-17T14:12:57+00:00",
-      "score": 9,
-      "matched": [
-        "budget(+3)",
         "ai(+3)"
       ]
     },
@@ -696,17 +671,15 @@
       ]
     },
     {
-      "title": "Ruben Amorim takes charge of ailing AC Milan",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/17/ruben-amorim-takes-charge-of-ailing-ac-milan",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-16T20:54:23+00:00",
-      "score": 9,
+      "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
+      "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T20:26:56+00:00",
+      "score": 8,
       "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "champions league(+2)",
-        "manchester united(+1)"
+        "policy(+3)",
+        "inflation(+2)"
       ]
     },
     {
@@ -734,50 +707,26 @@
       ]
     },
     {
-      "title": "AI lab Odyssey valued at $1.45 billion in latest funding round",
-      "link": "https://www.channelnewsasia.com/business/ai-lab-odyssey-valued-145-billion-in-latest-funding-round-6190916",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Lebanon ceasefire lifts veil on scale of destruction and trauma",
+      "link": "https://www.straitstimes.com/world/middle-east/lebanon-ceasefire-lifts-veil-on-scale-of-destruction-and-trauma",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-17T16:32:18+00:00",
+      "published": "2026-06-17T14:24:24+00:00",
       "score": 8,
       "matched": [
-        "ai(+3)",
-        "funding(+2)"
+        "war(+3)",
+        "ceasefire(+3)"
       ]
     },
     {
-      "title": "Why are experts warning latest Ebola outbreak could be ‘worst ever’?",
-      "link": "https://www.aljazeera.com/news/2026/6/17/why-are-experts-warning-latest-ebola-outbreak-could-be-worst-ever?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-17T16:15:30+00:00",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-17T14:15:22+00:00",
       "score": 8,
       "matched": [
-        "funding(+2)",
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "BBC eyes compulsory redundancies in cost-cutting drive",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/17/bbc-eyes-compulsory-redundancies-in-cost-cutting-drive",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T14:01:24+00:00",
-      "score": 8,
-      "matched": [
-        "budget(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Beijing ramps up efforts to take yuan global",
-      "link": "https://www.malaymail.com/news/money/2026/06/17/beijing-ramps-up-efforts-to-take-yuan-global/224125",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "economy(+2)",
+        "law(+3)",
         "ai(+3)"
       ]
     },
@@ -861,27 +810,27 @@
       ]
     },
     {
-      "title": "Hamzah among opposition MPs seen at PAS HQ for meeting",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/17/hamzah-among-opposition-mps-seen-at-pas-hq-for-meeting",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-17T13:35:59+00:00",
+      "title": "BBC eyes compulsory redundancies in cost-cutting drive",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/17/bbc-eyes-compulsory-redundancies-in-cost-cutting-drive",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T14:01:24+00:00",
       "score": 7,
       "matched": [
-        "election(+2)",
+        "budget(+3)",
         "who(+2)"
       ]
     },
     {
-      "title": "RTMKlik plays defence as VPN users try to sneak in World Cup access",
-      "link": "https://www.malaymail.com/news/sports/2026/06/17/rtmklik-plays-defence-as-vpn-users-try-to-sneak-in-world-cup-access/224195",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-17T12:38:51+00:00",
+      "title": "Beijing ramps up efforts to take yuan global",
+      "link": "https://www.malaymail.com/news/money/2026/06/17/beijing-ramps-up-efforts-to-take-yuan-global/224125",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T13:00:00+00:00",
       "score": 7,
       "matched": [
-        "malaysia(+3)",
-        "football(+1)"
+        "economy(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -998,14 +947,105 @@
       ]
     },
     {
-      "title": "2-year Treasury yield rockets higher as many Fed officials signal possible hike this year",
-      "link": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T18:32:31+00:00",
+      "title": "Danilo says Brazil must ditch denial after Morocco wake-up call",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/18/danilo-says-brazil-must-ditch-denial-after-morocco-wake-up-call",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-17T21:28:17+00:00",
       "score": 6,
       "matched": [
-        "policy(+3)"
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Man Utd & Spurs move for Summerville - Thursday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/cwyknx34n7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-17T21:22:48+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
+      "link": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T20:42:27+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "SpaceX posts first losing day as stock sinks 5%, losing momentum after a multiday rally",
+      "link": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-17T20:10:12+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
+      "link": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-17T20:05:45+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Explainer-What challenges could stand in the way of a final US-Iran deal?",
+      "link": "https://www.straitstimes.com/world/middle-east/explainer-what-challenges-could-stand-in-the-way-of-a-final-us-iran-deal",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T19:19:22+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Epic wants to let you bring your Fortnite skins to other games",
+      "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-17T19:09:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-17T19:01:19+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nigeria's ex-oil minister Alison-Madueke cleared of all charges in UK corruption trial",
+      "link": "https://www.straitstimes.com/world/europe/nigerias-ex-oil-minister-alison-madueke-cleared-of-all-charges-in-uk-corruption-trial",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T18:59:23+00:00",
+      "score": 6,
+      "matched": [
+        "corruption(+3)"
       ]
     },
     {
@@ -1020,14 +1060,14 @@
       ]
     },
     {
-      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
-      "link": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T17:43:22+00:00",
+      "title": "Trump thanks China's Xi, Russia's Putin for being 'neutral' in Iran war",
+      "link": "https://www.straitstimes.com/world/europe/trump-thanks-chinas-xi-russias-putin-for-being-neutral-in-iran-war",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T18:14:22+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
+        "war(+3)"
       ]
     },
     {
@@ -1036,17 +1076,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-06-17T17:43:07+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
-      "link": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-17T17:30:07+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1064,6 +1093,17 @@
       ]
     },
     {
+      "title": "Trump says Netanyahu could use 'softer touch' in Lebanon",
+      "link": "https://www.straitstimes.com/world/middle-east/trump-says-netanyahu-could-use-softer-touch-in-lebanon",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T17:04:21+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
       "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
       "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
       "source": "TechCrunch",
@@ -1072,17 +1112,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims",
-      "link": "https://www.channelnewsasia.com/world/ukraine-russia-trump-g7-zelenskyy-6190886",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-17T16:52:28+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1108,14 +1137,14 @@
       ]
     },
     {
-      "title": "Exclusive-Meta head of product for 'AI for work' transformation is leaving company",
-      "link": "https://www.channelnewsasia.com/business/exclusive-meta-head-product-ai-work-transformation-leaving-company-6190926",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Trump says Iran bombing more could have caused 'international depression'",
+      "link": "https://www.straitstimes.com/world/middle-east/trump-says-he-did-not-want-to-see-economic-catastrophe-as-he-defends-iran-deal",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-17T16:34:28+00:00",
+      "published": "2026-06-17T16:34:22+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
+        "war(+3)"
       ]
     },
     {
@@ -1141,59 +1170,27 @@
       ]
     },
     {
-      "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
-      "link": "https://www.channelnewsasia.com/business/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-6190891",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-17T16:20:22+00:00",
+      "title": "Hamzah among opposition MPs seen at PAS HQ for meeting",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/17/hamzah-among-opposition-mps-seen-at-pas-hq-for-meeting",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-17T13:35:59+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T15:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Tehran War Diary: Shooting war at home",
-      "link": "https://www.aljazeera.com/video/witness/2026/6/17/tehran-war-diary-shooting-war-at-home?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-17T14:53:20+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "England enter World Cup fray as Ronaldo makes history bid",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/17/england-enter-world-cup-fray-as-ronaldo-makes-history-bid",
-      "source": "FMT Sports (Sports)",
+      "title": "RTMKlik plays defence as VPN users try to sneak in World Cup access",
+      "link": "https://www.malaymail.com/news/sports/2026/06/17/rtmklik-plays-defence-as-vpn-users-try-to-sneak-in-world-cup-access/224195",
+      "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
-      "published": "2026-06-17T12:54:34+00:00",
+      "published": "2026-06-17T12:38:51+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
+        "malaysia(+3)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T12:38:09+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1401,14 +1398,102 @@
       ]
     },
     {
-      "title": "US Federal Reserve holds rates steady, raises inflation expectations",
-      "link": "https://www.channelnewsasia.com/world/warsh-fed-decision-inflation-us-rates-6191166",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-06-17T18:22:23+00:00",
+      "published": "2026-06-17T21:10:46+00:00",
       "score": 5,
       "matched": [
-        "inflation(+2)"
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-17T20:43:28+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
+      "link": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-17T20:14:52+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "‘Send them back’ chants in EU Parliament after anti-migrant bill passes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/send-them-back-chants-in-eu-parliament-after-anti-migrant-bill-passes?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-17T19:42:58+00:00",
+      "score": 5,
+      "matched": [
+        "parliament(+2)"
+      ]
+    },
+    {
+      "title": "Identities of 8 crew members who died in B-52 crash are released",
+      "link": "https://www.yahoo.com/news/us/articles/identities-8-crew-members-died-172231656.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-17T17:22:31+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Congo Ebola response strained a month after WHO declares international emergency",
+      "link": "https://www.yahoo.com/news/world/articles/congo-ebola-response-strained-month-130600787.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-17T16:21:09+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Finnish parliament backs lifting ban on nuclear weapons",
+      "link": "https://www.straitstimes.com/world/europe/finnish-parliament-backs-lifting-ban-on-nuclear-weapons",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T16:10:41+00:00",
+      "score": 5,
+      "matched": [
+        "parliament(+2)"
+      ]
+    },
+    {
+      "title": "Ukraine working on additional $20 billion military aid from allies, defence minister says",
+      "link": "https://www.straitstimes.com/world/europe/ukraine-working-on-additional-20-billion-military-aid-from-allies-defence-minister-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T15:59:25+00:00",
+      "score": 5,
+      "matched": [
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Donald Trump settles lawsuit against niece over publication of tax records",
+      "link": "https://www.straitstimes.com/world/united-states/donald-trump-settles-lawsuit-against-niece-over-publication-of-tax-records",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T15:45:40+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
       ]
     },
     {
@@ -1423,25 +1508,70 @@
       ]
     },
     {
-      "title": "Northern Lebanon airport revival brings economic hope for the region",
-      "link": "https://www.aljazeera.com/news/2026/6/17/northern-lebanon-airport-revival-brings-economic-hope-for-the-region?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Iranians see little chance of life improving as interim deal halts war with US",
+      "link": "https://www.straitstimes.com/world/middle-east/iranians-see-little-chance-of-life-improving-as-interim-deal-halts-war-with-us",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-17T15:03:44+00:00",
+      "published": "2026-06-17T15:14:37+00:00",
       "score": 5,
       "matched": [
-        "economy(+2)"
+        "war(+3)"
       ]
     },
     {
-      "title": "Olympic medallist Simpson collapses at mile event",
-      "link": "https://www.bbc.com/sport/athletics/articles/c932gj9454eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-17T14:53:33+00:00",
+      "title": "Trump says negotiations with Anthropic are 'going fine'",
+      "link": "https://www.straitstimes.com/world/trump-says-negotiations-with-anthropic-are-going-fine",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T15:09:30+00:00",
       "score": 5,
       "matched": [
-        "olympic(+2)"
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-17T15:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "At G7, Macron says he expects progress on broadening access to Anthropic's Mythos",
+      "link": "https://www.straitstimes.com/world/g7-leaders-vow-closer-ties-on-ai-as-they-hash-out-trusted-partners-scheme",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-17T14:59:20+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "England enter World Cup fray as Ronaldo makes history bid",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/17/england-enter-world-cup-fray-as-ronaldo-makes-history-bid",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-17T12:54:34+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-17T12:38:09+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1480,30 +1610,7 @@
       ]
     },
     {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T11:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Can Bellingham become England's superstar once more at the World Cup?",
-      "link": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-17T10:06:19+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Real Madrid sign Silva on free transfer",
+      "title": "Real Madrid sign Silva on free after Man City exit",
       "link": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
@@ -1513,109 +1620,6 @@
         "who(+2)",
         "football(+1)"
       ]
-    },
-    {
-      "title": "England begin World Cup bid as Ronaldo set for record-equalling sixth appearance",
-      "link": "https://www.malaymail.com/news/sports/2026/06/17/england-begin-world-cup-bid-as-ronaldo-set-for-record-equalling-sixth-appearance/224165",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-17T08:04:34+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "US, Trump have changed to more realistic view of war in Ukraine, Canada's Carney says",
-      "link": "https://www.yahoo.com/news/articles/us-trump-changed-more-realistic-065610745.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-17T06:56:10+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Oklahoma election results: Latest on races for House, Senate, governor",
-      "link": "https://www.yahoo.com/news/politics/articles/oklahoma-election-results-latest-races-103115904.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-17T10:31:15+00:00",
-      "score": 4,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Woman who underwent double mastectomy at 14 tells surgeon, 'You stole my girlhood'",
-      "link": "https://www.yahoo.com/news/us/articles/woman-underwent-double-mastectomy-15-210013479.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-16T21:00:13+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "About Mike DeWine, the Republican Ohio governor who has called for an end to the death penalty",
-      "link": "https://www.yahoo.com/news/politics/articles/mike-dewine-republican-ohio-governor-200535108.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-16T20:05:35+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Chick-fil-A's reign is over. See who is now the top fast food chain",
-      "link": "https://finance.yahoo.com/small-business/articles/chick-fil-reign-over-see-200325347.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-16T20:03:25+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
-      "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T18:20:06+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Social media’s next evolution: User-controlled algorithms",
-      "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-17T18:19:48+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
-      "link": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-17T18:08:12+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Thick black smoke towers over Paris skyline after warehouse blaze",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thick-black-smoke-towers-over-paris-skyline-after-warehouse-blaze?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-17T18:06:39+00:00",
-      "score": 3,
-      "matched": []
     }
   ]
 }
