@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-23T18:21:15.641055+00:00",
+  "generated_at": "2026-06-23T21:30:50.781572+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 1,
     "Malay Mail Money (Finance)": 6,
-    "FMT Business (Finance)": 16,
+    "FMT Business (Finance)": 15,
     "Malay Mail (Malaysia)": 13,
     "Free Malaysia Today": 10,
-    "The Verge": 7,
-    "FMT Sports (Sports)": 13,
+    "FMT Sports (Sports)": 9,
+    "The Verge": 8,
     "Malay Mail Sports (Sports)": 3,
-    "CNBC Markets (Finance)": 2,
-    "TechCrunch": 6,
-    "BBC Sport (Sports)": 8,
-    "Straits Times World (Global)": 9,
-    "Yahoo Top Stories (World)": 5,
-    "Al Jazeera (Global)": 8,
+    "CNBC Markets (Finance)": 3,
+    "Al Jazeera (Global)": 12,
+    "TechCrunch": 7,
+    "BBC Sport (Sports)": 10,
     "Malaysiakini (EN News)": 1,
-    "Channel NewsAsia (Global)": 2
+    "Yahoo Top Stories (World)": 2,
+    "Channel NewsAsia (Global)": 1,
+    "Straits Times World (Global)": 9
   },
   "items": [
     {
@@ -267,7 +267,7 @@
       "source": "FMT Business (Finance)",
       "section": "Finance",
       "published": "2026-06-23T14:17:41+00:00",
-      "score": 16,
+      "score": 15,
       "matched": [
         "policy(+3)",
         "ceasefire(+3)",
@@ -380,45 +380,6 @@
       ]
     },
     {
-      "title": "The best Prime Day deals we found on our favorite gear",
-      "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T18:14:44+00:00",
-      "score": 11,
-      "matched": [
-        "budget(+3)",
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "The best robot vacuum deals available during Prime Day",
-      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T17:42:13+00:00",
-      "score": 11,
-      "matched": [
-        "budget(+3)",
-        "ai(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T17:00:00+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "election(+2)",
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Lightning, downpour, a 2-hour delay: bad weather hits the World Cup",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/lightning-downpour-a-2-hour-delay-bad-weather-hits-the-world-cup",
       "source": "FMT Sports (Sports)",
@@ -446,6 +407,19 @@
         "war(+3)",
         "ceasefire(+3)",
         "rice(-1)"
+      ]
+    },
+    {
+      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
+      "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T20:00:00+00:00",
+      "score": 10,
+      "matched": [
+        "ai(+3)",
+        "launch(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -544,11 +518,11 @@
       ]
     },
     {
-      "title": "SpaceX stock climbs 6%, rebounding from three-day losing streak",
+      "title": "SpaceX closes nearly 1% higher, snapping three-day losing streak",
       "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-23T17:07:05+00:00",
+      "published": "2026-06-23T20:05:57+00:00",
       "score": 9,
       "matched": [
         "breaking(+3)",
@@ -648,15 +622,27 @@
       ]
     },
     {
-      "title": "Something’s off with Midjourney’s pivot to body scanners",
-      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump's deal to end war",
+      "link": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-23T20:51:52+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Tesla claims driver ‘manually overrode self-driving’ in deadly Texas crash",
+      "link": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-06-23T15:56:35+00:00",
+      "published": "2026-06-23T19:11:04+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
-        "startup(+2)"
+        "who(+2)"
       ]
     },
     {
@@ -664,7 +650,7 @@
       "link": "https://www.cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-23T14:39:32+00:00",
+      "published": "2026-06-23T18:25:30+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
@@ -672,28 +658,15 @@
       ]
     },
     {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T13:00:00+00:00",
+      "title": "US Supreme Court backs Trump policy on green card holder rights",
+      "link": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T18:24:26+00:00",
       "score": 8,
       "matched": [
-        "ai(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "The World Cup stars being targeted by Premier League clubs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-23T12:20:12+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
+        "policy(+3)",
+        "court(+2)"
       ]
     },
     {
@@ -813,6 +786,18 @@
       ]
     },
     {
+      "title": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
+      "link": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T18:35:13+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "No extradition request for Bestinet founder Aminul, says Saifuddin",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/23/no-extradition-request-for-bestinet-founder-aminul-says-saifuddin",
       "source": "Free Malaysia Today",
@@ -849,99 +834,28 @@
       ]
     },
     {
-      "title": "Italy cannot hold election next April, economy minister says",
-      "link": "https://www.straitstimes.com/world/europe/italy-cannot-hold-election-next-april-economy-minister-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-23T15:05:51+00:00",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-23T13:00:00+00:00",
       "score": 7,
       "matched": [
-        "election(+2)",
-        "economy(+2)"
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
-      "title": "Supreme Court rules Rastafari man can't sue Louisiana prison officials who cut his dreadlocks",
-      "link": "https://www.yahoo.com/news/us/articles/us--supreme-court-prison-dreadlocks-141719645.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-23T14:17:19+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Gattuso returns to coaching with Lazio after Italy debacle",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/gattuso-returns-to-coaching-with-lazio-after-italy-debacle",
-      "source": "FMT Sports (Sports)",
+      "title": "The World Cup stars being targeted by Premier League clubs",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-06-23T14:00:05+00:00",
+      "published": "2026-06-23T12:20:12+00:00",
       "score": 7,
       "matched": [
         "who(+2)",
-        "champions league(+2)"
-      ]
-    },
-    {
-      "title": "Kenya minister says US-run Ebola facility plans halted after court order",
-      "link": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-23T13:30:54+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "Brazil's Flavio Bolsonaro plans to testify against proposed US tariffs",
-      "link": "https://www.straitstimes.com/world/brazils-flavio-bolsonaro-plans-to-testify-against-proposed-us-tariffs",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-23T12:46:22+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Health minister says MMC registers 854 overseas‑qualified doctors as specialists between January and May",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/23/health-minister-says-mmc-registers-854-overseasqualified-doctors-as-specialists-between-january-and-may/224898",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-06-23T12:25:40+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Woman in Kuching fined RM10,000 for acting as money mule in scam",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/23/woman-in-kuching-fined-rm10000-for-acting-as-money-mule-in-scam",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-23T12:21:56+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Stranded supertankers pass Hormuz as Gulf gas shipping shows early signs of recovery",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/23/stranded-supertankers-pass-hormuz-as-gulf-gas-shipping-shows-early-signs-of-recovery",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-23T09:41:17+00:00",
-      "score": 7,
-      "matched": [
-        "war(+3)",
-        "sanctions(+2)"
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
@@ -1005,8 +919,132 @@
       ]
     },
     {
+      "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy",
+      "link": "https://www.yahoo.com/news/politics/articles/us-court-dismisses-trump-administration-010657859.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-23T01:06:57+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "US Congress passes symbolic Iran war rebuke to Trump",
+      "link": "https://www.channelnewsasia.com/world/us-congress-trump-iran-war-vote-6204791",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-23T21:23:09+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Man Utd & Arsenal track Scott - Wednesday gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-23T20:55:15+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
+      "link": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T20:12:48+00:00",
+      "score": 6,
+      "matched": [
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "US Senate votes to halt Iran war in rebuke to Trump",
+      "link": "https://www.straitstimes.com/world/united-states/u-s-senate-votes-to-halt-iran-war-in-rebuke-to-trump",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-23T20:05:57+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
+      "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T19:50:29+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-23T19:49:55+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-23T19:43:56+00:00",
+      "score": 6,
+      "matched": [
+        "breach(+3)"
+      ]
+    },
+    {
+      "title": "Prime Day has served up several great deals on 4K TVs",
+      "link": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T19:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Displaced Lebanese return south under fragile ceasefire deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T19:04:20+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "These are my favorite Prime Day deals on earbuds and headphones",
+      "link": "https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T18:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
       "title": "Few in US say Iran war was worth it; Trump approval ties lowest of term, Reuters/Ipsos poll finds",
-      "link": "https://www.straitstimes.com/world/middle-east/few-in-us-say-iran-war-was-worth-it-trump-approval-ties-lowest-of-term-reuters/ipsos-poll-finds",
+      "link": "https://www.straitstimes.com/world/united-states/few-in-us-say-iran-war-was-worth-it-trump-approval-ties-lowest-of-term-reuters-ipsos-poll-finds",
       "source": "Straits Times World (Global)",
       "section": "World",
       "published": "2026-06-23T17:50:57+00:00",
@@ -1038,28 +1076,6 @@
       ]
     },
     {
-      "title": "The Pixel 10A finally costs what it should",
-      "link": "https://www.theverge.com/gadgets/950195/google-pixel-10a-prime-day-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Laptop prices suck these days, so here are some Prime Day deals that help a little",
-      "link": "https://www.theverge.com/gadgets/951105/prime-day-laptop-keyboards-mice-accessories-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T17:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
       "link": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1068,28 +1084,6 @@
       "score": 6,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "Sharp drops in Big Tech companies pull stocks lower on Wall Street",
-      "link": "https://www.channelnewsasia.com/world/stocks-wall-street-big-tech-ai-interest-rates-6204246",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-23T16:17:19+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports",
-      "link": "https://www.channelnewsasia.com/business/blackstone-plans-30-billion-investment-in-japan-ai-data-centres-nikkei-reports-6204281",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-23T16:07:46+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1104,82 +1098,51 @@
       ]
     },
     {
-      "title": "Tehran gets three-day holiday for Ali Khamenei funeral",
-      "link": "https://www.straitstimes.com/world/middle-east/tehran-gets-three-day-holiday-for-ali-khamenei-funeral",
+      "title": "Italy cannot hold election next April, economy minister says",
+      "link": "https://www.straitstimes.com/world/europe/italy-cannot-hold-election-next-april-economy-minister-says",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-23T15:13:00+00:00",
+      "published": "2026-06-23T15:05:51+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "election(+2)",
+        "economy(+2)"
       ]
     },
     {
-      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-      "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T15:12:37+00:00",
-      "score": 6,
-      "matched": [
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "Meta launches cheaper range of AI smart glasses starting at $390",
-      "link": "https://www.straitstimes.com/world/meta-launches-cheaper-range-of-ai-smart-glasses-starting-at-390",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-23T14:44:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Quiz: Name every England World Cup goalscorer since 2014",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
+      "title": "Gattuso returns to coaching with Lazio after Italy debacle",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/gattuso-returns-to-coaching-with-lazio-after-italy-debacle",
+      "source": "FMT Sports (Sports)",
       "section": "Sports",
-      "published": "2026-06-23T14:37:09+00:00",
+      "published": "2026-06-23T14:00:05+00:00",
       "score": 6,
       "matched": [
         "who(+2)",
-        "football(+1)"
+        "champions league(+2)"
       ]
     },
     {
-      "title": "US states sue California over landmark plastics packaging law",
-      "link": "https://www.yahoo.com/news/politics/articles/us-states-sue-california-over-134610636.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-23T13:46:10+00:00",
+      "title": "Health minister says MMC registers 854 overseas‑qualified doctors as specialists between January and May",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/23/health-minister-says-mmc-registers-854-overseasqualified-doctors-as-specialists-between-january-and-may/224898",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-23T12:25:40+00:00",
       "score": 6,
       "matched": [
-        "law(+3)"
+        "ministry(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "Who are the Ghana players England should look out for?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-23T13:09:46+00:00",
+      "title": "Woman in Kuching fined RM10,000 for acting as money mule in scam",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/23/woman-in-kuching-fined-rm10000-for-acting-as-money-mule-in-scam",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-23T12:21:56+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "The Latest: Pentagon asks Congress for roughly $80 billion to cover cost of Iran war",
-      "link": "https://www.yahoo.com/news/politics/articles/latest-pentagon-asks-congress-roughly-125943212.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-23T12:59:43+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1328,6 +1291,128 @@
       ]
     },
     {
+      "title": "Chelsea close in on Palestra as Alonso's first signing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-23T20:52:12+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Trump disputes Iran’s rejection of nuclear inspectors",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T20:11:28+00:00",
+      "score": 5,
+      "matched": [
+        "ministry(+2)"
+      ]
+    },
+    {
+      "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+      "link": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-23T20:03:56+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "US sanctions five Cuban companies, Castro relative",
+      "link": "https://www.straitstimes.com/world/us-sanctions-five-cuban-companies-castro-relative",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-23T19:56:39+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-23T19:19:44+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
+      "link": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T19:06:37+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "The Lenovo Legion Go S gaming handheld is $549 for Prime Day",
+      "link": "https://www.theverge.com/gadgets/955090/lenovo-legion-go-s-prime-day-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T19:00:39+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Cheap stuff that doesn’t suck and is under $25 for Prime Day",
+      "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T19:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Ice packs & F1 cooling vests - England ready for heat",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c4gyv081y14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-23T18:55:35+00:00",
+      "score": 5,
+      "matched": [
+        "formula 1(+2)"
+      ]
+    },
+    {
+      "title": "Federal appeals court allows the Trump administration to resume expanded use of speedy deportations",
+      "link": "https://www.yahoo.com/news/politics/articles/federal-appeals-court-allows-trump-184713436.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-23T18:47:13+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Zuckerberg reportedly wants a Polymarket clone — but without real money",
+      "link": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-23T18:31:25+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
       "title": "Who’s being left out of the World Cup?",
       "link": "https://www.aljazeera.com/video/the-take-2/2026/6/23/whos-being-left-out-of-the-world-cup?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1373,17 +1458,6 @@
       ]
     },
     {
-      "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
-      "link": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-23T16:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Climate-vulnerable countries push for global funding framework",
       "link": "https://www.straitstimes.com/world/climate-vulnerable-countries-push-for-global-funding-framework",
       "source": "Straits Times World (Global)",
@@ -1406,69 +1480,48 @@
       ]
     },
     {
-      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-      "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T15:09:38+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "US adds sanctions involving Prince Group over scams, Treasury says",
-      "link": "https://www.straitstimes.com/world/united-states/update-1-us-adds-sanctions-involving-prince-group-over-scams-treasury-says",
+      "title": "Tehran gets three-day holiday for Ali Khamenei funeral",
+      "link": "https://www.straitstimes.com/world/middle-east/tehran-gets-three-day-holiday-for-ali-khamenei-funeral",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-23T15:00:00+00:00",
+      "published": "2026-06-23T15:13:00+00:00",
       "score": 5,
       "matched": [
-        "sanctions(+2)"
+        "war(+3)"
       ]
     },
     {
-      "title": "More than 5,300 people still held in Myanmar scam centres: rights group",
-      "link": "https://www.aljazeera.com/news/2026/6/23/more-than-5300-people-still-held-in-myanmar-scam-centres-rights-group?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-23T14:55:27+00:00",
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-23T15:12:37+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "breach(+3)"
       ]
     },
     {
-      "title": "Republican-linked PACs funding Democratic US primaries: Why it matters",
-      "link": "https://www.aljazeera.com/news/2026/6/23/republican-linked-pac-money-funding-democratic-us-primaries-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Meta launches cheaper range of AI smart glasses starting at $390",
+      "link": "https://www.straitstimes.com/world/meta-launches-cheaper-range-of-ai-smart-glasses-starting-at-390",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-23T14:34:21+00:00",
+      "published": "2026-06-23T14:44:00+00:00",
       "score": 5,
       "matched": [
-        "funding(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Supreme Court sides with Trump administration on immigration case dealing with green card holders",
-      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-sides-trump-administration-143112520.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-23T14:31:12+00:00",
+      "title": "Quiz: Name every England World Cup goalscorer since 2014",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-23T14:37:09+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
-      "link": "https://www.yahoo.com/news/politics/articles/trump-says-proof-vandals-cut-002036376.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-23T12:43:00+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -1524,64 +1577,6 @@
       "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
       "published": "2026-06-23T00:36:28+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "World Cup exploits of Maradona and Messi have Argentina fans in raptures",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/world-cup-exploits-of-maradona-and-messi-have-argentina-fans-in-raptures",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-23T00:31:31+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T00:11:31+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Malaysia hockey’s problem is credibility",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/06/23/malaysia-hockeys-problem-is-credibility",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-22T23:30:58+00:00",
-      "score": 5,
-      "matched": [
-        "malaysia(+3)"
-      ]
-    },
-    {
-      "title": "Belgium’s Doku becomes father after World Cup controversy",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/belgiums-doku-becomes-father-after-world-cup-controversy",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-22T22:21:46+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Missed penalty spurred ‘very angry’ Messi to World Cup history",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/23/missed-penalty-spurred-very-angry-messi-to-world-cup-history",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-22T21:51:19+00:00",
       "score": 5,
       "matched": [
         "who(+2)",
