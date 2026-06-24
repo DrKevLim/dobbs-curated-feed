@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-24T18:08:25.604388+00:00",
+  "generated_at": "2026-06-24T21:30:43.367540+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 1,
-    "The Verge": 9,
+    "The Verge": 7,
     "Malay Mail (Malaysia)": 8,
     "FMT Business (Finance)": 15,
     "Malay Mail Money (Finance)": 7,
     "Free Malaysia Today": 13,
     "FMT Sports (Sports)": 8,
-    "Straits Times World (Global)": 10,
-    "Malay Mail Sports (Sports)": 3,
-    "Channel NewsAsia (Global)": 2,
-    "Al Jazeera (Global)": 4,
+    "Straits Times World (Global)": 13,
     "CNBC Markets (Finance)": 2,
+    "Malay Mail Sports (Sports)": 3,
     "Malaysiakini (EN News)": 3,
-    "TechCrunch": 11,
-    "Yahoo Top Stories (World)": 3,
-    "BBC Sport (Sports)": 11
+    "TechCrunch": 8,
+    "BBC Sport (Sports)": 13,
+    "Al Jazeera (Global)": 6,
+    "Channel NewsAsia (Global)": 2,
+    "Yahoo Top Stories (World)": 1
   },
   "items": [
     {
@@ -273,34 +273,6 @@
       ]
     },
     {
-      "title": "Stocks steady after tech rout, Brent falls below US$75",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/24/stocks-steady-after-tech-rout-brent-falls-below-us75",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-24T14:17:56+00:00",
-      "score": 13,
-      "matched": [
-        "war(+3)",
-        "inflation(+2)",
-        "ai(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Summer Davos has a warning: AI alone won’t save the global economy",
-      "link": "https://www.malaymail.com/news/money/2026/06/24/summer-davos-has-a-warning-ai-alone-wont-save-the-global-economy/224975",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-06-24T13:00:00+00:00",
-      "score": 13,
-      "matched": [
-        "war(+3)",
-        "economy(+2)",
-        "ai(+3)",
-        "covid(+2)"
-      ]
-    },
-    {
       "title": "Seoul bounces as Asian markets look to recover from rout",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/24/seoul-bounces-as-asian-markets-look-to-recover-from-rout",
       "source": "FMT Business (Finance)",
@@ -340,6 +312,34 @@
         "war(+3)",
         "inflation(+2)",
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "Stocks steady after tech rout, Brent falls below US$75",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/24/stocks-steady-after-tech-rout-brent-falls-below-us75",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-24T14:17:56+00:00",
+      "score": 12,
+      "matched": [
+        "war(+3)",
+        "inflation(+2)",
+        "ai(+3)",
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Summer Davos has a warning: AI alone won’t save the global economy",
+      "link": "https://www.malaymail.com/news/money/2026/06/24/summer-davos-has-a-warning-ai-alone-wont-save-the-global-economy/224975",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-06-24T13:00:00+00:00",
+      "score": 12,
+      "matched": [
+        "war(+3)",
+        "economy(+2)",
+        "ai(+3)",
+        "covid(+2)"
       ]
     },
     {
@@ -401,6 +401,19 @@
       ]
     },
     {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-24T19:36:46+00:00",
+      "score": 11,
+      "matched": [
+        "policy(+3)",
+        "ai(+3)",
+        "funding(+2)"
+      ]
+    },
+    {
       "title": "The top tech Prime Day deals to shop on day two",
       "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
       "source": "The Verge",
@@ -410,19 +423,6 @@
       "matched": [
         "budget(+3)",
         "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Russian anti-war politician jailed for seven years over social media posts",
-      "link": "https://www.straitstimes.com/world/europe/russian-politician-who-favours-ukraine-ceasefire-is-jailed-for-seven-years-over-social-media-posts",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T14:41:15+00:00",
-      "score": 11,
-      "matched": [
-        "war(+3)",
-        "ceasefire(+3)",
         "who(+2)"
       ]
     },
@@ -437,6 +437,19 @@
         "breaking(+3)",
         "ai(+3)",
         "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Russian anti-war politician jailed for seven years over social media posts",
+      "link": "https://www.straitstimes.com/world/europe/russian-politician-who-favours-ukraine-ceasefire-is-jailed-for-seven-years-over-social-media-posts",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T14:41:15+00:00",
+      "score": 10,
+      "matched": [
+        "war(+3)",
+        "ceasefire(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -559,55 +572,15 @@
       ]
     },
     {
-      "title": "Insurance industry defends premium hikes amid soaring medical inflation",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/insurance-industry-defends-premium-hikes-amid-soaring-medical-inflation",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-24T14:37:34+00:00",
-      "score": 9,
-      "matched": [
-        "parliament(+2)",
-        "inflation(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "OpenAI unveils AI chip Jalapeno",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/24/openai-unveils-ai-chip-jalapeno",
-      "source": "FMT Business (Finance)",
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+      "link": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-24T14:27:23+00:00",
+      "published": "2026-06-24T21:24:39+00:00",
       "score": 9,
       "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "Even Brazil’s goalkeeper Alisson can’t escape the country’s jersey colour wars",
-      "link": "https://www.malaymail.com/news/sports/2026/06/24/even-brazils-goalkeeper-alisson-cant-escape-the-countrys-jersey-colour-wars/224980",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-24T13:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "who(+2)",
-        "football(+1)",
-        "liverpool(+1)"
-      ]
-    },
-    {
-      "title": "Don’t teach me about loyalty, Puad tells Youth leader",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/dont-teach-me-about-loyalty-puad-tells-youth-leader",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-24T12:13:44+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "funding(+2)",
-        "who(+2)"
+        "budget(+3)",
+        "war(+3)"
       ]
     },
     {
@@ -676,7 +649,31 @@
       ]
     },
     {
-      "title": "Google’s new rules for the app store will allow alternative billing next week",
+      "title": "Brazil senator, Lula ally Wagner resigns from leadership amid corruption probe",
+      "link": "https://www.straitstimes.com/world/brazil-senator-lula-ally-wagner-resigns-from-leadership-amid-corruption-probe",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T21:11:15+00:00",
+      "score": 8,
+      "matched": [
+        "corruption(+3)",
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Trump to seek more than $1.4 billion in Ebola funding from Congress",
+      "link": "https://www.straitstimes.com/world/trump-to-seek-more-than-1-4-billion-in-ebola-funding-from-congress",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T19:06:19+00:00",
+      "score": 8,
+      "matched": [
+        "funding(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Google is finally opening the Play Store to outside payments",
       "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
       "source": "The Verge",
       "section": "Tech",
@@ -688,63 +685,55 @@
       ]
     },
     {
-      "title": "Global Ebola risk 'remains low', WHO chief says",
-      "link": "https://www.channelnewsasia.com/world/world-health-org-ebola-risk-low-drc-france-case-6207571",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-24T16:57:27+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Trump cancels housing bill signing, demands US voter ID law first",
-      "link": "https://www.aljazeera.com/economy/2026/6/24/trump-cancels-housing-bill-signing-demands-us-voter-id-law-first?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-24T16:20:08+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Review subsidised diesel quota for Sabahans, says DAP state chairman",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/review-subsidised-diesel-quota-for-sabahans-says-dap-state-chairman",
+      "title": "Insurance industry defends premium hikes amid soaring medical inflation",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/insurance-industry-defends-premium-hikes-amid-soaring-medical-inflation",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-06-24T15:24:29+00:00",
+      "published": "2026-06-24T14:37:34+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
+        "parliament(+2)",
+        "inflation(+2)",
         "who(+2)"
       ]
     },
     {
-      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center build-out",
-      "link": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-      "source": "CNBC Markets (Finance)",
+      "title": "OpenAI unveils AI chip Jalapeno",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/24/openai-unveils-ai-chip-jalapeno",
+      "source": "FMT Business (Finance)",
       "section": "Finance",
-      "published": "2026-06-24T14:56:13+00:00",
+      "published": "2026-06-24T14:27:23+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
-        "startup(+2)"
+        "artificial intelligence(+3)"
       ]
     },
     {
-      "title": "In beachside city, Lebanese try to shake off Israel-Hezbollah war",
-      "link": "https://www.straitstimes.com/world/middle-east/in-beachside-city-lebanese-try-to-shake-off-israel-hezbollah-war",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T13:20:00+00:00",
+      "title": "Even Brazil’s goalkeeper Alisson can’t escape the country’s jersey colour wars",
+      "link": "https://www.malaymail.com/news/sports/2026/06/24/even-brazils-goalkeeper-alisson-cant-escape-the-countrys-jersey-colour-wars/224980",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T13:00:00+00:00",
       "score": 8,
       "matched": [
-        "war(+3)",
-        "launch(+2)"
+        "election(+2)",
+        "who(+2)",
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Don’t teach me about loyalty, Puad tells Youth leader",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/dont-teach-me-about-loyalty-puad-tells-youth-leader",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-24T12:13:44+00:00",
+      "score": 8,
+      "matched": [
+        "election(+2)",
+        "funding(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -784,27 +773,39 @@
       ]
     },
     {
-      "title": "Romania's Social Democrats propose their own leader as prime minister in bid to avert snap election",
-      "link": "https://www.straitstimes.com/world/europe/romanias-social-democrats-propose-their-own-leader-as-prime-minister-in-bid-to-avert-snap-election",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T15:01:08+00:00",
+      "title": "GTA VI is a worrying sign for the future of physical games",
+      "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-24T18:42:07+00:00",
       "score": 7,
       "matched": [
-        "parliament(+2)",
-        "election(+2)"
+        "launch(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "Unemployed man to be charged with raping daughter over 5-year period",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/unemployed-man-to-be-charged-with-raping-daughter-over-5-year-period",
+      "title": "Review subsidised diesel quota for Sabahans, says DAP state chairman",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/review-subsidised-diesel-quota-for-sabahans-says-dap-state-chairman",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-06-24T14:56:29+00:00",
+      "published": "2026-06-24T15:24:29+00:00",
       "score": 7,
       "matched": [
-        "court(+2)",
+        "policy(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "In beachside city, Lebanese try to shake off Israel-Hezbollah war",
+      "link": "https://www.straitstimes.com/world/middle-east/in-beachside-city-lebanese-try-to-shake-off-israel-hezbollah-war",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T13:20:00+00:00",
+      "score": 7,
+      "matched": [
+        "war(+3)",
+        "launch(+2)"
       ]
     },
     {
@@ -892,11 +893,56 @@
       ]
     },
     {
-      "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
-      "link": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "link": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-06-24T18:01:39+00:00",
+      "published": "2026-06-24T21:18:44+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Spurs want West Ham's Fernandes after Tonali bid rejected",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy4ejzz5jneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T20:41:27+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "US public health agency concludes hantavirus response as outbreak eases",
+      "link": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-24T20:34:58+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "link": "https://www.channelnewsasia.com/business/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-6207956",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-24T20:30:48+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-24T20:09:45+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -958,17 +1004,6 @@
       ]
     },
     {
-      "title": "Figma now has AI motion graphics and shader tools",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-24T16:15:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Former Dutch defence minister to lead EU diplomatic service",
       "link": "https://www.straitstimes.com/world/europe/former-dutch-defence-minister-to-lead-eu-diplomatic-service",
       "source": "Straits Times World (Global)",
@@ -980,69 +1015,27 @@
       ]
     },
     {
-      "title": "The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet",
-      "link": "https://www.theverge.com/gadgets/955351/birdbuddy-pro-solar-prime-day-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-24T16:08:50+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "France detects first Ebola case outside Africa in current outbreak",
-      "link": "https://www.channelnewsasia.com/world/ebola-outbreak-france-drc-first-case-outside-africa-6207491",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-24T16:04:13+00:00",
-      "score": 6,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Mars Inc. Executive on Co-Creation, AI and the Future of Brand Building",
-      "link": "https://finance.yahoo.com/video/mars-inc-executive-co-creation-144500072.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-24T14:45:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Italy rebukes NATO’s Rutte over remarks on US use of bases in Iran war",
-      "link": "https://www.straitstimes.com/world/europe/italy-rebukes-natos-rutte-over-remarks-on-us-use-of-bases-in-iran-war",
+      "title": "Romania's Social Democrats propose their own leader as prime minister in bid to avert snap election",
+      "link": "https://www.straitstimes.com/world/europe/romanias-social-democrats-propose-their-own-leader-as-prime-minister-in-bid-to-avert-snap-election",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-24T13:56:14+00:00",
+      "published": "2026-06-24T15:01:08+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "parliament(+2)",
+        "election(+2)"
       ]
     },
     {
-      "title": "Russia wants to know if Trump has shifted his stance on Ukraine war after G7, Lavrov says",
-      "link": "https://www.straitstimes.com/world/europe/russia-wants-to-know-if-trump-has-shifted-his-stance-on-ukraine-war-after-g7-lavrov-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T12:46:22+00:00",
+      "title": "Unemployed man to be charged with raping daughter over 5-year period",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/24/unemployed-man-to-be-charged-with-raping-daughter-over-5-year-period",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-24T14:56:29+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-24T12:31:35+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1216,6 +1209,72 @@
       ]
     },
     {
+      "title": "Trading Day: Tech jitters smother inflation relief",
+      "link": "https://www.channelnewsasia.com/business/trading-day-tech-jitters-smother-inflation-relief-6208006",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-24T21:03:39+00:00",
+      "score": 5,
+      "matched": [
+        "inflation(+2)"
+      ]
+    },
+    {
+      "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+      "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-24T20:44:37+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Zimbabwe’s Senate approves amendment extending presidential term",
+      "link": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-24T20:43:33+00:00",
+      "score": 5,
+      "matched": [
+        "parliament(+2)"
+      ]
+    },
+    {
+      "title": "Zimbabwe's upper house approves bill to extend President Mnangwana's rule to 2030",
+      "link": "https://www.straitstimes.com/world/zimbabwes-upper-house-approves-bill-to-extend-president-mnangwanas-rule-to-2030",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T19:01:13+00:00",
+      "score": 5,
+      "matched": [
+        "parliament(+2)"
+      ]
+    },
+    {
+      "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
+      "link": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-24T18:10:16+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "LIVE: Scotland vs Brazil – World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/24/scotland-vs-brazil-live-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-24T18:00:53+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Riot now lets you enable its anti-cheat when you want to",
       "link": "https://www.theverge.com/games/956137/riot-games-vanguard-pre-check-anti-cheat-on-demand-valorant",
       "source": "The Verge",
@@ -1260,77 +1319,33 @@
       ]
     },
     {
-      "title": "52 Prime Day steals under $25 you won’t want to miss",
-      "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-24T16:09:26+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Czech constitutional court orders government to let president attend NATO summit",
-      "link": "https://www.straitstimes.com/world/europe/czech-constitutional-court-orders-government-to-let-president-attend-nato-summit",
+      "title": "France detects first Ebola case outside Africa in current outbreak",
+      "link": "https://www.straitstimes.com/world/europe/france-detects-first-ebola-case-outside-africa-in-current-outbreak",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-24T15:26:23+00:00",
+      "published": "2026-06-24T15:01:51+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "outbreak(+3)"
       ]
     },
     {
-      "title": "Global Ebola risk ‘remains low’, WHO chief says, after case confirmed in France",
-      "link": "https://www.straitstimes.com/world/europe/global-ebola-risk-remains-low-who-chief-says-after-case-confirmed-in-france",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T15:20:25+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "US-Iran deal may leave Netanyahu as biggest casualty",
-      "link": "https://www.straitstimes.com/world/middle-east/us-iran-deal-may-leave-netanyahu-as-biggest-casualty",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-24T14:21:08+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "A Marine who flew the F/A-18, F-16, F-22, and F-35 says one jet stood apart",
-      "link": "https://www.yahoo.com/news/science/articles/marine-flew-f-18-f-134836296.html",
+      "title": "Mars Inc. Executive on Co-Creation, AI and the Future of Brand Building",
+      "link": "https://finance.yahoo.com/video/mars-inc-executive-co-creation-144500072.html",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-06-24T13:48:36+00:00",
+      "published": "2026-06-24T14:45:00+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
-      "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-24T12:33:34+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
-      "link": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Italy rebukes NATO’s Rutte over remarks on US use of bases in Iran war",
+      "link": "https://www.straitstimes.com/world/europe/italy-rebukes-natos-rutte-over-remarks-on-us-use-of-bases-in-iran-war",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-24T11:25:40+00:00",
+      "published": "2026-06-24T13:56:14+00:00",
       "score": 5,
       "matched": [
         "war(+3)"
@@ -1443,38 +1458,69 @@
       ]
     },
     {
-      "title": "Man Utd & Arsenal track Scott - Wednesday gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
+      "title": "David scores with first touch for Canada",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c0qy7kg7927o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-06-23T20:55:15+00:00",
-      "score": 5,
+      "published": "2026-06-24T21:04:50+00:00",
+      "score": 4,
       "matched": [
-        "football(+1)",
-        "manchester united(+1)",
-        "arsenal(+1)"
+        "football(+1)"
       ]
     },
     {
-      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T19:49:55+00:00",
-      "score": 5,
+      "title": "England to face Scotland? World Cup knockout stage as it stands",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T21:04:02+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
+        "football(+1)"
       ]
     },
     {
-      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-      "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T19:43:56+00:00",
-      "score": 5,
+      "title": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T20:58:36+00:00",
+      "score": 4,
       "matched": [
-        "breach(+3)"
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Madibo given five-game ban for causing Kone leg break",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T19:24:12+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T18:42:01+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Villa fans get suspended ban for discriminatory behaviour",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly79e29l3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-24T17:43:02+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
       ]
     },
     {
@@ -1500,80 +1546,37 @@
       ]
     },
     {
-      "title": "England's James and Rice to have fitness assessed",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-24T16:00:05+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Spurs sign Dubravka on free transfer amid doubts over Vicario future",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w2de7gnj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-24T15:26:58+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Wales boss Bellamy in talks over Burnley job",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8624edp778o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-24T13:17:18+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Defender Gusto considering Chelsea future",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-24T11:23:18+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "A millennial who's tried more than 30 side hustles shares the most lucrative, the biggest flop, and the easiest way to get started",
-      "link": "https://finance.yahoo.com/small-business/articles/millennial-whos-tried-more-30-091504949.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "Czech constitutional court orders government to let president attend NATO summit",
+      "link": "https://www.straitstimes.com/world/europe/czech-constitutional-court-orders-government-to-let-president-attend-nato-summit",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-24T09:15:04+00:00",
+      "published": "2026-06-24T15:26:23+00:00",
+      "score": 4,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Global Ebola risk ‘remains low’, WHO chief says, after case confirmed in France",
+      "link": "https://www.straitstimes.com/world/europe/global-ebola-risk-remains-low-who-chief-says-after-case-confirmed-in-france",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T15:20:25+00:00",
       "score": 4,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-23T19:19:44+00:00",
+      "title": "US-Iran deal may leave Netanyahu as biggest casualty",
+      "link": "https://www.straitstimes.com/world/middle-east/us-iran-deal-may-leave-netanyahu-as-biggest-casualty",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-24T14:21:08+00:00",
       "score": 4,
       "matched": [
-        "launch(+2)"
+        "who(+2)"
       ]
-    },
-    {
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-24T18:05:04+00:00",
-      "score": 3,
-      "matched": []
     }
   ]
 }
