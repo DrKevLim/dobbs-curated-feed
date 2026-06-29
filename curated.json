@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:01:11.862643+00:00",
+  "generated_at": "2026-06-29T09:31:57.832709+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,17 +7,18 @@
     "Malay Mail (Malaysia)": 15,
     "FMT Business (Finance)": 13,
     "Free Malaysia Today": 9,
-    "Malay Mail Money (Finance)": 7,
+    "Malay Mail Money (Finance)": 6,
     "FMT Sports (Sports)": 14,
-    "CNBC Markets (Finance)": 4,
+    "CNBC Markets (Finance)": 2,
+    "Yahoo Finance (Finance)": 3,
     "Malay Mail Sports (Sports)": 4,
     "The Verge": 6,
     "TechCrunch": 6,
+    "Channel NewsAsia (Global)": 6,
+    "Yahoo Top Stories (World)": 4,
     "Al Jazeera (Global)": 8,
-    "Yahoo Top Stories (World)": 5,
     "BBC Sport (Sports)": 6,
-    "Straits Times World (Global)": 6,
-    "Channel NewsAsia (Global)": 5
+    "Straits Times World (Global)": 6
   },
   "items": [
     {
@@ -84,7 +85,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-06-29T03:30:00+00:00",
-      "score": 44,
+      "score": 43,
       "matched": [
         "policy(+3)",
         "law(+3)",
@@ -226,6 +227,21 @@
       ]
     },
     {
+      "title": "Global stocks perk up and oil cools as US and Iran halt hostilities",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/global-stocks-perk-up-and-oil-cools-as-us-and-iran-halt-hostilities",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T09:09:05+00:00",
+      "score": 16,
+      "matched": [
+        "breaking(+3)",
+        "ceasefire(+3)",
+        "inflation(+2)",
+        "economy(+2)",
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "South Korea to invest nearly US$1.2 trillion in chips, AI data centres",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/south-korea-to-invest-nearly-us1-2-trillion-in-chips-ai-data-centres",
       "source": "FMT Business (Finance)",
@@ -306,7 +322,7 @@
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-06-29T03:08:10+00:00",
-      "score": 14,
+      "score": 13,
       "matched": [
         "policy(+3)",
         "law(+3)",
@@ -397,20 +413,6 @@
       ]
     },
     {
-      "title": "As Malaysian Bar turns 80, it will continue to champion justice, stateless persons, persons with disabilities, says new president",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/as-malaysian-bar-turns-80-it-will-continue-to-champion-justice-stateless-persons-persons-with-disabilities-says-new-president/225556",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-06-29T02:00:00+00:00",
-      "score": 11,
-      "matched": [
-        "law(+3)",
-        "court(+2)",
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Why hasn’t the economy collapsed?",
       "link": "https://www.freemalaysiatoday.com/category/opinion/2026/06/29/why-hasnt-the-economy-collapsed",
       "source": "FMT Business (Finance)",
@@ -422,6 +424,32 @@
         "inflation(+2)",
         "economy(+2)",
         "covid(+2)"
+      ]
+    },
+    {
+      "title": "High Court rejects former directors’ bid to delay RM492,480 refund owed to umrah pilgrims",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/high-court-rejects-former-directors-bid-to-delay-rm492480-refund-owed-to-umrah-pilgrims/225677",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-29T09:26:01+00:00",
+      "score": 10,
+      "matched": [
+        "court(+2)",
+        "outbreak(+3)",
+        "covid(+2)"
+      ]
+    },
+    {
+      "title": "5 firms picked to provide telematics services to commercial vehicles",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/29/5-firms-picked-to-provide-telematics-services-to-commercial-vehicles",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-29T09:16:37+00:00",
+      "score": 10,
+      "matched": [
+        "ministry(+2)",
+        "ai(+3)",
+        "launch(+2)"
       ]
     },
     {
@@ -448,19 +476,6 @@
         "parliament(+2)",
         "war(+3)",
         "economy(+2)"
-      ]
-    },
-    {
-      "title": "Prabowo’s policy risks prompt global banks to pull cash out of Indonesia",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/prabowos-policy-risks-prompt-global-banks-to-pull-cash-out-of-indonesia",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T03:14:37+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)",
-        "who(+2)"
       ]
     },
     {
@@ -539,28 +554,15 @@
       ]
     },
     {
-      "title": "‘I’ve done my job’: Lead prosecutor leaves Syed Saddiq’s fate to Federal Court",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/ive-done-my-job-lead-prosecutor-leaves-syed-saddiqs-fate-to-federal-court/225595",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-06-29T02:11:59+00:00",
+      "title": "Prabowo’s policy risks prompt global banks to pull cash out of Indonesia",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/prabowos-policy-risks-prompt-global-banks-to-pull-cash-out-of-indonesia",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T03:14:37+00:00",
       "score": 9,
       "matched": [
-        "court(+2)",
-        "breach(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Johor BN to meet after survey projects only 35-seat victory",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/28/johor-bn-to-meet-after-survey-projects-only-35-seat-victory",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-28T14:46:08+00:00",
-      "score": 9,
-      "matched": [
-        "corruption(+3)",
-        "election(+2)",
+        "policy(+3)",
+        "economy(+2)",
         "who(+2)"
       ]
     },
@@ -575,6 +577,18 @@
         "ai(+3)",
         "who(+2)",
         "motogp(+2)"
+      ]
+    },
+    {
+      "title": "AI and white-collar America's nervous breakdown",
+      "link": "https://finance.yahoo.com/economy/articles/ai-white-collar-americas-nervous-090000890.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T09:00:00+00:00",
+      "score": 8,
+      "matched": [
+        "economy(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -655,18 +669,6 @@
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-06-29T03:43:33+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Cops open 3 investigation papers linked to Johor state polls",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/29/cops-open-3-investigation-papers-linked-to-johor-state-polls",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-29T03:03:48+00:00",
       "score": 8,
       "matched": [
         "law(+3)",
@@ -786,6 +788,42 @@
       ]
     },
     {
+      "title": "Fire tears through Subang Jaya apartment, four residents rescued after being trapped by thick smoke",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/fire-tears-through-subang-jaya-apartment-four-residents-rescued-after-being-trapped-by-thick-smoke/225673",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-29T09:13:20+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "New MOH rule compels medicine suppliers to report shortages from July 1, ensuring stability despite West Asia risks",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/new-moh-rule-compels-medicine-suppliers-to-report-shortages-from-july-1-ensuring-stability-despite-west-asia-risks/225672",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-06-29T09:08:51+00:00",
+      "score": 7,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Set up national registry for cerebral palsy, MP urges govt",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/29/set-up-national-registry-for-cerebral-palsy-mp-urges-govt",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-29T08:52:17+00:00",
+      "score": 7,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Mitra launches grants of up to RM50,000 to support 700 Indian entrepreneurs",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/29/mitra-launches-grants-of-up-to-rm50000-to-support-700-indian-entrepreneurs",
       "source": "Free Malaysia Today",
@@ -843,18 +881,6 @@
       "matched": [
         "court(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "PM Anwar to roll out redesigned Malaysian passport tomorrow, holograms and UV ink among 94 features",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/29/pm-anwar-to-roll-out-redesigned-malaysian-passport-tuesday-holograms-and-uv-ink-among-94-features/225649",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-06-29T06:05:57+00:00",
-      "score": 7,
-      "matched": [
-        "parliament(+2)",
-        "launch(+2)"
       ]
     },
     {
@@ -934,6 +960,39 @@
       ]
     },
     {
+      "title": "The AI boom is colliding with a new threat: severe weather",
+      "link": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T09:20:14+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Banks get creative and look further afield as AI-fueled debt soars",
+      "link": "https://www.channelnewsasia.com/business/banks-get-creative-and-look-further-afield-ai-fueled-debt-soars-6218331",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-29T09:05:54+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "South Korea unveils $880bn chip and AI investment plan",
+      "link": "https://finance.yahoo.com/technology/ai/articles/south-korea-unveils-1tn-chip-064644235.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-29T08:55:33+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "British American Tobacco’s cost-cutting hits 9,000 jobs",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/british-american-tobaccos-cost-cutting-hits-9000-jobs",
       "source": "FMT Business (Finance)",
@@ -967,6 +1026,28 @@
       ]
     },
     {
+      "title": "NVIDIA (NVDA) CEO Says National Security Takes Priority Over Commercial Opportunity",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-ceo-says-national-075441754.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T07:54:41+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ambarella (AMBA) Among Our High Growth Semiconductor Stocks, Here’s What Northland Securities Has to Say",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ambarella-amba-among-high-growth-075357586.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-06-29T07:53:57+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Stealing from the gods: India’s Ram Temple hit by corruption scandal",
       "link": "https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -975,17 +1056,6 @@
       "score": 6,
       "matched": [
         "corruption(+3)"
-      ]
-    },
-    {
-      "title": "South Korea unveils $1tn chip and AI investment plan",
-      "link": "https://finance.yahoo.com/technology/ai/articles/south-korea-unveils-1tn-chip-064644235.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-29T06:46:44+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1013,17 +1083,6 @@
       ]
     },
     {
-      "title": "The AI boom is colliding with a new threat: severe weather",
-      "link": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T05:00:01+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Saudi Arabia’s football federation president Al-Misehal stands down after World Cup exit",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/29/saudi-arabias-football-federation-president-al-misehal-stands-down-after-world-cup-exit",
       "source": "FMT Sports (Sports)",
@@ -1033,17 +1092,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
-      "link": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T04:09:09+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1068,6 +1116,17 @@
       "matched": [
         "who(+2)",
         "formula 1(+2)"
+      ]
+    },
+    {
+      "title": "Kpod user who drove against traffic, causing crash, jailed in first such case since etomidate listed as drug",
+      "link": "https://www.channelnewsasia.com/singapore/kpod-etomidate-driver-crash-jail-ban-6218271",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-29T09:19:12+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1149,17 +1208,6 @@
       ]
     },
     {
-      "title": "New IIA Malaysia, BAC partnership aims to grow country’s internal audit talent pool",
-      "link": "https://www.malaymail.com/news/money/2026/06/29/new-iia-malaysia-bac-partnership-aims-to-grow-countrys-internal-audit-talent-pool/225591",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T04:41:29+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
       "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1168,28 +1216,6 @@
       "score": 5,
       "matched": [
         "economy(+2)"
-      ]
-    },
-    {
-      "title": "China adds 20 Japanese entities to export blacklist: Commerce ministry",
-      "link": "https://www.channelnewsasia.com/east-asia/china-japan-export-blacklist-commerce-6217316",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-29T03:31:00+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "China adds 20 Japanese entities to export blacklist",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/29/china-adds-20-japanese-entities-to-export-blacklist",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T03:26:06+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
       ]
     },
     {
@@ -1249,17 +1275,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
-      "link": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-28T22:09:47+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1454,17 +1469,6 @@
       ]
     },
     {
-      "title": "Ireland upstage world champions India to win T20 series at home",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-28T21:37:49+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Princess Kate scales Britain’s highest peaks to raise money for cancer charity",
       "link": "https://www.straitstimes.com/world/europe/princess-kate-scales-britains-highest-peaks-to-raise-money-for-cancer-charity",
       "source": "Straits Times World (Global)",
@@ -1509,22 +1513,20 @@
       ]
     },
     {
-      "title": "A financial influencer called the FIRE movement a 'sham.' People who have made it work say she's missing the point.",
-      "link": "https://finance.yahoo.com/small-business/articles/financial-influencer-called-fire-movement-094502962.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-28T09:45:02+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Iran says it has met Oman on managing Hormuz",
-      "link": "https://www.straitstimes.com/world/middle-east/iran-says-it-has-met-oman-on-managing-hormuz",
+      "title": "On Greek island of Santorini, winemakers try to adapt to heat and drought",
+      "link": "https://www.straitstimes.com/world/europe/on-greek-island-of-santorini-winemakers-try-to-adapt-to-heat-and-drought",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-29T08:55:00+00:00",
+      "published": "2026-06-29T09:04:55+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "FIFA World Cup: Round of 32 schedule, predictions and latest news",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-29T09:03:17+00:00",
       "score": 3,
       "matched": []
     },
