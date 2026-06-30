@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-30T18:15:29.807532+00:00",
+  "generated_at": "2026-06-30T21:01:54.401172+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 1,
     "FMT Business (Finance)": 9,
     "Malay Mail (Malaysia)": 13,
-    "FMT Sports (Sports)": 10,
-    "Malay Mail Money (Finance)": 7,
+    "FMT Sports (Sports)": 9,
+    "Malay Mail Money (Finance)": 6,
     "Free Malaysia Today": 11,
+    "CNBC Markets (Finance)": 9,
     "BBC Sport (Sports)": 6,
-    "CNBC Markets (Finance)": 8,
-    "TechCrunch": 10,
-    "Al Jazeera (Global)": 10,
     "The Verge": 5,
+    "TechCrunch": 9,
     "Straits Times World (Global)": 8,
-    "Malay Mail Sports (Sports)": 8,
     "Channel NewsAsia (Global)": 2,
-    "Yahoo Top Stories (World)": 2
+    "Al Jazeera (Global)": 10,
+    "Yahoo Top Stories (World)": 4,
+    "Malay Mail Sports (Sports)": 8
   },
   "items": [
     {
@@ -548,16 +548,64 @@
       ]
     },
     {
+      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+      "link": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T20:38:17+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
       "title": "Villa among four Premier League clubs fined by Uefa",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-06-30T17:53:14+00:00",
+      "published": "2026-06-30T20:36:43+00:00",
       "score": 9,
       "matched": [
         "breach(+3)",
         "football(+1)",
         "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
+      "link": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T20:36:38+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare",
+      "link": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T20:03:58+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-30T19:24:51+00:00",
+      "score": 9,
+      "matched": [
+        "war(+3)",
+        "ai(+3)"
       ]
     },
     {
@@ -582,19 +630,6 @@
       "matched": [
         "budget(+3)",
         "war(+3)"
-      ]
-    },
-    {
-      "title": "No ‘backdoor’ roles for defeated BN candidates, insists Onn Hafiz",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/no-backdoor-roles-for-defeated-bn-candidates-insists-onn-hafiz",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-30T14:49:17+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "launch(+2)",
-        "who(+2)"
       ]
     },
     {
@@ -702,6 +737,54 @@
       ]
     },
     {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-30T20:33:48+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "UN chief says UN agency for Palestinian refugees nearing 'breaking point'",
+      "link": "https://www.straitstimes.com/world/middle-east/un-chief-says-un-agency-for-palestinian-refugees-nearing-breaking-point",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-06-30T20:15:30+00:00",
+      "score": 8,
+      "matched": [
+        "breaking(+3)",
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to restrict birthright citizenship",
+      "link": "https://www.channelnewsasia.com/world/supreme-court-rejects-trump-bid-restrict-birthright-citizenship-6222551",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-30T19:01:29+00:00",
+      "score": 8,
+      "matched": [
+        "policy(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+      "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T18:27:17+00:00",
+      "score": 8,
+      "matched": [
+        "inflation(+2)",
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Acti puts AI agents directly into your smartphone keyboard",
       "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
       "source": "TechCrunch",
@@ -711,18 +794,6 @@
       "matched": [
         "ai(+3)",
         "startup(+2)"
-      ]
-    },
-    {
-      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-      "link": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-30T17:14:00+00:00",
-      "score": 8,
-      "matched": [
-        "inflation(+2)",
-        "ai(+3)"
       ]
     },
     {
@@ -750,63 +821,16 @@
       ]
     },
     {
-      "title": "Libby will filter out AI content, kind of",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-06-30T15:30:00+00:00",
+      "title": "No ‘backdoor’ roles for defeated BN candidates, insists Onn Hafiz",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/no-backdoor-roles-for-defeated-bn-candidates-insists-onn-hafiz",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-30T14:49:17+00:00",
       "score": 8,
       "matched": [
-        "ai(+3)",
+        "election(+2)",
+        "launch(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "5 appointed to MACC oversight bodies for 2026-2029 term",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/5-appointed-to-macc-oversight-bodies-for-2026-2029-term",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-30T14:44:18+00:00",
-      "score": 8,
-      "matched": [
-        "parliament(+2)",
-        "corruption(+3)"
-      ]
-    },
-    {
-      "title": "Penang govt has no power to approve reclamation, court rules",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/penang-govt-has-no-power-to-approve-reclamation-court-rules",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-30T13:35:49+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "MACC arrests senior enforcement officer over alleged RM50,000 bribe",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/macc-arrests-senior-enforcement-officer-over-alleged-rm50000-bribe",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-30T13:33:06+00:00",
-      "score": 8,
-      "matched": [
-        "corruption(+3)",
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "WTO must adapt to stay relevant, says Johari",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/wto-must-adapt-to-stay-relevant-says-johari",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-06-30T13:00:50+00:00",
-      "score": 8,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)"
       ]
     },
     {
@@ -848,14 +872,50 @@
       ]
     },
     {
-      "title": "UK’s Starmer announces 300-billion-pound defence investment plan",
-      "link": "https://www.aljazeera.com/economy/2026/6/30/uks-starmer-announces-300-billion-pound-defence-investment-plan?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-30T13:14:04+00:00",
+      "title": "5 appointed to MACC oversight bodies for 2026-2029 term",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/5-appointed-to-macc-oversight-bodies-for-2026-2029-term",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-30T14:44:18+00:00",
       "score": 7,
       "matched": [
-        "ministry(+2)",
+        "parliament(+2)",
+        "corruption(+3)"
+      ]
+    },
+    {
+      "title": "Penang govt has no power to approve reclamation, court rules",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/penang-govt-has-no-power-to-approve-reclamation-court-rules",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-30T13:35:49+00:00",
+      "score": 7,
+      "matched": [
+        "law(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "MACC arrests senior enforcement officer over alleged RM50,000 bribe",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/macc-arrests-senior-enforcement-officer-over-alleged-rm50000-bribe",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-30T13:33:06+00:00",
+      "score": 7,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "WTO must adapt to stay relevant, says Johari",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/06/30/wto-must-adapt-to-stay-relevant-says-johari",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-06-30T13:00:50+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
         "economy(+2)"
       ]
     },
@@ -934,6 +994,18 @@
       ]
     },
     {
+      "title": "US retailers frontload China orders for holiday season, shipping firms say",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-retailers-frontload-china-orders-024505038.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-30T02:45:05+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Bloodied but unbowed: Sinner, Djokovic survive Wimbledon scares",
       "link": "https://www.malaymail.com/news/sports/2026/06/30/bloodied-but-unbowed-sinner-djokovic-survive-wimbledon-scares/225718",
       "source": "Malay Mail Sports (Sports)",
@@ -947,29 +1019,91 @@
       ]
     },
     {
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-29T20:55:50+00:00",
-      "score": 7,
+      "title": "Stocks end quarter with big gains as oil tumbles the most in years; gold, yen also fall",
+      "link": "https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-30T20:47:28+00:00",
+      "score": 6,
       "matched": [
-        "ai(+3)",
-        "startup(+2)"
+        "breaking(+3)"
       ]
     },
     {
-      "title": "Martinelli scores late as Brazil down Japan to reach World Cup last 16",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/06/30/martinelli-late-show-as-brazil-down-japan-to-reach-world-cup-last-16",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-29T20:52:45+00:00",
-      "score": 7,
+      "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+      "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T20:41:21+00:00",
+      "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)",
-        "manchester united(+1)",
-        "arsenal(+1)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
+      "link": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-30T20:00:47+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
+      "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-06-30T20:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "TikTok settles with minor plaintiff ahead of second individual trial over social media harm to children, law firm says",
+      "link": "https://www.channelnewsasia.com/business/tiktok-settles-minor-plaintiff-ahead-second-individual-trial-over-social-media-harm-children-law-firm-says-6222726",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-06-30T19:57:42+00:00",
+      "score": 6,
+      "matched": [
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Lebanon’s fragile ceasefire: 3 months later",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/lebanons-fragile-ceasefire-3-months-later?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-30T19:25:08+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-30T19:02:38+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
+      "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-06-30T18:53:10+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1017,14 +1151,15 @@
       ]
     },
     {
-      "title": "Anthropic unveils 'Claude Science' AI platform for scientific research",
-      "link": "https://www.channelnewsasia.com/business/anthropic-unveils-claude-science-ai-platform-scientific-research-6222366",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-30T17:02:42+00:00",
+      "title": "Coventry boss Lampard signs new contract to 2029",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-30T17:17:15+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
@@ -1080,85 +1215,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Tottenham goalkeeper Kinsky signs new deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8r21kp8xvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-06-30T15:07:12+00:00",
-      "score": 6,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
-      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-      "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-30T15:00:01+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-30T15:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Out of line? EU probes Invisalign dental braces maker for antitrust breach",
-      "link": "https://www.straitstimes.com/world/europe/out-of-line-eu-probes-invisalign-dental-braces-maker-for-antitrust-breach",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-30T14:34:30+00:00",
-      "score": 6,
-      "matched": [
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-30T14:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "The curse of host nations: Can a French prodigy end his country’s 41-year Tour de France drought?",
-      "link": "https://www.malaymail.com/news/sports/2026/06/30/the-curse-of-host-nations-can-a-french-prodigy-end-his-countrys-41-year-tour-de-france-drought/225759",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-30T13:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "football(+1)",
-        "champions league(+2)"
-      ]
-    },
-    {
-      "title": "Sultan Ibrahim hails Johor Motorsports Racing’s historic Pro-Am triumph at Spa-Francorchamps endurance race",
-      "link": "https://www.malaymail.com/news/sports/2026/06/30/sultan-ibrahim-hails-johor-motorsports-racings-historic-pro-am-triumph-at-spa-francorchamps-endurance-race/225856",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-06-30T12:19:50+00:00",
-      "score": 6,
-      "matched": [
-        "malaysia(+3)"
       ]
     },
     {
@@ -1277,18 +1333,6 @@
       ]
     },
     {
-      "title": "Project eyes Zimbabwe’s first gas-to-power production",
-      "link": "https://www.malaymail.com/news/money/2026/06/30/project-eyes-zimbabwes-first-gas-to-power-production/225626",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-06-29T23:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "economy(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
       "title": "Ancelotti says never doubted ‘suffering’ Brazil would score",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/06/30/ancelotti-says-never-doubted-suffering-brazil-would-score",
       "source": "FMT Sports (Sports)",
@@ -1299,6 +1343,40 @@
         "premier league(+2)",
         "manchester united(+1)",
         "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "PSG set Barcola price - Wednesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-06-30T20:23:44+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+      "link": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-30T19:11:29+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
+      "link": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-06-30T18:09:05+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
       ]
     },
     {
@@ -1336,17 +1414,6 @@
       ]
     },
     {
-      "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
-      "link": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-30T17:28:37+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "Toddler pulled from debris six days after Venezuelan earthquakes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/toddler-pulled-from-debris-six-days-after-venezuelan-earthquakes?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1355,6 +1422,17 @@
       "score": 5,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "It started with one viral influencer complaining about Russia’s economy. Now a record 60% of Russians are pessimistic about their country’s outlook",
+      "link": "https://finance.yahoo.com/economy/articles/started-one-viral-influencer-complaining-171427496.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-06-30T17:14:27+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
       ]
     },
     {
@@ -1381,17 +1459,6 @@
       ]
     },
     {
-      "title": "Major egg producers settle price inflation probe for $3.3 million",
-      "link": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-30T16:58:13+00:00",
-      "score": 5,
-      "matched": [
-        "inflation(+2)"
-      ]
-    },
-    {
       "title": "The path from Gaza to Trump’s return",
       "link": "https://www.aljazeera.com/video/the-take-2/2026/6/30/the-path-from-gaza-to-trumps-return?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1403,55 +1470,11 @@
       ]
     },
     {
-      "title": "US Supreme Court to hear Apple appeal of contempt in Epic Games lawsuit",
-      "link": "https://www.channelnewsasia.com/business/us-supreme-court-hear-apple-appeal-contempt-in-epic-games-lawsuit-6222246",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-06-30T16:17:10+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Supreme Court strikes down limits on political parties' campaign spending, in win for GOP",
-      "link": "https://www.cnbc.com/2026/06/30/supreme-court-campaign-finance-republican.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-06-30T15:59:57+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "Supreme Court spurns Trump on birthright citizenship, allows transgender sports bans",
       "link": "https://www.straitstimes.com/world/supreme-court-spurns-trump-on-birthright-citizenship-allows-transgender-sports-bans",
       "source": "Straits Times World (Global)",
       "section": "World",
       "published": "2026-06-30T15:55:27+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Supreme Court rejects Trump bid to restrict birthright citizenship",
-      "link": "https://www.straitstimes.com/world/supreme-court-rejects-trump-bid-to-restrict-birthright-citizenship",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-06-30T15:25:27+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "SCOTUS rules against Trump’s order limiting birthright citizenship",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-30T15:25:09+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
@@ -1469,17 +1492,6 @@
       ]
     },
     {
-      "title": "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
-      "link": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-06-30T15:06:12+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
       "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
       "source": "TechCrunch",
@@ -1491,47 +1503,70 @@
       ]
     },
     {
-      "title": "The Supreme Court stops Trump’s attempt to end birthright citizenship",
-      "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
-      "source": "The Verge",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-06-30T14:44:42+00:00",
+      "published": "2026-06-30T15:00:00+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "US Supreme Court rules against Trump order to end birthright citizenship",
-      "link": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Out of line? EU probes Invisalign dental braces maker for antitrust breach",
+      "link": "https://www.straitstimes.com/world/europe/out-of-line-eu-probes-invisalign-dental-braces-maker-for-antitrust-breach",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-06-30T14:40:17+00:00",
+      "published": "2026-06-30T14:34:30+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "breach(+3)"
       ]
     },
     {
-      "title": "Exeter's US takeover completed as Black Knight take charge",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8j2x9ln3d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-06-30T14:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "The curse of host nations: Can a French prodigy end his country’s 41-year Tour de France drought?",
+      "link": "https://www.malaymail.com/news/sports/2026/06/30/the-curse-of-host-nations-can-a-french-prodigy-end-his-countrys-41-year-tour-de-france-drought/225759",
+      "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
-      "published": "2026-06-30T13:20:13+00:00",
+      "published": "2026-06-30T13:00:00+00:00",
       "score": 5,
       "matched": [
-        "premier league(+2)"
+        "football(+1)",
+        "champions league(+2)"
       ]
     },
     {
-      "title": "A Ukrainian drone maker says too much factory automation can be a weakness in a fast-changing war",
-      "link": "https://www.yahoo.com/news/world/articles/ukrainian-drone-maker-says-too-115029903.html",
+      "title": "Africa CDC seeks $18 million in urgent support for Ebola drug trials in DRC",
+      "link": "https://www.yahoo.com/news/science/articles/africa-cdc-seeks-18-million-122734426.html",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-06-30T11:50:29+00:00",
+      "published": "2026-06-30T12:27:34+00:00",
       "score": 5,
       "matched": [
-        "war(+3)"
+        "urgent(+3)"
+      ]
+    },
+    {
+      "title": "Sultan Ibrahim hails Johor Motorsports Racing’s historic Pro-Am triumph at Spa-Francorchamps endurance race",
+      "link": "https://www.malaymail.com/news/sports/2026/06/30/sultan-ibrahim-hails-johor-motorsports-racings-historic-pro-am-triumph-at-spa-francorchamps-endurance-race/225856",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-06-30T12:19:50+00:00",
+      "score": 5,
+      "matched": [
+        "malaysia(+3)"
       ]
     },
     {
@@ -1567,39 +1602,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "The AI jobs debate just got messier",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-30T04:01:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-06-30T02:28:41+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Colorado socialist candidate called 9/11 terror attacks 'inevitable' due to US foreign policy",
-      "link": "https://www.yahoo.com/news/politics/articles/colorado-socialist-candidate-called-9-010059996.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-06-30T01:00:59+00:00",
-      "score": 5,
-      "matched": [
-        "policy(+3)"
       ]
     }
   ]
