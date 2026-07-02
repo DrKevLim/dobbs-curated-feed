@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-02T21:01:24.038881+00:00",
+  "generated_at": "2026-07-02T21:30:47.558165+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
+    "WHO News (Global Health)": 1,
     "FMT Business (Finance)": 17,
     "Free Malaysia Today": 12,
     "Malay Mail Money (Finance)": 4,
-    "The Verge": 5,
+    "The Verge": 4,
     "FMT Sports (Sports)": 15,
     "Malay Mail (Malaysia)": 12,
-    "Straits Times World (Global)": 10,
+    "Al Jazeera (Global)": 7,
+    "Straits Times World (Global)": 8,
     "CNBC Markets (Finance)": 3,
-    "Al Jazeera (Global)": 5,
-    "Yahoo Top Stories (World)": 5,
-    "Channel NewsAsia (Global)": 3,
-    "BBC Sport (Sports)": 6,
+    "BBC Sport (Sports)": 7,
+    "Channel NewsAsia (Global)": 4,
     "TechCrunch": 10,
-    "Malay Mail Sports (Sports)": 3
+    "Malay Mail Sports (Sports)": 2,
+    "Yahoo Top Stories (World)": 4
   },
   "items": [
     {
@@ -249,6 +250,24 @@
         "medical(+3)",
         "patient(+3)",
         "patients(+3)"
+      ]
+    },
+    {
+      "title": "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
+      "link": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+      "source": "WHO News (Global Health)",
+      "section": "Health",
+      "published": "2026-07-02T16:21:23+00:00",
+      "score": 25,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)",
+        "health(+2)",
+        "public health(+3)",
+        "patient(+3)",
+        "disease(+3)",
+        "outbreak(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -621,6 +640,30 @@
       ]
     },
     {
+      "title": "Meta has a new app to let you make little AI experiences",
+      "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-02T21:09:06+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "WHO declares cruise-linked hantavirus outbreak officially over",
+      "link": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-02T20:50:03+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
       "title": "The best July 4th sales we found so far",
       "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
       "source": "The Verge",
@@ -856,30 +899,6 @@
       ]
     },
     {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-02T10:23:27+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "What to know about the Social Security fix proposed by Sens. Warren and Moreno",
-      "link": "https://finance.yahoo.com/economy/policy/articles/know-social-security-fix-proposed-100919074.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-02T10:09:19+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
       "title": "Govt to toughen laws on railway trespass and cable theft, harsher penalties coming",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/02/govt-to-toughen-laws-on-railway-trespass-and-cable-theft-harsher-penalties-coming/226091",
       "source": "Malay Mail (Malaysia)",
@@ -978,6 +997,52 @@
       ]
     },
     {
+      "title": "'Premier League goalkeepers will be throwing food at the TV' - Hart",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cvgm419701no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-02T21:16:04+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Brazil’s Paqueta ruled out of World Cup clash with Norway",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/03/brazils-paqueta-ruled-out-of-world-cup-clash-with-norway",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-02T21:03:48+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+      "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-02T21:03:39+00:00",
+      "score": 6,
+      "matched": [
+        "policy(+3)"
+      ]
+    },
+    {
+      "title": "US Department of Homeland Security says it is probing a cyber breach at information-sharing network",
+      "link": "https://www.channelnewsasia.com/business/us-department-homeland-security-says-it-probing-cyber-breach-information-sharing-network-6228966",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-02T21:01:37+00:00",
+      "score": 6,
+      "matched": [
+        "breach(+3)"
+      ]
+    },
+    {
       "title": "More than 400 dead in DR Congo's spreading Ebola outbreak",
       "link": "https://www.channelnewsasia.com/world/more-400-dead-in-dr-congos-spreading-ebola-outbreak-6228901",
       "source": "Channel NewsAsia (Global)",
@@ -1046,17 +1111,6 @@
       ]
     },
     {
-      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
-      "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T18:54:09+00:00",
-      "score": 6,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "source": "TechCrunch",
@@ -1121,39 +1175,6 @@
       "matched": [
         "football(+1)",
         "premier league(+2)"
-      ]
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-02T15:20:51+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-02T15:14:03+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "EU and US concerned by China's new ethnic unity law which targets people overseas",
-      "link": "https://www.yahoo.com/news/articles/eu-concerned-chinas-ethnic-unity-100021336.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-02T15:10:04+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
       ]
     },
     {
@@ -1292,6 +1313,17 @@
       ]
     },
     {
+      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "link": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-02T20:34:39+00:00",
+      "score": 5,
+      "matched": [
+        "funding(+2)"
+      ]
+    },
+    {
       "title": "Trump administration aims to cut regulations on US commercial fishing",
       "link": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1308,6 +1340,17 @@
       "source": "Channel NewsAsia (Global)",
       "section": "World",
       "published": "2026-07-02T19:34:14+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
+      "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T19:21:12+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
@@ -1359,14 +1402,36 @@
       ]
     },
     {
-      "title": "Hitmen in Malta took $220,000 to murder journalist, jury hears",
-      "link": "https://www.straitstimes.com/world/europe/malta-court-hears-hitmen-took-200000-to-murder-journalist",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-02T15:21:53+00:00",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-02T15:20:51+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-02T15:14:03+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "EU and US concerned by China's new ethnic unity law which targets people overseas",
+      "link": "https://www.yahoo.com/news/articles/eu-concerned-chinas-ethnic-unity-100021336.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T15:10:04+00:00",
+      "score": 5,
+      "matched": [
+        "law(+3)"
       ]
     },
     {
@@ -1393,6 +1458,17 @@
       ]
     },
     {
+      "title": "Meta’s cloud compute reports: Why build AI data centers in a cornfield when Saudi Arabia has cheap oil and cheaper power?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-cloud-compute-reports-why-131448553.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T13:14:48+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Liberal Russian politician is detained in Moscow",
       "link": "https://www.straitstimes.com/world/europe/liberal-russian-politician-is-detained-in-moscow",
       "source": "Straits Times World (Global)",
@@ -1401,17 +1477,6 @@
       "score": 5,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "Furious residents confront homeless housing leaders as popular beach community hits breaking point",
-      "link": "https://www.yahoo.com/news/us/articles/furious-residents-confront-homeless-housing-130038424.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-02T13:00:38+00:00",
-      "score": 5,
-      "matched": [
-        "breaking(+3)"
       ]
     },
     {
@@ -1424,6 +1489,17 @@
       "matched": [
         "who(+2)",
         "football(+1)"
+      ]
+    },
+    {
+      "title": "Bloodier than Stalingrad: Number of casualties in Russia’s war on Ukraine reaches 2 million",
+      "link": "https://www.yahoo.com/news/world/articles/bloodier-stalingrad-number-casualties-russia-104537245.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T10:45:37+00:00",
+      "score": 5,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -1498,30 +1574,6 @@
       ]
     },
     {
-      "title": "Belgium fights back from two goals down against Senegal to reach World Cup last 16",
-      "link": "https://www.malaymail.com/news/sports/2026/07/02/belgium-fights-back-from-two-goals-down-against-senegal-to-reach-world-cup-last-16/226001",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-02T00:49:49+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Swiss to face familiar foe in Algeria World Cup showdown",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/02/swiss-to-face-familiar-foe-in-algeria-world-cup-showdown",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-02T00:37:10+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
       "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
       "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
       "source": "TechCrunch",
@@ -1533,14 +1585,14 @@
       ]
     },
     {
-      "title": "Bipartisan duo look to ‘tackle corruption’ with bill banning insider trading by government officials",
-      "link": "https://www.yahoo.com/news/videos/bipartisan-duo-look-tackle-corruption-210134979.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "Hitmen in Malta took $220,000 to murder journalist, jury hears",
+      "link": "https://www.straitstimes.com/world/europe/malta-court-hears-hitmen-took-200000-to-murder-journalist",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-01T21:01:34+00:00",
-      "score": 5,
+      "published": "2026-07-02T15:21:53+00:00",
+      "score": 4,
       "matched": [
-        "corruption(+3)"
+        "court(+2)"
       ]
     },
     {
@@ -1574,50 +1626,6 @@
       "score": 4,
       "matched": [
         "funding(+2)"
-      ]
-    },
-    {
-      "title": "EU determined to resolve standoff over Bosnia envoy, Kallas says",
-      "link": "https://www.straitstimes.com/world/europe/eu-determined-to-resolve-standoff-over-bosnia-envoy-kallas-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-02T13:25:51+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "NATO plans to replace AWACS with Saab GlobalEye jets, sources say",
-      "link": "https://www.straitstimes.com/world/europe/nato-plans-to-replace-awacs-with-saab-globaleye-jets-sources-say",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-02T13:10:55+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Mystery box shows are complicated for everyone — even the actors",
-      "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-02T12:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Papua separatists claim to have shot dead a US pilot who transported Indonesian troops",
-      "link": "https://www.yahoo.com/news/world/articles/as--indonesia-papua-105945130.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-02T10:59:45+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
       ]
     }
   ]
