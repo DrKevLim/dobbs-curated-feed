@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T09:01:26.181832+00:00",
+  "generated_at": "2026-07-02T09:30:46.551011+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -10,13 +10,13 @@
     "Malay Mail Sports (Sports)": 5,
     "FMT Sports (Sports)": 17,
     "CNBC Markets (Finance)": 6,
-    "Straits Times World (Global)": 7,
-    "Al Jazeera (Global)": 6,
-    "The Verge": 4,
-    "TechCrunch": 10,
-    "Channel NewsAsia (Global)": 8,
+    "Al Jazeera (Global)": 4,
+    "The Verge": 5,
+    "TechCrunch": 9,
+    "Channel NewsAsia (Global)": 9,
     "BBC Sport (Sports)": 2,
-    "Yahoo Top Stories (World)": 3
+    "Yahoo Top Stories (World)": 6,
+    "Straits Times World (Global)": 5
   },
   "items": [
     {
@@ -116,7 +116,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-02T03:30:00+00:00",
-      "score": 49,
+      "score": 48,
       "matched": [
         "who(+2)",
         "covid(+2)",
@@ -212,24 +212,24 @@
       ]
     },
     {
-      "title": "Two Industries Profit From The Same Bill: Malaysia’s Insurance-Hospital Cost Crisis — Dr Mohamed Rafick Khan",
-      "link": "https://codeblue.galencentre.org/2026/06/two-industries-profit-from-the-same-bill-malaysias-insurance-hospital-cost-crisis-dr-mohamed-rafick-khan/",
+      "title": "APHM Dismisses ‘Outdated’ PAC Report Amid Reset Initiative",
+      "link": "https://codeblue.galencentre.org/2026/07/aphm-dismisses-outdated-pac-report-amid-reset-initiative/",
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
-      "published": "2026-06-30T02:00:00+00:00",
-      "score": 30,
+      "published": "2026-07-02T09:03:36+00:00",
+      "score": 34,
       "matched": [
-        "breaking(+3)",
-        "ministry(+2)",
-        "inflation(+2)",
+        "policy(+3)",
+        "who(+2)",
         "health(+2)",
-        "healthcare(+3)",
+        "public health(+3)",
         "hospital(+3)",
         "hospitals(+3)",
         "doctors(+3)",
         "medical(+3)",
-        "medicine(+2)",
-        "patient(+3)"
+        "patient(+3)",
+        "patients(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -366,20 +366,6 @@
       ]
     },
     {
-      "title": "Asian shares fall as chipmakers drag, US jobs data looms",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/02/asian-shares-fall-as-chipmakers-drag-us-jobs-data-looms",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T03:01:46+00:00",
-      "score": 13,
-      "matched": [
-        "policy(+3)",
-        "inflation(+2)",
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Govt must explain Azam’s appointment as NFCC adviser, says Hamzah",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/govt-must-explain-azams-appointment-as-nfcc-adviser-says-hamzah",
       "source": "Free Malaysia Today",
@@ -405,6 +391,20 @@
         "ministry(+2)",
         "cancer(+2)",
         "diabetes(+2)"
+      ]
+    },
+    {
+      "title": "Asian shares fall as chipmakers drag, US jobs data looms",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/02/asian-shares-fall-as-chipmakers-drag-us-jobs-data-looms",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-02T03:01:46+00:00",
+      "score": 12,
+      "matched": [
+        "policy(+3)",
+        "inflation(+2)",
+        "ai(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -490,6 +490,19 @@
       ]
     },
     {
+      "title": "Mindef clarifies RM571.9m missile payment not advance, made after systems passed RMN tests",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/02/mindef-clarifies-rm5719m-missile-payment-not-advance-made-after-systems-passed-rmn-tests/226096",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-02T09:10:59+00:00",
+      "score": 10,
+      "matched": [
+        "parliament(+2)",
+        "ministry(+2)",
+        "breach(+3)"
+      ]
+    },
+    {
       "title": "Google loses final appeal against RM19b EU fine over Android antitrust case",
       "link": "https://www.malaymail.com/news/money/2026/07/02/google-loses-final-appeal-against-rm19b-eu-fine-over-android-antitrust-case/226077",
       "source": "Malay Mail Money (Finance)",
@@ -512,19 +525,6 @@
       "matched": [
         "law(+3)",
         "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Existing Tanjung Sepat pig farms don’t need EIAs because they predate 2015 order, says deputy minister",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/02/existing-tanjung-sepat-pig-farms-dont-need-eias-because-they-predate-2015-order-says-deputy-minister/226047",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-02T04:57:20+00:00",
-      "score": 10,
-      "matched": [
-        "ministry(+2)",
-        "breach(+3)",
         "who(+2)"
       ]
     },
@@ -563,19 +563,6 @@
       "matched": [
         "policy(+3)",
         "law(+3)"
-      ]
-    },
-    {
-      "title": "Loke: Putrajaya to help fund Johor’s RM10b E-ART as private funding alone ‘not viable’",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/02/loke-putrajaya-to-help-fund-johors-rm10b-e-art-as-private-funding-alone-not-viable/226043",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-02T04:30:28+00:00",
-      "score": 9,
-      "matched": [
-        "parliament(+2)",
-        "funding(+2)",
-        "who(+2)"
       ]
     },
     {
@@ -627,31 +614,6 @@
       "matched": [
         "ai(+3)",
         "launch(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Rising trend of meth, ketum abuse among drivers",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/rising-trend-of-meth-ketum-abuse-among-drivers",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-02T01:10:18+00:00",
-      "score": 9,
-      "matched": [
-        "law(+3)",
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei",
-      "link": "https://www.straitstimes.com/world/middle-east/iran-warns-us-israel-against-attacks-ahead-of-funeral-processions-for-khamenei",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-02T08:51:12+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
         "who(+2)"
       ]
     },
@@ -800,6 +762,30 @@
       "matched": [
         "policy(+3)",
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "Single mother pleads not guilty to obscene material and altered nude image charges in Melaka",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/02/single-mother-pleads-not-guilty-to-obscene-material-and-altered-nude-image-charges-in-melaka/226101",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-02T09:29:44+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "PH must have ‘same level’ candidate to debate Onn Hafiz, says KJ",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/ph-must-have-same-level-candidate-to-debate-onn-hafiz-says-kj",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-02T09:06:54+00:00",
+      "score": 7,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1040,7 +1026,7 @@
       "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-02T08:41:15+00:00",
+      "published": "2026-07-02T09:12:17+00:00",
       "score": 6,
       "matched": [
         "breaking(+3)"
@@ -1269,6 +1255,28 @@
       ]
     },
     {
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-02T09:13:39+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "India's Skyroot Aerospace readies country's first private orbital rocket launch",
+      "link": "https://www.channelnewsasia.com/business/indias-skyroot-aerospace-readies-countrys-first-private-orbital-rocket-launch-6227331",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-02T09:01:12+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
       "title": "Eight Thai monks killed after boy drives truck into procession",
       "link": "https://www.channelnewsasia.com/asia/thailand-monks-killed-boy-drives-truck-procession-6227196",
       "source": "Channel NewsAsia (Global)",
@@ -1313,6 +1321,17 @@
       ]
     },
     {
+      "title": "Colorado governor fires two clemency board members who spoke out about Tina Peters’ commutation",
+      "link": "https://www.yahoo.com/news/politics/articles/colorado-governor-fires-two-clemency-053403116.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T05:34:03+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Explainer: How France’s Le Pen ended up fighting in court to save her presidential hopes",
       "link": "https://www.straitstimes.com/world/europe/explainer-how-frances-le-pen-ended-up-fighting-in-court-to-save-her-presidential-hopes",
       "source": "Straits Times World (Global)",
@@ -1343,17 +1362,6 @@
       "score": 5,
       "matched": [
         "who(+2)"
-      ]
-    },
-    {
-      "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
-      "link": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-02T03:14:42+00:00",
-      "score": 5,
-      "matched": [
-        "economy(+2)"
       ]
     },
     {
@@ -1403,17 +1411,6 @@
       ]
     },
     {
-      "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
-      "link": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-02T01:24:22+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Belgium fights back from two goals down against Senegal to reach World Cup last 16",
       "link": "https://www.malaymail.com/news/sports/2026/07/02/belgium-fights-back-from-two-goals-down-against-senegal-to-reach-world-cup-last-16/226001",
       "source": "Malay Mail Sports (Sports)",
@@ -1435,17 +1432,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-02T00:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1539,6 +1525,17 @@
       ]
     },
     {
+      "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+      "link": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-02T03:14:42+00:00",
+      "score": 4,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Couple who scaled Empire State Building with banner now face 8 charges",
       "link": "https://www.yahoo.com/news/us/articles/2-people-climb-top-empire-162408170.html",
       "source": "Yahoo Top Stories (World)",
@@ -1558,17 +1555,6 @@
       "score": 4,
       "matched": [
         "funding(+2)"
-      ]
-    },
-    {
-      "title": "Syria’s President finalises first post-Assad Parliament",
-      "link": "https://www.straitstimes.com/world/middle-east/syrias-president-finalises-first-post-assad-parliament",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-01T22:50:00+00:00",
-      "score": 4,
-      "matched": [
-        "parliament(+2)"
       ]
     },
     {
@@ -1605,14 +1591,25 @@
       ]
     },
     {
-      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
-      "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-01T16:48:58+00:00",
+      "title": "Trump urges acting spy chief to declassify records, including on 2020 election",
+      "link": "https://www.yahoo.com/news/articles/trump-says-acting-spy-chief-151141497.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-01T19:10:49+00:00",
       "score": 4,
       "matched": [
-        "who(+2)"
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Ex-CIA Director John Brennan seeks court order requiring records from investigations be preserved",
+      "link": "https://www.yahoo.com/news/politics/articles/us--trump-russia-probe-171647681.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-01T17:16:47+00:00",
+      "score": 4,
+      "matched": [
+        "court(+2)"
       ]
     }
   ]
