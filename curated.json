@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-03T09:30:48.860618+00:00",
+  "generated_at": "2026-07-03T10:50:05.256941+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
-    "Free Malaysia Today": 12,
-    "The Verge": 6,
-    "Malay Mail (Malaysia)": 12,
-    "FMT Business (Finance)": 14,
+    "WHO News (Global Health)": 1,
+    "Free Malaysia Today": 14,
+    "The Verge": 5,
+    "Malay Mail (Malaysia)": 10,
+    "FMT Business (Finance)": 13,
     "Malay Mail Sports (Sports)": 7,
     "FMT Sports (Sports)": 10,
-    "Channel NewsAsia (Global)": 7,
+    "Malay Mail Money (Finance)": 4,
     "CNBC Markets (Finance)": 7,
-    "Al Jazeera (Global)": 6,
-    "Malay Mail Money (Finance)": 3,
+    "Yahoo Top Stories (World)": 3,
+    "Channel NewsAsia (Global)": 6,
     "Straits Times World (Global)": 7,
+    "Al Jazeera (Global)": 5,
     "BBC Sport (Sports)": 7,
-    "TechCrunch": 11,
-    "Yahoo Top Stories (World)": 1
+    "TechCrunch": 11
   },
   "items": [
     {
@@ -139,7 +140,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-03T03:48:15+00:00",
-      "score": 33,
+      "score": 32,
       "matched": [
         "who(+2)",
         "health(+2)",
@@ -195,6 +196,24 @@
       ]
     },
     {
+      "title": "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing",
+      "link": "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+      "source": "WHO News (Global Health)",
+      "section": "Health",
+      "published": "2026-07-02T16:21:23+00:00",
+      "score": 24,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)",
+        "health(+2)",
+        "public health(+3)",
+        "patient(+3)",
+        "disease(+3)",
+        "outbreak(+3)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Rewarding The Healthy: Why Health Assurance Needs Its Own No-Claims Discount — Dr Mohamed Rafick Khan",
       "link": "https://codeblue.galencentre.org/2026/07/rewarding-the-healthy-why-health-assurance-needs-its-own-no-claims-discount-dr-mohamed-rafick-khan/",
       "source": "CodeBlue (Malaysia Health)",
@@ -235,7 +254,7 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-07-03T03:54:40+00:00",
-      "score": 17,
+      "score": 16,
       "matched": [
         "election(+2)",
         "economy(+2)",
@@ -306,20 +325,6 @@
       ]
     },
     {
-      "title": "Seoul’s Kospi slumps as Asian tech stocks extend losses",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/02/seouls-kospi-slumps-as-asian-tech-stocks-extend-losses",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T09:35:32+00:00",
-      "score": 13,
-      "matched": [
-        "ceasefire(+3)",
-        "inflation(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
       "title": "MOH overhauls emergency triage system with new five‑tier Malaysian Triage Scale to improve assessments and cut delays",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/03/moh-overhauls-emergency-triage-system-with-new-fivetier-malaysian-triage-scale-to-improve-assessments-and-cut-delays/226223",
       "source": "Malay Mail (Malaysia)",
@@ -349,19 +354,6 @@
       ]
     },
     {
-      "title": "Govt urged to review migration, immigration detention policies after custodial deaths",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/govt-urged-to-review-migration-immigration-detention-policies-after-custodial-deaths",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-03T03:49:26+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "law(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Chip industry urges US to avoid moves that distort memory market",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/03/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market",
       "source": "FMT Business (Finance)",
@@ -372,6 +364,32 @@
         "policy(+3)",
         "ai(+3)",
         "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Global stocks climb as US jobs data cools Fed hike fears",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/03/global-stocks-climb-as-us-jobs-data-cools-fed-hike-fears",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-03T10:14:16+00:00",
+      "score": 10,
+      "matched": [
+        "war(+3)",
+        "inflation(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Weststar, Australia’s RTI ink deal to bolster national security",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/weststar-australias-rti-ink-deal-to-bolster-national-security",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-03T09:36:18+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "parliament(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -401,28 +419,15 @@
       ]
     },
     {
-      "title": "Gempur Rasuah Sabah organisers confirm rally route, cite Federal Court ruling in decision not to submit police notice",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/03/gempur-rasuah-sabah-organisers-confirm-rally-route-cite-federal-court-ruling-in-decision-not-to-submit-police-notice/226181",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-03T04:38:21+00:00",
-      "score": 10,
-      "matched": [
-        "corruption(+3)",
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Cost of living tops concerns for Johoreans, survey finds",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/cost-of-living-tops-concerns-for-johoreans-survey-finds",
+      "title": "Govt urged to review migration, immigration detention policies after custodial deaths",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/govt-urged-to-review-migration-immigration-detention-policies-after-custodial-deaths",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-07-03T03:32:54+00:00",
+      "published": "2026-07-03T03:49:26+00:00",
       "score": 10,
       "matched": [
         "policy(+3)",
-        "election(+2)",
+        "law(+3)",
         "who(+2)"
       ]
     },
@@ -467,6 +472,43 @@
       ]
     },
     {
+      "title": "Banking rally lifts Bursa Malaysia nearly 17 points on softer US jobs data",
+      "link": "https://www.malaymail.com/news/money/2026/07/03/banking-rally-lifts-bursa-malaysia-nearly-17-points-on-softer-us-jobs-data/226245",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-07-03T10:24:39+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Mitra grant programme draws overwhelming response 5 days after launch",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/mitra-grant-programme-draws-overwhelming-response-5-days-after-launch",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-03T10:04:36+00:00",
+      "score": 9,
+      "matched": [
+        "funding(+2)",
+        "launch(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Rebound in banking stocks lift Bursa at close",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/03/rebound-in-banking-stocks-lifts-bursa-at-close",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-03T09:40:25+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Anwar: JS‑SEZ on track with federal-state cooperation, urges leaders not to politicise issue",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/03/anwar-jssez-on-track-with-federal-state-cooperation-urges-leaders-not-to-politicise-issue/226236",
       "source": "Malay Mail (Malaysia)",
@@ -505,18 +547,6 @@
       ]
     },
     {
-      "title": "Data of 70,000 people compromised in cybersecurity incident involving SLA’s vendor IBM",
-      "link": "https://www.channelnewsasia.com/singapore/ibm-sla-data-breach-70000-people-cybersecurity-6229876",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-03T06:25:00+00:00",
-      "score": 9,
-      "matched": [
-        "cybersecurity(+3)",
-        "breach(+3)"
-      ]
-    },
-    {
       "title": "PKR leader slams Nazifuddin, says polls not a Najib referendum",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/pkr-leader-slams-nazifuddin-says-polls-not-a-najib-referendum",
       "source": "Free Malaysia Today",
@@ -543,15 +573,28 @@
       ]
     },
     {
-      "title": "Pakatan outlines vision for state with ‘Johor Untuk Semua’ manifesto",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/03/pakatan-outlines-vision-for-state-with-johor-untuk-semua-manifesto/226172",
+      "title": "Gempur Rasuah Sabah organisers confirm rally route, cite Federal Court ruling in decision not to submit police notice",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/03/gempur-rasuah-sabah-organisers-confirm-rally-route-cite-federal-court-ruling-in-decision-not-to-submit-police-notice/226181",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-07-03T04:12:11+00:00",
+      "published": "2026-07-03T04:38:21+00:00",
       "score": 9,
       "matched": [
+        "corruption(+3)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Cost of living tops concerns for Johoreans, survey finds",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/03/cost-of-living-tops-concerns-for-johoreans-survey-finds",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-03T03:32:54+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
         "election(+2)",
-        "launch(+2)",
         "who(+2)"
       ]
     },
@@ -691,40 +734,15 @@
       ]
     },
     {
-      "title": "Anti-financial crime body says Azam Baki’s board role is in ‘individual capacity’, not tied to MACC",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/03/anti-financial-crime-body-says-azam-bakis-board-role-is-in-individual-capacity-not-tied-to-macc/226184",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-03T04:40:05+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
-      "link": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "link": "https://tech.yahoo.com/ai/articles/ai-not-smart-whats-next-230215895.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-03T04:17:37+00:00",
+      "published": "2026-07-02T23:02:15+00:00",
       "score": 8,
       "matched": [
-        "war(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Modric’s farewell, Ronaldo’s tomorrow",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/03/modrics-farewell-ronaldos-tomorrow",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-03T04:16:09+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "champions league(+2)"
+        "ai(+3)",
+        "artificial intelligence(+3)"
       ]
     },
     {
@@ -766,27 +784,15 @@
       ]
     },
     {
-      "title": "Bursa Malaysia closes higher on strength in banking and telecom stocks",
-      "link": "https://www.malaymail.com/news/money/2026/07/02/bursa-malaysia-closes-higher-on-strength-in-banking-and-telecom-stocks/226107",
+      "title": "Chinese investors rush to Hong Kong as Beijing tightens overseas stock trading rules",
+      "link": "https://www.malaymail.com/news/money/2026/07/03/chinese-investors-rush-to-hong-kong-as-beijing-tightens-overseas-stock-trading-rules/226247",
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
-      "published": "2026-07-02T10:38:30+00:00",
-      "score": 8,
+      "published": "2026-07-03T10:29:36+00:00",
+      "score": 7,
       "matched": [
-        "policy(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Bursa closes higher, led by telecoms and banking stocks",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/02/bursa-closes-higher-led-by-telecoms-and-banking-stocks",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T09:50:30+00:00",
-      "score": 8,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)"
+        "sanctions(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -875,6 +881,31 @@
       ]
     },
     {
+      "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
+      "link": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-03T04:17:37+00:00",
+      "score": 7,
+      "matched": [
+        "war(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Modric’s farewell, Ronaldo’s tomorrow",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/03/modrics-farewell-ronaldos-tomorrow",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-03T04:16:09+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "champions league(+2)"
+      ]
+    },
+    {
       "title": "Russian couple who scaled Empire State Building accused of breaking security door to get to spire",
       "link": "https://www.straitstimes.com/world/united-states/russian-couple-who-scaled-empire-state-building-accused-of-breaking-security-door-to-get-to-spire",
       "source": "Straits Times World (Global)",
@@ -884,18 +915,6 @@
       "matched": [
         "breaking(+3)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-03T00:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)"
       ]
     },
     {
@@ -920,6 +939,40 @@
       "matched": [
         "ai(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Healthcare and social sectors say technology should ease workloads, not replace human touch",
+      "link": "https://www.channelnewsasia.com/singapore/healthcare-social-services-technology-ai-human-touch-6230066",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-03T10:32:29+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Aston Villa sign Norway midfielder Kielland",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-03T10:02:54+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "champions league(+2)"
+      ]
+    },
+    {
+      "title": "Analysis:Argentina's plan for AI-run companies can't avoid humans",
+      "link": "https://www.channelnewsasia.com/business/analysisargentinas-plan-ai-run-companies-cant-avoid-humans-6230366",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-03T10:01:50+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -958,34 +1011,11 @@
       ]
     },
     {
-      "title": "Hong Kong actor Lawrence Ng licenses younger likeness for AI role, says he’s ‘very satisfied’ with result",
-      "link": "https://www.channelnewsasia.com/entertainment/lawrence-ng-licenses-likeness-ai-role-6229856",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-03T06:37:10+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Who am I? Guess World Cup star No 26",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd0px78zrj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
       "published": "2026-07-03T05:32:23+00:00",
-      "score": 6,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Modric bows out in tears as Ronaldo and Martinez hail him after Croatia’s narrow World Cup exit",
-      "link": "https://www.malaymail.com/news/sports/2026/07/03/modric-bows-out-in-tears-as-ronaldo-and-martinez-hail-him-after-croatias-narrow-world-cup-exit/226173",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-03T04:15:26+00:00",
       "score": 6,
       "matched": [
         "who(+2)",
@@ -1055,27 +1085,26 @@
       ]
     },
     {
-      "title": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-02T12:03:33+00:00",
-      "score": 6,
+      "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-03T10:34:32+00:00",
+      "score": 5,
       "matched": [
-        "breaking(+3)",
-        "football(+1)"
+        "election(+2)"
       ]
     },
     {
-      "title": "Vietnam, Philippines upgraded to upper-middle income status",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/02/vietnam-philippines-upgraded-to-upper-middle-income-status",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T10:23:56+00:00",
-      "score": 6,
+      "title": "Real Madrid have 'no intention' of signing Fernandez",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-03T09:32:28+00:00",
+      "score": 5,
       "matched": [
-        "economy(+2)",
-        "funding(+2)"
+        "football(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -1083,7 +1112,7 @@
       "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-singaporeans-visit-timor-leste-6230091",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-03T09:00:23+00:00",
+      "published": "2026-07-03T09:00:00+00:00",
       "score": 5,
       "matched": [
         "economy(+2)"
@@ -1135,17 +1164,6 @@
       ]
     },
     {
-      "title": "Nagelsmann quits as Germany coach after World Cup exit: Reports",
-      "link": "https://www.channelnewsasia.com/sport/germany-nagelsmann-quits-world-cup-exit-6229966",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-03T06:52:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Manufacturing powers Penang’s economy to 7.3pc growth in 2025",
       "link": "https://www.malaymail.com/news/money/2026/07/03/manufacturing-powers-penangs-economy-to-73pc-growth-in-2025/226196",
       "source": "Malay Mail Money (Finance)",
@@ -1187,6 +1205,18 @@
       "score": 5,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Modric bows out in tears as Ronaldo and Martinez hail him after Croatia’s narrow World Cup exit",
+      "link": "https://www.malaymail.com/news/sports/2026/07/03/modric-bows-out-in-tears-as-ronaldo-and-martinez-hail-him-after-croatias-narrow-world-cup-exit/226173",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-03T04:15:26+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -1329,18 +1359,6 @@
       ]
     },
     {
-      "title": "'Premier League goalkeepers will be throwing food at TV'",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cvgm419701no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-02T21:16:04+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
       "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
       "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
       "source": "CNBC Markets (Finance)",
@@ -1396,6 +1414,17 @@
       ]
     },
     {
+      "title": "Castro says Air Force confirmed death from flu outbreak at Texas base",
+      "link": "https://www.yahoo.com/news/us/articles/castro-says-air-force-confirmed-181040734.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-02T18:10:40+00:00",
+      "score": 5,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
       "title": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
       "link": "https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html",
       "source": "CNBC Markets (Finance)",
@@ -1445,17 +1474,6 @@
       "source": "FMT Business (Finance)",
       "section": "Finance",
       "published": "2026-07-02T13:10:41+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
-      "link": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-02T12:22:51+00:00",
       "score": 5,
       "matched": [
         "ai(+3)"
@@ -1555,17 +1573,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-02T17:30:04+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Godox’s feature-packed key light is down to its best price yet",
-      "link": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-02T15:00:00+00:00",
       "score": 4,
       "matched": [
         "who(+2)"
