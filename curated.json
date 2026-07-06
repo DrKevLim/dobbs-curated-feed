@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-07-06T18:20:32.319753+00:00",
+  "generated_at": "2026-07-06T21:01:29.417327+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 8,
     "WHO News (Global Health)": 1,
-    "The Verge": 8,
+    "The Verge": 7,
     "Free Malaysia Today": 16,
     "Malay Mail (Malaysia)": 8,
-    "FMT Business (Finance)": 13,
     "Malay Mail Sports (Sports)": 11,
+    "FMT Business (Finance)": 12,
     "FMT Sports (Sports)": 10,
-    "Straits Times World (Global)": 9,
-    "Yahoo Top Stories (World)": 6,
-    "Channel NewsAsia (Global)": 3,
-    "TechCrunch": 7,
+    "Straits Times World (Global)": 5,
+    "Al Jazeera (Global)": 7,
+    "Yahoo Top Stories (World)": 10,
+    "Channel NewsAsia (Global)": 2,
+    "BBC Sport (Sports)": 3,
+    "TechCrunch": 8,
     "Malay Mail Money (Finance)": 5,
     "CNBC Markets (Finance)": 6,
-    "Al Jazeera (Global)": 6,
-    "BBC Sport (Sports)": 3
+    "Yahoo Finance (Finance)": 1
   },
   "items": [
     {
@@ -197,7 +198,7 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-07-06T14:30:00+00:00",
-      "score": 17,
+      "score": 16,
       "matched": [
         "policy(+3)",
         "economy(+2)",
@@ -265,19 +266,6 @@
         "breaking(+3)",
         "law(+3)",
         "parliament(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "South Korea’s Lee calls for speed in launching mega chip projects",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/06/south-koreas-lee-calls-for-speed-in-launching-mega-chip-projects",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T12:38:11+00:00",
-      "score": 11,
-      "matched": [
-        "ai(+3)",
-        "acquisition(+3)",
         "who(+2)"
       ]
     },
@@ -351,16 +339,16 @@
       ]
     },
     {
-      "title": "War threatens Russian banking crisis, European intelligence report says",
-      "link": "https://www.straitstimes.com/world/europe/war-threatens-russian-banking-crisis-european-intelligence-report-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T12:51:46+00:00",
+      "title": "South Korea’s Lee calls for speed in launching mega chip projects",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/06/south-koreas-lee-calls-for-speed-in-launching-mega-chip-projects",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-06T12:38:11+00:00",
       "score": 10,
       "matched": [
-        "war(+3)",
-        "sanctions(+2)",
-        "economy(+2)"
+        "ai(+3)",
+        "acquisition(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -430,28 +418,16 @@
       ]
     },
     {
-      "title": "Inside the secret AI war between Silicon Valley and China",
-      "link": "https://www.yahoo.com/news/politics/articles/the-covert-us-china-battle-to-make-chatbots-leak-their-secrets-090000095.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "War threatens Russian banking crisis, European intelligence report says",
+      "link": "https://www.straitstimes.com/world/europe/war-threatens-russian-banking-crisis-european-intelligence-report-says",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-06T13:51:38+00:00",
+      "published": "2026-07-06T12:51:46+00:00",
       "score": 9,
       "matched": [
         "war(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Gritty France show they can battle as well as dazzle in pursuit of World Cup title",
-      "link": "https://www.malaymail.com/news/sports/2026/07/06/gritty-france-show-they-can-battle-as-well-as-dazzle-in-pursuit-of-world-cup-title/226522",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-06T13:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "war(+3)",
-        "who(+2)",
-        "football(+1)"
+        "sanctions(+2)",
+        "economy(+2)"
       ]
     },
     {
@@ -507,6 +483,30 @@
       ]
     },
     {
+      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
+      "link": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-06T20:06:22+00:00",
+      "score": 8,
+      "matched": [
+        "law(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court won't block Texas from enforcing a law requiring age verification for app downloads",
+      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-wont-block-texas-194732187.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T19:47:32+00:00",
+      "score": 8,
+      "matched": [
+        "law(+3)",
+        "court(+2)"
+      ]
+    },
+    {
       "title": "US Supreme Court won't block Texas app store age verification law",
       "link": "https://www.channelnewsasia.com/business/us-supreme-court-wont-block-texas-app-store-age-verification-law-6236131",
       "source": "Channel NewsAsia (Global)",
@@ -543,11 +543,11 @@
       ]
     },
     {
-      "title": "Sergey Brin and 11 other billionaires and tech elite lined up against California's proposed billionaire tax",
-      "link": "https://finance.yahoo.com/economy/policy/articles/sergey-brin-11-other-billionaires-090901603.html",
+      "title": "Billionaire Mark Cuban says it’s ‘embarrassing’ to not pay employees well—and a $20 minimum wage should be standard",
+      "link": "https://finance.yahoo.com/economy/policy/articles/billionaire-mark-cuban-says-embarrassing-153333504.html",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-06T14:20:34+00:00",
+      "published": "2026-07-06T15:33:33+00:00",
       "score": 8,
       "matched": [
         "policy(+3)",
@@ -555,15 +555,16 @@
       ]
     },
     {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TechCrunch",
-      "section": "Tech",
+      "title": "Gritty France show they can battle as well as dazzle in pursuit of World Cup title",
+      "link": "https://www.malaymail.com/news/sports/2026/07/06/gritty-france-show-they-can-battle-as-well-as-dazzle-in-pursuit-of-world-cup-title/226522",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
       "published": "2026-07-06T13:00:00+00:00",
       "score": 8,
       "matched": [
-        "ai(+3)",
-        "startup(+2)"
+        "war(+3)",
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -645,40 +646,39 @@
       ]
     },
     {
-      "title": "Onn Hafiz denies TVET students forced to attend BN event",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/onn-hafiz-denies-tvet-students-were-forced-to-attend-bn-event",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-06T13:26:00+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Puad Zarkashi’s son upset over ’spy’ label by Umno members",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/puad-zarkashis-son-upset-over-spy-label-by-umno-members",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-06T13:20:30+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Reflective Ronaldo says critics have been ‘trying to kill me for 23 years’ ahead of Spain clash",
-      "link": "https://www.malaymail.com/news/sports/2026/07/06/reflective-ronaldo-says-critics-have-been-trying-to-kill-me-for-23-years-ahead-of-spain-clash/226515",
-      "source": "Malay Mail Sports (Sports)",
+      "title": "The personal story of a dad who took his autistic son to the British Grand Prix",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g7glkj614o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-07-06T13:00:00+00:00",
+      "published": "2026-07-06T16:28:31+00:00",
       "score": 7,
       "matched": [
         "who(+2)",
-        "football(+1)",
-        "manchester united(+1)"
+        "formula 1(+2)"
+      ]
+    },
+    {
+      "title": "Sergey Brin and 11 other billionaires and tech elite lined up against California's proposed billionaire tax",
+      "link": "https://finance.yahoo.com/economy/policy/articles/sergey-brin-11-other-billionaires-090901603.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T14:20:34+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-06T13:00:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -854,15 +854,69 @@
       ]
     },
     {
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+      "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-06T20:56:35+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Oil prices settle at pre-Iran war levels as crude output grows",
+      "link": "https://finance.yahoo.com/news/oil-slips-opec-agrees-raise-003607304.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T20:12:02+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-06T19:01:59+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ebola death toll in DR Congo surpasses 500",
+      "link": "https://www.aljazeera.com/news/2026/7/6/ebola-death-toll-in-dr-congo-surpasses-500?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-06T18:41:33+00:00",
+      "score": 6,
+      "matched": [
+        "vaccine(+3)"
+      ]
+    },
+    {
+      "title": "America’s greatest idea is still under threat",
+      "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-07-05T22:30:54+00:00",
-      "score": 7,
+      "published": "2026-07-06T18:36:33+00:00",
+      "score": 6,
       "matched": [
-        "ai(+3)",
-        "who(+2)"
+        "policy(+3)"
+      ]
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-06T18:35:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -899,17 +953,6 @@
       ]
     },
     {
-      "title": "Why Jim Cramer says this AI play — up 85% this year — is headed even higher",
-      "link": "https://www.cnbc.com/2026/07/06/jim-cramer-says-this-ai-play-up-85percent-this-year-is-headed-even-higher.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T16:06:32+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
       "source": "TechCrunch",
@@ -932,92 +975,51 @@
       ]
     },
     {
-      "title": "Is NATO at breaking point as it meets in Turkiye?",
-      "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Bodies lie unclaimed and rats run rampant as months on Gaza’s ceasefire remains unfulfilled",
+      "link": "https://www.yahoo.com/news/world/articles/bodies-lie-unclaimed-rats-run-091105845.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-06T15:18:33+00:00",
-      "score": 6,
-      "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
-      "link": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T14:52:49+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "French firm Carester to build rare earths separation plant in Perak",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/french-firm-carester-to-build-rare-earths-separation-plant-in-perak",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-06T14:38:20+00:00",
-      "score": 6,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
-      "title": "Lebanon's south takes a breath as families return to shattered homes and lives",
-      "link": "https://www.straitstimes.com/world/middle-east/lebanons-south-takes-a-breath-as-families-return-to-shattered-homes-and-lives",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T14:36:58+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Israeli attack on vehicle in Lebanon kills at least four",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-06T14:22:31+00:00",
+      "published": "2026-07-06T15:09:09+00:00",
       "score": 6,
       "matched": [
         "ceasefire(+3)"
       ]
     },
     {
-      "title": "Microsoft is laying off 4,800 employees",
-      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-06T13:30:00+00:00",
+      "title": "Onn Hafiz denies TVET students forced to attend BN event",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/onn-hafiz-denies-tvet-students-were-forced-to-attend-bn-event",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-06T13:26:00+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks",
-      "link": "https://finance.yahoo.com/energy/articles/analysis-world-absorbs-historic-iran-073926094.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-06T13:01:04+00:00",
+      "title": "Puad Zarkashi’s son upset over ’spy’ label by Umno members",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/puad-zarkashis-son-upset-over-spy-label-by-umno-members",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-06T13:20:30+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "USA take on Belgium in World Cup last‑16 after Trump‑backed Balogun reprieve; Spain meet Portugal, England draw Norway",
-      "link": "https://www.malaymail.com/news/sports/2026/07/06/usa-take-on-belgium-in-world-cup-last16-after-trumpbacked-balogun-reprieve-spain-meet-portugal-england-draw-norway/226620",
+      "title": "Reflective Ronaldo says critics have been ‘trying to kill me for 23 years’ ahead of Spain clash",
+      "link": "https://www.malaymail.com/news/sports/2026/07/06/reflective-ronaldo-says-critics-have-been-trying-to-kill-me-for-23-years-ahead-of-spain-clash/226515",
       "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
-      "published": "2026-07-06T12:22:54+00:00",
+      "published": "2026-07-06T13:00:00+00:00",
       "score": 6,
       "matched": [
         "who(+2)",
-        "football(+1)"
+        "football(+1)",
+        "manchester united(+1)"
       ]
     },
     {
@@ -1043,6 +1045,18 @@
         "who(+2)",
         "football(+1)",
         "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "AGC classifies tahfiz student’s 2013 death as NFA",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/agc-classifies-tahfiz-students-2013-death-as-nfa",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-06T09:51:49+00:00",
+      "score": 6,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1081,6 +1095,62 @@
         "who(+2)",
         "football(+1)",
         "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "US judge tosses out Musk’s bid to void Twitter fraud verdict",
+      "link": "https://www.aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-06T20:37:33+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Tottenham to bid for Kroupi - Tuesday gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3wyy0evxn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-06T20:33:16+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Best Buy and Apple flag a price shock for shoppers",
+      "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-06T20:33:00+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-06T19:29:00+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Trump Accounts are live. Here's how some families plan to use them",
+      "link": "https://www.cnbc.com/2026/07/06/how-families-are-using-trump-accounts.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-06T18:29:50+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
       ]
     },
     {
@@ -1128,18 +1198,7 @@
       ]
     },
     {
-      "title": "Formula 1 and my autistic son - navigating noise, crowds and chaos",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g7glkj614o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-06T16:28:31+00:00",
-      "score": 5,
-      "matched": [
-        "formula 1(+2)"
-      ]
-    },
-    {
-      "title": "As Khamenei mourners fill Iran's streets, discontent still simmers",
+      "title": "As Khamenei mourners fill Iran’s streets, discontent still simmers",
       "link": "https://www.straitstimes.com/world/middle-east/as-khamenei-mourners-fill-irans-streets-discontent-still-simmers",
       "source": "Straits Times World (Global)",
       "section": "World",
@@ -1161,59 +1220,26 @@
       ]
     },
     {
-      "title": "French government survives no-confidence vote over heatwave handling",
-      "link": "https://www.straitstimes.com/world/europe/french-government-survives-no-confidence-vote-over-heatwave-handling",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T15:01:46+00:00",
+      "title": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+      "link": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-06T14:52:49+00:00",
       "score": 5,
       "matched": [
-        "parliament(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Austrian court convicts ex-intelligence chief in Syria's Raqqa of torture",
-      "link": "https://www.straitstimes.com/world/europe/austrian-court-convicts-ex-intelligence-chief-in-syrias-raqqa-of-torture",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T14:42:24+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Can Partiful keep the party going?",
-      "link": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-06T14:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Arsenal sign Germany striker Cerci on free",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg553rzprpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
+      "title": "USA take on Belgium in World Cup last‑16 after Trump‑backed Balogun reprieve; Spain meet Portugal, England draw Norway",
+      "link": "https://www.malaymail.com/news/sports/2026/07/06/usa-take-on-belgium-in-world-cup-last16-after-trumpbacked-balogun-reprieve-spain-meet-portugal-england-draw-norway/226620",
+      "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
-      "published": "2026-07-06T12:47:50+00:00",
+      "published": "2026-07-06T12:22:54+00:00",
       "score": 5,
       "matched": [
-        "football(+1)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Britain sanctions Russians it says developed chemical weapons used to kill opposition figure Navalny",
-      "link": "https://www.straitstimes.com/world/europe/britain-sanctions-russians-it-says-developed-chemical-weapons-used-to-kill-opposition-figure-navalny",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T12:25:00+00:00",
-      "score": 5,
-      "matched": [
-        "sanctions(+2)"
+        "who(+2)",
+        "football(+1)"
       ]
     },
     {
@@ -1304,28 +1330,6 @@
       "score": 5,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Companies are buying AI tools. That doesn't mean they know what to do with them.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/companies-buying-ai-tools-doesnt-091002076.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-06T09:10:02+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Ebola outbreak containment hampered by USAID closure, experts say",
-      "link": "https://www.cnbc.com/2026/07/06/ebola-drc-uganda-usaid-trump-musk.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T05:00:01+00:00",
-      "score": 5,
-      "matched": [
-        "outbreak(+3)"
       ]
     },
     {
@@ -1420,36 +1424,69 @@
       ]
     },
     {
-      "title": "Ringgit may rebound on capital flow measures, say analysts",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/06/ringgit-may-rebound-on-capital-flow-measures-say-analysts",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T00:36:43+00:00",
+      "title": "After decades in Silicon Valley, a former Apple and Amazon engineer started an AI chip company in his mid-50s",
+      "link": "https://finance.yahoo.com/technology/ai/articles/decades-silicon-valley-former-apple-000001889.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T00:00:01+00:00",
       "score": 5,
       "matched": [
-        "artificial intelligence(+3)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Utah prosecutors present case against man accused in Charlie Kirk killing",
-      "link": "https://www.straitstimes.com/world/utah-prosecutors-seek-trial-in-charlie-kirk-murder-case",
+      "title": "Austrian court convicts ex-intelligence chief in Syria's Raqqa of torture",
+      "link": "https://www.straitstimes.com/world/europe/austrian-court-convicts-ex-intelligence-chief-in-syrias-raqqa-of-torture",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-06T12:06:44+00:00",
+      "published": "2026-07-06T14:42:24+00:00",
       "score": 4,
       "matched": [
-        "election(+2)"
+        "court(+2)"
       ]
     },
     {
-      "title": "Israel kills 4, including school principal, in south Lebanon, health ministry says",
-      "link": "https://www.straitstimes.com/world/middle-east/israeli-drone-strike-kills-four-people-in-southern-lebanon-lebanese-state-media-reports",
-      "source": "Straits Times World (Global)",
+      "title": "Opinion - Three changes that could restore the Supreme Court’s independence",
+      "link": "https://www.yahoo.com/news/politics/articles/opinion-three-changes-could-restore-143000437.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-06T12:01:37+00:00",
+      "published": "2026-07-06T14:30:00+00:00",
       "score": 4,
       "matched": [
-        "ministry(+2)"
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Can Partiful keep the party going?",
+      "link": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-06T14:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "startup(+2)"
+      ]
+    },
+    {
+      "title": "Britain sanctions Russians it says developed chemical weapons used to kill opposition figure Navalny",
+      "link": "https://www.straitstimes.com/world/europe/britain-sanctions-russians-it-says-developed-chemical-weapons-used-to-kill-opposition-figure-navalny",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-06T12:25:00+00:00",
+      "score": 4,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court ruling may wipe out Democrats' cash advantage in Senate battlegrounds",
+      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-ruling-may-wipe-100725603.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T10:07:25+00:00",
+      "score": 4,
+      "matched": [
+        "court(+2)"
       ]
     },
     {
@@ -1464,14 +1501,14 @@
       ]
     },
     {
-      "title": "Gen Z was ‘jaded about employment before we ever entered the workforce’—now psychologists say the stare has hardened into something worse",
-      "link": "https://finance.yahoo.com/economy/articles/gen-z-jaded-employment-ever-070300003.html",
+      "title": "A year after a disastrous maiden launch, North Korea's new destroyer is up and firing its guns",
+      "link": "https://www.yahoo.com/news/world/articles/disastrous-maiden-launch-north-koreas-075307135.html",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-06T07:03:00+00:00",
+      "published": "2026-07-06T07:53:07+00:00",
       "score": 4,
       "matched": [
-        "economy(+2)"
+        "launch(+2)"
       ]
     },
     {
@@ -1497,47 +1534,20 @@
       ]
     },
     {
-      "title": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup",
-      "link": "https://www.channelnewsasia.com/sport/accidental-american-balogun-crossroads-us-soccer-politics-world-cup-6236136",
+      "title": "Toyota to build $3.6 billion Texas plant, shift some truck production from Mexico",
+      "link": "https://www.channelnewsasia.com/business/toyota-build-36-billion-texas-plant-shift-some-truck-production-mexico-6236371",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-06T18:13:36+00:00",
+      "published": "2026-07-06T20:35:28+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Amazon competitor Bookshop.org says Kobo e-reader support will happen this year after all",
-      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-06T18:12:01+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Ticket prices continue to fall for USA-Belgium World Cup last 16 clash",
-      "link": "https://www.aljazeera.com/sports/2026/7/6/ticket-prices-continue-to-fall-for-usa-belgium-world-cup-last-16-clash?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-06T18:01:59+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Spain unchanged, Joao Felix starts for Portugal in World Cup last 16",
-      "link": "https://www.channelnewsasia.com/sport/spain-unchanged-joao-felix-starts-portugal-in-world-cup-last-16-6236111",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-06T17:53:08+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
-      "link": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
+      "title": "Hoto’s PixelDrive screwdriver is down to $60, matching its best price",
+      "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-07-06T16:22:34+00:00",
+      "published": "2026-07-06T20:24:28+00:00",
       "score": 3,
       "matched": []
     }
