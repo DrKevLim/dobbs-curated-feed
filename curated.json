@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-07-07T09:01:22.311416+00:00",
+  "generated_at": "2026-07-07T09:31:12.428569+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 1,
     "Malay Mail Sports (Sports)": 9,
-    "Malay Mail Money (Finance)": 7,
-    "FMT Business (Finance)": 12,
+    "Malay Mail Money (Finance)": 5,
+    "FMT Business (Finance)": 10,
     "The Verge": 5,
-    "Malay Mail (Malaysia)": 10,
-    "Free Malaysia Today": 14,
+    "Malay Mail (Malaysia)": 9,
+    "Free Malaysia Today": 15,
     "Al Jazeera (Global)": 9,
     "FMT Sports (Sports)": 11,
-    "CNBC Markets (Finance)": 5,
+    "Straits Times World (Global)": 5,
+    "Yahoo Finance (Finance)": 7,
     "Yahoo Top Stories (World)": 5,
+    "CNBC Markets (Finance)": 2,
     "TechCrunch": 8,
     "Channel NewsAsia (Global)": 5,
-    "BBC Sport (Sports)": 4,
-    "Straits Times World (Global)": 5
+    "BBC Sport (Sports)": 4
   },
   "items": [
     {
@@ -60,7 +61,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-07T03:30:00+00:00",
-      "score": 51,
+      "score": 50,
       "matched": [
         "policy(+3)",
         "parliament(+2)",
@@ -115,7 +116,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-06T09:29:59+00:00",
-      "score": 40,
+      "score": 39,
       "matched": [
         "urgent(+3)",
         "ministry(+2)",
@@ -156,28 +157,6 @@
       ]
     },
     {
-      "title": "Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain",
-      "link": "https://codeblue.galencentre.org/2026/07/government-names-base-mhit-mediasas-waiting-periods-uncertain/",
-      "source": "CodeBlue (Malaysia Health)",
-      "section": "Health",
-      "published": "2026-07-07T03:15:20+00:00",
-      "score": 37,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)",
-        "cancer(+2)",
-        "health(+2)",
-        "healthcare(+3)",
-        "hospitals(+3)",
-        "doctors(+3)",
-        "medical(+3)",
-        "diseases(+3)",
-        "ministry of health(+3)",
-        "moh(+3)",
-        "cancer(+3)"
-      ]
-    },
-    {
       "title": "HTAR Klang’s Surgery Department On Verge Of Collapse — Concerned Surgical Medical Officers",
       "link": "https://codeblue.galencentre.org/2026/07/htar-klangs-surgery-department-on-verge-of-collapse-concerned-surgical-medical-officers/",
       "source": "CodeBlue (Malaysia Health)",
@@ -197,6 +176,28 @@
         "medicine(+2)",
         "patient(+3)",
         "patients(+3)"
+      ]
+    },
+    {
+      "title": "Government Names Base MHIT ‘MediAsas’, Waiting Periods Uncertain",
+      "link": "https://codeblue.galencentre.org/2026/07/government-names-base-mhit-mediasas-waiting-periods-uncertain/",
+      "source": "CodeBlue (Malaysia Health)",
+      "section": "Health",
+      "published": "2026-07-07T03:15:20+00:00",
+      "score": 36,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "cancer(+2)",
+        "health(+2)",
+        "healthcare(+3)",
+        "hospitals(+3)",
+        "doctors(+3)",
+        "medical(+3)",
+        "diseases(+3)",
+        "ministry of health(+3)",
+        "moh(+3)",
+        "cancer(+3)"
       ]
     },
     {
@@ -418,20 +419,6 @@
       ]
     },
     {
-      "title": "NGOs urge deputy minister to clarify remarks on abortion",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/07/ngos-urge-deputy-minister-to-clarify-remarks-on-abortion",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-07T03:13:00+00:00",
-      "score": 13,
-      "matched": [
-        "policy(+3)",
-        "law(+3)",
-        "parliament(+2)",
-        "ministry(+2)"
-      ]
-    },
-    {
       "title": "Foreign investments rebound but recovery uneven, says UN",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/07/foreign-investments-rebound-but-recovery-uneven-says-un",
       "source": "FMT Business (Finance)",
@@ -456,6 +443,20 @@
         "ministry(+2)",
         "corruption(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "NGOs urge deputy minister to clarify remarks on abortion",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/07/ngos-urge-deputy-minister-to-clarify-remarks-on-abortion",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-07T03:13:00+00:00",
+      "score": 12,
+      "matched": [
+        "policy(+3)",
+        "law(+3)",
+        "parliament(+2)",
+        "ministry(+2)"
       ]
     },
     {
@@ -578,8 +579,8 @@
       ]
     },
     {
-      "title": "At least two more years before Malaysia gets new LCS missiles, says army chief",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/07/at-least-two-more-years-before-malaysia-gets-new-lcs-missiles-says-army-chief/226680",
+      "title": "At least two more years before Malaysia gets new LCS missiles, says Chief of Defence Force",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/07/at-least-two-more-years-before-malaysia-gets-new-lcs-missiles-says-defence-force-chief/226680",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-07-07T05:41:22+00:00",
@@ -599,32 +600,6 @@
       "score": 10,
       "matched": [
         "law(+3)",
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Adaptive reuse project to breathe new life into George Town heritage shophouses",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/07/adaptive-reuse-project-to-breathe-new-life-into-george-town-heritage-shophouses/226674",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-07T04:51:39+00:00",
-      "score": 10,
-      "matched": [
-        "war(+3)",
-        "economy(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Teo Nie Ching urges Onn Hafiz to explain alleged campaigning at Johor TVET event",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/07/teo-nie-ching-urges-onn-hafiz-to-explain-alleged-campaigning-at-johor-tvet-event/226672",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-07T04:45:56+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
         "election(+2)",
         "who(+2)"
       ]
@@ -705,6 +680,30 @@
         "court(+2)",
         "ai(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Ebola outbreak in Congo still in 'expansion phase', WHO says",
+      "link": "https://www.straitstimes.com/world/ebola-outbreak-in-congo-still-in-expansion-phase-who-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-07T09:26:59+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
+      "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T09:16:00+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -830,19 +829,6 @@
       ]
     },
     {
-      "title": "Federal govt did the heavy lifting for JS-SEZ, says Tengku Zafrul",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/07/federal-govt-did-the-heavy-lifting-for-js-sez-says-tengku-zafrul",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-07T02:50:44+00:00",
-      "score": 8,
-      "matched": [
-        "election(+2)",
-        "economy(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
       "title": "Samsung expects 1,800pc leap in quarterly operating profit on AI boom",
       "link": "https://www.malaymail.com/news/money/2026/07/07/samsung-expects-1800pc-leap-in-quarterly-operating-profit-on-ai-boom/226628",
       "source": "Malay Mail Money (Finance)",
@@ -892,6 +878,18 @@
       "matched": [
         "ai(+3)",
         "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Inside the secret AI war between Silicon Valley and China",
+      "link": "https://www.yahoo.com/news/politics/articles/the-covert-us-china-battle-to-make-chatbots-leak-their-secrets-090000095.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-06T13:51:38+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "ai(+3)"
       ]
     },
     {
@@ -963,6 +961,42 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-07-07T08:00:27+00:00",
+      "score": 7,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "In Larkin, land leases and a city’s growing pains shape Johor election contest",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/07/in-larkin-land-leases-and-a-citys-growing-pains-shape-johor-election-contest/226711",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-07T07:49:27+00:00",
+      "score": 7,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Student stabbed at school expected to be discharged in a week",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/07/student-stabbed-at-school-expected-to-be-discharged-in-a-week",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-07T07:47:10+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Maszlee not up to Onn Hafiz’s standard, says Tok Mat",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/07/maszlee-not-up-to-onn-hafizs-standard-says-tok-mat",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-07T07:03:12+00:00",
       "score": 7,
       "matched": [
         "election(+2)",
@@ -1094,15 +1128,36 @@
       ]
     },
     {
-      "title": "High-quality investments drive Selangor GDP to RM460.1b, says exco",
-      "link": "https://www.malaymail.com/news/money/2026/07/06/high-quality-investments-drive-selangor-gdp-to-rm4601b-says-exco/226593",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T09:18:57+00:00",
-      "score": 7,
+      "title": "'Fast-growing' dengue cluster detected in Yio Chu Kang, 135 cases so far: NEA",
+      "link": "https://www.channelnewsasia.com/singapore/dengue-cluster-yio-chu-kang-lentor-nea-6237831",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-07T09:14:49+00:00",
+      "score": 6,
       "matched": [
-        "policy(+3)",
-        "economy(+2)"
+        "dengue(+3)"
+      ]
+    },
+    {
+      "title": "IQM acquires Quantistry assets to boost industrial quantum solutions",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iqm-acquires-quantistry-assets-boost-091224942.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T09:12:24+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "ECB tells banks to draw up plans against AI attacks amid disruption fears",
+      "link": "https://www.channelnewsasia.com/business/ecb-tells-banks-draw-up-plans-against-ai-attacks-amid-disruption-fears-6237916",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-07T09:01:52+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1128,6 +1183,28 @@
       ]
     },
     {
+      "title": "How RadNet’s (RDNT) AI Reporting Tools Could Improve Imaging Center Scale and Workflow",
+      "link": "https://finance.yahoo.com/healthcare/articles/radnet-rdnt-ai-reporting-tools-072647572.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T07:26:47+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "How U.S. Physical Therapy’s (USPH) Clinic Acquisition Supports Its Outpatient Care Roll-Up Strategy",
+      "link": "https://finance.yahoo.com/healthcare/articles/u-physical-therapy-usph-clinic-072107091.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T07:21:07+00:00",
+      "score": 6,
+      "matched": [
+        "acquisition(+3)"
+      ]
+    },
+    {
       "title": "South Korean law targeting 'fake news' takes effect as journalists' groups raise concerns",
       "link": "https://www.channelnewsasia.com/east-asia/south-korea-fake-news-law-6237366",
       "source": "Channel NewsAsia (Global)",
@@ -1144,28 +1221,6 @@
       "source": "Channel NewsAsia (Global)",
       "section": "World",
       "published": "2026-07-07T06:18:31+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "US firms remain committed to Singapore, but rising costs could affect future investment: AmCham CEO",
-      "link": "https://www.channelnewsasia.com/singapore/amcham-ceo-us-firms-committed-singapore-rising-costs-affect-future-investment-6237071",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-07T06:03:05+00:00",
-      "score": 6,
-      "matched": [
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "South Korea's KOSPI tumbles 8%, triggering circuit breakers for sixth time this year",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-kospi-falls-ai-circuit-breakers-6237301",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-07T05:49:00+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1232,18 +1287,6 @@
       ]
     },
     {
-      "title": "Israel Parliament advances Bill for inquiry into Oct 7 failures",
-      "link": "https://www.straitstimes.com/world/middle-east/israel-parliament-advances-bill-for-inquiry-into-oct-7-failures",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-06T23:48:00+00:00",
-      "score": 6,
-      "matched": [
-        "parliament(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Spain's World Cup challenge built on record-breaking historic defence",
       "link": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1307,11 +1350,33 @@
       ]
     },
     {
+      "title": "Japan’s vehicle sales rise by 9% in June",
+      "link": "https://finance.yahoo.com/economy/articles/japan-vehicle-sales-rise-9-091308859.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T09:13:08+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "NYSE president optimistic about forthcoming IPOs, says economy is doing 'extraordinarily well'",
+      "link": "https://finance.yahoo.com/markets/article/nyse-president-optimistic-about-forthcoming-ipos-says-economy-is-doing-extraordinarily-well-090000313.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T09:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Man testifies he felt cheated, intimidated by Raymond Ng in vending machine case; Ng says he's lying",
       "link": "https://www.channelnewsasia.com/singapore/man-testify-cheated-raymond-ng-vendshare-6237541",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-07T08:20:46+00:00",
+      "published": "2026-07-07T08:20:00+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
@@ -1329,22 +1394,33 @@
       ]
     },
     {
+      "title": "Why Oncology Institute’s (TOI) Analyst Upgrades Put Its Community Cancer Care Growth Story in Focus",
+      "link": "https://finance.yahoo.com/healthcare/articles/why-oncology-institute-toi-analyst-074324366.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-07T07:43:24+00:00",
+      "score": 5,
+      "matched": [
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "Explosions rock Damascus during Macron’s visit to Syria",
+      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-07T07:32:04+00:00",
+      "score": 5,
+      "matched": [
+        "ministry(+2)"
+      ]
+    },
+    {
       "title": "Taiwan’s Evergreen Marine directors grilled over alleged insider trading",
       "link": "https://www.malaymail.com/news/money/2026/07/07/taiwans-evergreen-marine-directors-grilled-over-alleged-insider-trading/226703",
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-07-07T07:22:21+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Why oil investors fear the next toll fight could be the Strait of Malacca",
-      "link": "https://www.cnbc.com/2026/07/07/malacca-hormuz-oil-shipping-indonesia.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-07T06:16:44+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
@@ -1381,28 +1457,6 @@
       "score": 5,
       "matched": [
         "parliament(+2)"
-      ]
-    },
-    {
-      "title": "Idaho mother who said her toddlers died after vaccinations accused of suffocating them, charged with murder",
-      "link": "https://www.yahoo.com/news/us/articles/idaho-mother-said-her-toddlers-041852954.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-07T04:18:52+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-07T03:02:23+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
       ]
     },
     {
@@ -1444,17 +1498,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-06T23:21:03+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
-      "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T21:26:17+00:00",
       "score": 5,
       "matched": [
         "ai(+3)"
@@ -1538,55 +1581,11 @@
       ]
     },
     {
-      "title": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
-      "link": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T14:52:49+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "French firm Carester to build rare earths separation plant in Perak",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/french-firm-carester-to-build-rare-earths-separation-plant-in-perak",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T14:38:20+00:00",
-      "score": 5,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia ends higher on banking and plantation gains",
-      "link": "https://www.malaymail.com/news/money/2026/07/06/bursa-malaysia-ends-higher-on-banking-and-plantation-gains/226599",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T10:03:23+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Bursa ends higher, lifted by banking and plantation stocks",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/06/bursa-ends-higher-lifted-by-banking-and-plantation-stocks",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-06T09:29:30+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss",
+      "title": "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan",
+      "link": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-07-07T02:15:36+00:00",
+      "published": "2026-07-07T03:02:23+00:00",
       "score": 4,
       "matched": [
         "who(+2)"
