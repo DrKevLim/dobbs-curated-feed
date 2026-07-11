@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T17:16:20.708140+00:00",
+  "generated_at": "2026-07-11T21:01:25.610335+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -8,17 +8,17 @@
     "Malay Mail Money (Finance)": 4,
     "FMT Business (Finance)": 3,
     "Free Malaysia Today": 14,
-    "The Verge": 9,
-    "Yahoo Finance (Finance)": 8,
+    "Yahoo Finance (Finance)": 11,
+    "The Verge": 7,
     "Malay Mail (Malaysia)": 10,
+    "BBC Sport (Sports)": 10,
     "Yahoo Top Stories (World)": 5,
-    "BBC Sport (Sports)": 7,
     "Straits Times World (Global)": 8,
-    "CNBC Markets (Finance)": 9,
+    "CNBC Markets (Finance)": 6,
     "Malay Mail Sports (Sports)": 2,
-    "Al Jazeera (Global)": 4,
-    "Channel NewsAsia (Global)": 7,
-    "TechCrunch": 7
+    "TechCrunch": 6,
+    "Al Jazeera (Global)": 5,
+    "Channel NewsAsia (Global)": 6
   },
   "items": [
     {
@@ -341,7 +341,7 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-07-11T14:34:03+00:00",
-      "score": 12,
+      "score": 11,
       "matched": [
         "election(+2)",
         "who(+2)",
@@ -377,45 +377,6 @@
       ]
     },
     {
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-11T13:00:00+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Sosma not as robust as ISA in tackling extremism, says Fadillah",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/sosma-not-as-robust-as-isa-in-tackling-extremism-says-fadillah",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:21:51+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "68% of 56,000 international students in public varsities pursuing postgrad studies",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/68-of-56000-international-students-in-public-varsities-pursuing-postgrad-studies",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:19:28+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)",
-        "economy(+2)"
-      ]
-    },
-    {
       "title": "From AI buddies to rivals: Apple and OpenAI’s bromance ends in court with blockbuster trade secrets lawsuit",
       "link": "https://www.malaymail.com/news/money/2026/07/11/from-ai-buddies-to-rivals-apple-and-openais-bromance-ends-in-court-with-blockbuster-trade-secrets-lawsuit/227163",
       "source": "Malay Mail Money (Finance)",
@@ -426,6 +387,18 @@
         "court(+2)",
         "ai(+3)",
         "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-expanding-ai-data-195901778.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T19:59:01+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "acquisition(+3)"
       ]
     },
     {
@@ -441,16 +414,42 @@
       ]
     },
     {
-      "title": "Onn Hafiz factor and PAS backing led to BN victory, say analysts",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/onn-hafiz-factor-and-pas-backing-led-to-bn-victory-say-analysts",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T14:44:14+00:00",
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-11T13:00:00+00:00",
       "score": 9,
       "matched": [
-        "sanctions(+2)",
-        "election(+2)",
+        "policy(+3)",
+        "court(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Sosma not as robust as ISA in tackling extremism, says Fadillah",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/sosma-not-as-robust-as-isa-in-tackling-extremism-says-fadillah",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:21:51+00:00",
+      "score": 9,
+      "matched": [
+        "law(+3)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "68% of 56,000 international students in public varsities pursuing postgrad studies",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/68-of-56000-international-students-in-public-varsities-pursuing-postgrad-studies",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:19:28+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "economy(+2)"
       ]
     },
     {
@@ -494,15 +493,28 @@
       ]
     },
     {
-      "title": "‘The first time ever in my career’: Senior Citi executive on why the ultrawealthy want to diversify away from America",
-      "link": "https://finance.yahoo.com/economy/policy/articles/first-time-ever-career-senior-113000672.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-11T11:30:00+00:00",
+      "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-11T18:44:12+00:00",
       "score": 8,
       "matched": [
         "policy(+3)",
-        "economy(+2)"
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Onn Hafiz factor and PAS backing led to BN victory, say analysts",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/onn-hafiz-factor-and-pas-backing-led-to-bn-victory-say-analysts",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T14:44:14+00:00",
+      "score": 8,
+      "matched": [
+        "sanctions(+2)",
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -516,6 +528,20 @@
         "breaking(+3)",
         "who(+2)",
         "football(+1)"
+      ]
+    },
+    {
+      "title": "Man Utd and Liverpool want Gomes - Sunday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd0m9p5zd7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T19:24:34+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)",
+        "manchester united(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -605,99 +631,15 @@
       ]
     },
     {
-      "title": "PAS reserves comment until official results announced",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/pas-reserves-comment-until-official-results-announced",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T13:44:13+00:00",
+      "title": "‘The first time ever in my career’: Senior Citi executive on why the ultrawealthy want to diversify away from America",
+      "link": "https://finance.yahoo.com/economy/policy/articles/first-time-ever-career-senior-113000672.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-11T11:30:00+00:00",
       "score": 7,
       "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "BN top leaders gather at Johor operations room to track election results",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/bn-top-leaders-gather-at-johor-operations-room-to-track-election-results/227239",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-11T13:31:38+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Onn Hafiz thanks Johoreans for returning BN to power",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/onn-hafiz-thanks-johoreans-for-returning-bn-to-power",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T13:17:15+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Man drives 120km to vote only to arrive a minute too late",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/man-drives-120km-to-vote-only-to-arrive-a-minute-too-late",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:43:36+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "BN claims victory in Johor",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/bn-claims-victory-in-johor",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:40:31+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "EC: Pakatan gets first unofficial Johor win in Bentayan",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/ec-pakatan-gets-first-unofficial-johor-win-in-bentayan-as-bn-pushes-seat-tally-to-13/227234",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:35:39+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "UNOFFICIAL: Bersatu’s ex-MB Sahruddin defeated",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/unofficial-bersatus-ex-mb-sahruddin-defeated",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-11T12:22:08+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Govt approves over 5,000 Budi Diesel quota transfers within families",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/govt-approves-over-5000-budi-diesel-quota-transfers-within-families/227232",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-11T11:49:45+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "who(+2)"
+        "policy(+3)",
+        "economy(+2)"
       ]
     },
     {
@@ -749,11 +691,77 @@
       ]
     },
     {
-      "title": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-      "link": "https://finance.yahoo.com/technology/ai/articles/skip-arkk-moonshots-fund-owns-165531298.html",
+      "title": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-seagate-technology-stx-strengthening-202429436.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-07-11T16:55:31+00:00",
+      "published": "2026-07-11T20:24:29+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "5 Top AI Stocks Investors Own on Robinhood",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-top-ai-stocks-investors-202000090.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T20:20:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-applied-optoelectronics-aaoi-well-201727325.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T20:17:27+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "US seeks free Strait of Hormuz access from Iran, as talks focus on vital waterway",
+      "link": "https://www.straitstimes.com/world/middle-east/us-seeks-free-strait-of-hormuz-access-from-iran-as-talks-focus-on-vital-waterway",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:12:03+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T20:10:23+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Guggenheim Museum among NYC buildings that tested positive for Legionnaires’ amid disease outbreak",
+      "link": "https://www.yahoo.com/news/us/articles/guggenheim-museum-among-nyc-buildings-195539859.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-11T19:55:39+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-positioned-benefit-195239343.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T19:52:39+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -816,69 +824,99 @@
       ]
     },
     {
-      "title": "Fifth Third (FITB) Launches AI-Powered Mobile App Interface",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fifth-third-fitb-launches-ai-160016030.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T16:00:16+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic warn China is using tens of thousands of fake accounts to copy their AI models",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-warn-china-using-160000373.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T16:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "These underperforming trades could yield big returns over next six months",
-      "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T15:00:01+00:00",
-      "score": 6,
-      "matched": [
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-      "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-11T15:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "New housing law targets affordability — what it means for homebuyers and sellers",
-      "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T13:41:13+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "Woman dies, sister-in-law and son injured in highway crash",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/woman-dies-sister-in-law-and-son-injured-in-highway-crash",
+      "title": "PAS reserves comment until official results announced",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/pas-reserves-comment-until-official-results-announced",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-07-11T12:08:36+00:00",
+      "published": "2026-07-11T13:44:13+00:00",
       "score": 6,
       "matched": [
-        "law(+3)"
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "BN top leaders gather at Johor operations room to track election results",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/bn-top-leaders-gather-at-johor-operations-room-to-track-election-results/227239",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-11T13:31:38+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Onn Hafiz thanks Johoreans for returning BN to power",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/onn-hafiz-thanks-johoreans-for-returning-bn-to-power",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T13:17:15+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Man drives 120km to vote only to arrive a minute too late",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/man-drives-120km-to-vote-only-to-arrive-a-minute-too-late",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:43:36+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "BN claims victory in Johor",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/bn-claims-victory-in-johor",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:40:31+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "EC: Pakatan gets first unofficial Johor win in Bentayan",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/ec-pakatan-gets-first-unofficial-johor-win-in-bentayan-as-bn-pushes-seat-tally-to-13/227234",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:35:39+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "UNOFFICIAL: Bersatu’s ex-MB Sahruddin defeated",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/11/unofficial-bersatus-ex-mb-sahruddin-defeated",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T12:22:08+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Govt approves over 5,000 Budi Diesel quota transfers within families",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/11/govt-approves-over-5000-budi-diesel-quota-transfers-within-families/227232",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-11T11:49:45+00:00",
+      "score": 6,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -943,14 +981,35 @@
       ]
     },
     {
-      "title": "Trump purges Election Assistance Commission members, months before midterms",
-      "link": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html",
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-10T18:05:24+00:00",
-      "score": 6,
+      "published": "2026-07-11T20:35:21+00:00",
+      "score": 5,
       "matched": [
-        "court(+2)",
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-11T17:30:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "BN landslide fulfils Hadi’s wish for Malay-Muslim leadership, says PAS",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/12/bn-landslide-fulfils-hadis-wish-for-malay-muslim-leadership-says-pas",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-11T16:19:45+00:00",
+      "score": 5,
+      "matched": [
         "election(+2)"
       ]
     },
@@ -1000,105 +1059,36 @@
       ]
     },
     {
-      "title": "Nintendo’s Talking Flower got a small price cut",
-      "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "title": "These underperforming trades could yield big returns over next six months",
+      "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T15:00:01+00:00",
+      "score": 5,
+      "matched": [
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-07-11T15:00:00+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-11T14:18:33+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one",
-      "link": "https://www.cnbc.com/guide/trump-accounts/",
+      "title": "New housing law targets affordability — what it means for homebuyers and sellers",
+      "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-11T14:05:01+00:00",
+      "published": "2026-07-11T13:41:13+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Man City sign teenage winger Monga on 5-year deal",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/11/man-city-sign-teenage-winger-monga-on-5-year-deal",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-11T13:42:23+00:00",
-      "score": 5,
-      "matched": [
-        "premier league(+2)"
-      ]
-    },
-    {
-      "title": "Former Chelsea and Leeds owner Bates dies aged 94",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-11T13:21:14+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Garnacho absent from Chelsea pre-season training",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-11T13:10:36+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T12:51:50+00:00",
-      "score": 5,
-      "matched": [
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss",
-      "link": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-11T12:00:01+00:00",
-      "score": 5,
-      "matched": [
-        "diabetes(+2)"
-      ]
-    },
-    {
-      "title": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-11T11:58:58+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
+        "law(+3)"
       ]
     },
     {
@@ -1136,17 +1126,6 @@
       ]
     },
     {
-      "title": "Russian missile and drone barrage kills six and wounds dozens in Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-11T08:53:23+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "US seeks Iranian pledge to free up Strait of Hormuz",
       "link": "https://www.straitstimes.com/world/middle-east/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over",
       "source": "Straits Times World (Global)",
@@ -1155,28 +1134,6 @@
       "score": 5,
       "matched": [
         "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Apple sues OpenAI, accusing it of stealing company secrets",
-      "link": "https://www.straitstimes.com/world/united-states/apple-sues-openai-accusing-it-of-stealing-company-secrets",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-11T03:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "New York City to ban firms from using subscription traps, officials say",
-      "link": "https://www.straitstimes.com/world/united-states/new-york-city-to-ban-firms-from-using-subscription-traps-officials-say",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-11T02:45:00+00:00",
-      "score": 5,
-      "matched": [
-        "policy(+3)"
       ]
     },
     {
@@ -1207,17 +1164,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-10T23:55:07+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-10T23:49:50+00:00",
       "score": 5,
       "matched": [
         "ai(+3)"
@@ -1260,14 +1206,14 @@
       ]
     },
     {
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-10T22:35:18+00:00",
+      "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+      "link": "https://www.yahoo.com/news/politics/articles/tanker-traffic-slows-strait-hormuz-120600473.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-10T22:24:56+00:00",
       "score": 5,
       "matched": [
-        "policy(+3)"
+        "ceasefire(+3)"
       ]
     },
     {
@@ -1282,36 +1228,25 @@
       ]
     },
     {
-      "title": "Billionaires warned New York would scare off business. Anthropic and Airbnb just made their biggest bets on the city yet",
-      "link": "https://finance.yahoo.com/technology/ai/articles/billionaires-warned-york-scare-off-203541248.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-10T20:35:41+00:00",
-      "score": 5,
+      "title": "Pollock scores hat-trick as 11-try England thrash Fiji",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cz0jv2y07m1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T17:25:32+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
+        "liverpool(+1)"
       ]
     },
     {
-      "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
-      "link": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-10T20:06:19+00:00",
-      "score": 5,
+      "title": "Bournemouth's Jimenez set for loan move to Fiorentina amid investigation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgd7z5xjvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T17:06:11+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-10T17:17:12+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
+        "football(+1)"
       ]
     },
     {
@@ -1326,14 +1261,105 @@
       ]
     },
     {
-      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-11T14:48:39+00:00",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-11T15:00:00+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-11T14:18:33+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Trump Accounts: Who is eligible, how $1,000 deposits work and how to open one",
+      "link": "https://www.cnbc.com/guide/trump-accounts/",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-11T14:05:01+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Man City sign teenage winger Monga on 5-year deal",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/11/man-city-sign-teenage-winger-monga-on-5-year-deal",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T13:42:23+00:00",
+      "score": 4,
+      "matched": [
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Former Chelsea and Leeds owner Bates dies aged 94",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T13:21:14+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Garnacho absent from Chelsea pre-season training",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr47ykwr7zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T13:10:36+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Pregnant mom diagnosed with Stage IV cancer after symptoms were dismissed",
+      "link": "https://www.yahoo.com/news/science/articles/pregnant-mom-diagnosed-stage-iv-122330472.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-11T12:23:30+00:00",
+      "score": 4,
+      "matched": [
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy06zgdz728o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T11:58:58+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "British couple saved from Spanish ravine after deadly wildfire",
+      "link": "https://www.straitstimes.com/world/europe/spanish-firefighters-turn-to-the-offensive-against-deadly-almeria-blaze",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-11T11:36:51+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1359,17 +1385,6 @@
       ]
     },
     {
-      "title": "Trump officials sought ways to sidestep election agency before firings, sources say",
-      "link": "https://www.straitstimes.com/world/united-states/trump-officials-sought-ways-to-sidestep-election-agency-before-firings-sources-say",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-11T00:46:31+00:00",
-      "score": 4,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
       "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
       "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
       "source": "TechCrunch",
@@ -1392,118 +1407,123 @@
       ]
     },
     {
-      "title": "US senators say agreement reached with Trump on Russia sanctions bill",
-      "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-10T18:20:40+00:00",
-      "score": 4,
-      "matched": [
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "Axelrod: ‘Signals are flashing red’ over potential Trump election interference",
-      "link": "https://www.yahoo.com/news/politics/articles/axelrod-signals-flashing-red-over-181125243.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-10T18:11:25+00:00",
-      "score": 4,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-10T17:42:36+00:00",
-      "score": 4,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "India get stuck in traffic jam on way to fifth T20 against England, start delayed",
-      "link": "https://www.channelnewsasia.com/sport/india-get-stuck-in-traffic-jam-way-fifth-t20-against-england-start-delayed-6248366",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T17:08:10+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Heatwave forces Tour de France organisers to shorten stage nine",
-      "link": "https://www.channelnewsasia.com/sport/heatwave-forces-tour-de-france-organisers-shorten-stage-nine-6248361",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T17:01:35+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "German FA says it has started talks with coach Klopp for national team post, confident of a deal",
-      "link": "https://www.channelnewsasia.com/sport/german-fa-says-it-has-started-talks-coach-klopp-national-team-post-confident-deal-6248331",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T16:28:48+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Confident Zverev faces ultimate test against Sinner in Wimbledon final",
-      "link": "https://www.channelnewsasia.com/sport/confident-zverev-faces-ultimate-test-against-sinner-in-wimbledon-final-6248326",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T16:14:34+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-11T16:05:18+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Coventry sign Tchaouna from Burnley on five-year deal",
-      "link": "https://www.channelnewsasia.com/sport/coventry-sign-tchaouna-burnley-five-year-deal-6248316",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T15:59:29+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Rampant England bounce back to winning ways with 11-try spree against Fiji",
-      "link": "https://www.channelnewsasia.com/sport/rampant-england-bounce-back-winning-ways-11-try-spree-against-fiji-6248311",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-11T15:57:27+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "link": "https://www.straitstimes.com/world/united-states/trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story-newspaper-says",
+      "title": "Fewer American students are studying in China. What does this mean for future ties?",
+      "link": "https://www.straitstimes.com/world/fewer-american-students-are-studying-in-china-what-does-this-mean-for-future-ties",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-11T15:51:40+00:00",
+      "published": "2026-07-11T21:00:00+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-      "link": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-11T15:50:31+00:00",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-11T20:57:42+00:00",
       "score": 3,
       "matched": []
+    },
+    {
+      "title": "France defenders Saliba, Upamecano not in team training",
+      "link": "https://www.channelnewsasia.com/sport/france-defenders-saliba-upamecano-not-in-team-training-6248471",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:43:20+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "UK police investigate murder of politician Ann Widdecombe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:29:40+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "What’s behind Pakistan’s mass deportation of Afghans?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:11:55+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "UK police release suspect held over murder of Ann Widdecombe",
+      "link": "https://www.channelnewsasia.com/world/uk-police-release-suspect-held-over-murder-ann-widdecombe-6248466",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:09:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Muchova vows to keep chasing maiden major after Wimbledon heartbreak",
+      "link": "https://www.channelnewsasia.com/sport/muchova-vows-keep-chasing-maiden-major-after-wimbledon-heartbreak-6248461",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-11T20:00:56+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Israel police arrest four settlers over West Bank attack on CNN crew",
+      "link": "https://www.straitstimes.com/world/middle-east/israel-police-arrest-four-settlers-over-west-bank-attack-on-cnn-crew",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-11T19:27:10+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+      "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-11T19:25:59+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+      "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-11T19:15:10+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
+      "link": "https://www.channelnewsasia.com/sport/australias-bos-miss-three-months-feyenoord-after-world-cup-knee-injury-6248436",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-11T19:07:14+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+      "link": "https://www.channelnewsasia.com/world/six-dead-dozens-wounded-russia-strikes-ukraine-missiles-drones-6248431",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-11T19:03:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-11T14:48:39+00:00",
+      "score": 3,
+      "matched": [
+        "football(+1)"
+      ]
     },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -1511,25 +1531,7 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-11T14:13:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "A tasty RPG that will make you very hungry",
-      "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-11T12:00:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "The perfect kit for all your tiny repairs",
-      "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-11T12:00:00+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     }
   ]
