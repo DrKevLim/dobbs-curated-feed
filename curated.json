@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-14T10:11:04.355449+00:00",
+  "generated_at": "2026-07-14T17:34:26.345250+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 2,
-    "Malay Mail (Malaysia)": 14,
-    "FMT Business (Finance)": 16,
-    "Malay Mail Money (Finance)": 5,
-    "Free Malaysia Today": 10,
-    "FMT Sports (Sports)": 12,
-    "The Verge": 5,
-    "Malay Mail Sports (Sports)": 6,
-    "Channel NewsAsia (Global)": 6,
+    "Malay Mail (Malaysia)": 12,
+    "FMT Business (Finance)": 15,
+    "Free Malaysia Today": 12,
+    "Malay Mail Money (Finance)": 2,
+    "Malay Mail Sports (Sports)": 5,
+    "CNBC Markets (Finance)": 5,
+    "FMT Sports (Sports)": 9,
     "Yahoo Finance (Finance)": 2,
-    "Al Jazeera (Global)": 8,
-    "CNBC Markets (Finance)": 1,
-    "Straits Times World (Global)": 5,
-    "BBC Sport (Sports)": 6,
-    "TechCrunch": 9,
-    "Yahoo Top Stories (World)": 3
+    "The Verge": 6,
+    "Straits Times World (Global)": 12,
+    "Al Jazeera (Global)": 6,
+    "Channel NewsAsia (Global)": 4,
+    "TechCrunch": 8,
+    "Yahoo Top Stories (World)": 2,
+    "BBC Sport (Sports)": 8
   },
   "items": [
     {
@@ -203,7 +203,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-14T05:40:00+00:00",
-      "score": 27,
+      "score": 26,
       "matched": [
         "outbreak(+3)",
         "vaccine(+3)",
@@ -221,7 +221,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-14T07:30:00+00:00",
-      "score": 23,
+      "score": 22,
       "matched": [
         "urgent(+3)",
         "law(+3)",
@@ -268,22 +268,6 @@
       ]
     },
     {
-      "title": "TVET 2.0 to get industry boost with direct recognition for graduates",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/tvet-20-to-get-industry-boost-with-direct-recognition-for-graduates/227553",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T07:37:21+00:00",
-      "score": 18,
-      "matched": [
-        "ministry(+2)",
-        "economy(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "cybersecurity(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Poultry Producer SLH Expanding Despite Cost Pressures, Geopolitical Uncertainty",
       "link": "https://codeblue.galencentre.org/2026/07/poultry-producer-slh-expanding-despite-cost-pressures-geopolitical-uncertainty/",
       "source": "CodeBlue (Malaysia Health)",
@@ -297,6 +281,22 @@
         "covid(+2)",
         "health(+2)",
         "covid(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "TVET 2.0 to get industry boost with direct recognition for graduates",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/tvet-20-to-get-industry-boost-with-direct-recognition-for-graduates/227553",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T07:37:21+00:00",
+      "score": 17,
+      "matched": [
+        "ministry(+2)",
+        "economy(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "cybersecurity(+3)",
         "who(+2)"
       ]
     },
@@ -317,45 +317,33 @@
       ]
     },
     {
-      "title": "South Korea hikes 2026 growth outlook to 3pc on AI chip boom",
-      "link": "https://www.malaymail.com/news/money/2026/07/14/south-korea-hikes-2026-growth-outlook-to-3pc-on-ai-chip-boom/227560",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T07:44:19+00:00",
-      "score": 14,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "South Korea hikes 2026 growth outlook to 3% on AI chip boom",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/south-korea-hikes-2026-growth-outlook-to-3-on-ai-chip-boom",
+      "title": "US consumer inflation cools in June on lower energy costs",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/us-consumer-inflation-cools-in-june-on-lower-energy-costs",
       "source": "FMT Business (Finance)",
       "section": "Finance",
-      "published": "2026-07-14T04:33:40+00:00",
-      "score": 14,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "US inflation seen slowing as Middle East conflict clouds outlook",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/us-inflation-seen-slowing-as-middle-east-conflict-clouds-outlook",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T04:11:40+00:00",
-      "score": 14,
+      "published": "2026-07-14T14:15:49+00:00",
+      "score": 16,
       "matched": [
         "policy(+3)",
         "war(+3)",
         "ceasefire(+3)",
-        "inflation(+2)"
+        "inflation(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "EC studying proposal for domestic postal voting across regions",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/ec-studying-proposal-for-domestic-postal-voting-across-regions",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T10:20:01+00:00",
+      "score": 14,
+      "matched": [
+        "urgent(+3)",
+        "law(+3)",
+        "parliament(+2)",
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -389,17 +377,45 @@
       ]
     },
     {
-      "title": "Construction firm CEO says brother made political donation to Bersatu",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/construction-firm-ceo-says-brother-made-political-donation-to-bersatu",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T09:59:24+00:00",
+      "title": "South Korea hikes 2026 growth outlook to 3pc on AI chip boom",
+      "link": "https://www.malaymail.com/news/money/2026/07/14/south-korea-hikes-2026-growth-outlook-to-3pc-on-ai-chip-boom/227560",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T07:44:19+00:00",
       "score": 13,
       "matched": [
-        "budget(+3)",
-        "corruption(+3)",
-        "court(+2)",
-        "covid(+2)"
+        "policy(+3)",
+        "ministry(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "South Korea hikes 2026 growth outlook to 3% on AI chip boom",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/south-korea-hikes-2026-growth-outlook-to-3-on-ai-chip-boom",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T04:33:40+00:00",
+      "score": 13,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "US inflation seen slowing as Middle East conflict clouds outlook",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/us-inflation-seen-slowing-as-middle-east-conflict-clouds-outlook",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T04:11:40+00:00",
+      "score": 13,
+      "matched": [
+        "policy(+3)",
+        "war(+3)",
+        "ceasefire(+3)",
+        "inflation(+2)"
       ]
     },
     {
@@ -417,44 +433,60 @@
       ]
     },
     {
-      "title": "‘Fat Leonard’ seeks Trump pardon, citing cancer and financial hardship",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/fat-leonard-seeks-trump-pardon-cites-cancer-and-financial-hardship/227582",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T09:52:26+00:00",
+      "title": "Tuchel's tough love puts England within touching distance of World Cup final",
+      "link": "https://www.malaymail.com/news/sports/2026/07/14/tuchels-tough-love-puts-england-within-touching-distance-of-world-cup-final/227543",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T13:00:00+00:00",
       "score": 12,
       "matched": [
-        "corruption(+3)",
-        "court(+2)",
+        "breaking(+3)",
         "who(+2)",
-        "cancer(+2)"
+        "football(+1)",
+        "champions league(+2)",
+        "chelsea(+1)"
       ]
     },
     {
-      "title": "A simple lesson from Syed Saddiq case: If something belongs to you, keep it to yourself — Hafiz Hassan",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/a-simple-lesson-from-syed-saddiq-case-if-something-belongs-to-you-keep-it-to-yourself-hafiz-hassan/227550",
+      "title": "Dewan Rakyat approves Bill providing stronger witness protection, including help for children",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/dewan-rakyat-approves-bill-providing-stronger-witness-protection-including-help-for-children/227593",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-07-14T09:00:00+00:00",
+      "published": "2026-07-14T11:04:18+00:00",
       "score": 12,
       "matched": [
         "law(+3)",
+        "corruption(+3)",
         "court(+2)",
-        "election(+2)",
         "who(+2)"
       ]
     },
     {
-      "title": "Housing for all? Rehda pushes for smarter planning with better data",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/housing-for-all-rehda-pushes-for-smarter-planning-with-better-data/227532",
+      "title": "EC studying postal voting for all Malaysian voters, decision expected in 2027",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/ec-studying-postal-voting-for-all-malaysian-voters-decision-expected-in-2027/227595",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-07-14T06:44:13+00:00",
+      "published": "2026-07-14T10:46:31+00:00",
       "score": 12,
       "matched": [
-        "policy(+3)",
-        "ai(+3)",
-        "artificial intelligence(+3)"
+        "urgent(+3)",
+        "law(+3)",
+        "parliament(+2)",
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Construction firm CEO says brother made political donation to Bersatu",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/construction-firm-ceo-says-brother-made-political-donation-to-bersatu",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T09:59:24+00:00",
+      "score": 12,
+      "matched": [
+        "budget(+3)",
+        "corruption(+3)",
+        "court(+2)",
+        "covid(+2)"
       ]
     },
     {
@@ -472,29 +504,57 @@
       ]
     },
     {
-      "title": "Network School in Forest City faces home ministry probe",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/network-school-in-forest-city-faces-home-ministry-probe",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T08:35:04+00:00",
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+      "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T17:29:07+00:00",
       "score": 11,
       "matched": [
-        "law(+3)",
-        "ministry(+2)",
-        "breach(+3)"
+        "policy(+3)",
+        "inflation(+2)",
+        "ai(+3)"
       ]
     },
     {
-      "title": "China says exports soar more than forecast in June",
-      "link": "https://www.malaymail.com/news/money/2026/07/14/china-says-exports-soar-more-than-forecast-in-june/227546",
-      "source": "Malay Mail Money (Finance)",
+      "title": "After Mythos saga, Google AI boss wants US-led global watchdog",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/after-mythos-saga-google-ai-boss-wants-us-led-global-watchdog",
+      "source": "FMT Business (Finance)",
       "section": "Finance",
-      "published": "2026-07-14T07:00:21+00:00",
+      "published": "2026-07-14T15:21:04+00:00",
       "score": 11,
       "matched": [
-        "war(+3)",
-        "economy(+2)",
-        "ai(+3)"
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "‘Fat Leonard’ seeks Trump pardon, citing cancer and financial hardship",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/fat-leonard-seeks-trump-pardon-cites-cancer-and-financial-hardship/227582",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T09:52:26+00:00",
+      "score": 11,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)",
+        "who(+2)",
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "A simple lesson from Syed Saddiq case: If something belongs to you, keep it to yourself — Hafiz Hassan",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/a-simple-lesson-from-syed-saddiq-case-if-something-belongs-to-you-keep-it-to-yourself-hafiz-hassan/227550",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T09:00:00+00:00",
+      "score": 11,
+      "matched": [
+        "law(+3)",
+        "court(+2)",
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -513,16 +573,195 @@
       ]
     },
     {
+      "title": "$52,000 Tax Trap Hits Retirees Who Delay Social Security to 70",
+      "link": "https://finance.yahoo.com/economy/policy/articles/52-000-tax-trap-hits-170857911.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T17:08:57+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "economy(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Govt has no plans to reverse new EV import rules",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/govt-has-no-plans-to-reverse-new-ev-import-rules",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T15:57:06+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "New social work law to cover private sector first",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/new-social-work-law-to-cover-private-sector-first",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T13:10:54+00:00",
+      "score": 10,
+      "matched": [
+        "law(+3)",
+        "ministry(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "'We are committed to the 2% inflation goal,' Warsh tells House lawmakers",
+      "link": "https://finance.yahoo.com/economy/policy/article/we-are-committed-to-the-2-inflation-goal-warsh-tells-house-lawmakers-123000475.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T12:30:00+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "inflation(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "JPMorgan posts record profit on big gains from dealmaking, stock trading",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/jpmorgan-posts-record-profit-on-big-gains-from-dealmaking-stock-trading",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T12:02:33+00:00",
+      "score": 10,
+      "matched": [
+        "inflation(+2)",
+        "economy(+2)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Three days in office, two days remote: Hybrid work starts Aug 1 for civil servants, no long weekends allowed",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/three-days-in-office-two-days-remote-hybrid-work-starts-aug-1-for-civil-servants-no-long-weekends-allowed/227598",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T11:31:40+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "corruption(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "China says exports soar more than forecast in June",
+      "link": "https://www.malaymail.com/news/money/2026/07/14/china-says-exports-soar-more-than-forecast-in-june/227546",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T07:00:21+00:00",
+      "score": 10,
+      "matched": [
+        "war(+3)",
+        "economy(+2)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nomad’s high-end phone accessories are up to 30 percent off",
+      "link": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-14T16:46:27+00:00",
+      "score": 9,
+      "matched": [
+        "budget(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "link": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T14:01:03+00:00",
+      "score": 9,
+      "matched": [
+        "urgent(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/ibm-warns-ai-boom-is-squeezing-software-budgets-triggers-sector-rout",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T12:35:42+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "Selangor Sultan, Singapore president talk urban floods, sustainability and future cities in state visit",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/selangor-sultan-singapore-president-talk-urban-floods-sustainability-and-future-cities-in-state-visit/227600",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T11:40:06+00:00",
+      "score": 9,
+      "matched": [
+        "ministry(+2)",
+        "economy(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Former top judge’s daughter among 17 new judicial commissioners",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/former-top-judges-daughter-among-17-new-judicial-commissioners",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T11:28:43+00:00",
+      "score": 9,
+      "matched": [
+        "law(+3)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Anwar urges Melaka DAP to reconsider state govt exit, keep working until election",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/anwar-urges-melaka-dap-to-reconsider-state-govt-exit-keep-working-until-election/227591",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T10:35:31+00:00",
+      "score": 9,
+      "matched": [
+        "election(+2)",
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "In Muhyiddin’s trial, businessman says brother donated part of company’s RM13.7m to Bersatu without his knowledge",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/14/in-muhyiddins-trial-businessman-says-brother-donated-part-of-companys-rm137m-to-bersatu-without-his-knowledge/227588",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-07-14T10:04:06+00:00",
-      "score": 10,
+      "score": 9,
       "matched": [
         "corruption(+3)",
         "court(+2)",
         "covid(+2)"
+      ]
+    },
+    {
+      "title": "World stocks dip as oil rises after Trump’s Hormuz levy threat",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/world-stocks-dip-as-oil-rises-after-trumps-hormuz-levy-threat",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T09:57:49+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "inflation(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -531,7 +770,7 @@
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-07-14T09:01:37+00:00",
-      "score": 10,
+      "score": 9,
       "matched": [
         "law(+3)",
         "parliament(+2)",
@@ -539,28 +778,15 @@
       ]
     },
     {
-      "title": "Melaka to add up to seven nominated assemblymen after constitutional amendment",
+      "title": "Melaka to add up to seven nominated assemblymen after constitutional amendment, CM says no ‘back door’ to power",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/14/melaka-to-add-up-to-seven-nominated-assemblymen-after-constitutional-amendment/227569",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-07-14T08:55:38+00:00",
-      "score": 10,
+      "score": 9,
       "matched": [
         "law(+3)",
         "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Fat Leonard seeking pardon from Trump",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/fat-leonard-seeking-pardon-from-trump",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T08:50:48+00:00",
-      "score": 10,
-      "matched": [
-        "corruption(+3)",
-        "court(+2)",
         "who(+2)"
       ]
     },
@@ -570,7 +796,7 @@
       "source": "FMT Business (Finance)",
       "section": "Finance",
       "published": "2026-07-14T08:35:12+00:00",
-      "score": 10,
+      "score": 9,
       "matched": [
         "ministry(+2)",
         "war(+3)",
@@ -583,152 +809,11 @@
       "source": "FMT Business (Finance)",
       "section": "Finance",
       "published": "2026-07-14T07:49:09+00:00",
-      "score": 10,
+      "score": 9,
       "matched": [
         "war(+3)",
         "economy(+2)",
         "startup(+2)"
-      ]
-    },
-    {
-      "title": "Rehda moots needs-based review of controlled housing prices",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/rehda-moots-needs-based-review-of-controlled-housing-prices",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T06:07:25+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
-        "inflation(+2)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "New national housing policy to set affordable home prices using local income data",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/new-national-housing-policy-to-set-affordable-home-prices-using-local-income-data/227533",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T05:55:47+00:00",
-      "score": 10,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "AG-PP split bill readings postponed for rulers’ views",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/ag-pp-split-bill-readings-postponed-for-rulers-views",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T05:11:44+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "parliament(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "‘Meets expectations’: Revised AG-PP separation Bill wins backing from previously dissenting PKR MPs",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/meets-expectations-revised-ag-pp-separation-bill-wins-backing-from-previously-dissenting-pkr-mps/227520",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T05:07:46+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "parliament(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Groups urge transparent review as FOI bill goes to select committee",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/groups-urge-transparent-review-as-foi-bill-goes-to-select-committee",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T03:56:29+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "corruption(+3)",
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Johor seeks probe into Network School over alleged Israeli links",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/johor-seeks-probe-into-network-school-over-alleged-israeli-links",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T02:36:58+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "ministry(+2)",
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-14T09:00:00+00:00",
-      "score": 9,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Japan Open: Malaysia’s Leong Jun Hao scores upset win, Chen Tang Jie-Clarissa San bow out",
-      "link": "https://www.malaymail.com/news/sports/2026/07/14/japan-open-malaysias-leong-jun-hao-scores-upset-win-chen-tang-jie-clarissa-san-bow-out/227567",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T08:44:24+00:00",
-      "score": 9,
-      "matched": [
-        "who(+2)",
-        "malaysia(+3)",
-        "singapore(+1)"
-      ]
-    },
-    {
-      "title": "India's AI training boom draws professionals seeking an edge, but questions remain over quality",
-      "link": "https://www.channelnewsasia.com/asia/india-artificial-intelligence-upskilling-boom-working-professionals-6252671",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-14T07:28:34+00:00",
-      "score": 9,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
-      "title": "‘Give us the time under the mandate,’ Anwar says as pressure mounts for early GE16 after Johor polls",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/give-us-the-time-under-the-mandate-anwar-says-as-pressure-mounts-for-early-ge16-after-johor-polls/227536",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T06:14:29+00:00",
-      "score": 9,
-      "matched": [
-        "parliament(+2)",
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Give govt time to fulfil mandate, says Anwar",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/give-govt-time-to-fulfil-mandate-says-anwar",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T04:24:06+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "economy(+2)",
-        "who(+2)"
       ]
     },
     {
@@ -745,59 +830,23 @@
       ]
     },
     {
-      "title": "UK picks Dame Jayne-Anne Gadhia as preferred candidate to chair FRC",
-      "link": "https://finance.yahoo.com/economy/policy/articles/uk-picks-dame-jayne-anne-092355642.html",
-      "source": "Yahoo Finance (Finance)",
+      "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
+      "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-14T09:23:55+00:00",
+      "published": "2026-07-14T17:32:23+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
-        "economy(+2)"
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
-      "title": "‘Are you registered?’ Inquest officer in Zara Qairina case questions expert witness’ child psychology specialist status",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/are-you-registered-inquest-officer-in-zara-qairina-case-questions-expert-witness-child-psychology-specialist-status/227578",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T09:23:49+00:00",
-      "score": 8,
-      "matched": [
-        "law(+3)",
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "MACC seeks two Bangladeshi men for ongoing corruption trial",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/macc-seeks-two-bangladeshi-men-for-ongoing-corruption-trial/227573",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T09:19:18+00:00",
-      "score": 8,
-      "matched": [
-        "corruption(+3)",
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "China's exports ride AI boom as domestic economy struggles",
-      "link": "https://finance.yahoo.com/economy/articles/chinas-june-trade-tops-forecasts-025658981.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T08:18:02+00:00",
-      "score": 8,
-      "matched": [
-        "economy(+2)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
-      "link": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T07:59:07+00:00",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-14T17:18:11+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
@@ -805,27 +854,113 @@
       ]
     },
     {
-      "title": "Ex-IGP Musa Hassan must pay RM250,000 to Hannah Yeoh after Federal Court rejects appeal bid",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/ex-igp-musa-hassan-must-pay-rm250000-to-hannah-yeoh-after-federal-court-rejects-appeal-bid/227524",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T05:39:33+00:00",
+      "title": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
+      "link": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-14T17:14:26+00:00",
       "score": 8,
       "matched": [
-        "law(+3)",
+        "budget(+3)",
         "court(+2)"
       ]
     },
     {
-      "title": "US chip giant Intel invests €5bil in Ireland",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/us-chip-giant-intel-invests-e5bil-in-ireland",
-      "source": "FMT Business (Finance)",
+      "title": "Sudan risks deeper hunger crisis due to war, aid cuts and Hormuz disruption, says WFP",
+      "link": "https://www.straitstimes.com/world/europe/sudan-risks-deeper-hunger-crisis-due-to-war-aid-cuts-and-hormuz-disruption-says-wfp",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T15:30:41+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Arsenal agree Trossard fee for Beskitas switch",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/14/arsenal-agree-trossard-fee-for-beskitas-switch",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T15:26:02+00:00",
+      "score": 8,
+      "matched": [
+        "premier league(+2)",
+        "champions league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
+      "link": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-13T23:06:03+00:00",
+      "published": "2026-07-14T14:47:31+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
-        "artificial intelligence(+3)"
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "MACC remands ex-civil servant over alleged RM300,000 false claims",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/macc-remands-ex-civil-servant-over-alleged-rm300000-false-claims",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T14:01:01+00:00",
+      "score": 8,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "WHO warns DR Congo Ebola outbreak may be double the official tally",
+      "link": "https://www.aljazeera.com/news/2026/7/14/who-warns-dr-congo-ebola-outbreak-may-be-double-the-official-tally?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-14T13:07:34+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Ex-civil servant under four-day MACC remand, accused of using 11 people’s details to pocket RM300,000 in aid payments",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/ex-civil-servant-under-four-day-macc-remand-accused-of-using-11-peoples-details-to-pocket-rm300000-in-aid-payments/227604",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-14T12:15:12+00:00",
+      "score": 8,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Sabah’s RM1.5bil special grant hike won’t reduce budget allocation",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/sabahs-rm1-5bil-special-grant-hike-wont-reduce-budget-allocation",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T12:00:58+00:00",
+      "score": 8,
+      "matched": [
+        "budget(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Japan Open: Malaysia’s Leong Jun Hao scores upset win, Chen Tang Jie-Clarissa San bow out",
+      "link": "https://www.malaymail.com/news/sports/2026/07/14/japan-open-malaysias-leong-jun-hao-scores-upset-win-chen-tang-jie-clarissa-san-bow-out/227567",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T08:44:24+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "malaysia(+3)",
+        "singapore(+1)"
       ]
     },
     {
@@ -843,92 +978,99 @@
       ]
     },
     {
-      "title": "Iraola vows to remain true to himself at Liverpool",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/13/iraola-vows-to-remain-true-to-himself-at-liverpool",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T15:36:35+00:00",
-      "score": 8,
+      "title": "US consumer prices drop in June as energy costs tumble",
+      "link": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-14T16:57:42+00:00",
+      "score": 7,
       "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)",
-        "liverpool(+1)"
-      ]
-    },
-    {
-      "title": "Man United sign Brazilian midfielder Santos from Chelsea",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/13/man-united-sign-brazilian-midfielder-santos-from-chelsea",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T13:58:14+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "manchester united(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Govt to review plastics industry proposals amid cost pressures, competitiveness concerns",
-      "link": "https://www.malaymail.com/news/money/2026/07/13/govt-to-review-plastics-industry-proposals-amid-cost-pressures-competitiveness-concerns/227473",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-13T11:32:22+00:00",
-      "score": 8,
-      "matched": [
-        "ministry(+2)",
         "inflation(+2)",
         "economy(+2)"
       ]
     },
     {
-      "title": "Elderly man charged with trafficking 39.9 litres of fentanyl",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/elderly-man-charged-with-trafficking-39-9-litres-of-fentanyl",
+      "title": "Singapore, Indonesia launch defence alumni initiative",
+      "link": "https://www.channelnewsasia.com/singapore/indonesia-singapore-defence-alumni-initiative-chan-chun-sing-saf-tni-6253141",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-14T15:44:15+00:00",
+      "score": 7,
+      "matched": [
+        "launch(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Sandakan, Beaufort hospital upgrades delayed for over a decade",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/sandakan-beaufort-hospital-upgrades-delayed-for-over-a-decade",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-07-14T09:14:16+00:00",
+      "published": "2026-07-14T15:30:13+00:00",
       "score": 7,
       "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "ECRL construction to continue despite lawsuit by resident",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/ecrl-construction-to-continue-despite-lawsuit-by-resident",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-14T09:05:12+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Man, 65, charged in Perlis with trafficking 39.9 litres of fentanyl",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/14/man-65-charged-in-perlis-with-trafficking-399-litres-of-fentanyl/227571",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-14T08:57:10+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Singapore's economy expands 5.7% in the second quarter, beating expectations",
-      "link": "https://www.cnbc.com/2026/07/14/singapore-gdp-iran-war-impact-takes-hold.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T02:50:55+00:00",
-      "score": 7,
-      "matched": [
-        "war(+3)",
+        "ministry(+2)",
         "economy(+2)"
+      ]
+    },
+    {
+      "title": "No plans to move Taiping prison to new complex, says govt",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/no-plans-to-move-taiping-prison-to-new-complex-says-govt",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T15:27:23+00:00",
+      "score": 7,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "PH to field Aminuddin in Umno stronghold of Linggi",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/ph-to-field-aminuddin-in-umno-stronghold-of-linggi",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T14:54:30+00:00",
+      "score": 7,
+      "matched": [
+        "parliament(+2)",
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Cops seek Interpol Red Notice for Tamim Dahri",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/cops-seek-interpol-red-notice-for-tamim-dahri",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T13:54:19+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Wawasan officially a PN component party",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/wawasan-officially-a-pn-component-party",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-14T12:37:26+00:00",
+      "score": 7,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Pearly-Thinaah in shock first-round exit at Japan Open",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/14/pearly-thinaah-in-shock-first-round-exit-at-japan-open",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T08:47:22+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "malaysia(+3)"
       ]
     },
     {
@@ -945,42 +1087,6 @@
       ]
     },
     {
-      "title": "Ringgit strengthens amid Strait of Hormuz tensions, boosts crude prices",
-      "link": "https://www.malaymail.com/news/money/2026/07/14/ringgit-strengthens-amid-strait-of-hormuz-tensions-boosts-crude-prices/227492",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T01:20:31+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "inflation(+2)"
-      ]
-    },
-    {
-      "title": "Oil hits one-month high as US, Iran escalate attacks in Hormuz",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/oil-hits-one-month-high-as-us-iran-escalate-attacks-in-hormuz",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T01:14:03+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Ringgit opens higher against US dollar amid Middle East uncertainties",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/14/ringgit-opens-higher-against-us-dollar-amid-uncertainties-in-middle-east",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-14T00:41:20+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "inflation(+2)"
-      ]
-    },
-    {
       "title": "Scaloni’s quiet revolution carries Argentina towards England showdown",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/14/scalonis-quiet-revolution-carries-argentina-towards-england-showdown",
       "source": "FMT Sports (Sports)",
@@ -994,179 +1100,247 @@
       ]
     },
     {
-      "title": "Apple’s public betas for iOS 27 and more are out now",
-      "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-13T20:45:40+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-13T20:44:20+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-13T20:43:20+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Switzerland, Britain conclude ‘modernised’ free trade deal talks",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/13/switzerland-britain-conclude-modernised-free-trade-deal-talks",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-13T14:36:34+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Trump invested crypto gains in stocks and bonds, filings show",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/13/trump-invested-crypto-gains-in-stocks-and-bonds-filings-show",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-13T11:35:02+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Court overturns Sime Darby Property’s RM78.6mil compensation",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/13/court-overturns-sime-darby-propertys-rm78-6mil-compensation",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-13T10:48:02+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "acquisition(+3)"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia climbs as plantation stocks offset cautious sentiment",
-      "link": "https://www.malaymail.com/news/money/2026/07/13/bursa-malaysia-climbs-as-plantation-stocks-offset-cautious-sentiment/227458",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-07-13T10:18:51+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T09:52:45+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Pearly–Thinaah crash out in Japan Open first round after three‑game upset",
-      "link": "https://www.malaymail.com/news/sports/2026/07/14/pearlythinaah-crash-out-in-japan-open-first-round-after-threegame-upset/227583",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T09:32:48+00:00",
-      "score": 6,
-      "matched": [
-        "malaysia(+3)"
-      ]
-    },
-    {
-      "title": "Lebanon and Israel hold talks in Rome amid renewed Mideast fighting",
-      "link": "https://www.channelnewsasia.com/world/lebanon-israel-hezbollah-peace-talks-rome-us-iran-war-fighting-6253021",
+      "title": "Regulatory action on chips, AI is coming, Commerce official says",
+      "link": "https://www.channelnewsasia.com/business/regulatory-action-chips-ai-coming-commerce-official-says-6254096",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-14T08:35:01+00:00",
+      "published": "2026-07-14T16:34:42+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T16:22:15+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-14T16:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-14T15:47:36+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Sanders-backed progressives try to make AI the new AIPAC",
+      "link": "https://www.yahoo.com/news/politics/articles/sanders-backed-progressives-try-ai-153234282.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-14T15:32:34+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Premier League rules World Cup defences - but not attacks",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy9g501vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T15:19:17+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T15:17:59+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Singer Dua Lipa backs Albanian protests against Trump-linked resort",
+      "link": "https://www.straitstimes.com/world/europe/singer-dua-lipa-backs-albanian-protests-against-trump-linked-resort",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T15:15:00+00:00",
+      "score": 6,
+      "matched": [
+        "corruption(+3)"
+      ]
+    },
+    {
+      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
+      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T15:14:40+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
       ]
     },
     {
-      "title": "Messi meets England at last with World Cup final place on the line",
-      "link": "https://www.malaymail.com/news/sports/2026/07/14/messi-meets-england-at-last-with-world-cup-final-place-on-the-line/227558",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T07:32:41+00:00",
+      "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+      "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-14T14:56:21+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "war(+3)"
       ]
     },
     {
-      "title": "Russian army executed hundreds of Ukrainian POWs since 2022, Kyiv says",
-      "link": "https://www.straitstimes.com/world/europe/russian-army-executed-hundreds-of-ukrainian-pows-since-2022-kyiv-says",
+      "title": "Israel allocates $434 million for 34 new West Bank settlements",
+      "link": "https://www.straitstimes.com/world/middle-east/israel-allocates-434-million-for-34-new-west-bank-settlements",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T06:33:00+00:00",
+      "published": "2026-07-14T14:55:42+00:00",
       "score": 6,
       "matched": [
-        "policy(+3)"
+        "budget(+3)"
       ]
     },
     {
-      "title": "Who will win the World Cup? The view from the semi-finalists",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T05:43:53+00:00",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T14:37:48+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Who am I? Guess World Cup star No 37",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8e82462y7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T05:25:53+00:00",
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T14:24:53+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T05:13:23+00:00",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T14:06:47+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ukraine PM resigns in Zelensky-ordered government reshuffle",
+      "link": "https://www.straitstimes.com/world/europe/ukraine-pm-resigns-in-zelensky-ordered-reshuffle",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T14:05:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
+      "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-14T14:03:52+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-14T14:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Explainer-Trump wants fees for Hormuz just like Iran - is that legal?",
+      "link": "https://www.straitstimes.com/world/middle-east/explainer-trump-wants-fees-for-hormuz-just-like-iran-is-that-legal",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T13:45:32+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Iran lawmakers present Hormuz management bill as US war heats up",
+      "link": "https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-14T13:30:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Russia accuses Ukraine of terrorism in Sea of Azov as Kyiv opens new front in war",
+      "link": "https://www.straitstimes.com/world/europe/russia-accuses-ukraine-of-terrorism-in-sea-of-azov-as-kyiv-opens-new-front-in-war",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T13:15:50+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Most support refuge for people fleeing persecution, Ipsos poll shows",
+      "link": "https://www.straitstimes.com/world/most-support-refuge-for-people-fleeing-persecution-ipsos-poll-shows",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-14T13:10:51+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Navy veteran who beat CNN in court says CIA wants him to delete, burn book manuscript: ‘That's censorship’",
+      "link": "https://www.yahoo.com/news/us/articles/navy-veteran-beat-cnn-court-110028391.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-14T11:00:28+00:00",
+      "score": 6,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1219,398 +1393,231 @@
       ]
     },
     {
-      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T09:34:55+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Emir of Qatar receives condolences on the death of the Father Emir",
-      "link": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T09:20:56+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Schools become battleground as Germany's far-right AfD eyes regional election",
-      "link": "https://www.straitstimes.com/world/europe/schools-become-battleground-as-germanys-far-right-afd-eyes-regional-election",
+      "title": "E. Jean Carroll receives $5.63 million owed by Trump in sex abuse case",
+      "link": "https://www.straitstimes.com/world/e-jean-carroll-receives-5-63-million-owed-by-trump-in-sex-abuse-case",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T09:05:48+00:00",
+      "published": "2026-07-14T17:05:41+00:00",
       "score": 5,
       "matched": [
-        "election(+2)"
+        "court(+2)"
       ]
     },
     {
-      "title": "Pinwheel launches a retro-inspired landline phone for kids",
-      "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-      "source": "TechCrunch",
+      "title": "Sony delays its new PS5 fight stick",
+      "link": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
+      "source": "The Verge",
       "section": "Tech",
-      "published": "2026-07-14T09:00:00+00:00",
+      "published": "2026-07-14T16:47:49+00:00",
       "score": 5,
       "matched": [
         "launch(+2)"
       ]
     },
     {
-      "title": "Exclusive-China detains US seismologist who has studied North Korean nuclear tests",
-      "link": "https://www.yahoo.com/news/politics/articles/exclusive-china-detains-us-seismologist-194844059.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "Trump pays $7.2m to writer E. Jean Carroll for assault, defamation",
+      "link": "https://www.straitstimes.com/world/united-states/trump-pays-7-2m-to-writer-e-jean-carroll-for-assault-defamation",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T08:31:21+00:00",
+      "published": "2026-07-14T16:43:27+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "court(+2)"
       ]
     },
     {
-      "title": "Man who drove into Suntec City's Fountain of Wealth gets jail, driving ban",
-      "link": "https://www.channelnewsasia.com/singapore/man-crash-suntec-city-fountain-wealth-jail-6252926",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Israeli attack on north Gaza police station kills eight",
+      "link": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-07-14T08:15:55+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Singapore pledges US$2 million to support Ebola response in DR Congo and Uganda",
-      "link": "https://www.channelnewsasia.com/singapore/singapore-us2-million-ebola-support-drc-congo-uganda-6252861",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-14T07:59:00+00:00",
+      "published": "2026-07-14T16:02:54+00:00",
       "score": 5,
       "matched": [
         "ministry(+2)"
       ]
     },
     {
-      "title": "Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18",
-      "link": "https://www.channelnewsasia.com/entertainment/must-date-playboy-cast-meet-greet-jul-18-6252806",
+      "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities",
+      "link": "https://www.channelnewsasia.com/business/stocks-gain-softer-inflation-bank-results-while-oil-rises-us-iran-hostilities-6252286",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-14T07:34:11+00:00",
+      "published": "2026-07-14T15:46:41+00:00",
       "score": 5,
       "matched": [
-        "who(+2)"
+        "inflation(+2)"
       ]
     },
     {
-      "title": "Johor government calls for probe into startup community based in Forest City over alleged Israeli links",
-      "link": "https://www.channelnewsasia.com/asia/johor-israel-network-school-forest-city-onn-hafiz-6252686",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-14T07:31:00+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
-      "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T05:33:01+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-14T02:46:42+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Inside Israel’s secret operation to cultivate Iran’s former president Mahmoud Ahmadinejad",
-      "link": "https://www.straitstimes.com/world/middle-east/inside-israels-secret-operation-to-cultivate-irans-former-president-mahmoud-ahmadinejad",
+      "title": "Cuba's national electric grid collapses for the third time in July",
+      "link": "https://www.straitstimes.com/world/cubas-national-electric-grid-collapses-for-the-third-time-in-july-state-media-says",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T01:40:00+00:00",
+      "published": "2026-07-14T15:40:32+00:00",
       "score": 5,
       "matched": [
-        "war(+3)"
+        "ministry(+2)"
       ]
     },
     {
-      "title": "Michigan health officials identify lettuce, salad greens as ‘potential source’ of Cyclospora outbreak",
-      "link": "https://www.straitstimes.com/world/united-states/michigan-health-officials-identify-lettuce-salad-greens-as-potential-source-of-cyclospora-outbreak",
+      "title": "Key witness in US probe of Turkey's Halkbank avoids prison time",
+      "link": "https://www.straitstimes.com/world/europe/key-witness-in-us-probe-of-turkeys-halkbank-avoids-prison-time",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T01:30:00+00:00",
+      "published": "2026-07-14T15:35:41+00:00",
       "score": 5,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Lamine’s great World Cup day still to come, says Spain’s De la Fuente",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/14/lamines-great-world-cup-day-still-to-come-says-spains-de-la",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T01:20:38+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Spain’s coach says team will go on ‘front foot’ against France in World Cup semi",
-      "link": "https://www.malaymail.com/news/sports/2026/07/14/spains-coach-says-team-will-go-on-front-foot-against-france-in-world-cup-semi/227482",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T01:14:30+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "De la Fuente says Spain to go on ‘front foot’ against France",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/14/de-la-fuente-says-spain-to-go-on-front-foot-against-france",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T01:02:17+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Norway receive heroes’ welcome in Oslo after World Cup exit",
-      "link": "https://www.malaymail.com/news/sports/2026/07/14/norway-receive-heroes-welcome-in-oslo-after-world-cup-exit/227485",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-14T00:59:05+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-14T00:45:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Pickford backs England to keep cool in tense Argentina World Cup semi",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/14/pickford-backs-england-to-keep-cool-in-tense-argentina-world-cup-semi",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T21:13:07+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-13T20:59:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-13T20:43:15+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-13T20:00:17+00:00",
-      "score": 5,
-      "matched": [
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "Timing took me to Chelsea rather than Liverpool - Alonso",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T19:00:16+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "liverpool(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Why the fastest-growing Ebola outbreak in history is becoming more challenging",
-      "link": "https://www.yahoo.com/news/world/articles/why-fastest-growing-ebola-outbreak-175114959.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-13T17:51:14+00:00",
-      "score": 5,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Should AI help you get away with killing your spouse?",
-      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-13T16:31:23+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-13T14:18:16+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Man Utd sign £48m Santos and close in on Tielemans",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T14:09:00+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "manchester united(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Which Premier League clubs have been hit hardest by World Cup?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8d2v40r472o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-13T13:27:30+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
-      "title": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
-      "link": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T04:09:33+00:00",
-      "score": 4,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "US expands Cuba sanctions with targeting of tourism industry",
-      "link": "https://www.straitstimes.com/world/us-expands-cuba-sanctions-with-targeting-of-tourism-industry",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-14T03:42:00+00:00",
-      "score": 4,
       "matched": [
         "sanctions(+2)"
       ]
     },
     {
-      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-14T03:38:22+00:00",
-      "score": 4,
+      "title": "X admits its broken algorithm made the site feel like a ‘battleground’",
+      "link": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-14T15:20:21+00:00",
+      "score": 5,
       "matched": [
-        "economy(+2)"
+        "who(+2)"
       ]
     },
     {
-      "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
-      "link": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "UK police say murder of former minister Ann Widdecombe was a targeted attack",
+      "link": "https://www.straitstimes.com/world/europe/uk-police-say-former-minister-widdecombes-murder-was-a-targeted-attack",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-14T02:03:38+00:00",
-      "score": 4,
+      "published": "2026-07-14T15:15:40+00:00",
+      "score": 5,
       "matched": [
-        "parliament(+2)"
+        "who(+2)"
       ]
     },
     {
-      "title": "China's premier urges 'objective' understanding of the economy",
-      "link": "https://finance.yahoo.com/economy/articles/chinas-premier-urges-objective-understanding-113155772.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "Singapore, Malaysia reaffirm need to 'deepen cooperation' in areas including food security and energy",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-malaysia-tharman-anwar-meeting-cooperation-food-security-energy-6253776",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-14T01:47:12+00:00",
-      "score": 4,
+      "published": "2026-07-14T15:11:00+00:00",
+      "score": 5,
       "matched": [
-        "economy(+2)"
+        "who(+2)"
       ]
     },
     {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "title": "Arsenal agree fee for Trossard move to Besiktas",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T14:11:47+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
+      "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
       "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-07-14T00:00:00+00:00",
-      "score": 4,
+      "published": "2026-07-14T12:30:00+00:00",
+      "score": 5,
       "matched": [
         "startup(+2)"
       ]
     },
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-13T23:31:18+00:00",
-      "score": 4,
+      "title": "Man Utd seek another midfielder as Tielemans has medical",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T11:52:08+00:00",
+      "score": 5,
       "matched": [
-        "funding(+2)"
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "Wales keeper Darlow joins Man Utd after Leeds exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T11:52:08+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "What's next at Liverpool for Argentina's proven winner Mac Allister?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd0m02yl03zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T11:38:31+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Pearly–Thinaah crash out in Japan Open first round after three‑game upset",
+      "link": "https://www.malaymail.com/news/sports/2026/07/14/pearlythinaah-crash-out-in-japan-open-first-round-after-threegame-upset/227583",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T09:32:48+00:00",
+      "score": 5,
+      "matched": [
+        "malaysia(+3)"
+      ]
+    },
+    {
+      "title": "Messi meets England at last with World Cup final place on the line",
+      "link": "https://www.malaymail.com/news/sports/2026/07/14/messi-meets-england-at-last-with-world-cup-final-place-on-the-line/227558",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T07:32:41+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Who will win the World Cup? The view from the semi-finalists",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T05:43:53+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 37",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e82462y7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T05:25:53+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-14T05:13:23+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
       ]
     }
   ]
