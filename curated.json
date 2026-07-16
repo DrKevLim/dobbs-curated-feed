@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-16T03:30:49.210777+00:00",
+  "generated_at": "2026-07-16T03:38:08.239605+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 2,
     "FMT Business (Finance)": 14,
-    "Malay Mail (Malaysia)": 14,
+    "Malay Mail (Malaysia)": 15,
     "Malay Mail Money (Finance)": 6,
     "FMT Sports (Sports)": 10,
-    "Free Malaysia Today": 10,
+    "Free Malaysia Today": 9,
     "The Verge": 6,
     "Malay Mail Sports (Sports)": 8,
     "TechCrunch": 11,
-    "Al Jazeera (Global)": 8,
     "CNBC Markets (Finance)": 4,
-    "Yahoo Top Stories (World)": 4,
+    "Yahoo Top Stories (World)": 6,
     "BBC Sport (Sports)": 6,
+    "Al Jazeera (Global)": 8,
     "Channel NewsAsia (Global)": 3,
-    "Straits Times World (Global)": 4
+    "Straits Times World (Global)": 2
   },
   "items": [
     {
@@ -771,30 +771,6 @@
       ]
     },
     {
-      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-15T21:33:20+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "xAI sues user for exploiting AI tool to sexualise minors",
-      "link": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-15T21:31:44+00:00",
-      "score": 8,
-      "matched": [
-        "economy(+2)",
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Trump blasts New York AI data center moratorium, says state should change policy 'immediately'",
       "link": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
       "source": "CNBC Markets (Finance)",
@@ -829,6 +805,18 @@
         "parliament(+2)",
         "election(+2)",
         "launch(+2)"
+      ]
+    },
+    {
+      "title": "Mindef: Military can conduct exercises in states without royal consent",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/16/mindef-military-can-conduct-exercises-in-states-without-royal-consent/227791",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-07-16T03:35:58+00:00",
+      "score": 7,
+      "matched": [
+        "parliament(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -916,16 +904,27 @@
       ]
     },
     {
-      "title": "Besiktas sign winger Trossard from Arsenal",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/16/besiktas-sign-winger-trossard-from-arsenal",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-15T21:36:33+00:00",
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-15T21:33:20+00:00",
       "score": 7,
       "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "arsenal(+1)"
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "xAI sues user for exploiting AI tool to sexualise minors",
+      "link": "https://www.aljazeera.com/economy/2026/7/15/xai-sues-user-for-exploiting-ai-tool-to-sexualise-minors?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-15T21:31:44+00:00",
+      "score": 7,
+      "matched": [
+        "economy(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -1066,7 +1065,7 @@
       "link": "https://www.channelnewsasia.com/world/cna-explains-us-iran-war-sea-drones-corsair-combat-6253096",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-07-16T03:25:18+00:00",
+      "published": "2026-07-16T03:25:00+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
@@ -1092,6 +1091,17 @@
       "score": 6,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "US launches multiple strikes on Iran, which retaliates against US targets in region",
+      "link": "https://www.yahoo.com/news/world/articles/us-strikes-iran-again-as-tehran-warns-of-existential-war-with-america-233825670.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-16T02:36:22+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -1186,17 +1196,6 @@
       ]
     },
     {
-      "title": "US launches multiple strikes on Iran, which retaliates against US targets in region",
-      "link": "https://www.straitstimes.com/world/middle-east/us-strikes-iran-again-as-tehran-warns-of-existential-war-with-america",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-15T21:50:50+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
       "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1205,6 +1204,19 @@
       "score": 6,
       "matched": [
         "war(+3)"
+      ]
+    },
+    {
+      "title": "Besiktas sign winger Trossard from Arsenal",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/16/besiktas-sign-winger-trossard-from-arsenal",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-15T21:36:33+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)",
+        "arsenal(+1)"
       ]
     },
     {
@@ -1217,18 +1229,6 @@
       "matched": [
         "election(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Forest City developer ready to cooperate in Network School probe",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/15/forest-city-developer-ready-to-cooperate-in-network-school-probe",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-15T11:48:16+00:00",
-      "score": 6,
-      "matched": [
-        "ministry(+2)",
-        "startup(+2)"
       ]
     },
     {
@@ -1286,17 +1286,6 @@
       "score": 5,
       "matched": [
         "cancer(+2)"
-      ]
-    },
-    {
-      "title": "New York Times seeks to block subpoenas to reporters over Air Force One reporting",
-      "link": "https://www.straitstimes.com/world/united-states/new-york-times-seeks-to-block-subpoenas-to-reporters-over-air-force-one-reporting",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-16T00:26:01+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
       ]
     },
     {
@@ -1578,6 +1567,17 @@
       "score": 4,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Jamie Dimon understands why people are anti-rich: ‘We have, in fact, left the lower-income folks behind’ and ‘that’s kind of annoying’",
+      "link": "https://finance.yahoo.com/economy/articles/jamie-dimon-understands-why-people-105148832.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-15T10:51:48+00:00",
+      "score": 4,
+      "matched": [
+        "economy(+2)"
       ]
     }
   ]
