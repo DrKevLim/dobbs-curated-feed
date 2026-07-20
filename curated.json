@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-20T21:01:13.562693+00:00",
+  "generated_at": "2026-07-20T21:30:53.585698+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 8,
     "WHO News (Global Health)": 3,
     "The Verge": 5,
-    "FMT Business (Finance)": 9,
+    "FMT Business (Finance)": 10,
     "Free Malaysia Today": 13,
     "Malay Mail Money (Finance)": 2,
     "FMT Sports (Sports)": 14,
     "Malay Mail (Malaysia)": 11,
     "Malay Mail Sports (Sports)": 2,
     "BBC Sport (Sports)": 8,
-    "TechCrunch": 9,
-    "CNBC Markets (Finance)": 13,
-    "Al Jazeera (Global)": 10,
+    "TechCrunch": 11,
+    "CNBC Markets (Finance)": 12,
     "Straits Times World (Global)": 6,
     "Yahoo Top Stories (World)": 4,
-    "Channel NewsAsia (Global)": 3
+    "Channel NewsAsia (Global)": 3,
+    "Al Jazeera (Global)": 8
   },
   "items": [
     {
@@ -325,6 +325,20 @@
       ]
     },
     {
+      "title": "US judge suspends Paramount’s acquisition of Warner Bros.",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/21/us-judge-suspends-paramounts-acquisition-of-warner-bros",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-20T21:22:03+00:00",
+      "score": 13,
+      "matched": [
+        "court(+2)",
+        "war(+3)",
+        "economy(+2)",
+        "acquisition(+3)"
+      ]
+    },
+    {
       "title": "Asian shares shaky as oil climbs, earnings loom",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/20/asian-shares-shaky-as-oil-climbs-earnings-loom",
       "source": "FMT Business (Finance)",
@@ -416,33 +430,6 @@
         "who(+2)",
         "health(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Negeri Sembilan PH unveils ‘election pledges that can be delivered’",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/20/negeri-sembilan-ph-unveils-election-pledges-that-can-be-delivered",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-20T15:12:17+00:00",
-      "score": 9,
-      "matched": [
-        "election(+2)",
-        "economy(+2)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "Former Liverpool, England star Kevin Keegan dies aged 75",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/20/former-liverpool-england-star-kevin-keegan-dies-aged-75",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-20T15:03:21+00:00",
-      "score": 9,
-      "matched": [
-        "cancer(+2)",
-        "premier league(+2)",
-        "liverpool(+1)",
-        "manchester united(+1)"
       ]
     },
     {
@@ -640,15 +627,30 @@
       ]
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-20T15:15:00+00:00",
+      "title": "Negeri Sembilan PH unveils ‘election pledges that can be delivered’",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/20/negeri-sembilan-ph-unveils-election-pledges-that-can-be-delivered",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-20T15:12:17+00:00",
       "score": 8,
       "matched": [
-        "ai(+3)",
-        "startup(+2)"
+        "election(+2)",
+        "economy(+2)",
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "Former Liverpool, England star Kevin Keegan dies aged 75",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/20/former-liverpool-england-star-kevin-keegan-dies-aged-75",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-20T15:03:21+00:00",
+      "score": 8,
+      "matched": [
+        "cancer(+2)",
+        "premier league(+2)",
+        "liverpool(+1)",
+        "manchester united(+1)"
       ]
     },
     {
@@ -776,18 +778,6 @@
       ]
     },
     {
-      "title": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/who-is-khalil-al-hayya-hamass-newly-elected-political-chief?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-20T15:59:30+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Don’t go overboard with rhetoric, Fahmi tells Khairy",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/20/dont-go-overboard-with-rhetoric-fahmi-tells-khairy",
       "source": "Free Malaysia Today",
@@ -797,6 +787,18 @@
       "matched": [
         "election(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-20T15:15:00+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -885,6 +887,29 @@
       ]
     },
     {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-20T21:21:15+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Spain stars lap up adulation of estimated two million on World Cup parade",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/21/spain-stars-lap-up-adulation-of-estimated-two-million-on-world-cup-parade",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-20T21:05:58+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
       "title": "AI’s most important protocol is getting a little bit easier to use",
       "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "source": "TechCrunch",
@@ -915,17 +940,6 @@
       "score": 6,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "U.S. Treasury yields rise as Wall Street monitors Middle East tensions",
-      "link": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-20T20:06:59+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -962,11 +976,11 @@
       ]
     },
     {
-      "title": "2 things capping Monday's market — plus, Alphabet's new AI chip roadmap",
-      "link": "https://www.cnbc.com/2026/07/20/2-things-capping-monday-market-rally-alphabet-new-ai-chip-plans.html",
+      "title": "Here's our advice for investors looking to buy the dip in volatile AI stocks",
+      "link": "https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-20T19:24:34+00:00",
+      "published": "2026-07-20T19:28:29+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1028,28 +1042,6 @@
       ]
     },
     {
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-20T16:12:07+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "China, immigration, drugs: Behind US policy in Latin America",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-20T16:03:50+00:00",
-      "score": 6,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
       "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
       "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "source": "The Verge",
@@ -1091,17 +1083,6 @@
       "score": 6,
       "matched": [
         "cybersecurity(+3)"
-      ]
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-20T15:23:06+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1252,6 +1233,28 @@
       ]
     },
     {
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-20T20:53:29+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Man arrested after fire outside New York immigration court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-20T20:45:11+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
       "title": "Indian police attack Cockroach Janta Party’s parliament march",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1396,17 +1399,6 @@
       ]
     },
     {
-      "title": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-20T16:09:32+00:00",
-      "score": 5,
-      "matched": [
-        "cancer(+2)"
-      ]
-    },
-    {
       "title": "What to know about testosterone replacement therapy as the U.S. military plans to test troops",
       "link": "https://www.cnbc.com/2026/07/20/what-to-know-about-testosterone-replacement-therapy.html",
       "source": "CNBC Markets (Finance)",
@@ -1415,6 +1407,17 @@
       "score": 5,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-20T15:23:06+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1533,18 +1536,6 @@
       ]
     },
     {
-      "title": "A million people expected to welcome home Spain’s World Cup champions",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/20/a-million-people-expected-to-welcome-home-spains-world-cup-champions",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-20T01:41:38+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
       "title": "The AirPods Max 2 are down to their second-best price",
       "link": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
       "source": "The Verge",
@@ -1586,6 +1577,17 @@
       "score": 4,
       "matched": [
         "economy(+2)"
+      ]
+    },
+    {
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-20T12:30:00+00:00",
+      "score": 4,
+      "matched": [
+        "startup(+2)"
       ]
     }
   ]
