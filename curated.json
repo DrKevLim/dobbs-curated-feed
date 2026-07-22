@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T03:30:50.331781+00:00",
+  "generated_at": "2026-07-22T03:47:06.236983+00:00",
   "count": 120,
   "sources": {
-    "CodeBlue (Malaysia Health)": 8,
-    "WHO News (Global Health)": 4,
+    "CodeBlue (Malaysia Health)": 9,
+    "WHO News (Global Health)": 5,
     "FMT Business (Finance)": 14,
     "Free Malaysia Today": 9,
     "Malay Mail (Malaysia)": 15,
@@ -12,12 +12,12 @@
     "The Verge": 5,
     "Straits Times World (Global)": 6,
     "TechCrunch": 10,
-    "Al Jazeera (Global)": 8,
+    "Al Jazeera (Global)": 9,
     "CNBC Markets (Finance)": 6,
-    "Channel NewsAsia (Global)": 6,
-    "BBC Sport (Sports)": 12,
+    "Channel NewsAsia (Global)": 5,
+    "BBC Sport (Sports)": 11,
     "Malay Mail Money (Finance)": 4,
-    "Yahoo Top Stories (World)": 4
+    "Yahoo Top Stories (World)": 3
   },
   "items": [
     {
@@ -127,7 +127,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-20T03:40:00+00:00",
-      "score": 37,
+      "score": 36,
       "matched": [
         "ministry(+2)",
         "corruption(+3)",
@@ -168,6 +168,25 @@
       ]
     },
     {
+      "title": "Non-Cancer Elective Surgery Waiting Time Up To 13 Months In MOH",
+      "link": "https://codeblue.galencentre.org/2026/07/non-cancer-elective-surgery-waiting-time-up-to-13-months-in-moh/",
+      "source": "CodeBlue (Malaysia Health)",
+      "section": "Health",
+      "published": "2026-07-22T03:41:26+00:00",
+      "score": 27,
+      "matched": [
+        "ministry(+2)",
+        "cancer(+2)",
+        "health(+2)",
+        "medical(+3)",
+        "medicine(+2)",
+        "patients(+3)",
+        "ministry of health(+3)",
+        "moh(+3)",
+        "cancer(+3)"
+      ]
+    },
+    {
       "title": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
       "link": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
       "source": "WHO News (Global Health)",
@@ -204,6 +223,25 @@
         "primary care(+3)",
         "nurses(+2)",
         "mental health(+3)"
+      ]
+    },
+    {
+      "title": "UN report: Global hunger levels ease for third consecutive year as regional disparities persist",
+      "link": "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
+      "source": "WHO News (Global Health)",
+      "section": "Health",
+      "published": "2026-07-21T08:26:17+00:00",
+      "score": 24,
+      "matched": [
+        "policy(+3)",
+        "war(+3)",
+        "inflation(+2)",
+        "funding(+2)",
+        "who(+2)",
+        "covid(+2)",
+        "health(+2)",
+        "covid(+3)",
+        "who(+2)"
       ]
     },
     {
@@ -295,21 +333,6 @@
         "ministry(+2)",
         "economy(+2)",
         "breach(+3)",
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "Japan bond jitters overshadow Takaichi’s debut economic blueprint",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/21/japan-bond-jitters-overshadow-takaichis-debut-economic-blueprint",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-21T04:42:15+00:00",
-      "score": 14,
-      "matched": [
-        "policy(+3)",
-        "law(+3)",
-        "inflation(+2)",
-        "economy(+2)",
         "funding(+2)"
       ]
     },
@@ -426,6 +449,19 @@
         "corruption(+3)",
         "court(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "US Democrats urge review of M’sia ties over Anwar’s Israeli deportation remarks",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/22/us-democrats-urge-review-of-msia-ties-over-anwars-israeli-deportation-remarks",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-22T01:49:48+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "ministry(+2)",
+        "funding(+2)"
       ]
     },
     {
@@ -622,19 +658,6 @@
       ]
     },
     {
-      "title": "I’m not involved in RM178mil deal won by brother’s firm, says Azam",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/21/im-not-involved-in-rm178mil-deal-won-by-brothers-firm-says-azam",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-21T09:02:55+00:00",
-      "score": 9,
-      "matched": [
-        "ministry(+2)",
-        "corruption(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Weak UK jobs market holds steady as new PM takes office",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/21/weak-uk-jobs-market-holds-steady-as-new-pm-takes-office",
       "source": "FMT Business (Finance)",
@@ -696,6 +719,30 @@
       "matched": [
         "policy(+3)",
         "economy(+2)"
+      ]
+    },
+    {
+      "title": "Asian stocks extend gains as US rebounds, chipmakers lead",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/22/asian-stocks-extend-gains-as-us-rebounds-chipmakers-lead",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T02:18:39+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Airbus targets near-doubling of earnings by 2029",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/22/airbus-targets-near-doubling-of-earnings-by-2029",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T02:11:49+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "covid(+2)"
       ]
     },
     {
@@ -884,18 +931,6 @@
       ]
     },
     {
-      "title": "Chinese stocks rise as chip shares rebound",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/21/china-stocks-rise-as-chip-shares-rebound",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-21T04:51:51+00:00",
-      "score": 8,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "Man, 59, charged with murder after fatal fight at Lengkok Bahru",
       "link": "https://www.channelnewsasia.com/singapore/man-charged-murder-state-courts-lengkok-bahru-murder-6269531",
       "source": "Channel NewsAsia (Global)",
@@ -1005,18 +1040,6 @@
       ]
     },
     {
-      "title": "Messi returns to Argentine hometown after World Cup defeat",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/22/messi-returns-to-argentine-hometown-after-world-cup-defeat",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-21T21:34:53+00:00",
-      "score": 7,
-      "matched": [
-        "breaking(+3)",
-        "football(+1)"
-      ]
-    },
-    {
       "title": "Substack adds an AI detector to help spot blogs written by no one",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "source": "The Verge",
@@ -1112,6 +1135,17 @@
       ]
     },
     {
+      "title": "Brent crude passes US$92 a barrel, highest price since June",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/22/brent-crude-passes-us92-a-barrel-highest-price-since-june",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T02:29:58+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
       "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
       "link": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
       "source": "CNBC Markets (Finance)",
@@ -1201,6 +1235,18 @@
       ]
     },
     {
+      "title": "Messi returns to Argentine hometown after World Cup defeat",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/22/messi-returns-to-argentine-hometown-after-world-cup-defeat",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-21T21:34:53+00:00",
+      "score": 6,
+      "matched": [
+        "breaking(+3)",
+        "football(+1)"
+      ]
+    },
+    {
       "title": "French parliament passes social media ban for under-15s",
       "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1249,18 +1295,6 @@
       ]
     },
     {
-      "title": "Companies race to develop faster interceptors as Russia deploys jet-powered Shaheds",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/21/companies-race-to-develop-faster-interceptors-as-russia-deploys-jet-powered-shaheds",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-21T10:44:00+00:00",
-      "score": 6,
-      "matched": [
-        "launch(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Chile rains leave 13 dead, 7 missing, authorities say",
       "link": "https://www.straitstimes.com/world/chile-rains-leave-13-dead-7-missing-authorities-say",
       "source": "Straits Times World (Global)",
@@ -1280,28 +1314,6 @@
       "score": 5,
       "matched": [
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Heart attack survivor reunites with officers who helped save him",
-      "link": "https://www.yahoo.com/news/videos/heart-attack-survivor-reunites-officers-234921222.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-21T23:49:21+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "A job interview made her question the barriers women face at work so she built a platform to uncover them",
-      "link": "https://www.channelnewsasia.com/women/khatija-aslam-moxy-women-workplace-issues-6255501",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-21T23:22:00+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
       ]
     },
     {
@@ -1578,15 +1590,14 @@
       ]
     },
     {
-      "title": "Chelsea interested in former Man City defender Stones",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-21T18:57:34+00:00",
+      "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
+      "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-21T20:17:08+00:00",
       "score": 4,
       "matched": [
-        "football(+1)",
-        "chelsea(+1)"
+        "economy(+2)"
       ]
     }
   ]
