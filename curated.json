@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T21:01:14.399371+00:00",
+  "generated_at": "2026-07-22T21:30:42.259823+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
-    "FMT Business (Finance)": 11,
+    "FMT Business (Finance)": 12,
     "WHO News (Global Health)": 4,
     "Free Malaysia Today": 12,
     "Malay Mail (Malaysia)": 11,
@@ -11,12 +11,13 @@
     "Malay Mail Sports (Sports)": 3,
     "TechCrunch": 11,
     "The Verge": 7,
-    "Al Jazeera (Global)": 7,
-    "CNBC Markets (Finance)": 10,
+    "Al Jazeera (Global)": 6,
+    "CNBC Markets (Finance)": 9,
     "Straits Times World (Global)": 8,
-    "BBC Sport (Sports)": 7,
     "Malaysiakini (EN News)": 1,
     "Channel NewsAsia (Global)": 5,
+    "BBC Sport (Sports)": 6,
+    "Yahoo Top Stories (World)": 2,
     "Malay Mail Money (Finance)": 3
   },
   "items": [
@@ -701,6 +702,19 @@
       ]
     },
     {
+      "title": "Inter Miami sign Casemiro as MLS opens tampering investigation",
+      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/23/inter-miami-sign-casemiro-as-mls-opens-tampering-investigation",
+      "source": "FMT Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-22T21:22:46+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "champions league(+2)",
+        "manchester united(+1)"
+      ]
+    },
+    {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "source": "TechCrunch",
@@ -746,18 +760,6 @@
       "matched": [
         "ai(+3)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
-      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-22T15:09:44+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "launch(+2)"
       ]
     },
     {
@@ -837,15 +839,15 @@
       ]
     },
     {
-      "title": "Anwar questions rivals’ scramble for MB’s post",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/22/anwar-questions-rivals-scramble-for-mbs-post",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-22T15:26:51+00:00",
+      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-22T15:09:44+00:00",
       "score": 7,
       "matched": [
-        "election(+2)",
-        "who(+2)"
+        "ai(+3)",
+        "launch(+2)"
       ]
     },
     {
@@ -933,19 +935,6 @@
       ]
     },
     {
-      "title": "Who am I? Guess Premier League star No 2",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1j1dj9544zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-22T05:56:20+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
       "title": "Vietnamese EV maker VinFast on track to break even by 2027",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/22/vietnamese-ev-maker-vinfast-on-track-to-break-even-by-2027",
       "source": "FMT Business (Finance)",
@@ -1019,6 +1008,28 @@
       ]
     },
     {
+      "title": "IBM lowers full-year forecast after earnings warning",
+      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T21:19:12+00:00",
+      "score": 6,
+      "matched": [
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Oil prices jump on Mideast war, stock markets diverge",
+      "link": "https://www.channelnewsasia.com/world/us-stocks-oil-brent-crude-prices-rise-6271936",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-22T21:03:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
       "title": "Reddit stock sinks on report it may not renew Google AI content deal",
       "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
       "source": "CNBC Markets (Finance)",
@@ -1063,17 +1074,6 @@
       ]
     },
     {
-      "title": "IBM lowers full-year forecast after earnings warning",
-      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-22T20:11:45+00:00",
-      "score": 6,
-      "matched": [
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
       "title": "UN rights chief condemns Nicaragua’s decision to abolish elections",
       "link": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1082,17 +1082,6 @@
       "score": 6,
       "matched": [
         "law(+3)"
-      ]
-    },
-    {
-      "title": "Google beats quarterly revenue expectations off of enterprise AI surge",
-      "link": "https://www.channelnewsasia.com/business/google-beats-quarterly-revenue-expectations-enterprise-ai-surge-6271851",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-22T20:05:17+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1273,14 +1262,27 @@
       ]
     },
     {
-      "title": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
-      "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-22T15:23:56+00:00",
+      "title": "Anwar questions rivals’ scramble for MB’s post",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/22/anwar-questions-rivals-scramble-for-mbs-post",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-22T15:26:51+00:00",
       "score": 6,
       "matched": [
-        "policy(+3)"
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Arizona Senate president who gave 2020 election records to FBI wins attorney general GOP primary",
+      "link": "https://www.yahoo.com/news/politics/articles/arizona-senate-president-gave-2020-052748786.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-22T05:27:48+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1398,6 +1400,17 @@
       ]
     },
     {
+      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
+      "link": "https://www.yahoo.com/news/world/articles/model-recruiter-introduced-young-women-113729916.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-22T18:12:46+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Swiss court orders fresh ruling for whistleblowers in multi-billion fraud case",
       "link": "https://www.straitstimes.com/world/europe/swiss-court-orders-fresh-ruling-for-whistleblowers-in-multi-billion-fraud-case",
       "source": "Straits Times World (Global)",
@@ -1443,26 +1456,14 @@
       ]
     },
     {
-      "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-      "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-22T15:23:02+00:00",
+      "title": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
+      "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-22T15:23:56+00:00",
       "score": 5,
       "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "The Bezos factor - unpicking puzzle of Liverpool's potential investors",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c980l82wnd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-22T15:18:57+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "liverpool(+1)"
+        "policy(+3)"
       ]
     },
     {
@@ -1485,17 +1486,6 @@
       "score": 5,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-      "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-22T14:10:54+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1543,6 +1533,17 @@
       ]
     },
     {
+      "title": "Bursa ends lower amid profit taking, higher oil prices",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/22/bursa-ends-lower-amid-profit-taking-higher-oil-prices",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T09:45:37+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Australia’s former captain Paul Wade reveals probable CTE diagnosis",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/22/australias-former-captain-paul-wade-reveals-probable-cte-diagnosis",
       "source": "FMT Sports (Sports)",
@@ -1567,23 +1568,22 @@
       ]
     },
     {
-      "title": "Premier League referee Taylor retires, bemoans ‘constant scrutiny’",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/22/premier-league-referee-taylor-retires-bemoans-constant-scrutiny",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-21T21:20:48+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
       "title": "Inter Miami under investigation after signing Casemiro",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
       "published": "2026-07-22T20:44:04+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Rangers to fight McInnes ban for 'disgusting' penalty remark",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd694y2pezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-22T18:23:37+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
