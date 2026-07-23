@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T03:30:42.731734+00:00",
+  "generated_at": "2026-07-23T03:45:14.897248+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "FMT Business (Finance)": 16,
     "WHO News (Global Health)": 4,
     "Free Malaysia Today": 11,
-    "FMT Sports (Sports)": 13,
+    "FMT Sports (Sports)": 12,
     "Malay Mail (Malaysia)": 13,
     "Straits Times World (Global)": 5,
     "TechCrunch": 11,
@@ -14,10 +14,10 @@
     "Malay Mail Sports (Sports)": 4,
     "Malay Mail Money (Finance)": 3,
     "CNBC Markets (Finance)": 5,
-    "BBC Sport (Sports)": 4,
+    "BBC Sport (Sports)": 6,
     "Channel NewsAsia (Global)": 4,
     "Al Jazeera (Global)": 8,
-    "Yahoo Top Stories (World)": 3
+    "Yahoo Top Stories (World)": 2
   },
   "items": [
     {
@@ -172,7 +172,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-07-22T03:41:26+00:00",
-      "score": 26,
+      "score": 25,
       "matched": [
         "ministry(+2)",
         "cancer(+2)",
@@ -480,19 +480,6 @@
       ]
     },
     {
-      "title": "White House accuses China’s Moonshot of stealing Anthropic AI",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/23/white-house-accuses-chinas-moonshot-of-stealing-anthropic-ai",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-22T21:44:12+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "ai(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
       "title": "Perak man loses citizenship appeal despite having Malaysian aunt, uncles; as pre-Merdeka-born mother’s status undecided",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/22/perak-man-loses-citizenship-appeal-despite-having-malaysian-aunt-uncles-as-pre-merdeka-born-mothers-status-undecided/228596",
       "source": "Malay Mail (Malaysia)",
@@ -557,6 +544,19 @@
         "policy(+3)",
         "economy(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "White House accuses China’s Moonshot of stealing Anthropic AI",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/23/white-house-accuses-chinas-moonshot-of-stealing-anthropic-ai",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T21:44:12+00:00",
+      "score": 10,
+      "matched": [
+        "policy(+3)",
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -912,18 +912,6 @@
       ]
     },
     {
-      "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
-      "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-22T21:34:26+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "source": "TechCrunch",
@@ -1045,6 +1033,18 @@
         "liverpool(+1)",
         "manchester united(+1)",
         "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
+      "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-22T21:34:26+00:00",
+      "score": 7,
+      "matched": [
+        "war(+3)",
+        "economy(+2)"
       ]
     },
     {
@@ -1233,7 +1233,7 @@
       ]
     },
     {
-      "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+      "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
@@ -1300,17 +1300,6 @@
       ]
     },
     {
-      "title": "Wounded Gaza journalists call for urgent medical evacuation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-22T21:36:37+00:00",
-      "score": 6,
-      "matched": [
-        "urgent(+3)"
-      ]
-    },
-    {
       "title": "Swiss court orders fresh ruling for whistleblowers in multi-billion fraud case",
       "link": "https://www.straitstimes.com/world/europe/swiss-court-orders-fresh-ruling-for-whistleblowers-in-multi-billion-fraud-case",
       "source": "Straits Times World (Global)",
@@ -1319,6 +1308,18 @@
       "score": 6,
       "matched": [
         "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Arizona Senate president who gave 2020 election records to FBI wins attorney general GOP primary",
+      "link": "https://www.yahoo.com/news/politics/articles/arizona-senate-president-gave-2020-052748786.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-22T05:27:48+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
         "who(+2)"
       ]
     },
@@ -1364,6 +1365,17 @@
       "score": 5,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Wounded Gaza journalists call for urgent medical evacuation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-22T21:36:37+00:00",
+      "score": 5,
+      "matched": [
+        "urgent(+3)"
       ]
     },
     {
@@ -1467,17 +1479,6 @@
       ]
     },
     {
-      "title": "‘A politically impossible situation’: New poll shows Trump voters losing patience with Iran war",
-      "link": "https://www.yahoo.com/news/politics/articles/a-politically-impossible-situation-new-poll-shows-trump-voters-losing-patience-with-iran-war-095500768.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-22T09:55:00+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Australia’s former captain Paul Wade reveals probable CTE diagnosis",
       "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/22/australias-former-captain-paul-wade-reveals-probable-cte-diagnosis",
       "source": "FMT Sports (Sports)",
@@ -1546,17 +1547,6 @@
       ]
     },
     {
-      "title": "Argentina’s Ayala apologises over Olmo incident after World Cup final",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/07/23/argentinas-ayala-apologises-over-olmo-incident-after-world-cup-final",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-22T21:43:04+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
       "title": "Pardoned by Trump, Hernandez to return to Honduras and seek dismissal of local charges",
       "link": "https://www.straitstimes.com/world/pardoned-by-trump-hernandez-to-return-to-honduras-and-seek-dismissal-of-local-charges",
       "source": "Straits Times World (Global)",
@@ -1579,17 +1569,6 @@
       ]
     },
     {
-      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
-      "link": "https://www.yahoo.com/news/world/articles/model-recruiter-introduced-young-women-113729916.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-22T20:46:09+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
       "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
       "source": "TechCrunch",
@@ -1598,6 +1577,30 @@
       "score": 4,
       "matched": [
         "launch(+2)"
+      ]
+    },
+    {
+      "title": "Saliba to miss extended period with back injury",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-22T20:33:58+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Villa agree loan deal for Chelsea winger Garnacho",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly9nrel0pyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-22T20:19:24+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
       ]
     }
   ]
