@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:52:03.156299+00:00",
+  "generated_at": "2026-07-24T21:01:11.839471+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -9,15 +9,14 @@
     "Malay Mail Money (Finance)": 5,
     "Malay Mail (Malaysia)": 9,
     "Free Malaysia Today": 15,
+    "TechCrunch": 13,
     "The Verge": 5,
-    "TechCrunch": 12,
     "Al Jazeera (Global)": 8,
-    "BBC Sport (Sports)": 12,
-    "CNBC Markets (Finance)": 4,
-    "Straits Times World (Global)": 9,
-    "Yahoo Top Stories (World)": 4,
-    "Yahoo Finance (Finance)": 1,
-    "Channel NewsAsia (Global)": 1
+    "Channel NewsAsia (Global)": 4,
+    "CNBC Markets (Finance)": 5,
+    "BBC Sport (Sports)": 9,
+    "Yahoo Top Stories (World)": 2,
+    "Straits Times World (Global)": 10
   },
   "items": [
     {
@@ -358,20 +357,6 @@
       ]
     },
     {
-      "title": "MDA doubles down on AI as new council takes office",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/mda-doubles-down-on-ai-as-new-council-takes-office",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-24T12:14:00+00:00",
-      "score": 13,
-      "matched": [
-        "economy(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Samenta says even 10pc US tariff inflicts severe strain on local exporters",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/24/samenta-says-even-10pc-us-tariff-inflicts-severe-strain-on-local-exporters/228825",
       "source": "Malay Mail (Malaysia)",
@@ -430,16 +415,30 @@
       ]
     },
     {
-      "title": "The tech-broification of American science has officially begun",
-      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "source": "The Verge",
+      "title": "MDA doubles down on AI as new council takes office",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/mda-doubles-down-on-ai-as-new-council-takes-office",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-24T12:14:00+00:00",
+      "score": 12,
+      "matched": [
+        "economy(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-07-24T14:43:55+00:00",
+      "published": "2026-07-24T18:07:32+00:00",
       "score": 11,
       "matched": [
         "ai(+3)",
-        "artificial intelligence(+3)",
-        "funding(+2)"
+        "startup(+2)",
+        "acquisition(+3)"
       ]
     },
     {
@@ -549,6 +548,18 @@
         "who(+2)",
         "health(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Nothing confirms layoffs, but calls market exit rumors ‘fake news’",
+      "link": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-24T18:10:22+00:00",
+      "score": 9,
+      "matched": [
+        "breaking(+3)",
+        "ai(+3)"
       ]
     },
     {
@@ -681,16 +692,39 @@
       ]
     },
     {
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-23T20:13:24+00:00",
-      "score": 9,
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:22:04+00:00",
+      "score": 8,
       "matched": [
-        "ai(+3)",
-        "startup(+2)",
-        "funding(+2)"
+        "war(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "US appeals court blocks part of Texas children's online safety law",
+      "link": "https://www.channelnewsasia.com/business/us-appeals-court-blocks-part-texas-childrens-online-safety-law-6277141",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-24T19:42:21+00:00",
+      "score": 8,
+      "matched": [
+        "law(+3)",
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+      "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-24T18:27:00+00:00",
+      "score": 8,
+      "matched": [
+        "policy(+3)",
+        "launch(+2)"
       ]
     },
     {
@@ -702,18 +736,6 @@
       "score": 8,
       "matched": [
         "war(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
-      "link": "https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-24T15:11:03+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
         "who(+2)"
       ]
     },
@@ -732,21 +754,6 @@
       ]
     },
     {
-      "title": "Man Utd handed Tchouameni boost - Friday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cedjnz7wxy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-24T09:47:15+00:00",
-      "score": 8,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "manchester united(+1)",
-        "arsenal(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
       "title": "Amazon cracks down on use of AI images by sellers after New York law",
       "link": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
       "source": "CNBC Markets (Finance)",
@@ -759,23 +766,11 @@
       ]
     },
     {
-      "title": "MIC, MIPP rebuke Sanusi for ‘Tanah Melayu’ remark",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/mic-mipp-rebuke-sanusi-for-tanah-melayu-remark",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-24T16:06:00+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Teen pleads guilty to killing four in 2024 U.S. school shooting",
-      "link": "https://www.straitstimes.com/world/teen-pleads-guilty-to-killing-four-in-2024-u-s-school-shooting",
-      "source": "Straits Times World (Global)",
+      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-07-24T14:43:10+00:00",
+      "published": "2026-07-24T20:32:12+00:00",
       "score": 7,
       "matched": [
         "court(+2)",
@@ -783,23 +778,11 @@
       ]
     },
     {
-      "title": "Jalaluddin is BN’s top candidate for MB post, says Zahid",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/jalaluddin-is-bn-s-top-candidate-for-mb-post-says-zahid",
+      "title": "MIC, MIPP rebuke Sanusi for ‘Tanah Melayu’ remark",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/mic-mipp-rebuke-sanusi-for-tanah-melayu-remark",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-07-24T14:25:00+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Don’t listen to rumours aimed at frightening non-Malays, says Tok Mat",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/don-t-listen-to-rumours-aimed-at-frightening-non-malays-says-tok-mat",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-24T13:14:00+00:00",
+      "published": "2026-07-24T16:06:00+00:00",
       "score": 7,
       "matched": [
         "election(+2)",
@@ -1012,14 +995,80 @@
       ]
     },
     {
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-24T20:58:47+00:00",
+      "score": 6,
+      "matched": [
+        "acquisition(+3)"
+      ]
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-24T20:33:21+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Trump under pressure over China’s AI surge, amid ‘distillation’ accusations",
+      "link": "https://www.straitstimes.com/world/united-states/trump-under-pressure-over-chinas-ai-surge-amid-distillation-accusations",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:32:39+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
+      "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:27:16+00:00",
+      "score": 6,
+      "matched": [
+        "breaking(+3)"
+      ]
+    },
+    {
+      "title": "Bond market anxiety is growing over AI capex budgets",
+      "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-24T20:07:36+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "CDC says massive cyclospora outbreak is now in nine states",
       "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-24T17:32:22+00:00",
+      "published": "2026-07-24T19:53:01+00:00",
       "score": 6,
       "matched": [
         "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+      "link": "https://www.channelnewsasia.com/business/nvidia-microsoft-and-other-tech-giants-back-open-source-ai-models-6277041",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-24T18:07:11+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1028,39 +1077,6 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-07-24T17:29:48+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-24T17:26:32+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trump-nationalize-spacex-heres-betting-172500448.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-24T17:25:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "link": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-24T17:20:47+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1233,25 +1249,39 @@
       ]
     },
     {
-      "title": "US summons Malaysia envoy over Israel policy",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Teen pleads guilty to killing four in 2024 U.S. school shooting",
+      "link": "https://www.straitstimes.com/world/teen-pleads-guilty-to-killing-four-in-2024-u-s-school-shooting",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-24T12:49:27+00:00",
+      "published": "2026-07-24T14:43:10+00:00",
       "score": 6,
       "matched": [
-        "policy(+3)"
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
-      "title": "Russia says it will wait for new Trump proposals on ending Ukraine war",
-      "link": "https://www.straitstimes.com/world/europe/russia-says-it-will-wait-for-new-trump-proposals-on-ending-ukraine-war",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-24T12:38:10+00:00",
+      "title": "Jalaluddin is BN’s top candidate for MB post, says Zahid",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/jalaluddin-is-bn-s-top-candidate-for-mb-post-says-zahid",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-24T14:25:00+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Don’t listen to rumours aimed at frightening non-Malays, says Tok Mat",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/don-t-listen-to-rumours-aimed-at-frightening-non-malays-says-tok-mat",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-24T13:14:00+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1328,6 +1358,62 @@
       ]
     },
     {
+      "title": "Real Madrid confident of signing Rodri - Saturday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7qq6nkddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-24T20:37:28+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:18:03+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Trump says US to launch EU probe over 'illegal' Google fine",
+      "link": "https://www.channelnewsasia.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-6277071",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-24T18:29:04+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Who is Karim Khan, the barrister at the centre of the ICC's internal crisis?",
+      "link": "https://www.straitstimes.com/world/europe/karim-khan-the-barrister-at-the-centre-of-the-iccs-internal-crisis",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-24T18:18:21+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+      "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-24T17:53:30+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
       "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
       "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
       "source": "TechCrunch",
@@ -1361,50 +1447,6 @@
       ]
     },
     {
-      "title": "No sign of violence in death of Epstein-linked French modelling scout, prosecutors day",
-      "link": "https://www.straitstimes.com/world/europe/no-sign-of-violence-in-death-of-epstein-linked-french-modelling-scout-prosecutors-day",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-24T13:58:10+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "EU sanctions Iranian judges, leading cyber group figure",
-      "link": "https://www.straitstimes.com/world/middle-east/eu-sanctions-iranian-judges-leading-cyber-group-figure",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-24T13:28:12+00:00",
-      "score": 5,
-      "matched": [
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
-      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-24T12:47:15+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "McClenaghan set to qualify for pommel horse final",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cvgje68jqrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-24T12:31:33+00:00",
-      "score": 5,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
       "title": "England amputee team's World Cup dream on hold",
       "link": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1425,39 +1467,6 @@
       "score": 5,
       "matched": [
         "malaysia(+3)"
-      ]
-    },
-    {
-      "title": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash",
-      "link": "https://finance.yahoo.com/technology/ai/articles/call-us-whatever-hell-want-205207691.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-23T20:52:07+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-23T20:33:02+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
-      "link": "https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-23T20:10:27+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1494,69 +1503,14 @@
       ]
     },
     {
-      "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-24T14:24:53+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Van Bommel appointed Belgium head coach",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czjle30y29xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-24T13:26:45+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "WFP warns of deeper cuts in Gaza aid due to donor fatigue",
-      "link": "https://www.straitstimes.com/world/europe/wfp-warns-of-deeper-cuts-in-gaza-aid-due-to-donor-fatigue",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-24T11:23:15+00:00",
-      "score": 4,
-      "matched": [
-        "funding(+2)"
-      ]
-    },
-    {
-      "title": "Australia World Cup star Volpato faces speeding, cocaine charges",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-24T11:14:42+00:00",
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-24T12:47:15+00:00",
       "score": 4,
       "matched": [
         "who(+2)"
-      ]
-    },
-    {
-      "title": "South African court pauses impeachment process against president",
-      "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-24T10:39:47+00:00",
-      "score": 4,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
-      "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-24T10:03:10+00:00",
-      "score": 4,
-      "matched": [
-        "economy(+2)"
       ]
     },
     {
@@ -1582,6 +1536,42 @@
         "football(+1)",
         "chelsea(+1)"
       ]
+    },
+    {
+      "title": "Saudi strikes target Yemen's Hodeidah, says Houthi-run Al Masirah TV",
+      "link": "https://www.straitstimes.com/world/middle-east/saudi-strikes-target-yemens-hodeidah-says-houthi-run-al-masirah-tv",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:58:07+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "US small businesses file lawsuit challenging Trump’s new ‘forced labour’ tariffs",
+      "link": "https://www.straitstimes.com/world/united-states/us-small-businesses-file-lawsuit-challenging-trumps-new-forced-labour-tariffs",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:49:22+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Ukrainians back ousted defence minister as political crisis brews",
+      "link": "https://www.straitstimes.com/world/europe/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-24T20:46:06+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-24T20:43:35+00:00",
+      "score": 3,
+      "matched": []
     }
   ]
 }
