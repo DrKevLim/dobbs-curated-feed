@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:01:11.693545+00:00",
+  "generated_at": "2026-07-25T21:30:39.326321+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -10,13 +10,13 @@
     "Malay Mail (Malaysia)": 10,
     "Malay Mail Sports (Sports)": 5,
     "Straits Times World (Global)": 12,
-    "Yahoo Finance (Finance)": 7,
+    "Yahoo Finance (Finance)": 8,
     "TechCrunch": 9,
-    "BBC Sport (Sports)": 13,
-    "CNBC Markets (Finance)": 5,
-    "Channel NewsAsia (Global)": 5,
-    "Al Jazeera (Global)": 5,
-    "The Verge": 7,
+    "BBC Sport (Sports)": 14,
+    "CNBC Markets (Finance)": 4,
+    "Channel NewsAsia (Global)": 4,
+    "Al Jazeera (Global)": 6,
+    "The Verge": 6,
     "Yahoo Top Stories (World)": 2
   },
   "items": [
@@ -691,6 +691,17 @@
       ]
     },
     {
+      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+      "link": "https://www.straitstimes.com/world/europe/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-25T20:40:20+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
       "title": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
       "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
       "source": "CNBC Markets (Finance)",
@@ -796,17 +807,6 @@
       "source": "Straits Times World (Global)",
       "section": "World",
       "published": "2026-07-25T16:18:30+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "‘All this has to be stopped’: Kazakhstan president tells Putin war in Ukraine should end",
-      "link": "https://www.straitstimes.com/world/europe/all-this-has-to-be-stopped-kazakhstan-president-tells-putin-war-in-ukraine-should-end",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-25T15:21:54+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
@@ -946,17 +946,6 @@
       ]
     },
     {
-      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
-      "link": "https://www.straitstimes.com/world/europe/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-25T20:40:20+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
       "title": "The hacker who humiliated spyware makers and was never caught",
       "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
       "source": "TechCrunch",
@@ -976,6 +965,17 @@
       "score": 5,
       "matched": [
         "inflation(+2)"
+      ]
+    },
+    {
+      "title": "Wiffen misses out on medal in 400m freestyle",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cvgxp5nzvl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-25T18:25:26+00:00",
+      "score": 5,
+      "matched": [
+        "olympic(+2)"
       ]
     },
     {
@@ -1001,14 +1001,14 @@
       ]
     },
     {
-      "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/deepseek-tells-prospective-investors-funding-pause-bloomberg-news-reports-6278176",
-      "source": "Channel NewsAsia (Global)",
+      "title": "‘All this has to be stopped’: Kazakhstan president tells Putin war in Ukraine should end",
+      "link": "https://www.straitstimes.com/world/europe/all-this-has-to-be-stopped-kazakhstan-president-tells-putin-war-in-ukraine-should-end",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-25T15:10:30+00:00",
+      "published": "2026-07-25T15:21:54+00:00",
       "score": 5,
       "matched": [
-        "funding(+2)"
+        "war(+3)"
       ]
     },
     {
@@ -1090,6 +1090,17 @@
       ]
     },
     {
+      "title": "'The Great Inversion': Why one innovation theorist says technology is no longer adapting to us — we're adapting to it",
+      "link": "https://tech.yahoo.com/ai/articles/great-inversion-why-one-innovation-093301635.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-25T09:33:01+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Samsung, SK Group seal US$950 billion deals with US AI firms to lock in South Korean chip supply",
       "link": "https://www.channelnewsasia.com/east-asia/samsung-sk-group-seal-us950-billion-deals-us-ai-firms-lock-in-south-korean-chip-supply-6277866",
       "source": "Channel NewsAsia (Global)",
@@ -1135,17 +1146,6 @@
       ]
     },
     {
-      "title": "Guterres meets Syria's Sharaa on first visit to Damascus by UN chief in 17 years",
-      "link": "https://www.straitstimes.com/world/middle-east/guterres-set-to-be-first-un-chief-to-visit-syria-since-before-2011-war",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-25T05:03:20+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "China hits travel giant Trip.com with US$765mil penalty",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/25/china-hits-travel-giant-trip-com-with-us-765mil-penalty",
       "source": "FMT Business (Finance)",
@@ -1176,17 +1176,6 @@
       "score": 5,
       "matched": [
         "law(+3)"
-      ]
-    },
-    {
-      "title": "OpenAI’s AI agent spent days hacking a company, but it did not notice for a week, say sources",
-      "link": "https://www.straitstimes.com/world/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-25T04:06:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1257,17 +1246,6 @@
       ]
     },
     {
-      "title": "Panetta on Iran war: US ‘in deep trouble’",
-      "link": "https://www.yahoo.com/news/politics/articles/panetta-iran-war-us-deep-215902521.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-24T21:59:02+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1290,6 +1268,17 @@
       ]
     },
     {
+      "title": "DeepSeek tells prospective investors of funding pause, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/deepseek-tells-prospective-investors-funding-pause-bloomberg-news-reports-6278176",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-25T15:10:30+00:00",
+      "score": 4,
+      "matched": [
+        "funding(+2)"
+      ]
+    },
+    {
       "title": "Howe unsure over Guimaraes future amid Arsenal interest",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1299,17 +1288,6 @@
       "matched": [
         "football(+1)",
         "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Workers remain confident in their skills despite economic jitters: Study",
-      "link": "https://finance.yahoo.com/economy/article/workers-remain-confident-in-their-skills-despite-economic-jitters-study-144639700.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-25T14:46:39+00:00",
-      "score": 4,
-      "matched": [
-        "economy(+2)"
       ]
     },
     {
@@ -1369,47 +1347,74 @@
       ]
     },
     {
-      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
-      "link": "https://www.straitstimes.com/world/middle-east/houthis-fire-on-saudi-oil-sites-no-us-strike-on-iran-for-first-time-in-two-weeks",
+      "title": "Berlin Pride parade called off after car hits crowds, police say",
+      "link": "https://www.straitstimes.com/world/europe/berlin-pride-parade-called-off-after-car-hits-crowds-police-say",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-25T20:06:52+00:00",
+      "published": "2026-07-25T21:20:30+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Visiting UN chief urges respect for Syria's sovereignty, international support",
-      "link": "https://www.channelnewsasia.com/world/visiting-un-chief-urges-respect-syrias-sovereignty-international-support-6278366",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-25T20:05:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-      "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-07-25T20:00:43+00:00",
+      "published": "2026-07-25T21:08:24+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Here are 4 forces that drove a tough week for stocks",
-      "link": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-25T19:56:55+00:00",
+      "title": "Russian satellites helping Iran direct strikes in Middle East, says Ukraine’s Zelensky",
+      "link": "https://www.straitstimes.com/world/middle-east/russian-satellites-helping-iran-direct-strikes-in-middle-east-says-ukraines-zelensky",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-25T21:04:25+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ranking-best-magnificent-seven-stocks-195000185.html",
+      "title": "He Retired to a Small Town to Stretch His Social Security. Then the Only Hospital Closed, and His Cheap Retirement Turned Expensive.",
+      "link": "https://finance.yahoo.com/healthcare/articles/retired-small-town-stretch-social-210321405.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-07-25T19:50:00+00:00",
+      "published": "2026-07-25T21:03:21+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Award-winning dairy company closes two facilities",
+      "link": "https://finance.yahoo.com/small-business/articles/award-winning-dairy-company-closes-210300536.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-25T21:03:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Beyond tariffs, Trump’s pragmatic playbook champions US solutions for ASEAN needs",
+      "link": "https://www.straitstimes.com/world/united-states/beyond-tariffs-trumps-pragmatic-playbook-champions-us-solutions-for-asean-needs",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-25T21:00:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-25T20:57:45+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nuclear-trade-entering-phase-2-205650861.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-25T20:56:50+00:00",
       "score": 3,
       "matched": []
     },
@@ -1419,15 +1424,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-25T16:46:46+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Synth historian Oli Freke will spend big on a good bicycle",
-      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-25T15:15:00+00:00",
       "score": 3,
       "matched": []
     },
@@ -1465,6 +1461,15 @@
       ]
     },
     {
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-25T15:15:00+00:00",
+      "score": 2,
+      "matched": []
+    },
+    {
       "title": "Teenage Engineering’s unique music machines are 30 percent off",
       "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
       "source": "The Verge",
@@ -1494,15 +1499,6 @@
     {
       "title": "What Surrounds Us will make you think a lot about circles",
       "link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-25T12:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Folding and flipping phones are getting seriously good",
-      "link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-07-25T12:00:00+00:00",
