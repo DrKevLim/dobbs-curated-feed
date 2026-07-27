@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-27T21:00:46.256614+00:00",
+  "generated_at": "2026-07-27T21:30:46.872763+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
+    "WHO News (Global Health)": 3,
     "The Verge": 8,
-    "WHO News (Global Health)": 2,
     "FMT Business (Finance)": 13,
     "Free Malaysia Today": 13,
     "Malay Mail (Malaysia)": 11,
-    "TechCrunch": 10,
+    "TechCrunch": 11,
     "Malay Mail Sports (Sports)": 7,
     "CNBC Markets (Finance)": 8,
     "Al Jazeera (Global)": 9,
-    "Straits Times World (Global)": 10,
     "Malay Mail Money (Finance)": 3,
-    "Channel NewsAsia (Global)": 3,
-    "BBC Sport (Sports)": 11,
-    "Yahoo Top Stories (World)": 2
+    "Channel NewsAsia (Global)": 4,
+    "BBC Sport (Sports)": 9,
+    "Straits Times World (Global)": 8,
+    "Yahoo Top Stories (World)": 3
   },
   "items": [
     {
@@ -96,6 +96,28 @@
         "medical(+3)",
         "ministry of health(+3)",
         "moh(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "WHO: Integration, innovation and community leadership key to ending HIV, hepatitis and STIs",
+      "link": "https://www.who.int/news/item/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis",
+      "source": "WHO News (Global Health)",
+      "section": "Health",
+      "published": "2026-07-27T15:45:12+00:00",
+      "score": 35,
+      "matched": [
+        "urgent(+3)",
+        "funding(+2)",
+        "who(+2)",
+        "cancer(+2)",
+        "health(+2)",
+        "public health(+3)",
+        "disease(+3)",
+        "diseases(+3)",
+        "vaccination(+3)",
+        "cancer(+3)",
+        "hepatitis(+3)",
         "who(+2)"
       ]
     },
@@ -495,7 +517,7 @@
       "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-27T19:44:01+00:00",
+      "published": "2026-07-27T21:29:50+00:00",
       "score": 9,
       "matched": [
         "ai(+3)",
@@ -524,19 +546,6 @@
       "matched": [
         "ai(+3)",
         "breach(+3)"
-      ]
-    },
-    {
-      "title": "Wife of Putin spokesman Peskov challenges EU sanctions on her in court",
-      "link": "https://www.straitstimes.com/world/europe/wife-of-putin-spokesman-peskov-challenges-eu-sanctions-on-her-in-court",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T13:10:56+00:00",
-      "score": 9,
-      "matched": [
-        "court(+2)",
-        "war(+3)",
-        "sanctions(+2)"
       ]
     },
     {
@@ -654,18 +663,6 @@
       ]
     },
     {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-27T15:30:00+00:00",
-      "score": 8,
-      "matched": [
-        "economy(+2)",
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "BN’s Mustapha vows to revive stalled clinic project",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/bn-s-mustapha-vows-to-revive-stalled-clinic-project",
       "source": "Free Malaysia Today",
@@ -776,6 +773,18 @@
       "matched": [
         "court(+2)",
         "election(+2)"
+      ]
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T15:30:00+00:00",
+      "score": 7,
+      "matched": [
+        "economy(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -949,6 +958,28 @@
       ]
     },
     {
+      "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T21:29:40+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T21:17:11+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Cadence raises annual forecasts as demand booms for AI chip design",
       "link": "https://www.channelnewsasia.com/business/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-6281661",
       "source": "Channel NewsAsia (Global)",
@@ -1009,17 +1040,6 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-07-27T19:46:20+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
-      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T19:26:56+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1092,17 +1112,6 @@
       ]
     },
     {
-      "title": "See county maps of states linked to cyclosporiasis outbreak",
-      "link": "https://www.yahoo.com/news/us/articles/see-county-maps-states-linked-182631909.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-27T18:26:31+00:00",
-      "score": 6,
-      "matched": [
-        "outbreak(+3)"
-      ]
-    },
-    {
       "title": "War on Iran: Phase II: Day 16",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1122,6 +1131,17 @@
       "score": 6,
       "matched": [
         "war(+3)"
+      ]
+    },
+    {
+      "title": "A trove of users’ seemingly private conversations with Anthropic’s Claude AI chatbot showed up in Google search results",
+      "link": "https://tech.yahoo.com/ai/claude/articles/trove-users-seemingly-private-conversations-172028613.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-27T17:20:28+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1152,17 +1172,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-27T15:57:12+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-27T15:01:50+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1254,6 +1263,51 @@
       ]
     },
     {
+      "title": "Zelenskiy to meet US senators, Russia sanctions vote expected",
+      "link": "https://www.straitstimes.com/world/europe/zelenskiy-to-meet-us-senators-russia-sanctions-vote-expected",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T21:26:08+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Man City brace for Rodri bid - Tuesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T21:21:18+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Modi faces challenge from activists over surveillance at India youth protest",
+      "link": "https://www.channelnewsasia.com/world/modi-india-youth-protest-surveillance-6281626",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-27T21:11:10+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "NI's Olympic champions struggle on medal-less Monday",
+      "link": "https://www.bbc.co.uk/sport/articles/c4gx3zv3v0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T21:03:12+00:00",
+      "score": 5,
+      "matched": [
+        "olympic(+2)"
+      ]
+    },
+    {
       "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
       "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
       "source": "TechCrunch",
@@ -1298,17 +1352,6 @@
       ]
     },
     {
-      "title": "Wiffen finishes fourth in tough 800m final",
-      "link": "https://www.bbc.co.uk/sport/swimming/articles/cp9e17mzzgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T19:54:22+00:00",
-      "score": 5,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
       "title": "Xbox’s huge outage even blocked games on disc",
       "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
       "source": "The Verge",
@@ -1325,6 +1368,17 @@
       "source": "Yahoo Top Stories (World)",
       "section": "World",
       "published": "2026-07-27T19:37:39+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "US Justice Dept asks Supreme Court to restore Trump mail-in voting order",
+      "link": "https://www.straitstimes.com/world/united-states/us-justice-dept-asks-supreme-court-to-restore-trump-mail-in-voting-order",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T19:15:49+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
@@ -1376,6 +1430,17 @@
       ]
     },
     {
+      "title": "Mexico economy likely rebounded in second quarter",
+      "link": "https://finance.yahoo.com/economy/articles/mexico-economy-likely-rebounded-second-174602074.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-27T17:46:02+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Chad to join raft of withdrawals from International Criminal Court",
       "link": "https://www.aljazeera.com/news/2026/7/27/chad-to-join-raft-of-withdrawals-from-international-criminal-court?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1398,17 +1463,6 @@
       ]
     },
     {
-      "title": "World risks HIV resurgence as funding falls 18%, UNAIDS says",
-      "link": "https://www.straitstimes.com/world/world-risks-hiv-resurgence-as-funding-falls-18-unaids-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T17:13:19+00:00",
-      "score": 5,
-      "matched": [
-        "funding(+2)"
-      ]
-    },
-    {
       "title": "Liverpool's centre-back situation and why Iraola must act",
       "link": "https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1421,28 +1475,6 @@
       ]
     },
     {
-      "title": "Romania expels Russian diplomat in protest of airspace breaches",
-      "link": "https://www.straitstimes.com/world/europe/romania-expels-russian-diplomat-in-protest-of-airspace-breaches",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T16:50:47+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "UK funeral director faces jail over bodies left ‘on racks’",
-      "link": "https://www.straitstimes.com/world/europe/uk-funeral-director-faces-jail-over-bodies-left-on-racks",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T16:10:58+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Amazon’s trying to launch a global satellite cellphone network in 2028",
       "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
       "source": "The Verge",
@@ -1451,6 +1483,17 @@
       "score": 5,
       "matched": [
         "launch(+2)"
+      ]
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T15:01:50+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1473,6 +1516,17 @@
       "score": 5,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T10:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "breaking(+3)"
       ]
     },
     {
@@ -1529,53 +1583,6 @@
       "score": 4,
       "matched": [
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Snapchat now lets you share what you’re listening to in real time",
-      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-27T13:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T10:26:36+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "PSG want £145m for Barcola - Monday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly5189yjgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T09:28:18+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Rogers and Palmer can play together - Alonso",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T06:10:05+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
       ]
     }
   ]
