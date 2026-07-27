@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-07-27T17:55:55.871833+00:00",
+  "generated_at": "2026-07-27T21:00:46.256614+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "The Verge": 8,
     "WHO News (Global Health)": 2,
     "FMT Business (Finance)": 13,
-    "Free Malaysia Today": 12,
-    "Malay Mail (Malaysia)": 12,
+    "Free Malaysia Today": 13,
+    "Malay Mail (Malaysia)": 11,
+    "TechCrunch": 10,
     "Malay Mail Sports (Sports)": 7,
-    "Straits Times World (Global)": 11,
-    "TechCrunch": 11,
-    "CNBC Markets (Finance)": 6,
+    "CNBC Markets (Finance)": 8,
+    "Al Jazeera (Global)": 9,
+    "Straits Times World (Global)": 10,
     "Malay Mail Money (Finance)": 3,
-    "BBC Sport (Sports)": 10,
-    "Yahoo Finance (Finance)": 2,
-    "Al Jazeera (Global)": 7,
-    "Channel NewsAsia (Global)": 2,
-    "Yahoo Top Stories (World)": 4
+    "Channel NewsAsia (Global)": 3,
+    "BBC Sport (Sports)": 11,
+    "Yahoo Top Stories (World)": 2
   },
   "items": [
     {
@@ -106,7 +105,7 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-07-27T15:00:00+00:00",
-      "score": 34,
+      "score": 33,
       "matched": [
         "breaking(+3)",
         "policy(+3)",
@@ -372,24 +371,11 @@
       ]
     },
     {
-      "title": "Wall Street futures gain as pause in US-Iran hostilities lifts sentiment",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/27/wall-street-futures-gain-as-pause-in-us-iran-hostilities-lifts-sentiment",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T12:32:54+00:00",
-      "score": 11,
-      "matched": [
-        "policy(+3)",
-        "inflation(+2)",
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-07-27T12:06:22+00:00",
+      "published": "2026-07-27T18:32:11+00:00",
       "score": 11,
       "matched": [
         "ai(+3)",
@@ -440,16 +426,16 @@
       ]
     },
     {
-      "title": "Wife of Putin spokesman Peskov challenges EU sanctions on her in court",
-      "link": "https://www.straitstimes.com/world/europe/wife-of-putin-spokesman-peskov-challenges-eu-sanctions-on-her-in-court",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T13:10:56+00:00",
+      "title": "Wall Street futures gain as pause in US-Iran hostilities lifts sentiment",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/27/wall-street-futures-gain-as-pause-in-us-iran-hostilities-lifts-sentiment",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T12:32:54+00:00",
       "score": 10,
       "matched": [
-        "court(+2)",
-        "war(+3)",
-        "sanctions(+2)"
+        "policy(+3)",
+        "inflation(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -505,6 +491,30 @@
       ]
     },
     {
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+      "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T19:44:01+00:00",
+      "score": 9,
+      "matched": [
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "UN eyeing potential Israeli war crimes in Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T19:32:53+00:00",
+      "score": 9,
+      "matched": [
+        "law(+3)",
+        "war(+3)"
+      ]
+    },
+    {
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
       "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
       "source": "TechCrunch",
@@ -517,28 +527,16 @@
       ]
     },
     {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T15:24:16+00:00",
+      "title": "Wife of Putin spokesman Peskov challenges EU sanctions on her in court",
+      "link": "https://www.straitstimes.com/world/europe/wife-of-putin-spokesman-peskov-challenges-eu-sanctions-on-her-in-court",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T13:10:56+00:00",
       "score": 9,
       "matched": [
-        "ai(+3)",
-        "cybersecurity(+3)"
-      ]
-    },
-    {
-      "title": "BN’s Mustapha vows to revive stalled clinic project",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/bn-s-mustapha-vows-to-revive-stalled-clinic-project",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-27T13:42:00+00:00",
-      "score": 9,
-      "matched": [
-        "ministry(+2)",
-        "election(+2)",
-        "covid(+2)"
+        "court(+2)",
+        "war(+3)",
+        "sanctions(+2)"
       ]
     },
     {
@@ -620,6 +618,18 @@
       ]
     },
     {
+      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
+      "link": "https://www.channelnewsasia.com/business/nvidia-invest-5-billion-in-ilya-sutskevers-ai-startup-source-says-6281401",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-27T17:53:22+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
+      ]
+    },
+    {
       "title": "Why China is giving away its best AI models",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "source": "The Verge",
@@ -656,40 +666,16 @@
       ]
     },
     {
-      "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-      "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-27T14:56:38+00:00",
+      "title": "BN’s Mustapha vows to revive stalled clinic project",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/bn-s-mustapha-vows-to-revive-stalled-clinic-project",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-27T13:42:00+00:00",
       "score": 8,
       "matched": [
-        "budget(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T14:05:42+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
-      "title": "F1 teams flood social media with Sepang throwbacks as Malaysia rejoins F1 calendar (VIDEO)",
-      "link": "https://www.malaymail.com/news/sports/2026/07/27/f1-teams-flood-social-media-with-sepang-throwbacks-as-malaysia-rejoins-f1-calendar-video/229166",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T13:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "who(+2)",
-        "malaysia(+3)"
+        "ministry(+2)",
+        "election(+2)",
+        "covid(+2)"
       ]
     },
     {
@@ -781,15 +767,52 @@
       ]
     },
     {
-      "title": "Malaysia detains over 100 Rohingya refugees seeking shelter at UNHCR",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/malaysia-detains-over-100-rohingya-refugees-seeking-shelter-at-unhcr",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-27T14:15:00+00:00",
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T20:10:27+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+      "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-27T14:56:38+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T14:05:42+00:00",
       "score": 7,
       "matched": [
         "who(+2)",
-        "covid(+2)"
+        "football(+1)",
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "F1 teams flood social media with Sepang throwbacks as Malaysia rejoins F1 calendar (VIDEO)",
+      "link": "https://www.malaymail.com/news/sports/2026/07/27/f1-teams-flood-social-media-with-sepang-throwbacks-as-malaysia-rejoins-f1-calendar-video/229166",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T13:00:00+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "malaysia(+3)"
       ]
     },
     {
@@ -926,36 +949,47 @@
       ]
     },
     {
-      "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-      "link": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T17:43:48+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
-      "link": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T17:37:01+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
-      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T17:32:53+00:00",
+      "title": "Cadence raises annual forecasts as demand booms for AI chip design",
+      "link": "https://www.channelnewsasia.com/business/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-6281661",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:35:50+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
+      "link": "https://www.straitstimes.com/world/middle-east/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-reuters/ipsos-poll-finds",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:15:50+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:12:45+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:09:16+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -963,18 +997,40 @@
       "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-27T17:19:29+00:00",
+      "published": "2026-07-27T19:48:30+00:00",
       "score": 6,
       "matched": [
         "outbreak(+3)"
       ]
     },
     {
-      "title": "Oil-Turned-AI Power Play Baker Hughes Gaps Up On Surprise Earnings Gain",
-      "link": "https://www.investors.com/news/baker-hughes-stock-oil-air-power-play-surprise-earnings-gain/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance (Finance)",
+      "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+      "link": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-27T17:03:11+00:00",
+      "published": "2026-07-27T19:46:20+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
+      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T19:26:56+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Nanoleaf’s colorful pegboard and shelf kit is half off",
+      "link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-27T19:24:55+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -985,10 +1041,87 @@
       "link": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-27T17:00:01+00:00",
+      "published": "2026-07-27T19:22:12+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
+      ]
+    },
+    {
+      "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+      "link": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T19:14:30+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
+      "link": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-27T19:08:10+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Are the US and Iran heading towards a forever war?",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T18:40:34+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Orange, Morrison plan French data centre venture to meet AI demand",
+      "link": "https://www.channelnewsasia.com/business/orange-morrison-plan-french-data-centre-venture-meet-ai-demand-6281466",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-27T18:27:09+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "See county maps of states linked to cyclosporiasis outbreak",
+      "link": "https://www.yahoo.com/news/us/articles/see-county-maps-states-linked-182631909.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-27T18:26:31+00:00",
+      "score": 6,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "War on Iran: Phase II: Day 16",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T17:57:43+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+      "link": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T17:41:46+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
       ]
     },
     {
@@ -997,17 +1130,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-07-27T16:45:24+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "ASML Stock Plunges On China News, Leads Chip Stocks Lower",
-      "link": "https://www.investors.com/news/technology/asml-stock-chip-stocks-slide-as-ai-trade-unwinds/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-27T16:44:22+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -1036,17 +1158,6 @@
       ]
     },
     {
-      "title": "Why a new war in Yemen could be different for the Houthis",
-      "link": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T15:20:32+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
       "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
       "source": "TechCrunch",
@@ -1058,113 +1169,15 @@
       ]
     },
     {
-      "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
-      "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-27T14:38:43+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Government engagement with AI creates more uncertainty for investors, Bridgewater CIOs warn",
-      "link": "https://www.channelnewsasia.com/business/government-engagement-ai-creates-more-uncertainty-investors-bridgewater-cios-warn-6281141",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-27T14:38:39+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-      "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-27T14:27:16+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Palestinians say settler violence and military raids are bringing them to breaking point",
-      "link": "https://www.straitstimes.com/world/middle-east/palestinians-say-settler-violence-and-military-raids-are-bringing-them-to-breaking-point",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T14:21:00+00:00",
-      "score": 6,
-      "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "121 Rohingya relocated to UNHCR office voluntarily, say police",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/121-rohingya-relocated-to-unhcr-office-voluntarily-say-police",
+      "title": "Malaysia detains over 100 Rohingya refugees seeking shelter at UNHCR",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/malaysia-detains-over-100-rohingya-refugees-seeking-shelter-at-unhcr",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-07-27T12:58:00+00:00",
+      "published": "2026-07-27T14:15:00+00:00",
       "score": 6,
       "matched": [
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "Anthropic gets heat for being the only major AI lab not supporting open models",
-      "link": "https://tech.yahoo.com/ai/claude/articles/anthropic-gets-heat-being-only-125433970.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-27T12:54:33+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Gaza student tops national exams despite war and displacement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T12:41:27+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "‘Reach for the sky, stay anchored to earth’: PM warns against tech without morals",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/27/reach-for-the-sky-stay-anchored-to-earth-pm-warns-against-tech-without-morals/229173",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-27T12:28:11+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Students and staff work to bring Islamic University of Gaza back to life",
-      "link": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T12:26:05+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes",
-      "link": "https://www.yahoo.com/news/articles/china-accuses-us-ai-hegemonism-121752253.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-27T12:24:23+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
+        "who(+2)",
+        "covid(+2)"
       ]
     },
     {
@@ -1185,6 +1198,30 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-07-27T09:54:00+00:00",
+      "score": 6,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Act against those who drag palace into politics, says Aminuddin",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/act-against-those-who-drag-palace-into-politics-says-aminuddin",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-27T09:10:00+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Cops failed to probe possible foul play in Anna Jenkins case, says judge",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/27/cops-failed-to-probe-possible-foul-play-in-anna-jenkins-case-says-judge",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-27T08:33:00+00:00",
       "score": 6,
       "matched": [
         "court(+2)",
@@ -1217,6 +1254,128 @@
       ]
     },
     {
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T20:40:12+00:00",
+      "score": 5,
+      "matched": [
+        "startup(+2)"
+      ]
+    },
+    {
+      "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+      "link": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:32:59+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
+      "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:27:29+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Chad joins growing list of countries to withdraw from ICC",
+      "link": "https://www.straitstimes.com/world/chad-joins-growing-list-of-countries-to-withdraw-from-icc",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T20:10:38+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Wiffen finishes fourth in tough 800m final",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cp9e17mzzgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T19:54:22+00:00",
+      "score": 5,
+      "matched": [
+        "olympic(+2)"
+      ]
+    },
+    {
+      "title": "Xbox’s huge outage even blocked games on disc",
+      "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-27T19:53:50+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms",
+      "link": "https://www.yahoo.com/news/politics/articles/trump-administration-urges-supreme-court-193739298.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-27T19:37:39+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Chelsea open talks to sign Henderson and Welbeck",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T18:54:31+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Haiti schedules first election in a decade for December",
+      "link": "https://www.straitstimes.com/world/haiti-schedules-first-election-in-a-decade-for-december",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T18:45:54+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T18:28:15+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "UN mission says Venezuela's ICC withdrawal undermines accountability",
+      "link": "https://www.straitstimes.com/world/un-mission-says-venezuelas-icc-withdrawal-undermines-accountability",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-27T18:20:50+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
       "title": "Chad to join raft of withdrawals from International Criminal Court",
       "link": "https://www.aljazeera.com/news/2026/7/27/chad-to-join-raft-of-withdrawals-from-international-criminal-court?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1229,10 +1388,10 @@
     },
     {
       "title": "US Treasury trims 84 people, firms from its sanctions list as review continues",
-      "link": "https://www.yahoo.com/news/politics/articles/us-treasury-trims-84-people-171355218.html",
-      "source": "Yahoo Top Stories (World)",
+      "link": "https://www.straitstimes.com/world/united-states/us-treasury-trims-84-people-firms-from-its-sanctions-list-as-review-continues",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-27T17:13:55+00:00",
+      "published": "2026-07-27T17:15:58+00:00",
       "score": 5,
       "matched": [
         "sanctions(+2)"
@@ -1284,17 +1443,6 @@
       ]
     },
     {
-      "title": "Iran: Currently no negotiations with the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T16:08:27+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
       "title": "Amazon’s trying to launch a global satellite cellphone network in 2028",
       "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
       "source": "The Verge",
@@ -1306,136 +1454,25 @@
       ]
     },
     {
-      "title": "Why Venezuela is leaving the ICC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T15:22:45+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Spanish court orders H&M to stop staff bag and locker searches",
-      "link": "https://www.straitstimes.com/world/europe/spanish-court-orders-hm-to-stop-staff-bag-and-locker-searches",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T15:16:08+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Ukraine court remands organiser of weapons show attacked by Russia",
-      "link": "https://www.straitstimes.com/world/ukraine-court-remands-organiser-of-weapons-show-attacked-by-russia",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T15:11:53+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "McClenaghan finishes sixth in pommel horse final",
-      "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2l8d6474jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T14:46:52+00:00",
-      "score": 5,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
-      "title": "Cracker Barrel CEO who oversaw controversial logo redesign to step down",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-ceo-oversaw-controversial-141749800.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-27T14:17:49+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Australian court rejects racial discrimination appeal by Pauline Hanson",
-      "link": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-27T13:46:06+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Chelsea open talks to sign Brighton striker Welbeck",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-27T13:24:43+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Fanatics to buy BGC Group assets to launch prediction market exchange",
-      "link": "https://www.channelnewsasia.com/business/fanatics-buy-bgc-group-assets-launch-prediction-market-exchange-6280951",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-07-27T13:11:18+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Snapchat now lets you share what you’re listening to in real time",
-      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-      "source": "TechCrunch",
+      "title": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
+      "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
+      "source": "The Verge",
       "section": "Tech",
-      "published": "2026-07-27T13:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Saudi Arabia says it destroyed drones launched by Iran-backed groups in Iraq",
-      "link": "https://www.straitstimes.com/world/middle-east/saudi-arabia-says-it-destroyed-drones-launched-by-iran-backed-groups-in-iraq",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T12:55:54+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Poland asks U.S. to hand over ex-minister over alleged fund misuse",
-      "link": "https://www.straitstimes.com/world/europe/poland-asks-u-s-to-hand-over-ex-minister-over-alleged-fund-misuse",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T12:35:47+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Have Saudi Arabia and Ukraine entered the war against Iran?",
-      "link": "https://www.straitstimes.com/world/middle-east/have-saudi-arabia-and-ukraine-entered-the-war-against-iran",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-27T11:30:00+00:00",
+      "published": "2026-07-27T14:38:43+00:00",
       "score": 5,
       "matched": [
         "war(+3)"
+      ]
+    },
+    {
+      "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+      "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-27T14:27:16+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1462,14 +1499,14 @@
       ]
     },
     {
-      "title": "Making sense of the panic over Chinese AI",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-26T19:40:57+00:00",
-      "score": 5,
+      "title": "Inter in advanced talks with England defender Stones",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-27T20:02:14+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
+        "football(+1)"
       ]
     },
     {
@@ -1492,6 +1529,17 @@
       "score": 4,
       "matched": [
         "football(+1)"
+      ]
+    },
+    {
+      "title": "Snapchat now lets you share what you’re listening to in real time",
+      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-27T13:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1529,44 +1577,6 @@
         "football(+1)",
         "chelsea(+1)"
       ]
-    },
-    {
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-26T21:06:44+00:00",
-      "score": 4,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Antares raises $470M to build nuclear reactors for the U.S. military",
-      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-27T17:49:28+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "YouTube Premium will include Peacock starting next year",
-      "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-27T16:18:52+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-27T15:25:37+00:00",
-      "score": 3,
-      "matched": []
     }
   ]
 }
