@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T21:01:22.357140+00:00",
+  "generated_at": "2026-07-29T21:30:43.395857+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
     "WHO News (Global Health)": 2,
-    "FMT Business (Finance)": 12,
+    "FMT Business (Finance)": 11,
     "Malay Mail Sports (Sports)": 14,
     "Malay Mail (Malaysia)": 14,
     "Malay Mail Money (Finance)": 5,
+    "The Verge": 7,
     "Free Malaysia Today": 10,
-    "Straits Times World (Global)": 8,
+    "Straits Times World (Global)": 6,
     "Al Jazeera (Global)": 10,
-    "TechCrunch": 7,
-    "BBC Sport (Sports)": 9,
-    "Yahoo Top Stories (World)": 3,
+    "TechCrunch": 9,
+    "BBC Sport (Sports)": 7,
+    "Yahoo Top Stories (World)": 4,
     "CNBC Markets (Finance)": 7,
-    "The Verge": 6,
-    "Channel NewsAsia (Global)": 3
+    "Channel NewsAsia (Global)": 3,
+    "Yahoo Finance (Finance)": 1
   },
   "items": [
     {
@@ -529,6 +530,18 @@
       ]
     },
     {
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-29T21:06:52+00:00",
+      "score": 9,
+      "matched": [
+        "policy(+3)",
+        "law(+3)"
+      ]
+    },
+    {
       "title": "Businessman loses appeal against conviction for threatening and assaulting bodyguards in Klang",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/29/businessman-loses-appeal-against-conviction-for-threatening-and-assaulting-bodyguards-in-klang/229476",
       "source": "Malay Mail (Malaysia)",
@@ -793,18 +806,6 @@
       ]
     },
     {
-      "title": "AI industry slowdown may be needed after security scare, says OpenAI CEO",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/07/29/ai-industry-slowdown-may-be-needed-after-security-scare-says-openai-ceo",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-07-28T21:16:59+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
-      ]
-    },
-    {
       "title": "The athlete who has never held her Olympic medal",
       "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -838,18 +839,6 @@
       "matched": [
         "election(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Ukraine appeal IOC decision to reinstate Russia",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/c5yvpwk1033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T15:22:21+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "olympic(+2)"
       ]
     },
     {
@@ -1009,6 +998,28 @@
       ]
     },
     {
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T21:16:39+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T21:07:48+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
       "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
       "source": "CNBC Markets (Finance)",
@@ -1130,6 +1141,17 @@
       ]
     },
     {
+      "title": "Hugging Face drops in-depth hack report, while OpenAI gives us 7 bullets. Here’s what we know now, and what remains a mystery",
+      "link": "https://tech.yahoo.com/ai/articles/hugging-face-drops-depth-hack-172723166.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-29T17:27:23+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
       "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -1218,25 +1240,15 @@
       ]
     },
     {
-      "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
-      "link": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-29T15:09:24+00:00",
+      "title": "Ukraine appeal IOC decision to reinstate Russia",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/c5yvpwk1033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T15:22:21+00:00",
       "score": 6,
       "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "Up to 13 months’ bonus paid out despite financial concerns",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/up-to-13-months-bonus-paid-out-despite-financial-concerns",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-29T15:04:00+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
+        "court(+2)",
+        "olympic(+2)"
       ]
     },
     {
@@ -1300,6 +1312,18 @@
       ]
     },
     {
+      "title": "Bersatu leader challenges Umno to pull support for Selangor govt",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/bersatu-leader-challenges-umno-to-pull-support-for-selangor-govt",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-29T07:52:00+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Thai investors look beyond London as Japan property gains appeal",
       "link": "https://www.malaymail.com/news/money/2026/07/29/thai-investors-look-beyond-london-as-japan-property-gains-appeal/229381",
       "source": "Malay Mail Money (Finance)",
@@ -1312,6 +1336,29 @@
       ]
     },
     {
+      "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T21:20:56+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+      "link": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-29T21:02:50+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
       "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
       "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
       "source": "CNBC Markets (Finance)",
@@ -1320,18 +1367,6 @@
       "score": 5,
       "matched": [
         "inflation(+2)"
-      ]
-    },
-    {
-      "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T20:31:04+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "liverpool(+1)"
       ]
     },
     {
@@ -1424,6 +1459,17 @@
       ]
     },
     {
+      "title": "56-year-old fast-food giant has closed over half its restaurants",
+      "link": "https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T16:28:27+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Liverpool preparing opening bid for PSG's Barcola",
       "link": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1436,47 +1482,14 @@
       ]
     },
     {
-      "title": "The Ferrari Luce has at least 500 fans",
-      "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
+      "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
+      "link": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-07-29T15:28:50+00:00",
+      "published": "2026-07-29T15:09:24+00:00",
       "score": 5,
       "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "France moves to expel pro-Kremlin TV commentator as presidential election looms",
-      "link": "https://www.straitstimes.com/world/europe/france-moves-to-expel-pro-kremlin-tv-commentator-as-presidential-election-looms",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T15:17:48+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Russia says it struck more vessels carrying weapons to Ukraine",
-      "link": "https://www.straitstimes.com/world/europe/russia-says-it-struck-more-vessels-carrying-weapons-to-ukraine",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T15:06:05+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Opinion - OpenAI’s rogue ‘sandbox’ escape could be America’s final AI warning",
-      "link": "https://www.yahoo.com/news/science/articles/opinion-openai-rogue-sandbox-escape-150000655.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-07-29T15:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
+        "breaking(+3)"
       ]
     },
     {
@@ -1548,25 +1561,14 @@
       ]
     },
     {
-      "title": "Alalshikh investment in Derby County moves closer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg0nm0gvywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T17:38:57+00:00",
-      "score": 4,
+      "title": "Putin, Russia put on notice as Senate takes crucial step to grind down the Kremlin’s war machine",
+      "link": "https://www.yahoo.com/news/politics/articles/putin-russia-put-notice-senate-000233160.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-29T00:02:33+00:00",
+      "score": 5,
       "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T17:21:57+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
+        "war(+3)"
       ]
     }
   ]
