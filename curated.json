@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:38:52.755019+00:00",
+  "generated_at": "2026-07-29T21:01:22.357140+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,17 +7,16 @@
     "FMT Business (Finance)": 12,
     "Malay Mail Sports (Sports)": 14,
     "Malay Mail (Malaysia)": 14,
-    "Malay Mail Money (Finance)": 4,
+    "Malay Mail Money (Finance)": 5,
     "Free Malaysia Today": 10,
-    "Yahoo Finance (Finance)": 6,
+    "Straits Times World (Global)": 8,
+    "Al Jazeera (Global)": 10,
     "TechCrunch": 7,
-    "The Verge": 7,
-    "CNBC Markets (Finance)": 2,
-    "BBC Sport (Sports)": 10,
-    "Al Jazeera (Global)": 9,
-    "Straits Times World (Global)": 11,
-    "Channel NewsAsia (Global)": 1,
-    "Yahoo Top Stories (World)": 1
+    "BBC Sport (Sports)": 9,
+    "Yahoo Top Stories (World)": 3,
+    "CNBC Markets (Finance)": 7,
+    "The Verge": 6,
+    "Channel NewsAsia (Global)": 3
   },
   "items": [
     {
@@ -476,19 +475,6 @@
       ]
     },
     {
-      "title": "Businessman loses appeal against conviction for threatening and assaulting bodyguards in Klang",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/29/businessman-loses-appeal-against-conviction-for-threatening-and-assaulting-bodyguards-in-klang/229476",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-07-29T12:04:27+00:00",
-      "score": 10,
-      "matched": [
-        "law(+3)",
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "S&P 500, Nasdaq futures edge higher ahead of Fed decision",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/07/29/s-p-500-nasdaq-futures-inch-up-before-fed-decision",
       "source": "FMT Business (Finance)",
@@ -543,15 +529,16 @@
       ]
     },
     {
-      "title": "National Trust Fund’s net assets expected to double within 10 years, Dewan Negara told",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/29/national-trust-funds-net-assets-expected-to-double-within-10-years-dewan-negara-told/229479",
+      "title": "Businessman loses appeal against conviction for threatening and assaulting bodyguards in Klang",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/29/businessman-loses-appeal-against-conviction-for-threatening-and-assaulting-bodyguards-in-klang/229476",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-07-29T12:28:58+00:00",
+      "published": "2026-07-29T12:04:27+00:00",
       "score": 9,
       "matched": [
-        "policy(+3)",
-        "budget(+3)"
+        "law(+3)",
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -659,15 +646,39 @@
       ]
     },
     {
-      "title": "BofA says Fed hike today would be one for the books",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bofa-says-fed-hike-today-171927618.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-29T17:19:27+00:00",
+      "title": "IMF says Saudi economy resilient in face of Middle East war",
+      "link": "https://www.straitstimes.com/world/middle-east/imf-says-saudi-economy-resilient-in-face-of-middle-east-war",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-29T19:40:24+00:00",
       "score": 8,
       "matched": [
-        "policy(+3)",
+        "war(+3)",
         "economy(+2)"
+      ]
+    },
+    {
+      "title": "Libya electricity blackout protests expose country’s failing grid",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T18:07:19+00:00",
+      "score": 8,
+      "matched": [
+        "corruption(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "South Korea’s stock market plunges as AI-driven boom fades",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T17:48:58+00:00",
+      "score": 8,
+      "matched": [
+        "economy(+2)",
+        "ai(+3)"
       ]
     },
     {
@@ -683,51 +694,15 @@
       ]
     },
     {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-29T15:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-29T14:41:06+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Penalties against 5 senior TH officers watered down, says RCI report",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/penalties-against-5-senior-th-officers-watered-down-says-rci-report",
-      "source": "Free Malaysia Today",
+      "title": "National Trust Fund’s net assets expected to double within 10 years, Dewan Negara told",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/29/national-trust-funds-net-assets-expected-to-double-within-10-years-dewan-negara-told/229479",
+      "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-07-29T14:38:00+00:00",
+      "published": "2026-07-29T12:28:58+00:00",
       "score": 8,
       "matched": [
-        "corruption(+3)",
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-29T12:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "court(+2)",
-        "ai(+3)"
+        "policy(+3)",
+        "budget(+3)"
       ]
     },
     {
@@ -740,18 +715,6 @@
       "matched": [
         "policy(+3)",
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-29T11:00:00+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "cybersecurity(+3)"
       ]
     },
     {
@@ -776,18 +739,6 @@
       "matched": [
         "policy(+3)",
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-      "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-07-29T08:43:13+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)"
       ]
     },
     {
@@ -854,6 +805,30 @@
       ]
     },
     {
+      "title": "The athlete who has never held her Olympic medal",
+      "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T19:38:24+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "olympic(+2)"
+      ]
+    },
+    {
+      "title": "US Fed holds interest rates steady, citing ‘elevated’ inflation",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T18:07:55+00:00",
+      "score": 7,
+      "matched": [
+        "inflation(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Loke says he is target of smear campaign in runup to Negeri Sembilan polls",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/loke-says-he-is-target-of-smear-campaign-in-runup-to-negeri-sembilan-polls",
       "source": "Free Malaysia Today",
@@ -878,15 +853,39 @@
       ]
     },
     {
-      "title": "High Court upholds 5-year sentence on businessman who assaulted bodyguards for fasting",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/high-court-upholds-5-year-sentence-on-businessman-who-assaulted-bodyguards-for-fasting",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-07-29T12:33:00+00:00",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T15:00:00+00:00",
       "score": 7,
       "matched": [
-        "court(+2)",
+        "ai(+3)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T14:41:06+00:00",
+      "score": 7,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
+      ]
+    },
+    {
+      "title": "Penalties against 5 senior TH officers watered down, says RCI report",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/penalties-against-5-senior-th-officers-watered-down-says-rci-report",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-29T14:38:00+00:00",
+      "score": 7,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)"
       ]
     },
     {
@@ -962,16 +961,15 @@
       ]
     },
     {
-      "title": "Who am I? Guess Premier League star No 9",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ydrlg3rjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T06:07:50+00:00",
+      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance",
+      "link": "https://www.yahoo.com/news/politics/articles/collins-says-state-department-reinstate-024309055.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-07-29T02:43:09+00:00",
       "score": 7,
       "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
+        "funding(+2)",
+        "vaccine(+3)"
       ]
     },
     {
@@ -1011,15 +1009,124 @@
       ]
     },
     {
-      "title": "Fed Chair leads two-day meeting as fear grips markets",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html",
-      "source": "Yahoo Finance (Finance)",
+      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-28T19:11:44+00:00",
-      "score": 7,
+      "published": "2026-07-29T20:57:08+00:00",
+      "score": 6,
       "matched": [
-        "policy(+3)",
-        "economy(+2)"
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+      "link": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T20:33:41+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges",
+      "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-29T20:26:48+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Meta's free cash flow wiped out as AI buildout grows",
+      "link": "https://www.channelnewsasia.com/business/metas-free-cash-flow-wiped-out-ai-buildout-grows-6286786",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-29T20:07:37+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T19:46:57+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T19:44:49+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+      "link": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T19:11:58+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-07-29T18:45:27+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls",
+      "link": "https://www.channelnewsasia.com/business/openais-sam-altman-discusses-rogue-agent-us-senators-trump-considers-ai-controls-6286676",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-07-29T18:44:19+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-29T18:15:02+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "The US government just banned Roombas",
+      "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-07-29T18:13:09+00:00",
+      "score": 6,
+      "matched": [
+        "policy(+3)"
       ]
     },
     {
@@ -1056,17 +1163,6 @@
       ]
     },
     {
-      "title": "TotalEnergies (TTE) Posts A War-Driven Earnings Surge, But The Real Test Is What Happens To LNG Once It Fades",
-      "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-posts-war-driven-165209577.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-29T16:52:09+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
       "link": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
       "source": "CNBC Markets (Finance)",
@@ -1075,17 +1171,6 @@
       "score": 6,
       "matched": [
         "law(+3)"
-      ]
-    },
-    {
-      "title": "Datadog, IBD Stock Of The Day, Rides AI Momentum Ahead Of Earnings Report",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/datadog-stock-earnings-high-expectations-artificial-intelligence/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-29T16:45:45+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1100,25 +1185,14 @@
       ]
     },
     {
-      "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html",
-      "source": "Yahoo Finance (Finance)",
+      "title": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
+      "link": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-07-29T16:37:03+00:00",
+      "published": "2026-07-29T16:03:07+00:00",
       "score": 6,
       "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/glencore-sees-3-3-billion-163000552.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-07-29T16:30:00+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
+        "policy(+3)"
       ]
     },
     {
@@ -1166,103 +1240,15 @@
       ]
     },
     {
-      "title": "Fifa offers $40m if nations back controversial plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T14:56:22+00:00",
+      "title": "High Court upholds 5-year sentence on businessman who assaulted bodyguards for fasting",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/29/high-court-upholds-5-year-sentence-on-businessman-who-assaulted-bodyguards-for-fasting",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-07-29T12:33:00+00:00",
       "score": 6,
       "matched": [
-        "funding(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "OpenAI says rogue AI agent attack hit other companies",
-      "link": "https://www.straitstimes.com/world/openai-says-rogue-ai-agent-attack-hit-other-companies",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T14:56:14+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T14:27:45+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T14:09:09+00:00",
-      "score": 6,
-      "matched": [
-        "ceasefire(+3)"
-      ]
-    },
-    {
-      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-      "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T13:58:28+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "How are AI models able to autonomously hack others?",
-      "link": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T13:19:04+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T12:27:19+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "British regulator investigates whether Microsoft misled personal and family customers",
-      "link": "https://www.straitstimes.com/world/europe/british-regulator-investigates-whether-microsoft-misled-personal-and-family-customers",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T12:05:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-29T11:54:29+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
+        "court(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1275,18 +1261,6 @@
       "matched": [
         "court(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "New Jewish-Arab party may complicate bid to oust Netanyahu",
-      "link": "https://www.straitstimes.com/world/middle-east/new-jewish-arab-party-may-complicate-bid-to-oust-netanyahu",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T11:01:32+00:00",
-      "score": 6,
-      "matched": [
-        "parliament(+2)",
-        "election(+2)"
       ]
     },
     {
@@ -1326,28 +1300,127 @@
       ]
     },
     {
-      "title": "Palace hold talks with ex-Arsenal defender Tomiyasu",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0qv8e7e0l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T09:22:02+00:00",
+      "title": "Thai investors look beyond London as Japan property gains appeal",
+      "link": "https://www.malaymail.com/news/money/2026/07/29/thai-investors-look-beyond-london-as-japan-property-gains-appeal/229381",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T05:04:18+00:00",
       "score": 6,
       "matched": [
         "who(+2)",
-        "football(+1)",
-        "arsenal(+1)"
+        "covid(+2)"
       ]
     },
     {
-      "title": "The athlete who has never held her Olympic medal",
-      "link": "https://www.bbc.co.uk/sport/weightlifting/articles/cn8nxg5rvvko?at_medium=RSS&at_campaign=rss",
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T20:58:06+00:00",
+      "score": 5,
+      "matched": [
+        "inflation(+2)"
+      ]
+    },
+    {
+      "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-07-29T05:23:46+00:00",
-      "score": 6,
+      "published": "2026-07-29T20:31:04+00:00",
+      "score": 5,
       "matched": [
-        "who(+2)",
-        "olympic(+2)"
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "French media regulator issues €200,000 fine against CNews for on-air remarks about immigration, culture",
+      "link": "https://www.straitstimes.com/world/europe/french-media-regulator-issues-eu200000-fine-against-cnews-for-on-air-remarks-about-immigration",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-07-29T20:11:26+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T20:09:26+00:00",
+      "score": 5,
+      "matched": [
+        "parliament(+2)"
+      ]
+    },
+    {
+      "title": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
+      "link": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-07-29T19:31:36+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T18:54:07+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "liverpool(+1)"
+      ]
+    },
+    {
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T18:34:09+00:00",
+      "score": 5,
+      "matched": [
+        "covid(+2)"
+      ]
+    },
+    {
+      "title": "Fire erupts on ships at Egypt’s Damietta port",
+      "link": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T18:01:57+00:00",
+      "score": 5,
+      "matched": [
+        "ministry(+2)"
+      ]
+    },
+    {
+      "title": "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T17:40:14+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
+      "link": "https://www.aljazeera.com/news/2026/7/29/fauci-invokes-fifth-amendment-in-heated-covid-19-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-07-29T17:32:34+00:00",
+      "score": 5,
+      "matched": [
+        "covid(+2)"
       ]
     },
     {
@@ -1396,114 +1469,48 @@
       ]
     },
     {
-      "title": "Ugandan opposition figure collapses in court, party official says",
-      "link": "https://www.straitstimes.com/world/ugandan-opposition-figure-collapses-in-court-party-official-says",
-      "source": "Straits Times World (Global)",
+      "title": "Opinion - OpenAI’s rogue ‘sandbox’ escape could be America’s final AI warning",
+      "link": "https://www.yahoo.com/news/science/articles/opinion-openai-rogue-sandbox-escape-150000655.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-07-29T14:56:11+00:00",
+      "published": "2026-07-29T15:00:00+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Former top US infectious disease expert Fauci declines to answer questions at Covid-19 hearing",
-      "link": "https://www.straitstimes.com/world/united-states/former-top-us-infectious-disease-expert-fauci-declines-to-answer-questions-at-covid-19-hearing",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T14:41:41+00:00",
-      "score": 5,
-      "matched": [
-        "covid(+2)"
-      ]
-    },
-    {
-      "title": "Timber leaves Arsenal camp for groin check",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpq8ndn0g7go?at_medium=RSS&at_campaign=rss",
+      "title": "Fifa offers $40m if nations back controversial plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-07-29T13:14:41+00:00",
+      "published": "2026-07-29T14:56:22+00:00",
       "score": 5,
       "matched": [
-        "football(+1)",
-        "arsenal(+1)"
+        "funding(+2)",
+        "football(+1)"
       ]
     },
     {
-      "title": "US bans imports of new Chinese robots over security concerns",
-      "link": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T13:12:43+00:00",
-      "score": 5,
-      "matched": [
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "Russia jails journalist for 12 years on treason charge",
-      "link": "https://www.straitstimes.com/world/europe/russia-jails-journalist-for-12-years-on-treason-charge",
+      "title": "OpenAI says rogue AI agent attack hit other companies",
+      "link": "https://www.straitstimes.com/world/openai-says-rogue-ai-agent-attack-hit-other-companies",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-29T12:56:20+00:00",
+      "published": "2026-07-29T14:56:14+00:00",
       "score": 5,
       "matched": [
-        "court(+2)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
-      "link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-07-29T12:22:03+00:00",
-      "score": 5,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Injury denies Richardson spicy reunion with Australia",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cwylr9z7gz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T12:01:03+00:00",
-      "score": 5,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-29T12:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
-      "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "British regulator investigates whether Microsoft misled personal and family customers",
+      "link": "https://www.straitstimes.com/world/europe/british-regulator-investigates-whether-microsoft-misled-personal-and-family-customers",
+      "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-07-29T11:34:58+00:00",
+      "published": "2026-07-29T12:05:00+00:00",
       "score": 5,
       "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-      "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-07-29T09:51:52+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
+        "ai(+3)"
       ]
     },
     {
@@ -1516,18 +1523,6 @@
       "matched": [
         "who(+2)",
         "football(+1)"
-      ]
-    },
-    {
-      "title": "Savinho open to leaving Man City amid Spurs interest",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-07-29T06:17:10+00:00",
-      "score": 5,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)"
       ]
     },
     {
@@ -1553,25 +1548,25 @@
       ]
     },
     {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-07-28T18:16:39+00:00",
-      "score": 5,
+      "title": "Alalshikh investment in Derby County moves closer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg0nm0gvywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T17:38:57+00:00",
+      "score": 4,
       "matched": [
-        "ai(+3)"
+        "football(+1)"
       ]
     },
     {
-      "title": "Lula leads Flavio Bolsonaro in potential Brazil runoff, poll shows",
-      "link": "https://www.straitstimes.com/world/lula-leads-flavio-bolsonaro-in-potential-brazil-runoff-poll-shows",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-07-29T10:06:11+00:00",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-07-29T17:21:57+00:00",
       "score": 4,
       "matched": [
-        "election(+2)"
+        "football(+1)"
       ]
     }
   ]
