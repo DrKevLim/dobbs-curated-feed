@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:01:00.869328+00:00",
+  "generated_at": "2026-08-01T21:30:42.436602+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,14 +7,14 @@
     "Malay Mail Money (Finance)": 5,
     "Malay Mail (Malaysia)": 6,
     "FMT Business (Finance)": 3,
-    "Al Jazeera (Global)": 10,
-    "The Verge": 5,
+    "Al Jazeera (Global)": 9,
     "Free Malaysia Today": 18,
-    "CNBC Markets (Finance)": 7,
-    "Straits Times World (Global)": 8,
+    "The Verge": 5,
+    "CNBC Markets (Finance)": 6,
+    "Straits Times World (Global)": 7,
     "BBC Sport (Sports)": 12,
-    "Yahoo Finance (Finance)": 9,
-    "Yahoo Top Stories (World)": 3,
+    "Yahoo Finance (Finance)": 10,
+    "Yahoo Top Stories (World)": 5,
     "TechCrunch": 9,
     "Channel NewsAsia (Global)": 3
   },
@@ -359,18 +359,6 @@
       ]
     },
     {
-      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-      "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-01T15:23:35+00:00",
-      "score": 9,
-      "matched": [
-        "policy(+3)",
-        "cybersecurity(+3)"
-      ]
-    },
-    {
       "title": "Selangor to review rules on managing stray animals",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/01/selangor-to-review-rules-on-managing-stray-animals",
       "source": "Free Malaysia Today",
@@ -420,6 +408,18 @@
         "who(+2)",
         "malaysia(+3)",
         "badminton(+2)"
+      ]
+    },
+    {
+      "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
+      "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-01T15:23:35+00:00",
+      "score": 8,
+      "matched": [
+        "policy(+3)",
+        "cybersecurity(+3)"
       ]
     },
     {
@@ -698,7 +698,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-01T20:35:15+00:00",
+      "published": "2026-08-01T21:23:22+00:00",
       "score": 6,
       "matched": [
         "football(+1)",
@@ -718,17 +718,6 @@
       ]
     },
     {
-      "title": "Apple CEO sends strong warning on AI and price of Apple products",
-      "link": "https://finance.yahoo.com/technology/articles/apple-ceo-sends-strong-warning-200700035.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-01T20:07:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "source": "TechCrunch",
@@ -745,17 +734,6 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-08-01T18:20:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "GE Aerospace, AI Play Lead Five Stocks Near Buy Points",
-      "link": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-01T15:22:10+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
@@ -930,6 +908,28 @@
       ]
     },
     {
+      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-01T21:15:50+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Inflation Could Wreck Your Retirement. Here's How to Avoid Letting That Happen.",
+      "link": "https://finance.yahoo.com/markets/articles/inflation-could-wreck-retirement-heres-205600063.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T20:56:00+00:00",
+      "score": 5,
+      "matched": [
+        "inflation(+2)"
+      ]
+    },
+    {
       "title": "Chelsea confirm Welbeck signing from Brighton",
       "link": "https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -942,7 +942,7 @@
       ]
     },
     {
-      "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+      "title": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse",
       "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
@@ -961,6 +961,17 @@
       "score": 5,
       "matched": [
         "election(+2)"
+      ]
+    },
+    {
+      "title": "GE Aerospace, AI Play Lead Five Stocks Near Buy Points",
+      "link": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T15:22:10+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -983,28 +994,6 @@
       "score": 5,
       "matched": [
         "ai(+3)"
-      ]
-    },
-    {
-      "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-      "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-01T12:44:54+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-      "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-01T12:40:36+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1039,6 +1028,17 @@
       "matched": [
         "who(+2)",
         "football(+1)"
+      ]
+    },
+    {
+      "title": "AI can help pinpoint a top CEO candidate. The harder part is persuading them to take the job.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-help-pinpoint-top-ceo-085601178.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-01T08:56:01+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1164,17 +1164,6 @@
       ]
     },
     {
-      "title": "McAidoo 'the kind of winger I love' - Maresca",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c75g4gg02dko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-01T15:27:44+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
       "title": "Migrants say hunger and hostility drove them back from Spain’s Ceuta to Morocco",
       "link": "https://www.straitstimes.com/world/europe/migrants-say-hunger-and-hostility-drove-them-back-from-spains-ceuta-to-morocco",
       "source": "Straits Times World (Global)",
@@ -1194,6 +1183,18 @@
       "score": 4,
       "matched": [
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Mudryk Chelsea return will take time - Alonso",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62eney6347o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-01T14:19:02+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -1241,17 +1242,6 @@
       ]
     },
     {
-      "title": "Infantino’s FIFA World Cup crisis: Who could replace president?",
-      "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-01T11:58:23+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
       "title": "India's Modi forgives student protesters who abused him, says punishing them 'will not change situation'",
       "link": "https://www.channelnewsasia.com/asia/indias-modi-forgives-student-protesters-who-abused-him-says-punishing-them-will-not-change-situation-6292581",
       "source": "Channel NewsAsia (Global)",
@@ -1274,6 +1264,60 @@
       ]
     },
     {
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-01T21:14:48+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Dollar General copies Costco with a discount twist",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-copies-costcos-playbook-160518649.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T21:05:44+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Mitt Romney’s IRA Was Worth Up to $100 Million When He Ran for President but The Annual Limit Was $6,000. The Rules He Used Are Still Legal",
+      "link": "https://finance.yahoo.com/markets/options/articles/mitt-romney-ira-worth-100-210336096.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T21:03:36+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Cambridge professor at centre of plagiarism row defends his work",
+      "link": "https://www.yahoo.com/news/us/articles/cambridge-professor-centre-plagiarism-row-204541905.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-01T20:59:01+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-sits-21-below-high-205800560.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T20:58:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-01T20:57:04+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
       "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
       "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
       "source": "CNBC Markets (Finance)",
@@ -1283,11 +1327,29 @@
       "matched": []
     },
     {
+      "title": "29-year-old fast-casual chain closes final location",
+      "link": "https://finance.yahoo.com/small-business/articles/29-old-fast-casual-chain-011700918.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-01T20:51:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
       "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
       "source": "Yahoo Finance (Finance)",
       "section": "Finance",
       "published": "2026-08-01T20:46:10+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-01T20:38:41+00:00",
       "score": 3,
       "matched": []
     },
@@ -1337,37 +1399,10 @@
       "matched": []
     },
     {
-      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-      "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-01T20:22:15+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Amazon Just Left Investors Speechless",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-just-left-investors-speechless-201700358.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-01T20:17:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
       "title": "Angela Nissel faces down grief with a laugh",
       "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-08-01T20:15:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "3 Dividend Stocks to Buy and Hold Forever",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-hold-201500367.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
       "published": "2026-08-01T20:15:00+00:00",
       "score": 3,
       "matched": []
@@ -1382,38 +1417,11 @@
       "matched": []
     },
     {
-      "title": "JPMorgan Predicted Up to $8 Billion of Year-One XRP ETF Inflows. Here’s Why Inflows Are Stuck at $1.5 Billion",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-predicted-8-billion-one-200350380.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-01T20:03:50+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
       "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
       "link": "https://www.straitstimes.com/world/europe/restaurant-explosion-in-central-moscow-kills-three-injures-15-police-say",
       "source": "Straits Times World (Global)",
       "section": "World",
       "published": "2026-08-01T19:26:52+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
-      "link": "https://www.straitstimes.com/world/united-states/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-paper-says",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-08-01T19:11:49+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-      "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-01T19:08:12+00:00",
       "score": 3,
       "matched": []
     },
@@ -1459,15 +1467,6 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-08-01T15:05:00+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-01T14:00:00+00:00",
       "score": 2,
       "matched": []
     }
