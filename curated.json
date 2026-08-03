@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:01:14.343929+00:00",
+  "generated_at": "2026-08-03T21:30:50.675682+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -11,11 +11,11 @@
     "TechCrunch": 14,
     "Malay Mail Money (Finance)": 6,
     "CNBC Markets (Finance)": 7,
-    "Al Jazeera (Global)": 10,
-    "Straits Times World (Global)": 7,
-    "BBC Sport (Sports)": 13,
-    "Channel NewsAsia (Global)": 4,
-    "Yahoo Top Stories (World)": 3
+    "Al Jazeera (Global)": 7,
+    "Straits Times World (Global)": 8,
+    "Yahoo Top Stories (World)": 6,
+    "Channel NewsAsia (Global)": 3,
+    "BBC Sport (Sports)": 13
   },
   "items": [
     {
@@ -544,18 +544,6 @@
       ]
     },
     {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-03T18:43:43+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "launch(+2)"
-      ]
-    },
-    {
       "title": "US announces first two deaths from cyclospora outbreak",
       "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
       "source": "Al Jazeera (Global)",
@@ -616,6 +604,18 @@
       ]
     },
     {
+      "title": "Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+      "link": "https://www.yahoo.com/news/politics/articles/hugging-face-ceo-says-ai-065248283.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-03T06:52:48+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "breach(+3)"
+      ]
+    },
+    {
       "title": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
       "link": "https://www.freemalaysiatoday.com/category/business/2026/08/03/bessent-ready-to-repeat-joint-yen-intervention-urges-bigger-fed-backstop",
       "source": "FMT Business (Finance)",
@@ -641,6 +641,18 @@
       ]
     },
     {
+      "title": "Brown University's president, who clashed with Trump over funding, steps down",
+      "link": "https://www.straitstimes.com/world/brown-universitys-president-who-clashed-with-trump-over-funding-steps-down",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-03T21:07:16+00:00",
+      "score": 7,
+      "matched": [
+        "funding(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Loke blames Chennah defeat on smear campaign",
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/03/loke-blames-chennah-defeat-on-smear-campaign",
       "source": "Free Malaysia Today",
@@ -650,19 +662,6 @@
       "matched": [
         "election(+2)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "England midfielder Henderson joins Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-03T15:17:56+00:00",
-      "score": 7,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "chelsea(+1)"
       ]
     },
     {
@@ -923,6 +922,28 @@
       ]
     },
     {
+      "title": "The US Air Force's plan to upgrade its 70-year-old B-52 bombers is billions over budget, watchdog finds",
+      "link": "https://www.yahoo.com/news/us/articles/us-air-forces-plan-upgrade-190111401.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-03T19:01:11+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-03T18:43:43+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Michigan confirms first two deaths in cyclospora outbreak",
       "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
       "source": "CNBC Markets (Finance)",
@@ -1011,14 +1032,16 @@
       ]
     },
     {
-      "title": "Oil slides, stocks rise on hopes of deal to end Middle East war",
-      "link": "https://www.channelnewsasia.com/world/oil-price-stocks-deal-iran-war-us-6295856",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-08-03T15:32:00+00:00",
+      "title": "England midfielder Henderson joins Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-03T15:17:56+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "football(+1)",
+        "premier league(+2)",
+        "chelsea(+1)"
       ]
     },
     {
@@ -1142,11 +1165,33 @@
       ]
     },
     {
-      "title": "Morocco says Spain should have foreseen migration impact of court ruling",
-      "link": "https://www.straitstimes.com/world/europe/morocco-says-spain-should-have-foreseen-migration-impact-of-court-ruling",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "link": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-03T21:13:38+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
+      "link": "https://www.straitstimes.com/world/middle-east/us-supreme-court-wont-halt-655-million-judgment-against-palestinians-over-attacks",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-08-03T20:57:17+00:00",
+      "published": "2026-08-03T21:02:40+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Morocco says Spain should have foreseen migration impact of court ruling",
+      "link": "https://www.yahoo.com/news/politics/articles/morocco-says-spain-foreseen-migration-205423115.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-03T20:59:40+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
@@ -1158,6 +1203,17 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-08-03T20:57:02+00:00",
+      "score": 5,
+      "matched": [
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "Supreme Court won't halt $656M judgment against the PLO and Palestinian Authority",
+      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-wont-halt-656m-204212876.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-03T20:42:12+00:00",
       "score": 5,
       "matched": [
         "court(+2)"
@@ -1276,17 +1332,6 @@
       ]
     },
     {
-      "title": "Indian court acquits ex-wrestling chief in sexual harassment case",
-      "link": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-03T15:56:01+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "Como agree £31m deal to sign Chalobah from Chelsea",
       "link": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1307,17 +1352,6 @@
       "score": 5,
       "matched": [
         "breaking(+3)"
-      ]
-    },
-    {
-      "title": "At least 17 killed as Russia and Ukraine trade heavy attacks",
-      "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-03T14:23:07+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1345,28 +1379,6 @@
       ]
     },
     {
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-03T11:01:11+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "A former Oracle engineer on an H-1B visa says AI and tech layoffs pushed him into constant career-prep mode",
-      "link": "https://finance.yahoo.com/technology/ai/articles/former-oracle-engineer-h-1b-091502200.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-03T09:15:02+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "More than £1bn spent - how Premier League clubs prepare for transfer window",
       "link": "https://www.bbc.co.uk/sport/football/articles/c87nxvyq4yqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1376,6 +1388,17 @@
       "matched": [
         "football(+1)",
         "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Fulham sign Garcia and Palacios from Real Madrid",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-03T21:18:39+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
       ]
     },
     {
@@ -1409,17 +1432,6 @@
       "score": 4,
       "matched": [
         "launch(+2)"
-      ]
-    },
-    {
-      "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
-      "link": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-03T14:47:20+00:00",
-      "score": 4,
-      "matched": [
-        "economy(+2)"
       ]
     },
     {
@@ -1469,6 +1481,15 @@
       ]
     },
     {
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-03T21:24:23+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
       "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
       "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
       "source": "TechCrunch",
@@ -1494,26 +1515,6 @@
       "published": "2026-08-03T17:46:01+00:00",
       "score": 3,
       "matched": []
-    },
-    {
-      "title": "Microsoft is bringing Xbox 360 games to PC",
-      "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-03T16:31:35+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "'Jadon was not on trial with the club' - Flixton dismiss Sancho talk",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0rdpwvqgkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-03T14:02:43+00:00",
-      "score": 3,
-      "matched": [
-        "football(+1)"
-      ]
     }
   ]
 }
