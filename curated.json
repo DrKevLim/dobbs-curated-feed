@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T21:01:22.259426+00:00",
+  "generated_at": "2026-08-04T21:30:41.381704+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -8,14 +8,14 @@
     "FMT Business (Finance)": 14,
     "Malay Mail Sports (Sports)": 5,
     "Malay Mail (Malaysia)": 14,
-    "Straits Times World (Global)": 3,
-    "Channel NewsAsia (Global)": 7,
-    "TechCrunch": 12,
-    "Al Jazeera (Global)": 9,
-    "BBC Sport (Sports)": 16,
+    "Straits Times World (Global)": 7,
+    "Channel NewsAsia (Global)": 5,
+    "TechCrunch": 13,
+    "Al Jazeera (Global)": 8,
+    "BBC Sport (Sports)": 14,
+    "The Verge": 6,
     "CNBC Markets (Finance)": 3,
-    "The Verge": 5,
-    "Yahoo Top Stories (World)": 5
+    "Yahoo Top Stories (World)": 4
   },
   "items": [
     {
@@ -717,6 +717,18 @@
       ]
     },
     {
+      "title": "US judge grants DOJ bid to dismiss Jan. 6 cases against Oath Keepers",
+      "link": "https://www.straitstimes.com/world/us-judge-grants-doj-bid-to-dismiss-jan-6-cases-against-oath-keepers",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-04T21:02:23+00:00",
+      "score": 7,
+      "matched": [
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Is the future of data centers portable? Runware builds a pod to find out",
       "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
       "source": "TechCrunch",
@@ -889,8 +901,30 @@
       ]
     },
     {
-      "title": "Instant View: SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
-      "link": "https://www.channelnewsasia.com/business/instant-view-spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041",
+      "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-04T20:57:49+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "SpaceX has more neocloud revenue",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-04T20:47:55+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
+      "link": "https://www.channelnewsasia.com/business/spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-hit-stock-6299041",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
       "published": "2026-08-04T20:41:52+00:00",
@@ -922,8 +956,8 @@
       ]
     },
     {
-      "title": "AMD forecasts revenue above estimates on AI chip demand, but shares fall",
-      "link": "https://www.channelnewsasia.com/business/amd-forecasts-revenue-above-estimates-ai-chip-demand-shares-fall-6299001",
+      "title": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations",
+      "link": "https://www.channelnewsasia.com/business/amd-forecasts-upbeat-revenue-strong-ai-chip-demand-shares-fall-lofty-expectations-6299001",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
       "published": "2026-08-04T20:17:49+00:00",
@@ -1054,28 +1088,6 @@
       ]
     },
     {
-      "title": "Analysis:Oracle Corp goes for high-stakes ratings gamble in AI strategy",
-      "link": "https://www.channelnewsasia.com/business/analysisoracle-corp-goes-high-stakes-ratings-gamble-in-ai-strategy-6298706",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-08-04T17:23:20+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-      "link": "https://www.channelnewsasia.com/business/ai-data-centre-race-builds-1-trillion-lease-burden-big-tech-6298711",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-08-04T17:22:02+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "An outbreak of diarrhea from a parasite is surging. Here’s what to eat and what to avoid",
       "link": "https://health.yahoo.com/conditions/infectious/food-poisoning/articles/outbreak-diarrhea-parasite-surging-eat-132802937.html",
       "source": "Yahoo Top Stories (World)",
@@ -1084,17 +1096,6 @@
       "score": 6,
       "matched": [
         "outbreak(+3)"
-      ]
-    },
-    {
-      "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-      "link": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-04T17:03:24+00:00",
-      "score": 6,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -1150,40 +1151,6 @@
       "score": 6,
       "matched": [
         "acquisition(+3)"
-      ]
-    },
-    {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-04T15:33:21+00:00",
-      "score": 6,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-04T15:20:06+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Meet the £1m-rated non-league star Abdulmalik",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-04T15:05:02+00:00",
-      "score": 6,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
       ]
     },
     {
@@ -1327,17 +1294,6 @@
       ]
     },
     {
-      "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds",
-      "link": "https://www.yahoo.com/news/science/articles/divided-federal-appeals-court-says-175058727.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-04T17:50:58+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "BMW’s in-car Spider-Man ad is villain behavior",
       "link": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
       "source": "The Verge",
@@ -1349,14 +1305,14 @@
       ]
     },
     {
-      "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
-      "link": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-04T15:43:59+00:00",
+      "title": "Seventeen migrants believed dead trying to reach Spain's Balearic Islands",
+      "link": "https://www.straitstimes.com/world/europe/seventeen-migrants-believed-dead-trying-to-reach-spains-balearic-islands",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-04T17:12:21+00:00",
       "score": 5,
       "matched": [
-        "launch(+2)"
+        "who(+2)"
       ]
     },
     {
@@ -1372,15 +1328,48 @@
       ]
     },
     {
-      "title": "Man Utd admit ticket touting investigation error",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cddjrnv0847o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-04T15:18:10+00:00",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-04T15:20:06+00:00",
       "score": 5,
       "matched": [
-        "football(+1)",
-        "manchester united(+1)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Meet the £1m-rated non-league star Abdulmalik",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-04T15:05:02+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Congo Ebola response hit by worker protests over late pay",
+      "link": "https://www.straitstimes.com/world/congo-ebola-response-hit-by-worker-protests-over-late-pay",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-04T13:52:35+00:00",
+      "score": 5,
+      "matched": [
+        "outbreak(+3)"
+      ]
+    },
+    {
+      "title": "AI offers ‘lifeline’ for emerging economies, World Bank says",
+      "link": "https://www.straitstimes.com/world/ai-offers-lifeline-for-emerging-economies-world-bank-says",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-04T13:40:00+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1404,6 +1393,17 @@
       "matched": [
         "football(+1)",
         "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Forest target Reijnders - Wednesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8mvgp179po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-04T20:52:35+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
       ]
     },
     {
@@ -1440,25 +1440,15 @@
       ]
     },
     {
-      "title": "Man City lose forward Kerolin to Barcelona",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c36de65dg2po?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd admit ticket touting investigation error",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cddjrnv0847o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-04T15:27:46+00:00",
+      "published": "2026-08-04T15:18:10+00:00",
       "score": 4,
       "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "What did Premiership start tell us about Scottish sides' Euro hopes?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8kz2prrplo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-04T15:21:15+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)"
+        "football(+1)",
+        "manchester united(+1)"
       ]
     },
     {
@@ -1496,17 +1486,6 @@
       ]
     },
     {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-04T12:00:00+00:00",
-      "score": 4,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
       "title": "Arsenal in talks to sign Newcastle's Guimaraes",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1519,16 +1498,13 @@
       ]
     },
     {
-      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-04T10:27:25+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
-      ]
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-04T21:07:26+00:00",
+      "score": 3,
+      "matched": []
     },
     {
       "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
@@ -1536,6 +1512,24 @@
       "source": "TechCrunch",
       "section": "Tech",
       "published": "2026-08-04T20:36:30+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-04T20:26:53+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "EA is now a private company",
+      "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-04T20:18:14+00:00",
       "score": 3,
       "matched": []
     }
