@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:15:33.370504+00:00",
+  "generated_at": "2026-08-07T09:30:52.920103+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,15 +7,15 @@
     "FMT Business (Finance)": 15,
     "Malay Mail (Malaysia)": 14,
     "Free Malaysia Today": 10,
-    "Channel NewsAsia (Global)": 3,
+    "Channel NewsAsia (Global)": 4,
     "BBC Sport (Sports)": 21,
     "Al Jazeera (Global)": 8,
     "Malay Mail Sports (Sports)": 3,
     "The Verge": 7,
     "CNBC Markets (Finance)": 3,
-    "Straits Times World (Global)": 10,
-    "TechCrunch": 7,
-    "Yahoo Top Stories (World)": 3
+    "Yahoo Top Stories (World)": 3,
+    "Straits Times World (Global)": 9,
+    "TechCrunch": 7
   },
   "items": [
     {
@@ -132,7 +132,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-08-07T03:30:00+00:00",
-      "score": 34,
+      "score": 33,
       "matched": [
         "law(+3)",
         "parliament(+2)",
@@ -327,7 +327,7 @@
       "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/07/since-when-do-allocations-go-to-mps-asks-anwar",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-08-07T08:26:55+00:00",
+      "published": "2026-08-07T08:26:00+00:00",
       "score": 12,
       "matched": [
         "policy(+3)",
@@ -910,6 +910,18 @@
       ]
     },
     {
+      "title": "Are you committing tax fraud? New York Gov. Kathy Hochul’s about to find out, all thanks to the pied-à-terre tax rollout",
+      "link": "https://finance.yahoo.com/economy/policy/articles/committing-tax-fraud-york-gov-153850681.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-06T15:38:50+00:00",
+      "score": 7,
+      "matched": [
+        "policy(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
       "title": "Ringgit closes higher, but gains capped ahead of US payrolls report",
       "link": "https://www.malaymail.com/news/money/2026/08/06/ringgit-closes-higher-but-gains-capped-ahead-of-us-payrolls-report/230438",
       "source": "Malay Mail Money (Finance)",
@@ -1036,17 +1048,6 @@
       ]
     },
     {
-      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-      "link": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-07T09:10:01+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
       "title": "Genshin Impact leakers jailed in landmark criminal case in China",
       "link": "https://www.channelnewsasia.com/east-asia/china-genshin-impact-leaks-jail-6305696",
       "source": "Channel NewsAsia (Global)",
@@ -1159,17 +1160,6 @@
       ]
     },
     {
-      "title": "Trump says he thinks war with Iran will end ‘pretty soon’",
-      "link": "https://www.straitstimes.com/world/united-states/trump-says-he-thinks-war-with-iran-will-end-pretty-soon",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-08-06T21:03:02+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
-      ]
-    },
-    {
       "title": "Google says hackers are calling financial firm employees to hack and extort victims",
       "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
       "source": "TechCrunch",
@@ -1225,14 +1215,14 @@
       ]
     },
     {
-      "title": "Crypto billionaire Michael Saylor says he made $15 billion last year with ChatGPT—and has one rule: ‘Don’t try to outwork the robots’",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crypto-billionaire-michael-saylor-says-154854761.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-06T15:48:54+00:00",
+      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
+      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-06T14:30:00+00:00",
       "score": 5,
       "matched": [
-        "ai(+3)"
+        "policy(+3)"
       ]
     },
     {
@@ -1263,6 +1253,17 @@
       "source": "BBC Sport (Sports)",
       "section": "Sports",
       "published": "2026-08-07T08:00:11+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "National League returns - can it live up to last season's drama?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78gzlkm0xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-07T07:35:19+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
@@ -1436,6 +1437,15 @@
       ]
     },
     {
+      "title": "Nurul Izzah takes leave from PKR deputy president post - why and what next for Anwar’s daughter?",
+      "link": "https://www.channelnewsasia.com/asia/nurul-izzah-anwar-pkr-deputy-president-leave-absence-6305791",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-08-07T09:20:59+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
       "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
       "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1518,17 +1528,6 @@
       "source": "BBC Sport (Sports)",
       "section": "Sports",
       "published": "2026-08-06T14:58:56+00:00",
-      "score": 3,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Ex-Brazil forward Pato's consortium to take over Northampton",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yv05p1kwro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-06T12:28:08+00:00",
       "score": 3,
       "matched": [
         "football(+1)"
