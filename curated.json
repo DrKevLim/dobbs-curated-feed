@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-09T09:30:49.103422+00:00",
-  "count": 117,
+  "generated_at": "2026-08-09T16:54:40.083875+00:00",
+  "count": 118,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
-    "Malay Mail Sports (Sports)": 10,
-    "Malay Mail (Malaysia)": 13,
-    "Malay Mail Money (Finance)": 5,
+    "Malay Mail Sports (Sports)": 9,
+    "Malay Mail Money (Finance)": 4,
     "FMT Business (Finance)": 2,
-    "Free Malaysia Today": 10,
-    "BBC Sport (Sports)": 14,
-    "CNBC Markets (Finance)": 15,
-    "Al Jazeera (Global)": 8,
-    "Channel NewsAsia (Global)": 3,
-    "Yahoo Top Stories (World)": 4,
+    "Malay Mail (Malaysia)": 11,
+    "TechCrunch": 7,
+    "The Verge": 5,
+    "Free Malaysia Today": 12,
+    "Al Jazeera (Global)": 9,
+    "CNBC Markets (Finance)": 6,
+    "BBC Sport (Sports)": 15,
+    "Yahoo Finance (Finance)": 12,
+    "Straits Times World (Global)": 5,
+    "Yahoo Top Stories (World)": 6,
     "Malaysiakini (EN News)": 1,
-    "Straits Times World (Global)": 9,
-    "The Verge": 6,
-    "TechCrunch": 5,
-    "Yahoo Finance (Finance)": 2
+    "Channel NewsAsia (Global)": 4
   },
   "items": [
     {
@@ -134,7 +134,7 @@
       "source": "CodeBlue (Malaysia Health)",
       "section": "Health",
       "published": "2026-08-07T09:36:40+00:00",
-      "score": 42,
+      "score": 41,
       "matched": [
         "ministry(+2)",
         "funding(+2)",
@@ -225,7 +225,7 @@
       "source": "Malay Mail Sports (Sports)",
       "section": "Sports",
       "published": "2026-08-09T09:28:13+00:00",
-      "score": 24,
+      "score": 23,
       "matched": [
         "breaking(+3)",
         "who(+2)",
@@ -255,45 +255,16 @@
       ]
     },
     {
-      "title": "Works Ministry eyes bigger Budget 2027 allocation for development and maintenance",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/works-ministry-eyes-bigger-budget-2027-allocation-for-development-and-maintenance/230652",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T01:15:18+00:00",
-      "score": 15,
-      "matched": [
-        "budget(+3)",
-        "ministry(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "funding(+2)"
-      ]
-    },
-    {
       "title": "Football vs Wall Street: Inside the fight for the World Cup's soul",
       "link": "https://www.malaymail.com/news/money/2026/08/09/football-vs-wall-street-inside-the-fight-for-the-world-cups-soul/230709",
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-08-09T07:26:40+00:00",
-      "score": 14,
+      "score": 13,
       "matched": [
         "law(+3)",
         "ai(+3)",
         "artificial intelligence(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Minister warns unregistered marriages risk children’s rights, complicate birth certificates, education",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/minister-warns-unregistered-marriages-risk-childrens-rights-complicate-birth-certificates-education/230684",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T05:34:30+00:00",
-      "score": 12,
-      "matched": [
-        "law(+3)",
-        "parliament(+2)",
-        "court(+2)",
         "who(+2)"
       ]
     },
@@ -341,6 +312,20 @@
       ]
     },
     {
+      "title": "Minister warns unregistered marriages risk children’s rights, complicate birth certificates, education",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/minister-warns-unregistered-marriages-risk-childrens-rights-complicate-birth-certificates-education/230684",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T05:34:30+00:00",
+      "score": 11,
+      "matched": [
+        "law(+3)",
+        "parliament(+2)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Malaysia Can Lead Region In Cutting Farm Antibiotic Use: Expert",
       "link": "https://codeblue.galencentre.org/2026/08/malaysia-can-lead-region-in-cutting-farm-antibiotic-use-expert/",
       "source": "CodeBlue (Malaysia Health)",
@@ -352,32 +337,6 @@
         "medicine(+2)",
         "disease(+3)",
         "food safety(+2)"
-      ]
-    },
-    {
-      "title": "DAP congress set for Aug 16 showdown, stalled reforms and grassroots frustration to dominate agenda",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/dap-congress-set-for-aug-16-showdown-stalled-reforms-and-grassroots-frustration-to-dominate-agenda/230705",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T07:05:15+00:00",
-      "score": 10,
-      "matched": [
-        "budget(+3)",
-        "parliament(+2)",
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Anwar visits Fadillah, Ismail Sabri at IJN",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/anwar-visits-fadillah-ismail-sabri-at-ijn",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-08-09T04:22:23+00:00",
-      "score": 10,
-      "matched": [
-        "corruption(+3)",
-        "court(+2)",
-        "funding(+2)"
       ]
     },
     {
@@ -411,16 +370,114 @@
       ]
     },
     {
-      "title": "Man Wei Chong-Soh Wooi Yik set up all-Malaysian Korea Masters men doubles’ final",
-      "link": "https://www.malaymail.com/news/sports/2026/08/08/wei-chong-wooi-yik-set-up-all-malaysian-korea-masters-men-doubles-final/230627",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T11:18:39+00:00",
-      "score": 10,
+      "title": "The AI safety test is becoming a safety risk",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-09T14:30:00+00:00",
+      "score": 9,
       "matched": [
-        "who(+2)",
-        "malaysia(+3)",
-        "soh wooi yik(+3)"
+        "ai(+3)",
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-09T12:00:00+00:00",
+      "score": 9,
+      "matched": [
+        "breaking(+3)",
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Criticise DAP but labelling it ‘enemy of Islam’ is dangerous, says Marzuki",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/criticise-dap-but-labelling-it-enemy-of-islam-is-dangerous-says-marzuki",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T09:00:00+00:00",
+      "score": 9,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "DAP congress set for Aug 16 showdown, stalled reforms and grassroots frustration to dominate agenda",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/dap-congress-set-for-aug-16-showdown-stalled-reforms-and-grassroots-frustration-to-dominate-agenda/230705",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T07:05:15+00:00",
+      "score": 9,
+      "matched": [
+        "budget(+3)",
+        "parliament(+2)",
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Anwar visits Fadillah, Ismail Sabri at IJN",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/anwar-visits-fadillah-ismail-sabri-at-ijn",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T04:22:00+00:00",
+      "score": 9,
+      "matched": [
+        "corruption(+3)",
+        "court(+2)",
+        "funding(+2)"
+      ]
+    },
+    {
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-09T16:05:00+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "launch(+2)"
+      ]
+    },
+    {
+      "title": "No room to hide for those who undermined Tabung Haji, says PKR Youth",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/no-room-to-hide-for-those-who-undermined-tabung-haji-says-pkr-youth",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T15:49:00+00:00",
+      "score": 8,
+      "matched": [
+        "corruption(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "link": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T13:23:05+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "inflation(+2)"
+      ]
+    },
+    {
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T11:31:42+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
       ]
     },
     {
@@ -429,7 +486,7 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-08-09T05:48:00+00:00",
-      "score": 9,
+      "score": 8,
       "matched": [
         "parliament(+2)",
         "election(+2)",
@@ -442,7 +499,7 @@
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-08-09T04:02:33+00:00",
-      "score": 9,
+      "score": 8,
       "matched": [
         "ministry(+2)",
         "launch(+2)",
@@ -450,15 +507,14 @@
       ]
     },
     {
-      "title": "2 ex-MPs pour cold water on Sim’s plan to moot policy changes",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/2-ex-mps-pour-cold-water-on-sim-s-plan-to-moot-policy-changes",
+      "title": "No Felda hotel sale proposal when I was chairman, says Shabery",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/no-felda-hotel-sale-proposal-when-i-was-chairman-says-shabery",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-08-08T23:30:00+00:00",
-      "score": 9,
+      "published": "2026-08-09T11:28:00+00:00",
+      "score": 7,
       "matched": [
-        "policy(+3)",
-        "election(+2)",
+        "ministry(+2)",
         "who(+2)"
       ]
     },
@@ -468,7 +524,7 @@
       "source": "Free Malaysia Today",
       "section": "Malaysia",
       "published": "2026-08-09T07:53:00+00:00",
-      "score": 8,
+      "score": 7,
       "matched": [
         "law(+3)",
         "election(+2)"
@@ -480,7 +536,7 @@
       "source": "BBC Sport (Sports)",
       "section": "Sports",
       "published": "2026-08-09T05:36:15+00:00",
-      "score": 8,
+      "score": 7,
       "matched": [
         "who(+2)",
         "football(+1)",
@@ -493,131 +549,10 @@
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-08-09T04:19:32+00:00",
-      "score": 8,
+      "score": 7,
       "matched": [
         "corruption(+3)",
         "who(+2)"
-      ]
-    },
-    {
-      "title": "Nancy and Nanta give Cabinet push for additional Sarawak seats",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/08/nancy-and-nanta-give-cabinet-push-for-additional-sarawak-seats",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-08-08T15:38:00+00:00",
-      "score": 8,
-      "matched": [
-        "parliament(+2)",
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T12:00:01+00:00",
-      "score": 8,
-      "matched": [
-        "ai(+3)",
-        "cybersecurity(+3)"
-      ]
-    },
-    {
-      "title": "It won’t be Trump who kills the ICC",
-      "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-09T09:05:47+00:00",
-      "score": 7,
-      "matched": [
-        "court(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Melaka Pakatan open to talks, coalition welcomes negotiations ahead state election",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-pakatan-open-to-talks-coalition-welcomes-negotiations-ahead-state-election/230716",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T08:10:22+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Umno‑PAS pact not for Sabah, Salleh Keruak says politics driven by autonomy rights",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/umnopas-pact-not-for-sabah-salleh-keruak-says-politics-driven-by-autonomy-rights/230707",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T07:23:34+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Champions of a shattered nation: How two Venezuelan Olympians turned pain into podium finishes",
-      "link": "https://www.malaymail.com/news/sports/2026/08/09/champions-of-a-shattered-nation-how-two-venezuelan-olympians-turned-pain-into-podium-finishes/230701",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-08-09T06:50:30+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "olympic(+2)"
-      ]
-    },
-    {
-      "title": "Myanmar refugee figures soon, Saifuddin Nasution vows biometric drive for repatriation",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/myanmar-refugee-figures-soon-saifuddin-vows-biometric-drive-for-repatriation/230682",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T04:36:48+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Pakatan hails BN openness, Fahmi says Melaka seat talks offer chance for stability",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/pakatan-hails-bn-openness-fahmi-says-melaka-seat-talks-offer-chance-for-stability/230680",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T04:18:04+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Sabah Umno’s priority must be GRS, not PAS, says Salleh",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/sabah-umno-s-priority-must-be-grs-not-pas-says-salleh",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-08-09T03:48:00+00:00",
-      "score": 7,
-      "matched": [
-        "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Scorching temperatures cook South Korea’s vegetable and fish supplies",
-      "link": "https://www.malaymail.com/news/money/2026/08/09/scorching-temperatures-cook-south-koreas-vegetable-and-fish-supplies/230667",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-08-09T03:33:30+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "inflation(+2)"
       ]
     },
     {
@@ -647,142 +582,88 @@
       ]
     },
     {
-      "title": "Commentary: Who needs consultants in the age of AI?",
-      "link": "https://www.channelnewsasia.com/commentary/consultants-ai-transform-consultancy-job-disrupt-6305821",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-08-08T22:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T16:45:47+00:00",
-      "score": 7,
-      "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "liverpool(+1)",
-        "chelsea(+1)"
-      ]
-    },
-    {
-      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-      "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
-      "source": "CNBC Markets (Finance)",
+      "title": "Why Shopify Stock Could Be the Biggest Winner in Agentic AI Commerce",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-shopify-stock-could-biggest-163500957.html",
+      "source": "Yahoo Finance (Finance)",
       "section": "Finance",
-      "published": "2026-08-08T15:29:19+00:00",
-      "score": 7,
-      "matched": [
-        "war(+3)",
-        "startup(+2)"
-      ]
-    },
-    {
-      "title": "Arsenal sign Brazil midfielder Guimaraes from Newcastle",
-      "link": "https://www.malaymail.com/news/sports/2026/08/08/arsenal-sign-brazil-midfielder-guimaraes-from-newcastle/230631",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T11:59:09+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "premier league(+2)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "How Scott Bessent used financial engineering to finance the $2 trillion deficit while leaving it untouched—and created a $1.45 trillion shortfall",
-      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-used-financial-engineering-110000440.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-08T11:00:00+00:00",
-      "score": 7,
-      "matched": [
-        "policy(+3)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "South Korea football body says sorry as controversies pile up after World Cup exit",
-      "link": "https://www.malaymail.com/news/sports/2026/08/09/south-korea-football-body-says-sorry-as-controversies-pile-up-after-world-cup-exit/230713",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-08-09T08:05:00+00:00",
+      "published": "2026-08-09T16:35:00+00:00",
       "score": 6,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)"
       ]
     },
     {
-      "title": "Unmasking London City's Spanish superstar",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-09T08:00:15+00:00",
-      "score": 6,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Samsuri says Bersatu remains in Perikatan despite Hadi’s claim",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/samsuri-says-bersatu-remains-in-perikatan-despite-hadis-claim/230711",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T07:36:39+00:00",
-      "score": 6,
-      "matched": [
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "Muhyiddin's ex-aide: No rule in PN constitution allows automatic ouster of component",
-      "link": "https://www.malaysiakini.com/news/781716",
-      "source": "Malaysiakini (EN News)",
-      "section": "Malaysia",
-      "published": "2026-08-09T05:05:41+00:00",
-      "score": 6,
-      "matched": [
-        "breach(+3)"
-      ]
-    },
-    {
-      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-09T04:12:39+00:00",
+      "title": "Iranian Demands Disrupt Trump’s Plan to End the War",
+      "link": "https://www.wsj.com/finance/iranian-demands-disrupt-trumps-plan-to-end-the-war-4ca53b85?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T15:56:00+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
       ]
     },
     {
-      "title": "Bersatu turns to RoS after Hadi says party automatically out of Perikatan",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/bersatu-turns-to-ros-after-hadi-says-party-automatically-out-of-perikatan/230676",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T04:06:28+00:00",
+      "title": "War on Iran: Phase II: Day 29",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T15:46:09+00:00",
       "score": 6,
       "matched": [
-        "breach(+3)"
+        "war(+3)"
       ]
     },
     {
-      "title": "Ex-DAP veteran Ronnie Liu joins PBM",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/ex-dap-veteran-ronnie-liu-joins-pbm",
-      "source": "Free Malaysia Today",
+      "title": "Scott Galloway warned the US stock market could crash within 24 months thanks to AI. Protect your nest egg while you can",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-warned-us-stock-142000770.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T14:20:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-09T13:00:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "link": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T12:01:56+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Pope Leo renews call for Ukraine war to end",
+      "link": "https://www.straitstimes.com/world/europe/pope-leo-renews-call-for-ukraine-war-to-end",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-09T11:49:00+00:00",
+      "score": 6,
+      "matched": [
+        "war(+3)"
+      ]
+    },
+    {
+      "title": "Melaka Pakatan open to talks, coalition welcomes negotiations ahead state election",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-pakatan-open-to-talks-coalition-welcomes-negotiations-ahead-state-election/230716",
+      "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-08-09T02:45:00+00:00",
+      "published": "2026-08-09T08:10:22+00:00",
       "score": 6,
       "matched": [
         "election(+2)",
@@ -790,23 +671,11 @@
       ]
     },
     {
-      "title": "Penang woodcarver keeps age-old craft alive as demand grows (VIDEO)",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/penang-woodcarver-keeps-age-old-craft-alive-as-demand-grows-video/228849",
+      "title": "Umno‑PAS pact not for Sabah, Salleh Keruak says politics driven by autonomy rights",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/umnopas-pact-not-for-sabah-salleh-keruak-says-politics-driven-by-autonomy-rights/230707",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-08-08T23:00:00+00:00",
-      "score": 6,
-      "matched": [
-        "economy(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Hadi puts squeeze on Bersatu to assert PAS dominance, says analyst",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/hadi-puts-squeeze-on-bersatu-to-assert-pas-dominance-says-analyst",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-08-08T22:30:00+00:00",
+      "published": "2026-08-09T07:23:34+00:00",
       "score": 6,
       "matched": [
         "election(+2)",
@@ -814,15 +683,63 @@
       ]
     },
     {
-      "title": "Unesco heritage listing sought for Gendang 24 festive drums art form",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/unesco-heritage-listing-sought-for-gendang-24-festive-drums-art-form",
-      "source": "Free Malaysia Today",
+      "title": "Champions of a shattered nation: How two Venezuelan Olympians turned pain into podium finishes",
+      "link": "https://www.malaymail.com/news/sports/2026/08/09/champions-of-a-shattered-nation-how-two-venezuelan-olympians-turned-pain-into-podium-finishes/230701",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T06:50:30+00:00",
+      "score": 6,
+      "matched": [
+        "who(+2)",
+        "olympic(+2)"
+      ]
+    },
+    {
+      "title": "Myanmar refugee figures soon, Saifuddin Nasution vows biometric drive for repatriation",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/myanmar-refugee-figures-soon-saifuddin-vows-biometric-drive-for-repatriation/230682",
+      "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-08-08T22:22:06+00:00",
+      "published": "2026-08-09T04:36:48+00:00",
       "score": 6,
       "matched": [
         "ministry(+2)",
         "who(+2)"
+      ]
+    },
+    {
+      "title": "Pakatan hails BN openness, Fahmi says Melaka seat talks offer chance for stability",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/pakatan-hails-bn-openness-fahmi-says-melaka-seat-talks-offer-chance-for-stability/230680",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T04:18:04+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Sabah Umno’s priority must be GRS, not PAS, says Salleh",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/sabah-umno-s-priority-must-be-grs-not-pas-says-salleh",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T03:48:00+00:00",
+      "score": 6,
+      "matched": [
+        "election(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Scorching temperatures cook South Korea’s vegetable and fish supplies",
+      "link": "https://www.malaymail.com/news/money/2026/08/09/scorching-temperatures-cook-south-koreas-vegetable-and-fish-supplies/230667",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T03:33:30+00:00",
+      "score": 6,
+      "matched": [
+        "ministry(+2)",
+        "inflation(+2)"
       ]
     },
     {
@@ -838,107 +755,238 @@
       ]
     },
     {
-      "title": "No legal basis to involve public in dog-catching operation, says lawyer",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/08/no-legal-basis-to-involve-public-in-dog-catching-operation-says-lawyer",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-08-08T15:15:00+00:00",
-      "score": 6,
-      "matched": [
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o?at_medium=RSS&at_campaign=rss",
+      "title": "Guimaraes can take us to the next level - Arteta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-08T11:09:40+00:00",
-      "score": 6,
+      "published": "2026-08-09T16:43:35+00:00",
+      "score": 5,
       "matched": [
         "football(+1)",
-        "premier league(+2)",
         "arsenal(+1)"
       ]
     },
     {
-      "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T11:00:08+00:00",
-      "score": 6,
+      "title": "Seek more context when you hear these popular words and phrases about markets",
+      "link": "https://finance.yahoo.com/economy/article/seek-more-context-when-you-hear-these-popular-words-and-phrases-about-markets-163746764.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:37:46+00:00",
+      "score": 5,
       "matched": [
-        "football(+1)",
-        "premier league(+2)",
-        "arsenal(+1)"
+        "economy(+2)"
       ]
     },
     {
-      "title": "Military veterans need more second-career opportunities, says Dr Wan Azizah",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/military-veterans-need-more-second-career-opportunities-says-dr-wan-azizah/230723",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T09:13:55+00:00",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-09T15:56:49+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "Melaka seat swaps on the table for Perikatan, Samsuri tells BN",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/melaka-seat-swaps-on-the-table-for-perikatan-samsuri-tells-bn/230717",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-08-09T08:52:32+00:00",
+      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
+      "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T15:20:18+00:00",
       "score": 5,
       "matched": [
         "election(+2)"
       ]
     },
     {
-      "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-      "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-09T07:58:00+00:00",
-      "score": 5,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Family 'devastated' as hit-and-run driver who killed boy, 13, to have early prison release",
-      "link": "https://www.yahoo.com/news/us/articles/family-devastated-hit-run-driver-205714646.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-09T06:12:29+00:00",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-09T15:00:00+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "ZXMoto leads China’s charge to dominate the global motorbike market",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/08/09/zxmoto-leads-china-s-charge-to-dominate-the-global-motorbike-market",
-      "source": "FMT Business (Finance)",
+      "title": "JDT trade blows with Chelsea in six-goal thriller",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/jdt-trade-blows-with-chelsea-in-six-goal-thriller",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T14:55:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-08-09T05:12:12+00:00",
+      "published": "2026-08-09T14:45:17+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-09T05:01:54+00:00",
+      "title": "Fernandez dominates to win British MotoGP at Silverstone",
+      "link": "https://www.bbc.co.uk/sport/motorsport/articles/cx2rg72km85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T14:29:32+00:00",
       "score": 5,
       "matched": [
-        "cancer(+2)"
+        "motogp(+2)"
+      ]
+    },
+    {
+      "title": "Elderly woman set on fire outside KL lottery shop",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/elderly-woman-set-on-fire-outside-kl-lottery-shop",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T13:36:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "PH must make reforms to stave off becoming opposition again, says analyst",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/ph-must-make-reforms-to-stave-off-becoming-opposition-again-says-analyst",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T13:29:00+00:00",
+      "score": 5,
+      "matched": [
+        "election(+2)"
+      ]
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T13:11:52+00:00",
+      "score": 5,
+      "matched": [
+        "inflation(+2)"
+      ]
+    },
+    {
+      "title": "Euros to showcase new TV guidelines on non-sexualisation of women athletes",
+      "link": "https://www.malaymail.com/news/sports/2026/08/09/euros-to-showcase-new-tv-guidelines-on-non-sexualisation-of-women-athletes/230694",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T13:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "olympic(+2)"
+      ]
+    },
+    {
+      "title": "Man Utd working on deal to sign Leicester teenager Page",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T12:13:59+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "National unity minister says Orang Asal heritage part of Malaysia’s national identity, not separate",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/national-unity-minister-says-orang-asal-heritage-part-of-malaysias-national-identity-not-separate/230732",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T12:08:23+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Too costly to raise a family? Sarawak’s young couples face quandary",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/too-costly-to-raise-a-family-sarawak-s-young-couples-face-quandary",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T12:01:00+00:00",
+      "score": 5,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "3 refugees held after report of sexual offence against disabled woman",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/09/3-refugees-held-after-report-of-sexual-offence-against-disabled-woman",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-08-09T11:44:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "South Korea football body says sorry as controversies pile up after World Cup exit",
+      "link": "https://www.malaymail.com/news/sports/2026/08/09/south-korea-football-body-says-sorry-as-controversies-pile-up-after-world-cup-exit/230713",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T08:05:00+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Unmasking London City's Spanish superstar",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T08:00:15+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)",
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Samsuri says Bersatu remains in Perikatan despite Hadi’s claim",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/samsuri-says-bersatu-remains-in-perikatan-despite-hadis-claim/230711",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T07:36:39+00:00",
+      "score": 5,
+      "matched": [
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Muhyiddin's ex-aide: No rule in PN constitution allows automatic ouster of component",
+      "link": "https://www.malaysiakini.com/news/781716",
+      "source": "Malaysiakini (EN News)",
+      "section": "Malaysia",
+      "published": "2026-08-09T05:05:41+00:00",
+      "score": 5,
+      "matched": [
+        "breach(+3)"
+      ]
+    },
+    {
+      "title": "Bersatu turns to RoS after Hadi says party automatically out of Perikatan",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/bersatu-turns-to-ros-after-hadi-says-party-automatically-out-of-perikatan/230676",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T04:06:28+00:00",
+      "score": 5,
+      "matched": [
+        "breach(+3)"
       ]
     },
     {
@@ -950,17 +998,6 @@
       "score": 5,
       "matched": [
         "corruption(+3)"
-      ]
-    },
-    {
-      "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-08-09T00:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "war(+3)"
       ]
     },
     {
@@ -986,124 +1023,168 @@
       ]
     },
     {
-      "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-      "link": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T15:43:23+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Here’s how we played the massive rebound in AI stocks this week",
-      "link": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T14:07:30+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says — here's how to get started",
-      "link": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T13:30:01+00:00",
-      "score": 5,
-      "matched": [
-        "budget(+3)"
-      ]
-    },
-    {
-      "title": "Amazon behind massive private gas plant for new data centres",
-      "link": "https://www.malaymail.com/news/money/2026/08/08/amazon-behind-massive-private-gas-plant-for-new-data-centres/230606",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T13:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-      "link": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T11:49:22+00:00",
-      "score": 5,
-      "matched": [
-        "breaking(+3)"
-      ]
-    },
-    {
-      "title": "Scott and Antony sent off in Bournemouth v Betis friendly",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k78znk7w2o?at_medium=RSS&at_campaign=rss",
+      "title": "Coleman training with Killybegs - but no GAA return for now",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-09T08:53:08+00:00",
+      "published": "2026-08-09T16:36:39+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
       ]
     },
     {
-      "title": "Messi misses Miami defeat after death of father",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump loses, Murphy breaks record at China Open",
+      "link": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-09T08:04:46+00:00",
+      "published": "2026-08-09T15:56:37+00:00",
+      "score": 4,
+      "matched": [
+        "thailand(+1)"
+      ]
+    },
+    {
+      "title": "Chermiti injured after Rangers reject bid for striker",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g3808zjl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T15:45:07+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
       ]
     },
     {
-      "title": "What are your favourite new kits for the coming season?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g630klknjo?at_medium=RSS&at_campaign=rss",
+      "title": "Everton's McNeil & Palace's Johnson poised for swap",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-09T07:22:01+00:00",
+      "published": "2026-08-09T15:03:03+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
       ]
     },
     {
-      "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
+      "title": "Hearts agree £1.7m deal to sell Kyziridis to unnamed Turkish club",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yevd5wxl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-09T05:18:56+00:00",
+      "published": "2026-08-09T14:20:04+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
       ]
     },
     {
-      "title": "Wales must learn from Bosnia loss in Euros bid - Rush",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg71ywlv59o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazilian top-flight club wear name of English fan with MND on shirts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-08-09T04:30:42+00:00",
+      "published": "2026-08-09T14:16:20+00:00",
       "score": 4,
       "matched": [
         "football(+1)"
       ]
     },
     {
-      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-      "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Fulham agree £30m fee for Southampton's Charles",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T13:10:10+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Fulham agree £30m fee for NI midfielder Charles",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T13:10:10+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-08-09T12:29:04+00:00",
+      "score": 4,
+      "matched": [
+        "football(+1)"
+      ]
+    },
+    {
+      "title": "Terengganu police arrest three Myanmar men over sexual offence against disabled woman",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/09/terengganu-police-arrest-three-myanmar-men-over-sexual-offence-against-disabled-woman/230727",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-08-09T10:20:25+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Dietitians agree — cut back on 1 thing for better gut health, energy, and lower risk of cancer",
+      "link": "https://health.yahoo.com/wellness/nutrition/healthy-eating/articles/dietitians-agree-cut-back-1-090901570.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-08-09T00:41:01+00:00",
+      "published": "2026-08-09T09:09:01+00:00",
       "score": 4,
       "matched": [
-        "court(+2)"
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "A Gen Z worker got called out by their CEO for leaving 10 minutes early. Workplace experts debate who was in the wrong",
+      "link": "https://www.yahoo.com/lifestyle/articles/gen-z-worker-got-called-090000072.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-09T09:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "'Surviving cancer isn't the end of the story'",
+      "link": "https://www.yahoo.com/news/science/articles/surviving-cancer-isnt-end-story-072015571.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-09T07:20:15+00:00",
+      "score": 4,
+      "matched": [
+        "cancer(+2)"
+      ]
+    },
+    {
+      "title": "German trade deficit with China grows as Beijing relies less on European industry",
+      "link": "https://finance.yahoo.com/economy/articles/german-trade-deficit-china-grows-063532269.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-08-09T06:35:32+00:00",
+      "score": 4,
+      "matched": [
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "ZXMoto leads China’s charge to dominate the global motorbike market",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/08/09/zxmoto-leads-china-s-charge-to-dominate-the-global-motorbike-market",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T05:12:12+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1112,17 +1193,6 @@
       "source": "Straits Times World (Global)",
       "section": "World",
       "published": "2026-08-09T00:30:00+00:00",
-      "score": 4,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "link": "https://www.yahoo.com/news/world/articles/hundreds-arrested-over-french-wildfires-235930714.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-08T23:59:30+00:00",
       "score": 4,
       "matched": [
         "who(+2)"
@@ -1152,26 +1222,14 @@
       ]
     },
     {
-      "title": "Former US president Biden’s cancer has spread: Son",
-      "link": "https://www.straitstimes.com/world/united-states/ex-president-joe-bidens-cancer-has-spread-is-very-painful-son-says",
-      "source": "Straits Times World (Global)",
+      "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+      "link": "https://www.yahoo.com/news/politics/articles/ex-president-joe-bidens-cancer-193456267.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-08-08T19:38:41+00:00",
+      "published": "2026-08-08T19:34:56+00:00",
       "score": 4,
       "matched": [
         "cancer(+2)"
-      ]
-    },
-    {
-      "title": "Tielemans cameo against PSG hints at Man Utd future",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T19:15:24+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "manchester united(+1)"
       ]
     },
     {
@@ -1186,130 +1244,201 @@
       ]
     },
     {
-      "title": "‘Shame on you’: Lawmaker pelts Kosovo PM with eggs in Parliament, as political crisis spirals",
-      "link": "https://www.straitstimes.com/world/europe/shame-on-you-lawmaker-pelts-kosovo-pm-with-eggs-in-parliament-as-political-crisis-spirals",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-08-08T16:39:33+00:00",
-      "score": 4,
-      "matched": [
-        "parliament(+2)"
-      ]
-    },
-    {
-      "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv",
-      "link": "https://www.straitstimes.com/world/europe/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa-mykolaiv",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-08-08T15:03:30+00:00",
-      "score": 4,
-      "matched": [
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "Ukraine and long-time Russia ally Serbia pledge closer economic ties",
-      "link": "https://www.straitstimes.com/world/europe/leaders-of-serbia-and-ukraine-pledge-closer-economic-ties",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-08-08T13:23:35+00:00",
-      "score": 4,
-      "matched": [
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "Athletes from bankrupt track league have now been paid - Johnson",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9q9p9n2xqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T12:48:20+00:00",
-      "score": 4,
-      "matched": [
-        "olympic(+2)"
-      ]
-    },
-    {
-      "title": "NDP 2026 kicks off at National Stadium as Singapore marks 61st birthday",
-      "link": "https://www.channelnewsasia.com/singapore/ndp-2026-national-stadium-watch-live-6300301",
+      "title": "Al Nassr sign Portugal’s Costa from Mallorca",
+      "link": "https://www.channelnewsasia.com/sport/al-nassr-sign-portugals-costa-mallorca-6308626",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-08-09T09:00:00+00:00",
+      "published": "2026-08-09T16:46:34+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Taiwan's 2027 defence spending to rise 16%: Official media reports",
-      "link": "https://www.channelnewsasia.com/east-asia/taiwans-2027-defence-spending-rise-16-official-media-reports-6308326",
+      "title": "This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:41:13+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Magnite Bought Back $28 Million in Stock While Its Insiders Sold. Here's How to Read It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/magnite-bought-back-28-million-163444800.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:34:44+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Why Gartner Stock Skyrocketed This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-stock-skyrocketed-week-163316434.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:33:16+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Meta vs. Alphabet: Which Stock Deserves a Spot in Your Portfolio After Q2?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-vs-alphabet-stock-deserves-163027973.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:30:27+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Five Magnite Insiders Sold the Same Day. Here's What to Make of It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/five-magnite-insiders-sold-same-162832119.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:28:32+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:25:05+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "A Magnite Insider Cashed In Options as CTV Revenue Jumped 36%. Here's What to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/magnite-insider-cashed-options-ctv-162023089.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:20:23+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Here's How Saving $15 Per Day Could Create a Portfolio Worth $1 Million in 30 Years",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-saving-15-per-day-162000364.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:20:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "How Israel’s occupation fuels resistance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T16:19:34+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-08-09T16:14:12+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+      "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T16:08:19+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+      "link": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T16:07:23+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T16:05:10+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+      "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-09T16:00:50+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "NDP 2026: The Kallang Roar returns",
+      "link": "https://www.channelnewsasia.com/interactive/ndp-2026/%2E",
       "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-08-09T08:56:00+00:00",
+      "published": "2026-08-09T15:53:00+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Spain checks 200 Italy arrivals in border controls after migration row",
-      "link": "https://www.straitstimes.com/world/europe/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row",
-      "source": "Straits Times World (Global)",
+      "title": "Syria says reached deal with Moscow on fate of Russian bases",
+      "link": "https://www.channelnewsasia.com/world/syria-russia-military-bases-agreement-6308561",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-08-09T08:53:55+00:00",
+      "published": "2026-08-09T15:40:04+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
-      "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
+      "title": "Pentagon urges faster US weapons production amid stockpile concerns",
+      "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-08-09T08:37:39+00:00",
+      "published": "2026-08-09T15:38:56+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
-      "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Fire in southwestern Spain active as 470 moved to safety",
+      "link": "https://www.channelnewsasia.com/world/spain-wildfire-active-evacuations-huelva-6308556",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-08-09T08:37:37+00:00",
+      "published": "2026-08-09T15:31:18+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Three killed in Ukrainian drone attack on Belgorod, Russian authorities say",
-      "link": "https://www.straitstimes.com/world/europe/three-killed-in-ukrainian-drone-attack-on-belgorod-russian-authorities-say",
+      "title": "British Columbia to get federal assistance as wildfire forces evacuations",
+      "link": "https://www.straitstimes.com/world/british-columbia-to-get-federal-assistance-as-wildfire-forces-evacuations",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-08-09T08:23:43+00:00",
+      "published": "2026-08-09T14:59:07+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
-      "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-09T05:00:01+00:00",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-09T14:00:00+00:00",
       "score": 3,
       "matched": []
     },
     {
-      "title": "Jaissle starts with win but not planning to 'smash locker room'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3049pl53yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-08T23:23:30+00:00",
+      "title": "Dropbox is a PC builder’s best friend",
+      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-08-09T13:00:00+00:00",
       "score": 3,
-      "matched": [
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-      "link": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-09T00:36:19+00:00",
-      "score": 2,
       "matched": []
     },
     {
@@ -1327,141 +1456,6 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-08-08T21:15:12+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T17:41:31+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-08T16:34:22+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-08T16:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-08T15:47:30+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T15:00:01+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-08-08T15:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-      "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-08T15:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T13:28:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
-      "link": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T13:00:01+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "How cleaning up space debris could grow to become a big business",
-      "link": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T12:04:15+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-      "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T12:00:01+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-08T12:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "My favorite feel-good show is back",
-      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-08-08T12:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-8-2026-rates-mixed-this-weekend-100000461.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T10:00:00+00:00",
-      "score": 2,
-      "matched": []
-    },
-    {
-      "title": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-08T10:00:00+00:00",
       "score": 2,
       "matched": []
     }
