@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:01:36.228014+00:00",
+  "generated_at": "2026-08-15T21:30:35.656523+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
@@ -7,16 +7,16 @@
     "FMT Business (Finance)": 7,
     "CNBC Markets (Finance)": 5,
     "Malay Mail (Malaysia)": 12,
-    "Yahoo Top Stories (World)": 5,
-    "TechCrunch": 5,
+    "Yahoo Top Stories (World)": 3,
+    "TechCrunch": 6,
     "Free Malaysia Today": 11,
-    "Yahoo Finance (Finance)": 11,
-    "BBC Sport (Sports)": 20,
     "Malaysiakini (EN News)": 1,
+    "Yahoo Finance (Finance)": 11,
     "The Verge": 10,
-    "Al Jazeera (Global)": 7,
+    "BBC Sport (Sports)": 19,
+    "Al Jazeera (Global)": 8,
     "Malay Mail Money (Finance)": 1,
-    "Straits Times World (Global)": 8,
+    "Straits Times World (Global)": 9,
     "Channel NewsAsia (Global)": 4
   },
   "items": [
@@ -321,18 +321,6 @@
       ]
     },
     {
-      "title": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-problem-law-firms-isnt-191700915.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-15T19:17:00+00:00",
-      "score": 9,
-      "matched": [
-        "law(+3)",
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "PKR Selangor delegate calls for party to use own logo in Melaka polls",
       "link": "https://www.malaymail.com/news/malaysia/2026/08/15/pkr-selangor-delegate-calls-for-party-to-use-own-logo-in-melaka-polls/231498",
       "source": "Malay Mail (Malaysia)",
@@ -524,19 +512,6 @@
       ]
     },
     {
-      "title": "Who am I? Guess Premier League star No 26",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-08-15T06:44:46+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)"
-      ]
-    },
-    {
       "title": "New ‘One Higher Education Act’, launched in January, to replace UUCA, Zambry confirms",
       "link": "https://www.malaymail.com/news/malaysia/2026/08/15/new-one-higher-education-act-launched-in-january-to-replace-uuca-zambry-confirms/231465",
       "source": "Malay Mail (Malaysia)",
@@ -621,6 +596,28 @@
       ]
     },
     {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-08-15T21:29:19+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "David Tepper cuts AI stock, yet value hits $1.1 billion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-cuts-ai-stock-210300136.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-15T21:03:00+00:00",
+      "score": 6,
+      "matched": [
+        "ai(+3)"
+      ]
+    },
+    {
       "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
       "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "source": "The Verge",
@@ -652,17 +649,6 @@
       "matched": [
         "football(+1)",
         "olympic(+2)"
-      ]
-    },
-    {
-      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-massive-192300638.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-15T19:23:00+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -782,6 +768,17 @@
       ]
     },
     {
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-08-15T20:55:29+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Villa begin Suzuki talks - Sunday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cnvnndmz4reo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -791,6 +788,17 @@
       "matched": [
         "football(+1)",
         "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank",
+      "link": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-15T19:39:00+00:00",
+      "score": 5,
+      "matched": [
+        "launch(+2)"
       ]
     },
     {
@@ -811,17 +819,6 @@
       "source": "Al Jazeera (Global)",
       "section": "World",
       "published": "2026-08-15T17:48:32+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Bill Maher rips immigrants who refuse to adapt, says American values are ‘not negotiable’",
-      "link": "https://www.yahoo.com/news/politics/articles/bill-maher-rips-immigrants-refuse-172529860.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-15T17:25:29+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
@@ -976,17 +973,6 @@
       ]
     },
     {
-      "title": "Exclusive-US to tell partners they must pick sides in AI race with China",
-      "link": "https://www.yahoo.com/news/politics/articles/exclusive-us-tell-partners-must-210941673.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-08-14T21:09:41+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
       "title": "West Ham break EFL record to sign Engels for £22m",
       "link": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
@@ -1108,6 +1094,33 @@
       ]
     },
     {
+      "title": "Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broad-market-etf-wins-portfolio-210540367.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-15T21:05:40+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "Lala, now a hurricane, dumps heavy rain on Hawaii",
+      "link": "https://www.straitstimes.com/world/united-states/lala-now-a-hurricane-dumps-heavy-rain-on-hawaii",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-08-15T21:03:44+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "He Won $50,000 at Rodeos After Filing for Social Security. The IRS Asked Whether He Was Having Fun or Running a Business.",
+      "link": "https://finance.yahoo.com/small-business/articles/won-50-000-rodeos-filing-210326726.html",
+      "source": "Yahoo Finance (Finance)",
+      "section": "Finance",
+      "published": "2026-08-15T21:03:26+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
       "title": "George Washington’s White House had 9 slaves. Does it matter?",
       "link": "https://www.straitstimes.com/world/united-states/george-washingtons-white-house-had-9-slaves-does-it-matter",
       "source": "Straits Times World (Global)",
@@ -1189,15 +1202,6 @@
       "matched": []
     },
     {
-      "title": "How a 66-Year-Old Built a $4,600 Monthly Paycheck From Just Two Funds: SCHD and JEPI",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/66-old-built-4-600-201458670.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-15T20:14:58+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
       "title": "Qatar denies holding Iranian pilots​​",
       "link": "https://www.straitstimes.com/world/middle-east/qatar-denies-holding-iranian-pilots",
       "source": "Straits Times World (Global)",
@@ -1221,15 +1225,6 @@
       "source": "Al Jazeera (Global)",
       "section": "World",
       "published": "2026-08-15T20:07:07+00:00",
-      "score": 3,
-      "matched": []
-    },
-    {
-      "title": "Jaguar’s woke rebrand just got a fresh admission",
-      "link": "https://finance.yahoo.com/media-advertising/articles/jaguar-woke-rebrand-just-got-200700863.html",
-      "source": "Yahoo Finance (Finance)",
-      "section": "Finance",
-      "published": "2026-08-15T20:07:00+00:00",
       "score": 3,
       "matched": []
     },
