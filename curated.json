@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-10T14:28:24.592070+00:00",
+  "generated_at": "2026-10-10T20:04:30.820198+00:00",
   "count": 120,
   "sources": {
     "CodeBlue (Malaysia Health)": 10,
-    "Malay Mail (Malaysia)": 13,
-    "The Verge": 7,
-    "FMT Business (Finance)": 6,
+    "Malay Mail (Malaysia)": 12,
+    "FMT Business (Finance)": 5,
+    "The Verge": 8,
     "Malay Mail Money (Finance)": 4,
-    "Malay Mail Sports (Sports)": 8,
-    "Yahoo Top Stories (World)": 8,
-    "Free Malaysia Today": 11,
-    "BBC Sport (Sports)": 9,
-    "Channel NewsAsia (Global)": 3,
-    "Al Jazeera (Global)": 8,
-    "Straits Times World (Global)": 5,
-    "FMT Sports (Sports)": 4,
-    "CNBC Markets (Finance)": 14,
-    "TechCrunch": 10
+    "Malay Mail Sports (Sports)": 7,
+    "Yahoo Top Stories (World)": 9,
+    "Free Malaysia Today": 12,
+    "Al Jazeera (Global)": 7,
+    "TechCrunch": 8,
+    "BBC Sport (Sports)": 15,
+    "FMT Sports (Sports)": 2,
+    "Channel NewsAsia (Global)": 4,
+    "Straits Times World (Global)": 4,
+    "CNBC Markets (Finance)": 13
   },
   "items": [
     {
@@ -294,43 +294,11 @@
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
       "published": "2026-10-10T12:29:01+00:00",
-      "score": 21,
+      "score": 20,
       "matched": [
         "policy(+3)",
         "budget(+3)",
         "inflation(+2)",
-        "economy(+2)",
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-10-10T14:00:00+00:00",
-      "score": 19,
-      "matched": [
-        "policy(+3)",
-        "law(+3)",
-        "court(+2)",
-        "war(+3)",
-        "ai(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "DPM Zahid wants tahfiz graduates equipped for careers in technology, engineering and medicine",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/dpm-zahid-wants-tahfiz-graduates-equipped-for-careers-in-technology-engineering-and-medicine/238597",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T10:21:42+00:00",
-      "score": 19,
-      "matched": [
-        "policy(+3)",
-        "budget(+3)",
         "economy(+2)",
         "ai(+3)",
         "artificial intelligence(+3)",
@@ -355,12 +323,44 @@
       ]
     },
     {
+      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T14:00:00+00:00",
+      "score": 18,
+      "matched": [
+        "policy(+3)",
+        "law(+3)",
+        "court(+2)",
+        "war(+3)",
+        "ai(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "DPM Zahid wants tahfiz graduates equipped for careers in technology, engineering and medicine",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/dpm-zahid-wants-tahfiz-graduates-equipped-for-careers-in-technology-engineering-and-medicine/238597",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T10:21:42+00:00",
+      "score": 18,
+      "matched": [
+        "policy(+3)",
+        "budget(+3)",
+        "economy(+2)",
+        "ai(+3)",
+        "artificial intelligence(+3)",
+        "who(+2)"
+      ]
+    },
+    {
       "title": "Investor doubts deepen as France’s debt pile nears 120pc of GDP ahead of presidential election",
       "link": "https://www.malaymail.com/news/money/2026/10/10/investor-doubts-deepen-as-frances-debt-pile-nears-120pc-of-gdp-ahead-of-presidential-election/238580",
       "source": "Malay Mail Money (Finance)",
       "section": "Finance",
       "published": "2026-10-10T08:42:10+00:00",
-      "score": 18,
+      "score": 17,
       "matched": [
         "budget(+3)",
         "parliament(+2)",
@@ -389,20 +389,6 @@
       ]
     },
     {
-      "title": "Anthropic AI sent a fake murder tip to Philadelphia police while running a test",
-      "link": "https://www.yahoo.com/news/us/articles/anthropic-ai-model-sent-fake-221343703.html",
-      "source": "Yahoo Top Stories (World)",
-      "section": "World",
-      "published": "2026-10-10T10:57:53+00:00",
-      "score": 14,
-      "matched": [
-        "ai(+3)",
-        "artificial intelligence(+3)",
-        "cybersecurity(+3)",
-        "who(+2)"
-      ]
-    },
-    {
       "title": "Trump says Nobel panel not awarding him peace prize leaves 'indelible stain' on Norway",
       "link": "https://www.nbcnews.com/politics/donald-trump/trump-says-nobel-committee-not-awarding-peace-prize-leaves-indelible-s-rcna602624",
       "source": "Yahoo Top Stories (World)",
@@ -414,21 +400,6 @@
         "court(+2)",
         "war(+3)",
         "election(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Experts urge focus on teaching, learning in RM69bil education budget",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/experts-urge-focus-on-teaching-learning-in-rm69bil-education-budget",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-10-10T02:00:00+00:00",
-      "score": 14,
-      "matched": [
-        "budget(+3)",
-        "ministry(+2)",
-        "artificial intelligence(+3)",
-        "funding(+2)",
         "who(+2)"
       ]
     },
@@ -479,7 +450,7 @@
       ]
     },
     {
-      "title": "Russian strikes kill 15 in Ukraine a day after Trump's diesel deal with Putin",
+      "title": "Trump says Ukraine should get a new president as he blames Zelensky for diesel prices",
       "link": "https://www.yahoo.com/news/us/articles/russian-attacks-kill-7-ukraine-071733676.html",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
@@ -489,20 +460,6 @@
         "law(+3)",
         "war(+3)",
         "sanctions(+2)",
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Improve working conditions to retain doctors, govt told",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/improve-working-conditions-to-retain-doctors-govt-told",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-10-10T00:05:00+00:00",
-      "score": 12,
-      "matched": [
-        "policy(+3)",
-        "budget(+3)",
-        "ministry(+2)",
         "who(+2)"
       ]
     },
@@ -517,33 +474,6 @@
         "budget(+3)",
         "war(+3)",
         "economy(+2)"
-      ]
-    },
-    {
-      "title": "Anwar says reduced waste and leakages created room for more Budget 2027 aid",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/anwar-says-reduced-waste-and-leakages-created-room-for-more-budget-2027-aid/238609",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T12:22:10+00:00",
-      "score": 11,
-      "matched": [
-        "urgent(+3)",
-        "budget(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "FIA admits human error gave some cars more power in Singapore sprint qualifying",
-      "link": "https://www.malaymail.com/news/sports/2026/10/10/fia-admits-human-error-gave-some-cars-more-power-in-singapore-sprint-qualifying/238591",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T09:33:01+00:00",
-      "score": 11,
-      "matched": [
-        "who(+2)",
-        "malaysia(+3)",
-        "singapore(+1)",
-        "formula 1(+2)"
       ]
     },
     {
@@ -604,42 +534,30 @@
       ]
     },
     {
-      "title": "Budget 2027 more than numbers, says Anwar — it is a promise to the people",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/budget-2027-more-than-numbers-says-anwar-it-is-a-promise-to-the-people/238608",
+      "title": "Anwar says reduced waste and leakages created room for more Budget 2027 aid",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/anwar-says-reduced-waste-and-leakages-created-room-for-more-budget-2027-aid/238609",
       "source": "Malay Mail (Malaysia)",
       "section": "Malaysia",
-      "published": "2026-10-10T12:18:01+00:00",
+      "published": "2026-10-10T12:22:10+00:00",
       "score": 10,
       "matched": [
+        "urgent(+3)",
         "budget(+3)",
-        "ministry(+2)",
-        "economy(+2)"
+        "who(+2)"
       ]
     },
     {
-      "title": "Proposed next EU budget slashed by €140bil",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/10/proposed-next-eu-budget-slashed-by-140bil-euros",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T09:58:00+00:00",
+      "title": "FIA admits human error gave some cars more power in Singapore sprint qualifying",
+      "link": "https://www.malaymail.com/news/sports/2026/10/10/fia-admits-human-error-gave-some-cars-more-power-in-singapore-sprint-qualifying/238591",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T09:33:01+00:00",
       "score": 10,
       "matched": [
-        "budget(+3)",
-        "election(+2)",
-        "economy(+2)"
-      ]
-    },
-    {
-      "title": "China, EU reach understanding on hybrid vehicle exports, avoid escalation after trade talks",
-      "link": "https://www.malaymail.com/news/money/2026/10/10/china-eu-reach-understanding-on-hybrid-vehicle-exports-avoid-escalation-after-trade-talks/238578",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T08:51:54+00:00",
-      "score": 10,
-      "matched": [
-        "ministry(+2)",
-        "war(+3)",
-        "economy(+2)"
+        "who(+2)",
+        "malaysia(+3)",
+        "singapore(+1)",
+        "formula 1(+2)"
       ]
     },
     {
@@ -656,92 +574,78 @@
       ]
     },
     {
-      "title": "Petronas boosts payments to Malaysia as oil prices surge",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/10/petronas-boosts-payments-to-malaysia-as-oil-prices-surge",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-10-09T16:10:00+00:00",
-      "score": 10,
-      "matched": [
-        "budget(+3)",
-        "ministry(+2)",
-        "war(+3)"
-      ]
-    },
-    {
-      "title": "Who changed the game? - player ratings for Arsenal v Leeds",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T13:30:28+00:00",
+      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+      "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-10-10T18:26:13+00:00",
       "score": 9,
       "matched": [
-        "who(+2)",
-        "football(+1)",
-        "premier league(+2)",
-        "arsenal(+1)"
-      ]
-    },
-    {
-      "title": "Unauthorised oil blending could tarnish Malaysia’s global image, experts warn",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/unauthorised-oil-blending-could-tarnish-malaysias-global-image-experts-warn/238612",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T12:59:41+00:00",
-      "score": 9,
-      "matched": [
-        "policy(+3)",
-        "law(+3)"
-      ]
-    },
-    {
-      "title": "Verstappen breaks Singapore duck in wild sprint after Russell crashes out of the lead",
-      "link": "https://www.malaymail.com/news/sports/2026/10/10/verstappen-wins-singapore-sprint-after-russell-crashes/238598",
-      "source": "Malay Mail Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T10:26:44+00:00",
-      "score": 9,
-      "matched": [
-        "who(+2)",
-        "malaysia(+3)",
-        "singapore(+1)"
-      ]
-    },
-    {
-      "title": "Thailand prepares to host IMF-World Bank meetings",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings",
-      "source": "FMT Business (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T08:57:50+00:00",
-      "score": 9,
-      "matched": [
-        "ministry(+2)",
-        "economy(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Egypt president El-Sisi praises Malaysia for helping injured Gazans, backs Palestinian state",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/egypts-el-sisi-backs-palestinian-state-praises-malaysia-for-helping-injured-gazans/238586",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T08:54:23+00:00",
-      "score": 9,
-      "matched": [
-        "law(+3)",
+        "war(+3)",
         "ceasefire(+3)"
       ]
     },
     {
-      "title": "Anwar wants Malaysia-Egypt education ties to go beyond Islamic studies",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/anwar-wants-malaysia-egypt-education-ties-to-go-beyond-islamic-studies",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-10-10T08:53:00+00:00",
+      "title": "9 killed in Pennsylvania shooting as police cite 'deeply disturbing' circumstances",
+      "link": "https://www.yahoo.com/news/us/articles/9-dead-shooting-northern-pennsylvania-153233875.html",
+      "source": "Yahoo Top Stories (World)",
+      "section": "World",
+      "published": "2026-10-10T15:32:33+00:00",
+      "score": 9,
+      "matched": [
+        "law(+3)",
+        "artificial intelligence(+3)"
+      ]
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T14:41:16+00:00",
       "score": 9,
       "matched": [
         "ai(+3)",
-        "artificial intelligence(+3)"
+        "cybersecurity(+3)"
+      ]
+    },
+    {
+      "title": "Budget 2027 more than numbers, says Anwar — it is a promise to the people",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/budget-2027-more-than-numbers-says-anwar-it-is-a-promise-to-the-people/238608",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T12:18:01+00:00",
+      "score": 9,
+      "matched": [
+        "budget(+3)",
+        "ministry(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Proposed next EU budget slashed by €140bil",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/10/proposed-next-eu-budget-slashed-by-140bil-euros",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T09:58:00+00:00",
+      "score": 9,
+      "matched": [
+        "budget(+3)",
+        "election(+2)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "China, EU reach understanding on hybrid vehicle exports, avoid escalation after trade talks",
+      "link": "https://www.malaymail.com/news/money/2026/10/10/china-eu-reach-understanding-on-hybrid-vehicle-exports-avoid-escalation-after-trade-talks/238578",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T08:51:54+00:00",
+      "score": 9,
+      "matched": [
+        "ministry(+2)",
+        "war(+3)",
+        "economy(+2)"
       ]
     },
     {
@@ -799,11 +703,23 @@
       ]
     },
     {
-      "title": "When grandma says 'yes' and mum says 'no', here's how to navigate the parenting tug-of-war",
-      "link": "https://www.channelnewsasia.com/cna-insider/adulting/parenting-grandparents-childcare-advice-caregiving-boundaries-6441421",
-      "source": "Channel NewsAsia (Global)",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-10-10T19:50:00+00:00",
+      "score": 8,
+      "matched": [
+        "ai(+3)",
+        "startup(+2)"
+      ]
+    },
+    {
+      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-10-10T13:30:00+00:00",
+      "published": "2026-10-10T19:32:37+00:00",
       "score": 8,
       "matched": [
         "war(+3)",
@@ -811,75 +727,116 @@
       ]
     },
     {
-      "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
-      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:00:33+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "Pentagon raises official toll of troops who died during war with Iran to 21",
+      "link": "https://www.yahoo.com/news/us/articles/pentagon-raises-official-toll-troops-175100527.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-10-10T12:40:57+00:00",
+      "published": "2026-10-10T17:51:00+00:00",
+      "score": 8,
+      "matched": [
+        "war(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "MCMC probes ‘Lim Sian See’ over post on budget speech",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/mcma-probes-lim-sian-see-over-post-on-budget-speech",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T16:05:00+00:00",
+      "score": 8,
+      "matched": [
+        "budget(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Who changed the game? - player ratings for Arsenal v Leeds",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T13:30:28+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "premier league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Unauthorised oil blending could tarnish Malaysia’s global image, experts warn",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/unauthorised-oil-blending-could-tarnish-malaysias-global-image-experts-warn/238612",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T12:59:41+00:00",
+      "score": 8,
+      "matched": [
+        "policy(+3)",
+        "law(+3)"
+      ]
+    },
+    {
+      "title": "Verstappen breaks Singapore duck in wild sprint after Russell crashes out of the lead",
+      "link": "https://www.malaymail.com/news/sports/2026/10/10/verstappen-wins-singapore-sprint-after-russell-crashes/238598",
+      "source": "Malay Mail Sports (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T10:26:44+00:00",
+      "score": 8,
+      "matched": [
+        "who(+2)",
+        "malaysia(+3)",
+        "singapore(+1)"
+      ]
+    },
+    {
+      "title": "Thailand prepares to host IMF-World Bank meetings",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings",
+      "source": "FMT Business (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T08:57:50+00:00",
       "score": 8,
       "matched": [
         "ministry(+2)",
+        "economy(+2)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Egypt president El-Sisi praises Malaysia for helping injured Gazans, backs Palestinian state",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/egypts-el-sisi-backs-palestinian-state-praises-malaysia-for-helping-injured-gazans/238586",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T08:54:23+00:00",
+      "score": 8,
+      "matched": [
+        "law(+3)",
         "ceasefire(+3)"
       ]
     },
     {
-      "title": "Better roads, stronger pitch: MB sees Budget 2027 lifting Negeri Sembilan’s investment appeal",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/better-roads-stronger-pitch-negeri-sembilan-mb-sees-budget-2027-lifting-investment-appeal/238611",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T12:34:50+00:00",
-      "score": 8,
-      "matched": [
-        "budget(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Youth chief scoffs at claim of Bersatu yearning for PH pact",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/bersatu-youth-scoffs-at-claim-of-bersatu-yearning-for-ph-pact",
+      "title": "Anwar wants Malaysia-Egypt education ties to go beyond Islamic studies",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/anwar-wants-malaysia-egypt-education-ties-to-go-beyond-islamic-studies",
       "source": "Free Malaysia Today",
       "section": "Malaysia",
-      "published": "2026-10-10T11:57:00+00:00",
-      "score": 8,
-      "matched": [
-        "budget(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
-      "link": "https://www.straitstimes.com/world/europe/germany-sticks-to-russia-sanctions-after-trump-announcement-on-diesel",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-10-10T10:59:53+00:00",
-      "score": 8,
-      "matched": [
-        "war(+3)",
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "‘SME Budget’: Samenta hails RM57b financing boost, tax cuts and minimum wage relief",
-      "link": "https://www.malaymail.com/news/money/2026/10/10/sme-budget-samenta-hails-rm57b-financing-boost-tax-cuts-and-minimum-wage-relief/238594",
-      "source": "Malay Mail Money (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T09:55:22+00:00",
-      "score": 8,
-      "matched": [
-        "budget(+3)",
-        "ministry(+2)"
-      ]
-    },
-    {
-      "title": "People’s Association to launch bite-sized AI courses for seniors and homemakers unfamiliar with tech",
-      "link": "https://www.channelnewsasia.com/singapore/ai-courses-seniors-homemakers-community-club-pa-6448406",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-10-10T09:33:00+00:00",
+      "published": "2026-10-10T08:53:00+00:00",
       "score": 8,
       "matched": [
         "ai(+3)",
-        "launch(+2)"
+        "artificial intelligence(+3)"
       ]
     },
     {
@@ -921,64 +878,176 @@
       ]
     },
     {
-      "title": "Johor schools to stay closed until Friday",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/johor-schools-to-stay-closed-until-friday",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-10-10T13:33:00+00:00",
+      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-10-10T19:59:18+00:00",
       "score": 7,
       "matched": [
-        "ministry(+2)",
-        "who(+2)"
+        "court(+2)",
+        "sanctions(+2)"
       ]
     },
     {
-      "title": "Unhealthy air and haze fail to deter visitors at Melaka tourist spots",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/unhealthy-air-and-haze-fail-to-deter-visitors-at-melaka-tourist-spots",
-      "source": "Free Malaysia Today",
-      "section": "Malaysia",
-      "published": "2026-10-10T11:31:00+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "covid(+2)"
-      ]
-    },
-    {
-      "title": "Melaka tourist spots remain busy despite unhealthy API readings",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/melaka-tourist-spots-remain-busy-despite-unhealthy-api-readings/238601",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T11:01:25+00:00",
-      "score": 7,
-      "matched": [
-        "who(+2)",
-        "covid(+2)"
-      ]
-    },
-    {
-      "title": "Air quality acceptable for now, Kedah schools to open as usual tomorrow",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/air-quality-acceptable-for-now-kedah-schools-to-open-as-usual-tomorrow/238595",
-      "source": "Malay Mail (Malaysia)",
-      "section": "Malaysia",
-      "published": "2026-10-10T10:03:32+00:00",
-      "score": 7,
-      "matched": [
-        "ministry(+2)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Palmer signs new Chelsea contract until 2034",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
+      "title": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-10-10T09:51:09+00:00",
+      "published": "2026-10-10T19:46:19+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:35:45+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:00:12+00:00",
       "score": 7,
       "matched": [
         "football(+1)",
         "premier league(+2)",
         "chelsea(+1)"
+      ]
+    },
+    {
+      "title": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:00:08+00:00",
+      "score": 7,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T18:46:40+00:00",
+      "score": 7,
+      "matched": [
+        "who(+2)",
+        "football(+1)",
+        "manchester united(+1)"
+      ]
+    },
+    {
+      "title": "When grandma says 'yes' and mum says 'no', here's how to navigate the parenting tug-of-war",
+      "link": "https://www.channelnewsasia.com/cna-insider/adulting/parenting-grandparents-childcare-advice-caregiving-boundaries-6441421",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-10-10T13:30:00+00:00",
+      "score": 7,
+      "matched": [
+        "war(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Better roads, stronger pitch: MB sees Budget 2027 lifting Negeri Sembilan’s investment appeal",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/better-roads-stronger-pitch-negeri-sembilan-mb-sees-budget-2027-lifting-investment-appeal/238611",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T12:34:50+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Youth chief scoffs at claim of Bersatu yearning for PH pact",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/bersatu-youth-scoffs-at-claim-of-bersatu-yearning-for-ph-pact",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T11:57:00+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
+      "link": "https://www.straitstimes.com/world/europe/germany-sticks-to-russia-sanctions-after-trump-announcement-on-diesel",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-10-10T10:59:53+00:00",
+      "score": 7,
+      "matched": [
+        "war(+3)",
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "‘SME Budget’: Samenta hails RM57b financing boost, tax cuts and minimum wage relief",
+      "link": "https://www.malaymail.com/news/money/2026/10/10/sme-budget-samenta-hails-rm57b-financing-boost-tax-cuts-and-minimum-wage-relief/238594",
+      "source": "Malay Mail Money (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T09:55:22+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "ministry(+2)"
+      ]
+    },
+    {
+      "title": "Budget will ensure continued growth, putting people ‘at the centre’, says Khazanah",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/budget-will-ensure-continued-growth-putting-people-at-the-centre-says-khazanah",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T07:51:00+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "economy(+2)"
+      ]
+    },
+    {
+      "title": "Jalaluddin denies move to table no-confidence motion against MB",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/jalaluddin-denies-move-to-table-no-confidence-motion-against-mb",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T07:18:00+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Khazanah backs Budget 2027, pledges support for semiconductor growth and energy transition",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/10/khazanah-backs-budget-2027-pledges-support-for-semiconductor-growth-and-energy-transition/238573",
+      "source": "Malay Mail (Malaysia)",
+      "section": "Malaysia",
+      "published": "2026-10-10T06:59:01+00:00",
+      "score": 7,
+      "matched": [
+        "budget(+3)",
+        "ministry(+2)"
       ]
     },
     {
@@ -1044,78 +1113,91 @@
       ]
     },
     {
-      "title": "Trump's new press secretary is a familiar face on Fox News with deep MAGA ties",
-      "link": "https://www.yahoo.com/news/politics/article/who-is-katie-zacharia-trumps-new-white-house-press-secretary-212021582.html",
-      "source": "Yahoo Top Stories (World)",
+      "title": "'They lie to us': One year on, Gazans don't believe in ceasefire",
+      "link": "https://www.channelnewsasia.com/world/they-lie-us-one-year-gazans-dont-believe-in-ceasefire-6449696",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-10-09T21:20:21+00:00",
-      "score": 7,
-      "matched": [
-        "law(+3)",
-        "who(+2)"
-      ]
-    },
-    {
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-10-10T14:10:24+00:00",
+      "published": "2026-10-10T19:36:00+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "ceasefire(+3)"
       ]
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-10T14:00:00+00:00",
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "link": "https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691",
+      "source": "Channel NewsAsia (Global)",
+      "section": "World",
+      "published": "2026-10-10T19:32:37+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
       ]
     },
     {
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T13:42:36+00:00",
+      "title": "Arbeloa 'doesn't feel fear' but pressure increases after loss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvgrey535n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:03:00+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
-      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-10-10T13:25:35+00:00",
+      "title": "Struijk sees red but Brighton march on with win against Sunderland",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6n8m3k7egd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:00:17+00:00",
       "score": 6,
       "matched": [
-        "war(+3)"
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "title": "Ipswich produce late fightback to stun winless Fulham",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T19:00:14+00:00",
+      "score": 6,
+      "matched": [
+        "football(+1)",
+        "premier league(+2)"
+      ]
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "source": "The Verge",
       "section": "Tech",
-      "published": "2026-10-10T13:00:00+00:00",
+      "published": "2026-10-10T18:52:07+00:00",
       "score": 6,
       "matched": [
         "ai(+3)"
       ]
     },
     {
-      "title": "Chef Wan reveals Kuching pioneer Ong is his great-grandfather",
-      "link": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/chef-wan-reveals-kuching-pioneer-ong-is-his-great-grandfather",
-      "source": "FMT Sports (Sports)",
+      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-10-10T18:38:01+00:00",
+      "score": 6,
+      "matched": [
+        "ceasefire(+3)"
+      ]
+    },
+    {
+      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-10-10T12:48:00+00:00",
+      "published": "2026-10-10T17:46:36+00:00",
       "score": 6,
       "matched": [
         "who(+2)",
@@ -1123,70 +1205,82 @@
       ]
     },
     {
-      "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
+      "title": "Several wounded after blast at Riyadh airport as Trump weighs joining Saudi strikes",
+      "link": "https://www.yahoo.com/news/articles/loud-blast-heard-riyadh-airport-141257574.html",
+      "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-10-10T12:33:07+00:00",
+      "published": "2026-10-10T17:22:40+00:00",
       "score": 6,
       "matched": [
         "war(+3)"
       ]
     },
     {
-      "title": "Palmer commits his future to Chelsea with bumper new contract running until 2034",
-      "link": "https://www.malaymail.com/news/sports/2026/10/10/palmer-commits-his-future-to-chelsea-with-bumper-new-contract-running-until-2034/238607",
-      "source": "Malay Mail Sports (Sports)",
+      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-10-10T12:01:08+00:00",
+      "published": "2026-10-10T17:07:02+00:00",
       "score": 6,
       "matched": [
-        "premier league(+2)",
-        "chelsea(+1)"
+        "football(+1)",
+        "premier league(+2)"
       ]
     },
     {
-      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-      "link": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T12:00:01+00:00",
-      "score": 6,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-10-10T11:19:24+00:00",
+      "published": "2026-10-10T16:41:25+00:00",
       "score": 6,
       "matched": [
-        "ceasefire(+3)"
+        "war(+3)"
       ]
     },
     {
-      "title": "Record-breaking Renshaw puts Australia on top in Durban",
-      "link": "https://www.channelnewsasia.com/sport/record-breaking-renshaw-puts-australia-top-in-durban-6448676",
-      "source": "Channel NewsAsia (Global)",
-      "section": "World",
-      "published": "2026-10-10T09:58:44+00:00",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-10-10T16:25:42+00:00",
       "score": 6,
       "matched": [
-        "breaking(+3)"
+        "acquisition(+3)"
       ]
     },
     {
-      "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-      "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+      "title": "Zahid blocks no-confidence motion against Negeri Sembilan MB",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/zahid-blocks-no-confidence-motion-against-negeri-sembilan-mb",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T15:59:00+00:00",
+      "score": 6,
+      "matched": [
+        "budget(+3)"
+      ]
+    },
+    {
+      "title": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
       "source": "Al Jazeera (Global)",
       "section": "World",
-      "published": "2026-10-10T09:30:14+00:00",
+      "published": "2026-10-10T15:11:22+00:00",
       "score": 6,
       "matched": [
-        "ceasefire(+3)"
+        "breach(+3)"
+      ]
+    },
+    {
+      "title": "Johor schools to stay closed until Friday",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/johor-schools-to-stay-closed-until-friday",
+      "source": "Free Malaysia Today",
+      "section": "Malaysia",
+      "published": "2026-10-10T13:33:00+00:00",
+      "score": 6,
+      "matched": [
+        "ministry(+2)",
+        "who(+2)"
       ]
     },
     {
@@ -1202,128 +1296,137 @@
       ]
     },
     {
-      "title": "I've got my own questions on Man City case - Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+      "title": "Britain’s Burnham reiterates ‘complete solidarity’ with Zelensky after Trump clash",
+      "link": "https://www.straitstimes.com/world/europe/britains-burnham-reiterates-complete-solidarity-for-zelensky-after-trump-clash",
+      "source": "Straits Times World (Global)",
+      "section": "World",
+      "published": "2026-10-10T20:02:57+00:00",
+      "score": 5,
+      "matched": [
+        "sanctions(+2)"
+      ]
+    },
+    {
+      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport (Sports)",
       "section": "Sports",
-      "published": "2026-10-09T14:30:38+00:00",
-      "score": 6,
+      "published": "2026-10-10T19:24:23+00:00",
+      "score": 5,
       "matched": [
         "football(+1)",
-        "premier league(+2)",
         "manchester united(+1)"
       ]
     },
     {
-      "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election",
-      "link": "https://www.straitstimes.com/world/europe/spanish-lawyer-gonzalez-durantez-launches-centrist-party-for-november-election",
+      "title": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
+      "link": "https://www.straitstimes.com/world/europe/who-unsure-what-caused-pneumonia-that-killed-plague-lab-worker-in-russia",
       "source": "Straits Times World (Global)",
       "section": "World",
-      "published": "2026-10-10T13:29:54+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-      "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-10-10T13:00:01+00:00",
-      "score": 5,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
-      "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-10-10T12:50:34+00:00",
-      "score": 5,
-      "matched": [
-        "election(+2)"
-      ]
-    },
-    {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-      "source": "Al Jazeera (Global)",
-      "section": "World",
-      "published": "2026-10-10T12:16:12+00:00",
-      "score": 5,
-      "matched": [
-        "sanctions(+2)"
-      ]
-    },
-    {
-      "title": "The techlash has gone Hollywood",
-      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-10-10T12:00:00+00:00",
+      "published": "2026-10-10T18:55:00+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "Russian attack kills 12 in Ukraine, a day after Trump eased sanctions on Moscow",
-      "link": "https://www.straitstimes.com/world/europe/russian-attack-on-ukrainian-city-kills-12-a-day-after-trump-eases-diesel-sanctions-on-moscow",
-      "source": "Straits Times World (Global)",
+      "title": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
+      "link": "https://www.channelnewsasia.com/world/russian-attack-ukrainian-city-kills-20-day-after-trump-eases-diesel-sanctions-moscow-6449106",
+      "source": "Channel NewsAsia (Global)",
       "section": "World",
-      "published": "2026-10-10T11:44:58+00:00",
+      "published": "2026-10-10T18:02:00+00:00",
       "score": 5,
       "matched": [
         "sanctions(+2)"
       ]
     },
     {
-      "title": "Army officials caught off guard by Hegseth's plan to livestream execution",
-      "link": "https://www.cnn.com/2026/10/10/politics/pentagon-scramble-hegseth-public-execution",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "source": "TechCrunch",
+      "section": "Tech",
+      "published": "2026-10-10T17:00:00+00:00",
+      "score": 5,
+      "matched": [
+        "startup(+2)"
+      ]
+    },
+    {
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport (Sports)",
+      "section": "Sports",
+      "published": "2026-10-10T15:44:14+00:00",
+      "score": 5,
+      "matched": [
+        "football(+1)",
+        "arsenal(+1)"
+      ]
+    },
+    {
+      "title": "Trump Accounts: Free money, but who gets a say?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+      "source": "Al Jazeera (Global)",
+      "section": "World",
+      "published": "2026-10-10T15:21:39+00:00",
+      "score": 5,
+      "matched": [
+        "who(+2)"
+      ]
+    },
+    {
+      "title": "Christa Pike, who survived an execution attempt in Tennessee, is discharged from hospital",
+      "link": "https://www.tennessean.com/story/news/2026/10/10/christa-pike-is-out-of-the-hospitals-grateful-for-medical-care/92190155007/",
       "source": "Yahoo Top Stories (World)",
       "section": "World",
-      "published": "2026-10-10T10:30:44+00:00",
+      "published": "2026-10-10T15:04:18+00:00",
       "score": 5,
       "matched": [
         "who(+2)"
       ]
     },
     {
-      "title": "My brief romance with an AI bird feeder",
-      "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "source": "The Verge",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-10-10T07:00:00+00:00",
+      "published": "2026-10-10T14:00:00+00:00",
       "score": 5,
       "matched": [
         "ai(+3)"
       ]
     },
     {
-      "title": "Who am I? Plus today's other quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T05:28:48+00:00",
+      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T13:42:36+00:00",
       "score": 5,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "war(+3)"
       ]
     },
     {
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T05:14:17+00:00",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T13:00:00+00:00",
       "score": 5,
       "matched": [
-        "who(+2)",
-        "football(+1)"
+        "ai(+3)"
+      ]
+    },
+    {
+      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+      "link": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T12:00:01+00:00",
+      "score": 5,
+      "matched": [
+        "ai(+3)"
       ]
     },
     {
@@ -1346,17 +1449,6 @@
       "score": 5,
       "matched": [
         "war(+3)"
-      ]
-    },
-    {
-      "title": "‘Breathtaking’, ‘devastating’: Mathematics reels after new OpenAI release",
-      "link": "https://www.straitstimes.com/world/united-states/breathtaking-devastating-mathematics-reels-after-new-openai-release",
-      "source": "Straits Times World (Global)",
-      "section": "World",
-      "published": "2026-10-10T04:15:00+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
       ]
     },
     {
@@ -1393,126 +1485,25 @@
       ]
     },
     {
-      "title": "A year after Pannir’s execution, his sister writes back",
-      "link": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/a-year-after-pannirs-execution-his-sister-writes-back",
-      "source": "FMT Sports (Sports)",
-      "section": "Sports",
-      "published": "2026-10-09T23:00:00+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "singapore(+1)"
-      ]
-    },
-    {
-      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-      "link": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+      "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-10-09T22:22:35+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-10-09T21:15:38+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Greek takeaways: What did we learn from Lionesses' win?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-09T21:15:24+00:00",
-      "score": 5,
-      "matched": [
-        "who(+2)",
-        "football(+1)"
-      ]
-    },
-    {
-      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-      "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-      "source": "The Verge",
-      "section": "Tech",
-      "published": "2026-10-09T19:41:11+00:00",
-      "score": 5,
-      "matched": [
-        "policy(+3)"
-      ]
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-09T19:36:56+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-09T16:56:42+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-09T16:40:14+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-09T15:56:15+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "TechCrunch",
-      "section": "Tech",
-      "published": "2026-10-09T15:43:33+00:00",
-      "score": 5,
-      "matched": [
-        "ai(+3)"
-      ]
-    },
-    {
-      "title": "Verstappen wins sprint after Russell crashes out",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-10T13:43:47+00:00",
+      "published": "2026-10-10T13:00:01+00:00",
       "score": 4,
       "matched": [
-        "singapore(+1)"
+        "court(+2)"
+      ]
+    },
+    {
+      "title": "The techlash has gone Hollywood",
+      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T12:00:00+00:00",
+      "score": 4,
+      "matched": [
+        "who(+2)"
       ]
     },
     {
@@ -1527,60 +1518,40 @@
       ]
     },
     {
-      "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport (Sports)",
-      "section": "Sports",
-      "published": "2026-10-09T21:19:35+00:00",
-      "score": 4,
-      "matched": [
-        "football(+1)",
-        "arsenal(+1)"
-      ]
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T16:36:44+00:00",
+      "score": 3,
+      "matched": []
     },
     {
-      "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
-      "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
-      "published": "2026-10-09T19:19:00+00:00",
-      "score": 4,
-      "matched": [
-        "court(+2)"
-      ]
+      "published": "2026-10-10T15:00:01+00:00",
+      "score": 3,
+      "matched": []
     },
     {
-      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-      "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-10-09T17:56:24+00:00",
-      "score": 4,
-      "matched": [
-        "court(+2)"
-      ]
-    },
-    {
-      "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
-      "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
-      "source": "CNBC Markets (Finance)",
-      "section": "Finance",
-      "published": "2026-10-09T14:50:32+00:00",
-      "score": 4,
-      "matched": [
-        "launch(+2)"
-      ]
-    },
-    {
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "source": "TechCrunch",
       "section": "Tech",
-      "published": "2026-10-09T14:42:34+00:00",
-      "score": 4,
-      "matched": [
-        "startup(+2)"
-      ]
+      "published": "2026-10-10T15:00:00+00:00",
+      "score": 3,
+      "matched": []
+    },
+    {
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "source": "The Verge",
+      "section": "Tech",
+      "published": "2026-10-10T15:00:00+00:00",
+      "score": 3,
+      "matched": []
     },
     {
       "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
@@ -1592,12 +1563,30 @@
       "matched": []
     },
     {
+      "title": "How de-extincting dire wolves and woolly mammoths may extend human life",
+      "link": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T14:00:01+00:00",
+      "score": 2,
+      "matched": []
+    },
+    {
+      "title": "Pokémon card values are soaring. What collectors should know before buying or selling",
+      "link": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
+      "source": "CNBC Markets (Finance)",
+      "section": "Finance",
+      "published": "2026-10-10T13:30:02+00:00",
+      "score": 2,
+      "matched": []
+    },
+    {
       "title": "I work hard to stay close to my friends. A researcher says it’s good for my well-being—and these 3 habits can help",
       "link": "https://www.cnbc.com/make-it/2026/10/10/how-to-maintain-close-friendships.html",
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-10-10T13:05:01+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     },
     {
@@ -1606,7 +1595,7 @@
       "source": "The Verge",
       "section": "Tech",
       "published": "2026-10-10T13:00:00+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     },
     {
@@ -1615,7 +1604,7 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-10-10T12:01:16+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     },
     {
@@ -1624,7 +1613,7 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-10-10T12:00:01+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     },
     {
@@ -1633,7 +1622,7 @@
       "source": "CNBC Markets (Finance)",
       "section": "Finance",
       "published": "2026-10-10T11:00:01+00:00",
-      "score": 3,
+      "score": 2,
       "matched": []
     }
   ]
